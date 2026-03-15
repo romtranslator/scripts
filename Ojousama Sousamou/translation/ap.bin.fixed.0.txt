@@ -1,0 +1,1308 @@
+#VAR(TABLE, TABLE)
+
+#ADDTBL("SJIS.TBL", TABLE)
+
+#ACTIVETBL(TABLE)
+
+
+
+#JUMP("NOT_SET")
+
+
+
+// Pos : 000385AA
+
+// Fixed Length : 0200
+
+//「さーあ、楽しい楽しい取り調べN
+"Ok, now it's Miyuki's fun-funN
+//　美幸のお裁きルーレットだ。N
+investigation judgment roulette.N
+//　早いとこ白黒つけちまおうぜ」P
+Hurry and attach black and white."P
+
+
+
+
+
+
+// Pos : 000387AA
+
+// Fixed Length : 0200
+
+//「フン、行っていいぜ・・・」P
+"Hmph, go ahead... "P
+
+
+
+
+
+
+// Pos : 000389AA
+
+// Fixed Length : 0200
+
+//「ヤッパリなっ、N
+"I knew it,N
+//　さあ、こっちに来やがれ！」P
+Well, get over here! "P
+
+
+
+
+
+
+// Pos : 00038BAA
+
+// Fixed Length : 0200
+
+//「とりあえずカツ丼でも食えよ。N
+"For now I'll eat some breaded pork on rice.N
+//　さーあ、取り調べの続きだ・・」P
+Well then, the investigation continues."P
+
+
+//体力が少し回復したP
+Recovered a bit of physical strength.P
+
+
+
+
+
+
+// Pos : 00038DAA
+
+// Fixed Length : 0200
+
+//「ヤッパリ怪しいな・・・N
+"I knew it was suspicious after all.N
+//　もう少し付き合ってもらうぜっ」P
+I'll hang around (with you?) a little more."P
+
+
+
+
+
+
+// Pos : 00038FAA
+
+// Fixed Length : 0200
+
+//「な、何んだこりゃあ！N
+"W-What's this!N
+//　これはあたしが預かっておくぜ」P
+I'll take custody of this."P
+
+
+
+
+
+
+// Pos : 000391AA
+
+// Fixed Length : 0200
+
+//「チッ、N
+"Tch,N
+//　怪しい物は持ってねえな・・・」P
+has nothing suspicious."P
+
+
+
+
+
+
+// Pos : 000393AA
+
+// Fixed Length : 0200
+
+//「おい！痛い目にあわねえうちにN
+"Hey! You'd better fess up unlessN
+//　白状した方が身のためだぜN
+you want to feel some serious pain.N
+//　それとも、あたしとここでN
+Or would you rather have a staringN
+//　にらめっこでもする気か？」P
+contest with me right here? "P
+
+
+
+
+
+
+// Pos : 000395AA
+
+// Fixed Length : 0200
+
+//「よお、お前がニセモノだって事N
+"Hey, I knew from the beginningN
+//　はこちとらハナっから判ってんだN
+you were an imposter.N
+//　ぜ。いい加減素直に吐いちまえN
+Just give up and confessN
+//　よ。気分が楽になるぜ！」P
+already. You'll feel better! "P
+
+
+
+
+
+
+// Pos : 000397AA
+
+// Fixed Length : 0200
+
+//「お前が例の怪盗なんだろ？N
+"Are you our gentleman thief?N
+//　隠したって、N
+I'll know if you'reN
+//　あたしにはちゃんと判るんだ」P
+hiding it."P
+
+
+//「何が目的かは知らねえけどよ、N
+"I don't know what your objective is,N
+//　ここらが潮時ってもんだぜ」P
+but it's high time we find out."P
+
+
+
+
+
+
+// Pos : 000399AA
+
+// Fixed Length : 0200
+
+
+
+
+
+// Pos : 00039BAA
+
+// Fixed Length : 0200
+
+
+
+
+
+// Pos : 00039DAA
+
+// Fixed Length : 0200
+
+
+
+
+
+// Pos : 00039FAA
+
+// Fixed Length : 0200
+
+
+
+
+
+// Pos : 0003A1AA
+
+// Fixed Length : 0200
+
+
+
+
+
+// Pos : 0003A3AA
+
+// Fixed Length : 0200
+
+
+
+
+
+// Pos : 0003A5AA
+
+// Fixed Length : 0200
+
+
+
+
+
+// Pos : 0003A7AA
+
+// Fixed Length : 0200
+
+
+
+
+
+// Pos : 0003A9AA
+
+// Fixed Length : 0200
+
+
+
+
+
+// Pos : 0003ABAA
+
+// Fixed Length : 0200
+
+
+
+
+
+// Pos : 0003ADAA
+
+// Fixed Length : 0200
+
+//「ニーナのカウンセリングルームN
+"Welcome to Nina'sN
+//　へようこそ・・・N
+counseling room...N
+//　早速だけど、N
+Without further ado,N
+//　ニーナの処方箋ルーレットよ！」P
+it's Nina's prescription roulette! "P
+
+
+
+
+
+
+// Pos : 0003AFAA
+
+// Fixed Length : 0200
+
+//「何処も悪いところはN
+"It doesn't look like there areN
+//　無いみたいね。N
+bad spots anywhere.N
+//　もう行っていいわ」P
+Let's go ahead."P
+
+
+
+
+
+
+// Pos : 0003B1AA
+
+// Fixed Length : 0200
+
+//「あら、荒療治が出ちゃったわ、N
+Huh it looks like they've taken out theN
+//　ヤッパリね。N
+drastic measures after all.N
+//　フフフ、楽しみだわ」P
+Heh-heh-heh, I can't wait."P
+
+
+
+
+
+
+// Pos : 0003B3AA
+
+// Fixed Length : 0200
+
+//「お薬が必要な様ですね」N
+"It seems some medicine is necessary huh."N
+//体力が回復したP
+Strength recovered.P
+
+
+
+
+
+
+// Pos : 0003B5AA
+
+// Fixed Length : 0200
+
+//「では始めましょうか・・」P
+"Then shall we begin?"P
+
+
+
+
+
+
+// Pos : 0003B7AA
+
+// Fixed Length : 0200
+
+//「もう少し、N
+"It seems it's probably necessaryN
+//　お話を聞く必要がありそうね」P
+to ask a few more questions."P
+
+
+
+
+
+
+// Pos : 0003B9AA
+
+// Fixed Length : 0200
+
+//「突然ですが、N
+"I'll say this directly,N
+//　あなた変装してますね？」P
+are you wearing a disguise? "P
+
+
+//「いいえ、判っています・・・N
+"No, I know...N
+//　私の診断に間違いはありませんN
+I'm not mistaken in my diagnosis.N
+//　そうでしょ？」P
+Isn't that right? "P
+
+
+
+
+
+
+// Pos : 0003BBAA
+
+// Fixed Length : 0200
+
+//「とりあえず、あなたのカルテN
+"Yes, according to your medicalN
+//　を拝見したところ、N
+records it would appear you have anN
+//　あなたは極度の怪盗願望症のN
+extreme case of longing to be aN
+//　ようですね」P
+gentleman thief."P
+
+
+//「違いますか？N
+"Am I wrong?N
+//　早く手を打たないとN
+If we don't do something quicklyN
+//　ナルシスのようになってしまいN
+you will become likeN
+//　ますよ」P
+Narcisse."P
+
+
+
+
+
+
+// Pos : 0003BDAA
+
+// Fixed Length : 0200
+
+//「私はあなたの良き理解者ですN
+"I'll be understanding.N
+//　さあ、何でも包み隠さずお話しN
+So please open up to me andN
+//　してちょうだい・・・」P
+don't hold anything back."P
+
+
+//「特に、泥棒の事についてね！」P
+"Particularly about the thief stuff! "P
+
+
+
+
+
+
+// Pos : 0003BFAA
+
+// Fixed Length : 0200
+
+
+
+
+
+// Pos : 0003C1AA
+
+// Fixed Length : 0200
+
+
+
+
+
+// Pos : 0003C3AA
+
+// Fixed Length : 0200
+
+
+
+
+
+// Pos : 0003C5AA
+
+// Fixed Length : 0200
+
+
+
+
+
+// Pos : 0003C7AA
+
+// Fixed Length : 0200
+
+
+
+
+
+// Pos : 0003C9AA
+
+// Fixed Length : 0200
+
+
+
+
+
+// Pos : 0003CBAA
+
+// Fixed Length : 0200
+
+
+
+
+
+// Pos : 0003CDAA
+
+// Fixed Length : 0200
+
+
+
+
+
+// Pos : 0003CFAA
+
+// Fixed Length : 0200
+
+
+
+
+
+// Pos : 0003D1AA
+
+// Fixed Length : 0200
+
+
+
+
+
+// Pos : 0003D3AA
+
+// Fixed Length : 0200
+
+
+
+
+
+// Pos : 0003D5AA
+
+// Fixed Length : 0200
+
+//「よくいらっしゃいました・・・N
+"Welcome...N
+//　ここは懺悔の部屋です。N
+This is the penitence room (confessional).N
+//　アナタには、N
+To start will you shall receiveN
+//　まず神の裁きを受けて頂きます」P
+God's divine judgement."P
+
+
+//「アナタが正しいのであれば、N
+"As long as you are just,N
+//　神もその様にお導きになるN
+God will leadN
+//　でしょう。」P
+you."P
+
+
+
+
+
+
+// Pos : 0003D7AA
+
+// Fixed Length : 0200
+
+//「まあ、なんて事でしょう。N
+"Oh, my goodness.N
+//　アナタに後光が射して見えます。N
+I can see a halo around you.N
+//　さあ、お行きなさい・・・」P
+Well, get going..."P
+
+
+
+
+
+
+// Pos : 0003D9AA
+
+// Fixed Length : 0200
+
+//「あらまっ、N
+"Oh my-,N
+//　いきなり神はアナタの悪事をN
+It appears suddenly GodN
+//　お見逃しにならなかったようでN
+will not overlook your evilN
+//　すね。」P
+deeds."P
+
+
+//「これも神のお告げです・・・N
+"This is also God's teaching...N
+//　仕方ありません」P
+There is nothing that can be done."P
+
+
+
+
+
+
+// Pos : 0003DBAA
+
+// Fixed Length : 0200
+
+//「神からの贈り物です。N
+"It is a present from God.N
+//　ありがたく受け取りなさい」P
+Gratefully accept it."P
+
+
+
+
+
+
+// Pos : 0003DDAA
+
+// Fixed Length : 0200
+
+//「神は、この私に裁きをN
+"It seems God has entrustedN
+//　お任せになったようです」P
+this judgement to me."P
+
+
+
+
+
+
+// Pos : 0003DFAA
+
+// Fixed Length : 0200
+
+//「アナタは、N
+"It appearsN
+//　これまでに色々な悪事をN
+you were employed doingN
+//　働いているようですね」P
+evil things before now. "P
+
+
+
+
+
+
+// Pos : 0003E1AA
+
+// Fixed Length : 0200
+
+//「全知全能の神よ、N
+"Omniscient and omnipotent God,N
+//　どうかこの者の罪を許したまえ」P
+please forgive this person's crimes."P
+
+
+//「さあ、N
+"Come now,N
+//　わたくしと一緒に祈りを捧げ、N
+offer prayer together with meN
+//　悔い改めるのです！」P
+and repent!"P
+
+
+
+
+
+
+// Pos : 0003E3AA
+
+// Fixed Length : 0200
+
+//「今日、N
+"Having met you hereN
+//　ここであなたにお会いしたのもN
+today, this is alsoN
+//　神のお導きなのでしょう・・」P
+God's guidance."P
+
+
+//「さあ、N
+"Come now,N
+//　今までに犯した罪を心ゆくまでN
+please confess the crimes you'veN
+//　懺悔なさって下さい」P
+committed to your hearts content."P
+
+
+
+
+
+
+// Pos : 0003E5AA
+
+// Fixed Length : 0200
+
+//「あなたが、N
+"God always seesN
+//　どこでどのようなことをしてもN
+what you do andN
+//　神はいつも見ておいでです。」P
+where you go."P
+
+
+//「おお、N
+"Oh,N
+//　迷える子羊に神のお導きを」P
+Lost lamb accept the Lord's guidance."P
+
+
+
+
+
+
+// Pos : 0003E7AA
+
+// Fixed Length : 0200
+
+
+
+
+
+// Pos : 0003E9AA
+
+// Fixed Length : 0200
+
+
+
+
+
+// Pos : 0003EBAA
+
+// Fixed Length : 0200
+
+
+
+
+
+// Pos : 0003EDAA
+
+// Fixed Length : 0200
+
+
+
+
+
+// Pos : 0003EFAA
+
+// Fixed Length : 0200
+
+
+
+
+
+// Pos : 0003F1AA
+
+// Fixed Length : 0200
+
+
+
+
+
+// Pos : 0003F3AA
+
+// Fixed Length : 0200
+
+
+
+
+
+// Pos : 0003F5AA
+
+// Fixed Length : 0200
+
+
+
+
+
+// Pos : 0003F7AA
+
+// Fixed Length : 0200
+
+
+
+
+
+// Pos : 0003F9AA
+
+// Fixed Length : 0200
+
+
+
+
+
+// Pos : 0003FBAA
+
+// Fixed Length : 0200
+
+
+
+
+
+// Pos : 0003FDAA
+
+// Fixed Length : 0200
+
+//「ようこそ、公子の占い部屋へN
+"Welcome to Kimiko's fortune-telling.N
+//　と云うことでまずは、N
+Well then to start with it'sN
+//　公子の占いルーレットコーナー」P
+Kimiko's fortune-telling roulette corner."P
+
+
+
+
+
+
+// Pos : 0003FFAA
+
+// Fixed Length : 0200
+
+//「まあ、N
+"My,N
+//　わたくしと相性が最高なんて」P
+our compatibility is perfect."P
+
+
+//「いいわ、N
+"Okay,N
+//　今回はこれ以上は何も聞かないN
+that's all I'll allow youN
+//　ことにして上げます」P
+to ask this time."P
+
+
+
+
+
+
+// Pos : 000401AA
+
+// Fixed Length : 0200
+
+//「わたくしとの相性は、N
+"Our compatibilityN
+//　まあまあってところね・・・」N
+is so-so... "N
+//「では本格的に占いましょうか」P
+"Then let's to a full-blown fortune-telling."P
+
+
+
+
+
+
+// Pos : 000403AA
+
+// Fixed Length : 0200
+
+//「倶楽部のメンバーが、N
+"Club member's haveN
+//　わたくしと相性が最悪なんてN
+the worst compatibility with me.N
+//　あり得ないわ」P
+It's just not in the cards."P
+
+
+
+
+
+
+// Pos : 000405AA
+
+// Fixed Length : 0200
+
+//「へえ、N
+"Huh,N
+//　美幸と相性がバッチリなんて、N
+Your compatibility with MiyukiN
+//　信じられない・・N
+is perfect. Can't believe it...N
+//　もう行っちゃって」P
+Just get out of here."P
+
+
+
+
+
+
+// Pos : 000407AA
+
+// Fixed Length : 0200
+
+//「美幸との相性はそこそこね。N
+"Your compatibility with Miyuki is decent.N
+//　でも、N
+However,N
+//　わたくしには関係ないですわN
+that has nothing to do with me.N
+//　さて次はと・・・」P
+Well moving on..."P
+
+
+
+
+
+
+// Pos : 000409AA
+
+// Fixed Length : 0200
+
+//「あら、美幸との相性が最悪だわN
+"Oh, your compatibility with Miyuki is the worst.N
+//　これは美幸に代わってお仕置きN
+I wonder if this is what they meanN
+//　をしろという事かしら・・・」P
+when they say "punish in the name of Miyuki..."P
+
+
+
+
+
+
+// Pos : 00040BAA
+
+// Fixed Length : 0200
+
+//「うわあ、N
+"Wow,N
+//　麗華と相性が最高なんて、N
+your compatibility with Reika is the best.N
+//　あなたやっぱり変わり者ね。N
+I guess you're an oddball after all.N
+//　麗華と遊んでくれば・・・」P
+How about you play with Reika..."P
+
+
+
+
+
+
+// Pos : 00040DAA
+
+// Fixed Length : 0200
+
+//「ふうーん、N
+"Hmm,N
+//　麗華との相性は悪くないようねN
+your compatibility with Reika isn't bad.N
+//　でも、これからが本番よ・・」P
+However the real test starts now."P
+
+
+
+
+
+
+// Pos : 00040FAA
+
+// Fixed Length : 0200
+
+//「麗華とは気が合わないみたいN
+"Looks like you're incompatible with Reika.N
+//　変装は出来ても相性までN
+You can wear a disguise butN
+//　マネできないってことね」P
+you cannot imitate compatibility."P
+
+
+
+
+
+
+// Pos : 000411AA
+
+// Fixed Length : 0200
+
+//「ニーナと相性が最高なんて意外N
+"I wouldn't have expected your compatibility with NinaN
+//　だわ。N
+to be the best.N
+//　これ以上引き止めたら彼女にN
+If I detain you any longerN
+//　怒られそうね・・・」P
+she'll get mad... "P
+
+
+
+
+
+
+// Pos : 000413AA
+
+// Fixed Length : 0200
+
+//「ニーナとの相性は普通ね・・・N
+"Your compatibility with Nina is normal.N
+//　次は水晶占いよ」P
+Next I'll do crystal gazing."P
+
+
+
+
+
+
+// Pos : 000415AA
+
+// Fixed Length : 0200
+
+//「ニーナとの相性が絶望的ってN
+"Your compatibility with Nina couldN
+//　ことは・・・」P
+be called hopeless."P
+
+
+
+
+
+
+// Pos : 000417AA
+
+// Fixed Length : 0200
+
+//「ウフフ、N
+"Ohoho,N
+//　陽子との相性が最高じゃないN
+your compatibility with Yoko is great isn't it. (isn't the best?)N
+//　アナタを信じてあげるわ」P
+I have faith in you."P
+
+
+
+
+
+
+// Pos : 000419AA
+
+// Fixed Length : 0200
+
+//「陽子との相性は良い方ね・・N
+"You're a person with a good compatibility with Yoko.N
+//　でも、アナタへの疑いが晴れた　わけではないわ」P
+However, she is still suspicious of you."P
+
+
+
+
+
+
+// Pos : 00041BAA
+
+// Fixed Length : 0200
+
+//「最悪・・・N
+"The worst...N
+//　陽子とは縁が無いようね。N
+You have no chance with Yoko.N
+//　あきらめなさい」P
+Give it up."P
+
+
+
+
+
+
+// Pos : 00041DAA
+
+// Fixed Length : 0200
+
+//「どうりで物欲しそうな顔してるN
+"Indeed you have a look of avariceN
+//　訳ね。N
+on your face.N
+//　これをあげるわ・・・N
+Here I'll give you this...N
+//　じゃあ続きよ・・・」P
+Then let's continue."P
+
+
+
+
+
+
+// Pos : 00041FAA
+
+// Fixed Length : 0200
+
+//「ほーら、見えてきた。N
+"Look, it becomes clear.N
+//　あなたは今、N
+An evil aura is engulfingN
+//　悪のオーラに包まれています」P
+you right now."P
+
+
+//「しかし、N
+"However,N
+//　じき全てを白状して清らかな気持N
+if you confess at once you willN
+//　になっていくでしょう」P
+clear your feelings."P
+
+
+
+
+
+
+// Pos : 000421AA
+
+// Fixed Length : 0200
+
+//「さあ、N
+"Come now,N
+//　この水晶をご覧なさい。」P
+Gaze into this crystal."P
+
+
+//「だんだん素直な気持になってN
+"You're honest feelings are graduallyN
+//　きたでしょう包み隠さず全てをN
+coming out, tell me everything withoutN
+//　お話なさい・・・」P
+holding back..."P
+
+
+
+
+
+
+// Pos : 000423AA
+
+// Fixed Length : 0200
+
+//「この水晶は全てを見透かしますN
+"This crystal sees all,N
+//　あなたの過去も、N
+your past as well,N
+//　そしてこのまま行けば悲惨になN
+and if things go on like thisN
+//　るであろう、あなたの未来も」N
+your future will also be tragedy."N
+//P
+
+
+
+//「あなたは、N
+"You areN
+//　ここへお宝を盗みに入った怪盗N
+a thief who's come here to steal treasureN
+//　さんでしょ」P
+right?"P
+
+
+
+
+
+
+// Pos : 000425AA
+
+// Fixed Length : 0200
+
+//「ハーイ、みんないい子にしてたN
+"Okay, has everyone been a good child?N
+//　麗華先生だよ！N
+It's Miss Reika!N
+//　さあ、今日は何をして遊ぼうか」P
+Come now, what shall we play today?"P
+
+
+//「まずは、麗華のN
+"To start with, Reika'sN
+//　お遊戯スロットマシーン」P
+play slot machine."P
+
+
+
+
+
+
+// Pos : 000427AA
+
+// Fixed Length : 0200
+
+//「もういっかいね!」N
+"One more time right!"N
+//N
+
+//P
+
+
+
+
+
+
+
+// Pos : 000429AA
+
+// Fixed Length : 0200
+
+//「あれ、もうおねむ？」N
+"Huh, sleepy already?"N
+//麗華は眠りはじめた・・・P
+Reika began to sleep...P
+
+
+//麗華が寝ている間に脱出した！P
+You escaped while Reika was sleeping!P
+
+
+
+
+
+
+// Pos : 00042BAA
+
+// Fixed Length : 0200
+
+//「あっ、麗華の肉マンがない！N
+"Ah-, my meat bun is gone!N
+//　取ったのはアナタね・・・N
+You took it...N
+//　もう怒ったよ」P
+That does it!"P
+
+
+
+
+
+
+// Pos : 00042DAA
+
+// Fixed Length : 0200
+
+//「おやつの時間ね・・・」N
+"It's snack time isn't it."N
+//　おやつを食べて体力が回復したN
+You ate a snack and recovered strength.N
+//「それじゃあ、お腹がいっぱいにN
+"Well, now that our stomachs areN
+//　なったところで本題に入るよ」P
+full we can get to the main issue."P
+
+
+
+
+
+
+// Pos : 00042FAA
+
+// Fixed Length : 0200
+
+//「麗華先生とお話ししようね」P
+"How about you talk to Miss Reika ok?"P
+
+
+
+
+
+
+// Pos : 000431AA
+
+// Fixed Length : 0200
+
+//「アイヤー、ラッキーね」N
+"Wow, it's your lucky day isn't it."N
+//＄１００００を手に入れた。N
+$10,000 acquired.N
+//「じゃ，もう一回ね」P
+"Then, one more time."P
+
+
+
+
+
+
+// Pos : 000433AA
+
+// Fixed Length : 0200
+
+//「あなたが新しくきた子ね？N
+"A new kid?N
+//　とりあえず、お名前と、どうしN
+For now be a good boy and tellN
+//　てここに忍び込んだか正直に話N
+me your name and why youN
+//　してね。」P
+sneaked in here."P
+
+
+//「それと、うそつきの子は先生がN
+"Also, don't forget your teacher willN
+//　お仕置きしちゃうからね！」P
+punish lying children!"P
+
+
+
+
+
+
+// Pos : 000435AA
+
+// Fixed Length : 0200
+
+//「君だね、合い言葉をちゃんとN
+"Hey, aren't you able to answer theN
+//　答えられなかったのは？」P
+password like you're supposed to? "P
+
+
+//「どうして答えられなかったのかN
+"How come you don't answerN
+//　な？N
+?N
+//　ホントは泥棒なんでしょ？」P
+You're really the thief right? "P
+
+
+
+
+
+
+// Pos : 000437AA
+
+// Fixed Length : 0200
+
+//「さあ、隠してることがあったらN
+"Well, if you're hiding anythingN
+//　麗華先生に全部お話しして、N
+how about you tell Miss ReikaN
+//　君もよい子の仲間入りをしよう」P
+and join the good boy group."P
+
+
+//「嘘つきは泥棒の始まりだから、N
+"You shouldn't lie because,N
+//　嘘はついちゃダメだよ・・・」P
+lying is the first step to being a thief."P
+
+
+
+
+
+

@@ -1,0 +1,82 @@
+#VAR(TABLE, TABLE)
+
+#ADDTBL("SJIS.TBL", TABLE)
+
+#ACTIVETBL(TABLE)
+
+
+
+#JUMP("NOT_SET")
+
+
+
+// Pos : 000493FE
+
+// Fixed Length : 0080
+
+//僕は特設の取調室に連れ込まれてN
+I was brought to a specially equippedN
+//しまったP
+interrogation room.P
+
+
+
+
+
+
+// Pos : 0004947E
+
+// Fixed Length : 0080
+
+//僕は医務室のような所へ連れ込まN
+I was brought to a place like aN
+//れてしまったP
+medical office.P
+
+
+
+
+
+
+// Pos : 000494FE
+
+// Fixed Length : 0080
+
+//僕は陽子専用と書かれた、N
+I was brought to Yoko's privateN
+//特別室に連れ込まれたP
+deluxe suite.P
+
+
+
+
+
+
+// Pos : 0004957E
+
+// Fixed Length : 0080
+
+//僕は公子専用と書かれた、N
+I was dragged to a questionableN
+//怪しげな部屋に連れて来られたP
+room labelled "Kimiko Private".P
+
+
+
+
+
+
+// Pos : 000495FE
+
+// Fixed Length : 0080
+
+//僕は強引に子供部屋のようなとこN
+I was forcibly shoved into somethingN
+//ろへ押し込まれてしまったP
+resembling a  child's room.P
+
+
+
+
+
+

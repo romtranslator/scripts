@@ -1,0 +1,5165 @@
+#VAR(TABLE, TABLE)
+
+#ADDTBL("SJIS.TBL", TABLE)
+
+#ACTIVETBL(TABLE)
+
+#VAR(MYPTR, CUSTOMPOINTER)
+
+#CREATEPTR(MYPTR, "LINEAR", $00180000, 32)
+
+
+
+#JUMP("NOT_SET")
+
+
+
+#WRITE(MYPTR, $000279D0)
+
+// Pos : 000279DC
+
+//ƒtƒtƒtEEEN
+Heh-heh-heh...N
+//•‚―‚Ι—‚Δ‚β‚Α‚½‚ΊIP
+I've come to help you!P
+
+
+
+
+
+
+#WRITE(MYPTR, $000279D4)
+
+// Pos : 000279FF
+
+//‚¨‚Ά‚¨‚ΆEEEN
+Heh now...N
+//‚ΰ‚¤­‚µ‚µ‚Α‚©‚θ‚µ‚Δ‚­‚κ‚ζBP
+Hang on a little longer (do it a little more seriously???).P
+
+
+
+
+
+
+#WRITE(MYPTR, $000279D8)
+
+// Pos : 00027A2C
+
+//λ‚Θ‚Α‚©‚µ‚­‚Δ©‚Ώ‚α‚Ά‚η‚κ‚Θ‚ΆBP
+It's so dangerous I can't be seen.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C380)
+
+// Pos : 0002C8D8
+
+//‚Η‚Θ‚½HP
+Who's there?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C384)
+
+// Pos : 0002C8E2
+
+//‚Θ‚ρ‚Ε‚·‚ΜH@΅‚Μ‰Ή‚ΝEEEP
+What is it? That sound just now...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C388)
+
+// Pos : 0002C900
+
+//‚±‚Μ‚ν‚½‚­‚µ‚Ι‰»‚―‚ι‚Θ‚ρ‚ΔA‚ά‚ΑN
+To appear before me in disguise,N
+//‚½‚­ƒhƒW‚Θ‰φ“‚ΛBP
+you truly are a mysterious thief.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C38C)
+
+// Pos : 0002C935
+
+//‚Θ`‚ρ‚ΎA”όK‚¶‚α‚Θ‚ΆBN
+Oh, it's just Miyuki.N
+//‹Ί‚©‚³‚Θ‚Ά‚Ε‚Ώ‚ε‚¤‚Ύ‚ΆBP
+Please don't scare me like that.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C390)
+
+// Pos : 0002C968
+
+//‚ ‚ηAƒj[ƒi‚Ύ‚Α‚½‚ΜBP
+Oh, it was Nina.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C394)
+
+// Pos : 0002C980
+
+//—ν‰Ψ‚¶‚α‚Θ‚ΆBN
+It's just Reika.N
+//‹Ί‚©‚³‚Θ‚Ά‚Ε‰Ί‚³‚Ά‚ΘEEEP
+Please don't scare me...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C398)
+
+// Pos : 0002C9AB
+
+//‚Θ‚ρ‚ΎA—zq‚Θ‚ΜEEEP
+Huh, it's Yoko...?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C39C)
+
+// Pos : 0002C9C3
+
+//‚»‚κ‚¶‚αAx”υ‚Μ•ϋ‚ζ‚λ‚µ‚­‚¨θ‚ΆN
+Well, I'll leave the security work upN
+//‚µ‚ά‚·‚ΛIP
+to you!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C3A0)
+
+// Pos : 0002C9F0
+
+//‹C‚π”²‚©‚Έ‚ΙA‚µ‚Α‚©‚θ‚µ‚Δ‚Ώ‚ε‚¤N
+Stay sharp, and get your actN
+//‚Ύ‚ΆIP
+together!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C3A4)
+
+// Pos : 0002CA19
+
+//“z‚Ν‚ά‚Ύ‚Η‚±‚©‚Ιφ‚ρ‚Ε‚Ά‚ι‚νA‹CN
+He's still lurking somewhere, soN
+//‚π•t‚―‚ΔBP
+be careful.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C3A8)
+
+// Pos : 0002CA46
+
+//”O‚Μ‚½‚ί‚ΙA‡‚ΆΎ—t‚π•·‚©‚Ή‚Δ‚ΆN
+Just to be safe, let me hear theN
+//‚½‚Ύ‚«‚ά‚·‚νBP
+password.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C3AC)
+
+// Pos : 0002CA77
+
+//‚Ε‚ΝA‡‚ΆΎ—t‚π‚¨‚Α‚µ‚α‚ΆBP
+Well, say the password then.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C3B0)
+
+// Pos : 0002CA95
+
+//ƒpƒXƒ[ƒh‚ΝHP
+Password?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C3B4)
+
+// Pos : 0002CAA5
+
+//‚³‚A©‚Β‚―‚ά‚µ‚½‚ν‚ζBN
+Well, I found you.N
+//‰φ“‚ί‚ΑAoε‚Θ‚³‚ΆIP
+Prepare yourself mystery thief!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C3B8)
+
+// Pos : 0002CAD6
+
+//–³‘Κ‚Θ’οR‚Ν‚¨‚β‚ί‚Θ‚³‚ΆIP
+Stop this futile resistance!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C3BC)
+
+// Pos : 0002CAF2
+
+//‚Ά‚Ά‰ΑΈ‚Ι‚ ‚«‚η‚ί‚Θ‚³‚ΆP
+Just give up already.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C3C0)
+
+// Pos : 0002CB0C
+
+//‚ά‚½‚ ‚Θ‚½‚Ε‚·‚Μ`HN
+It's you again?N
+//’¦‚θ‚Θ‚Ά‚ν‚ΛP
+You never learn.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C3C4)
+
+// Pos : 0002CB2F
+
+//γθ‚­‰»‚―‚½‚Β‚ΰ‚θ‚Ε‚µ‚ε‚¤‚―‚ΗAN
+You intended to be well disguised right?N
+//‚¨‚ ‚Ά‚Ι‚­—lEEEP
+Well better luck next time.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C3C8)
+
+// Pos : 0002CB64
+
+//‚±‚Μ‚ν‚½‚­‚µ‚Ι‰»‚―‚ι‚Θ‚ρ‚ΔA‚ά‚ΑN
+To appear before me in disguise,N
+
+//‚½‚­ƒhƒW‚Θ‰φ“‚ΛBP
+you truly are a mysterious thief.P
+
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C3CC)
+
+// Pos : 0002CB99
+
+//‚ά‚Ύ‚ά‚ΎACs‚ª‘«‚θ‚Θ‚­‚Δ‚ζBN
+Still not enough training.N
+//‰φ“‚³‚ρBP
+Mysterious thief.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C3D0)
+
+// Pos : 0002CBC4
+
+//‚µ‚ά‚Α‚½‚ΑA“¦‚°‚η‚κ‚½IP
+Damn it, he escaped!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C3D4)
+
+// Pos : 0002CBDE
+
+//΅“x‰ο‚Α‚½‚η‚Π‚Η‚Ά‚ν‚ζ‚ΑIP
+Next time I see you you'll regret it!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C3D8)
+
+// Pos : 0002CBFA
+
+//‚ ‚η‚ΑH@‚Η‚±‚Ιs‚Α‚½‚Μ‚©‚µ‚ηHP
+Oh-? I wonder where they went?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C3DC)
+
+// Pos : 0002CC1C
+
+//“¦‚°‚Δ‚ΰ–³‘Κ‚Ε‚·‚ν‚ζIP
+It's no use running!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C3E0)
+
+// Pos : 0002CC34
+
+//΅A“¦‚°‚ζ‚¤‚Ζ‚µ‚ά‚µ‚½‚ΛIP
+You tried to get away didn't you!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C3E4)
+
+// Pos : 0002CC50
+
+//Ζ‘§‚Θθ’i‚π‚¨g‚Ά‚Ι‚Θ‚ι‚Μ‚ΛIP
+Cheap tricks are beneficial!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C3E8)
+
+// Pos : 0002CC70
+
+//“¦‚°‚ζ‚¤‚Ζ‚·‚ι‚Θ‚ρ‚ΔA‚ ‚Θ‚½‚β‚ΑN
+Trying to get away, you areN
+//‚Ο‚θ‹UÒ‚ΛIP
+an imposter after all!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C3EC)
+
+// Pos : 0002CC9F
+
+//‚β‚Α‚Ο‚θ‹UÒ‚Ύ‚Α‚½‚Μ‚Ε‚·‚ΛIHP
+It was an imposter after all, right!?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C3F0)
+
+// Pos : 0002CCBF
+
+//“¦‚°‚ζ‚¤‚Ζ‚µ‚Δ‚ΰƒ_ƒ‚ζA‰φ“‚³‚ρP
+Don't try escaping Mr. mysterious thief.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C3F4)
+
+// Pos : 0002CCE1
+
+//ƒTƒCƒREƒEƒF[ƒ”IP
+Psycho-wave!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C3F8)
+
+// Pos : 0002CCF5
+
+//‚³‚A‚Ά‚«‚ά‚·‚ν‚ζIP
+Well, here I go!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C3FC)
+
+// Pos : 0002CD0B
+
+//ƒnƒ@[ƒbIP
+Hya-!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C400)
+
+// Pos : 0002CD17
+
+//‚«‚α‚ΑIP
+Eek!!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C404)
+
+// Pos : 0002CD21
+
+//‚Π‚Ά‚Ά‚΅IP
+Aiee!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C408)
+
+// Pos : 0002CD2D
+
+//‚Ά‚β‚`IP
+No!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C40C)
+
+// Pos : 0002CD39
+
+//‡‚ΆΎ—t‚Ν‡‚Α‚Δ‚Ά‚ι‚ζ‚¤‚ΛBN
+The password is correct.N
+//‚»‚κ‚Ε‚ΝAΘγ‚ΰ”²‚©‚θ–³‚­‚ΛBP
+Well then, stay on your toes.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C410)
+
+// Pos : 0002CD76
+
+//‡i‚ΛEEEN
+You passed.N
+//ψ‚«‘±‚«‚ζ‚λ‚µ‚­‚ΛBP
+Keep up the good work.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C414)
+
+// Pos : 0002CD99
+
+//–β‘θ‚Θ‚µ‚ΛIN
+All clear!N
+//‚»‚κ‚¶‚αEEEP
+Well then...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C418)
+
+// Pos : 0002CDB6
+
+//‰φ‚µ‚Ά‚νBN
+Very suspicious.N
+//‚Ώ‚ε‚Α‚ΖA‚±‚Ώ‚η‚Ι‚Ά‚η‚Α‚µ‚α‚ΆBP
+Come this way a little.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C41C)
+
+// Pos : 0002CDE3
+
+//‚ ‚Θ‚½‹U•¨‚¶‚α‚²‚΄‚Ά‚ά‚Ή‚ρHN
+You're not an imposter are you?N
+//‚±‚Α‚Ώ‚Ι‚Ά‚η‚Α‚µ‚α‚ΆIP
+Step right over here!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C420)
+
+// Pos : 0002CE18
+
+//m‚©‚ί‚½‚Ά‚±‚Ζ‚ª‚ ‚θ‚ά‚·BN
+There is something I want to confirm.N
+//‚Ώ‚ε‚Α‚Ζ‚±‚Ώ‚η‚Φ—‚Δ‚Ώ‚ε‚¤‚Ύ‚ΆBP
+Please come this way a little.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C424)
+
+#WRITE(MYPTR, $0002C428)
+
+#WRITE(MYPTR, $0002C42C)
+
+#WRITE(MYPTR, $0002C430)
+
+#WRITE(MYPTR, $0002C434)
+
+// Pos : 0002CE55
+
+//‹^‚Α‚½‚θ‚µ‚Δ‚²‚ί‚ρ‚Θ‚³‚ΆEEEN
+I'm sorry for doubting you.N
+//‹–‚µ‚Δ‰Ί‚³‚Ά‚ΘIP
+Please forgive me!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C438)
+
+// Pos : 0002CE86
+
+//‚ά‚A’N‚Ι‚Ε‚ΰΤα‚Ά‚Ν‚ ‚ι‚±‚Ζ‚ΕN
+Well, anyone can make a mistake,N
+//‚·‚©‚ηA‹–‚µ‚Δ‰Ί‚³‚Ά‚ΘBP
+please forgive me.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C43C)
+
+// Pos : 0002CEC1
+
+//‚ ‚θ‚ª‚Ζ‚¤I@‚¨l‚Ρ‚Μσ‚Ι‚±‚κ‚πN
+Thank you! I offer this as a tokenN
+//·‚µγ‚°‚ά‚·‚νBP
+of thanks.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C440)
+
+// Pos : 0002CEF4
+
+//‚ ‚θ‚ª‚Ζ‚¤BN
+Thank you.N
+//‚Ε‚ΝA‚ª‚ρ‚Ξ‚Α‚Δ‰Ί‚³‚Ά‚ΘEEEP
+Well then, hang in there please.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C444)
+
+// Pos : 0002CF21
+
+//ƒzƒ“ƒgƒbA‹–‚µ‚Δ‚­‚κ‚ά‚·‚ΜHN
+You really forgive me?N
+//φq‚¤‚κ‚µ`‚΅IP
+I'm so happy!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C448)
+
+// Pos : 0002CF50
+
+//‚¦‚ΑI@‚»‚ρ‚ΘA‚Π‚Η‚ΆEEEN
+Eh-! But, that's so mean...N
+//ƒVƒNƒVƒNƒVƒNP
+-sniff-sob-P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C44C)
+
+// Pos : 0002CF7B
+
+//‚Π‚Η‚Ά‚νA‚Π‚Η‚Ά‚νIP
+You're mean, you're awful!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C450)
+
+// Pos : 0002CF91
+
+//EEE‚ν‚½‚­‚µA‚ ‚Θ‚½‚Ι‘Ξ‚µ‚Δ‚ΖN
+...I did somethingN
+//‚ρ‚Ε‚ΰ‚Θ‚Ά‚±‚Ζ‚π‚µ‚Δ‚µ‚ά‚Α‚½‚Μ‚ΕN
+outrageous towardN
+//‚·‚ΛBP
+you.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C454)
+
+// Pos : 0002CFDB
+
+//‚ΘA‚Θ‚ρ‚Ε‚·‚Α‚ΔIN
+W-what did you say!N
+//‚ΰ‚¤‚Ά‚Α‚Ψ‚ρΎ‚Α‚Δ‚²——‚Θ‚³‚ΆBP
+I dare you to utter that again.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C458)
+
+// Pos : 0002D00E
+
+//‚ ‚Θ‚½A‚±‚Μ‚ν‚½‚­‚µ‚π“{‚η‚Ή‚ά‚µN
+You have angeredN
+//‚½‚ν‚ΛBP
+me greatly.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C45C)
+
+// Pos : 0002D039
+
+//’Ι‚Ά–Ϊ‚Ι‘‚Ά‚½‚Ά‚ζ‚¤‚ΛBP
+You seem to want a piece of me.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C460)
+
+// Pos : 0002D053
+
+//‚Θ‚©‚Θ‚©‹­ξ‚Θ•ϋ‚ΛEEEN
+You're a very stubborn person.N
+//d•ϋ‚ ‚θ‚ά‚Ή‚ρ‚νBP
+Very well.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C464)
+
+// Pos : 0002D080
+
+//‚±‚Μ‚ν‚½‚­‚µ‚ΙA–Ω”ι‚Θ‚Η’Κ—p‚µ‚άN
+The silent treatment has noN
+//‚Ή‚ρ‚ν‚ζBP
+effect on me.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C468)
+
+// Pos : 0002D0AD
+
+//΅A’‚η‚Ή‚Δ‚ ‚°‚ά‚·‚νBP
+
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C46C)
+
+// Pos : 0002D0C7
+
+//ƒEƒtƒtEEE@‚³‚A‘f’Ό‚Ι’‚θ‚½N
+
+//‚­‚Θ‚Α‚½‚Μ‚Ε‚Ν‚Θ‚­‚ΔHP
+
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C470)
+
+// Pos : 0002D100
+
+//‚³‚A‚Ά‚Β‚ά‚Ε‚²‚ά‚©‚µ‘±‚―‚η‚κ‚ιN
+
+//‚©‚µ‚ηHP
+
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C474)
+
+// Pos : 0002D12B
+
+//•Ϊ‚Μ–΅‚π‚½‚Α‚Υ‚θ‚Ζ‹³‚¦‚Δ·‚µγ‚°N
+I'll show you the taste of my whipN
+//‚ι‚νB@π‚µ‚Ά‚Ε‚µ‚εHP
+in plenty. Aren't you glad?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C478)
+
+// Pos : 0002D164
+
+//Κ^ƒgƒ‰ƒbƒv‚Ιψ‚Α‚©‚©‚ι‚Θ‚ρ‚ΔAN
+You're pretty clumsy to get caught inN
+//‚ ‚Θ‚½‚ΰƒhƒW‚Θ‰φ“‚ΛBP
+a camera trap mystery thief.P
+
+
+
+
+
+#WRITE(MYPTR, $0002C47C)
+
+// Pos : 0002D19D
+
+//‚³‚A•ί‚ά‚¦‚ά‚µ‚½‚ν‚ζBN
+Well, you've been caught.N
+//‚±‚Ώ‚η‚Ι‚ΝA“®‚©‚ΚΨ‹’‚ª‚ ‚ι‚Μ‚ΕN
+We have some hard evidence onN
+//‚·‚ζBP
+you.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C480)
+
+// Pos : 0002D1DF
+
+//ƒEƒtƒtEEE@Κ^ƒgƒ‰ƒbƒv‚Ι‚Ν‹CN
+Heh-heh-heh... You need to be moreN
+//‚π•t‚―‚½•ϋ‚ª—Η‚­‚Δ‚ζBP
+careful of camera traps.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C484)
+
+// Pos : 0002D218
+
+//‚ ‚Θ‚½‚Μ‚ζ‚¤‚ΘƒhƒW‚Ι‚Νζ‚θ’²‚Χ‚ΘN
+I don't need to investigate someoneN
+//‚ρ‚Δ•s—v‚Ε‚·‚νBN
+as clumsy as you.N
+//‚½‚Α‚Υ‚θ‚Ζ‚¨d’u‚«‚µ‚Δ‚ ‚°‚ι‚νBP
+I'll give you some punishment instead.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C488)
+
+// Pos : 0002D26C
+
+//‰½‚©Ύ‚Άc‚·‚±‚Ζ‚Ν–³‚­‚Α‚ΔHP
+Do you have any last words?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C48C)
+
+// Pos : 0002D28A
+
+//‚Ω`‚ηA‚±‚ΜΚ^‚Ν‰½‚©‚µ‚ηEEEN
+Oh, I wonder what this photograph could be...N
+//ƒEƒtƒtEEEP
+Heh-heh-heh...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C490)
+
+// Pos : 0002D2B9
+
+//‚¨‚Ω‚Ω‚ΩEEEN
+Oh-ho-ho...N
+//‚³`‚ A‚¨d’u‚«‚ζ‚ΑIP
+Come, let me punish you -!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C494)
+
+// Pos : 0002D2E0
+
+//‚ν‚½‚­‚µ‚Μ•|‚³‚πA‹³‚¦‚Δ·‚µγ‚°N
+Allow me to teach you toN
+//‚ι‚νBP
+fear me.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C498)
+
+// Pos : 0002D309
+
+//‚±‚Μ‚ν‚½‚­‚µ‚π’N‚Ύ‚Ζv‚Α‚Δ‚Ά‚ι‚ΜP
+Who do you think I am?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C49C)
+
+// Pos : 0002D32B
+
+//‚ ‚Θ‚½‚ΜS‚Ιφ‚ή«–‚‚π’Η‚Άo‚µ‚ΔN
+I'll drive out the demon thatN
+//‚ ‚°‚ι‚νEEEP
+lurks in your heart.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C4A0)
+
+// Pos : 0002D35C
+
+//‚Π‚Η`‚ΆIP
+How awful!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C4A4)
+
+// Pos : 0002D368
+
+//‚Θ‚ρ‚Δ‚±‚Ζ‚·‚ι‚ΜBN
+How could you do this?N
+//‚ ‚Ζ‚Ε‚Π‚Η‚Ά‚ν‚ζEEEP
+You'll pay for this later...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C4A8)
+
+// Pos : 0002D393
+
+//‚Ω‚Η‚Ά‚Δ‚ζ`IP
+Leave me alone!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C4AC)
+
+// Pos : 0002D3A3
+
+//‚¨‚ΆA’N‚©‚Ά‚ι‚ρ‚Ύ‚λHP
+Hey, is someone there?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C4B0)
+
+// Pos : 0002D3BB
+
+//‚Θ‚ρ‚ΎA΅‚Μ‰Ή‚ΝHP
+What was that sound just now?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C4B4)
+
+// Pos : 0002D3CF
+
+//‚Θ‚ρ‚Ε‚¥Aφq‚¶‚α‚Λ‚¥‚©BN
+Oh, it's just Kimiko.N
+//‹Ί‚©‚·‚Θ‚ζBP
+Don't threaten me (scare me like that?).P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C4B8)
+
+// Pos : 0002D3F8
+
+//‚Δ‚ί‚¥AƒjƒZƒ‚ƒ“‚Ύ‚ΘIP
+Bastard, you're an imposter!P
+
+
+
+
+
+
+#WRITE(MYPTR, $00009AC8)
+
+#WRITE(MYPTR, $0002C4BC)
+
+// Pos : 0002D410
+
+//ƒj[ƒiA‚±‚Α‚Ώ‚Ιe‚πό‚―‚ι‚Μ‚Ν‚βN
+Nina, I told you not to point your gunN
+//‚ί‚λ‚Α‚ΔΎ‚Α‚½‚λEEEP
+my way...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C4C0)
+
+// Pos : 0002D449
+
+//‚¨‚Ά‚¨‚ΆA—ν‰Ψ‚Ύ‚Α‚½‚Μ‚©‚ζBP
+Whoa, it was just Reika.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C4C4)
+
+// Pos : 0002D467
+
+//‚Σ‚£A—zq‚©EEEP
+Whew, Yoko...?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C4C8)
+
+// Pos : 0002D47B
+
+//‚¨έ‚Άζ’£‚λ‚¤‚Ί‚ΑIP
+Let's both do our best!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C4CC)
+
+// Pos : 0002D491
+
+//‚»‚ρ‚¶‚α‚ΘEEEP
+See ya...(this is???)P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C4D0)
+
+// Pos : 0002D4A3
+
+//“z‚π©‚Β‚―‚½‚η‹³‚¦‚λ‚ζ‚ΘEEEP
+Tell me if you find them.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C4D4)
+
+// Pos : 0002D4C3
+
+//κ‰A‡‚ΆΎ—t‚π•·‚©‚Ή‚Δ‚ΰ‚η‚¤‚ΊP
+For now let me hear you say the password.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C4D8)
+
+// Pos : 0002D4E5
+
+//”O‚ΜΧ‚ΎA‡‚ΆΎ—t‚πΎ‚Α‚Δ‚έ‚Θ‚ΑP
+Say the password just to be sure.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C4DC)
+
+// Pos : 0002D507
+
+//‡‚ΆΎ—t‚ΝHP
+Password?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C4E0)
+
+// Pos : 0002D515
+
+//ƒtƒ“EEEN
+Hmph...N
+//‰φ“‚ί‚ΑAΟ”O‚µ‚Θ‚ΑIP
+Thief, resign yourself-!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C4E4)
+
+// Pos : 0002D538
+
+//‚ ‚½‚µ‚Ι©‚Β‚©‚Α‚½‚Μ‚ª‰^‚Μs‚«‚³P
+Your luck ran out when I found you.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C4E8)
+
+// Pos : 0002D55A
+
+//‚Ζ‚¤‚Ζ‚¤©‚Β‚―‚½‚Ί‚ΑIP
+I found you at last!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C4EC)
+
+// Pos : 0002D572
+
+//‚ά‚½A‚¨‘O‚©‚ζ`EEEP
+It's you again...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C4F0)
+
+// Pos : 0002D58A
+
+//‚ ‚½‚µ‚Ι‰»‚―‚ι‚½‚A‚Ά‚Άª«‚µ‚ΔN
+You have some nerve to appearN
+//‚ρ‚¶‚α‚Λ‚¥‚©IP
+disgused as me!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C4F4)
+
+// Pos : 0002D5BB
+
+//‚Δ‚ί‚¥AƒjƒZƒ‚ƒ“‚Ύ‚ΘIP
+You damned imposter!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C4F8)
+
+// Pos : 0002D5D3
+
+//‚¨‚ΆA’N‚Ι‰»‚―‚Δ‚ρ‚Ύ‚ζIP
+Hey, who do you think you're disguised as!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C4FC)
+
+// Pos : 0002D5ED
+
+//‚ ‚ΑAƒ`ƒNƒVƒ‡ƒEIN
+Ah-, crap!N
+//‚Η‚±s‚«‚β‚ª‚Α‚½BP
+They took off somewhere.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C500)
+
+// Pos : 0002D614
+
+//‚­‚Α‚»‚¤A“¦‚°‚Ώ‚ά‚Α‚½‚©EEEP
+Crap, they escaped...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C504)
+
+// Pos : 0002D634
+
+//ƒRƒ‰ƒbIN
+Hey-!N
+//“¦‚°‚Λ‚¥‚Ε³X“°X‚ ‚½‚µ‚Ζ•‰‚µN
+Quit running and fight me fair andN
+//‚λBP
+square.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C508)
+
+// Pos : 0002D664
+
+//©‹κ‚µ‚Ά‚Ί‚ΑIP
+How unsightly!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C50C)
+
+// Pos : 0002D674
+
+//©‚¦“§‚Ά‚½‚±‚Ζ‚·‚ι‚Θ‚ΑIP
+Don't be so obvious-(blatant, lame)!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C510)
+
+// Pos : 0002D68E
+
+//‚¨‘OA΅“¦‚°‚ζ‚¤‚Ζ‚µ‚½‚Ύ‚λHP
+I wonder were you trying to escape just now?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C514)
+
+// Pos : 0002D6AC
+
+//‚β‚Α‚Ο‚θƒjƒZƒ‚ƒ“‚¶‚α‚Λ‚¥‚©AƒRƒmN
+You're an imposter after all, youN
+//ƒ„ƒ[IP
+bastard!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C518)
+
+// Pos : 0002D6D7
+
+//ƒeƒƒFƒbA‚±‚Μ‚ ‚½‚µ‚πƒ^ƒoƒJƒbƒeN
+That bastard trickedN
+//‚β‚ª‚Α‚½‚ΘBP
+me (don't trick me).P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C51C)
+
+// Pos : 0002D706
+
+//–{•¨‚Μƒƒ“ƒo[‚Θ‚ηA“¦‚°‚½‚θ‚Ν‚µN
+If you were the real member you wouldn'tN
+//‚Λ‚¥‚ζ‚ΘIHP
+run away would you!?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C520)
+
+// Pos : 0002D735
+
+//‚±‚κ‚Ε‚ΰ‹ς‚η‚Ά‚β‚ª‚κ‚ΑIP
+Eat this-!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C524)
+
+// Pos : 0002D74F
+
+//γ‰χ‚µ‚β‚ª‚κ‚ΑIP
+You're regret this-!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C528)
+
+// Pos : 0002D761
+
+//ƒIƒ‰AƒIƒ‰A‚Ά‚½‚Ύ‚«‚Ύ‚EEEP
+Take this...
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C52C)
+
+// Pos : 0002D781
+
+//‚¤‚ν‚ΑI‚βA‚β‚ί‚λ‚ζEEEP
+Wah-! E-Enough...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C530)
+
+// Pos : 0002D79D
+
+//ƒRAƒRƒ‰A‚±‚Α‚Ώ‚Ι—‚ι‚ΘEEEP
+H-Hey, get out here...(don't come out???)P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C534)
+
+// Pos : 0002D7BD
+
+//ƒQƒbI@ƒjƒƒgƒEEEP
+Urk-! Chicken...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C538)
+
+// Pos : 0002D7D5
+
+//‚ζ‚µ‚ΑI@‚Ά‚Ά‚Ύ‚λ‚¤EEEN
+Ok-! Very well...N
+//‚¶‚αA‚ ‚Ζ—‚ρ‚Ύ‚ΊIP
+Then, you take care of the rest!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C53C)
+
+// Pos : 0002D806
+
+//‚Η‚¤‚β‚η–{•¨‚Μ‚ζ‚¤‚Ύ‚ΘEEEN
+You seem like the real thing...N
+//‚¶‚αA‹C‚π•t‚―‚Δ‚ΘBP
+Well, take care.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C540)
+
+// Pos : 0002D839
+
+//ƒPƒbA–{•¨‚©‚ζEEEN
+Feh-, you're the real one...N
+//‚ά‚AƒjƒZƒ‚ƒm‚Ι‚Ν‹C‚π•t‚―‚Δ‚­‚κN
+Well then, take care not to fall for anN
+//‚ζ‚ΘBP
+imposter.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C544)
+
+// Pos : 0002D877
+
+//‚Θ‚ρ‚Ύ‚A‚¨‘O‰φ‚µ‚Ά‚ΘEEEN
+Hmm, you seem suspicious...N
+//‚Ώ‚ε‚Α‚Ζ—‚Ά‚ζBP
+Come a little closer.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C548)
+
+// Pos : 0002D8A6
+
+//ƒtƒ“EEEN
+Hmm...N
+//‚Ώ‚ε‚Α‚ΖA‚±‚Α‚Ώ‚Ι—‚Δ‚ΰ‚η‚¨‚¤‚©P
+Would you be kind enough to come a bit closer?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C54C)
+
+// Pos : 0002D8D3
+
+//‚Ώ‚ε‚Α‚ΖAζ’²Ί‚ά‚Εδ‘«Jθ‚¨‚¤N
+Would you step into the investigation roomN
+//‚©EEEP
+for a moment...?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C550)
+
+// Pos : 0002D8FE
+
+//‚¨‚ΆI’Ι‚Ά–Ϊ‚ ‚ν‚Λ‚¥‚¤‚Ώ‚ΙA”’σN
+"Hey! You'd better fess up unlessN
+//‚µ‚Ώ‚ά‚Α‚½•ϋ‚ªg‚Μ‚½‚ί‚Ύ‚ΊBN
+you want to feel some serious pain.N
+//‚»‚κ‚Ζ‚ΰA‚ ‚½‚µ‚Ζ‚±‚±‚Ε‚Ι‚η‚ί‚ΑN
+Or would you rather have a staringN
+//‚±‚Ε‚ΰ‚·‚ι‹C‚©HP
+contest with me right here? "P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C554)
+
+// Pos : 0002D96F
+
+//‚ζ‚§A‚¨‘O‚ªƒjƒZƒ‚ƒm‚Ύ‚Α‚Δ–‚ΝAN
+"Hey, I knew from the beginningN
+//‚±‚Ώ‚Ζ‚ηƒnƒi‚Α‚©‚η”»‚Α‚Δ‚ρ‚Ύ‚ΊBN
+you were an imposter.N
+//‚Ά‚Ά‰ΑΈ‘f’Ό‚Ι“f‚Ά‚Ώ‚ά‚¦‚ζBN
+Just give up and confessN
+//‹C•ª‚ªy‚Ι‚Θ‚ι‚Ί`IP
+already. You'll feel better! "P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C558)
+
+// Pos : 0002D9E4
+
+//‚¨‘O‚ª—α‚Μ‰φ“‚Θ‚ρ‚Ύ‚λHN
+"Are you our gentleman thief?N
+//‰B‚µ‚½‚Α‚ΔA‚ ‚½‚µ‚Ι‚Ν‚Ώ‚α‚ρ‚Ζ”»N
+I'll know if you're hiding it.N
+//‚ι‚ρ‚ΎB‰½‚ª–Ϊ“I‚©‚Ν’m‚η‚Λ‚¥‚―‚ΗN
+I don't know what your objective is,N
+//‚ζA‚±‚±‚η‚ª’ª‚Α‚Δ‚ΰ‚ρ‚Ύ‚ΊBP
+but it's high time we find out."P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C55C)
+
+// Pos : 0002DA5F
+
+//‚ν‚θ‚΅A‚ν‚θ‚΅EEEN
+Sorry, I'm sorry...N
+//¨•Ω‚µ‚Δ‚­‚κ‚ζBP
+Please forgive me.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C560)
+
+// Pos : 0002DA86
+
+//‹^‚Α‚½‚θ‚µ‚Δ«‚©‚Α‚½‚ΘEEEN
+I'm sorry for doubting you...N
+//¨•Ω‚µ‚Δ‚­‚κ‚ζBP
+Please forgive me.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C564)
+
+// Pos : 0002DAB5
+
+//ƒSƒƒ“I@‚ ‚½‚µ‚ª«‚©‚Α‚½‚ζEEP
+Sorry! I was wrong.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C568)
+
+// Pos : 0002DAD7
+
+//ƒzƒ“ƒgH@ƒTƒ“ƒLƒ…[IN
+Really? Thank you!N
+//‚±‚κ‚¨l‚Ρ‚Μσ‚Ισ‚―ζ‚Α‚Δ‚­‚κBP
+Please take this as a token of my gratitude.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C56C)
+
+// Pos : 0002DB10
+
+//‹–‚µ‚Δ‚ΰ‚η‚¦‚½‚©B@ƒTƒ“ƒLƒ…[P
+I'm forgiven? Thank you.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C570)
+
+// Pos : 0002DB30
+
+//‚²‚ί‚ρ@ƒzƒ“ƒg”½Θ‚µ‚Δ‚ά‚·IP
+Sorry, I am truly remorseful!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C574)
+
+// Pos : 0002DB4E
+
+//‚¦`A‚»‚ρ‚Θ‚P
+Huh, no way.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C578)
+
+// Pos : 0002DB5E
+
+//‹–‚µ‚Δ‚­‚κ‚Θ‚Ά‚Μ`HP
+You won't forgive me?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C57C)
+
+// Pos : 0002DB74
+
+//‚Ά‚¶‚ί‚Θ‚Ά‚Ε‚­‚κ‚ζ‚§`BP
+Stop picking on me.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C580)
+
+// Pos : 0002DB8E
+
+//‚Θ‚Ι‚΅‚΅A‚ΰ‚¤κ‰ρΎ‚Α‚Δ‚έ‚λIP
+What, try saying that one more time!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C584)
+
+// Pos : 0002DBAE
+
+//‚¨‘O’N‚Ιό‚©‚Α‚Δ‚»‚ρ‚Θ‚±‚ΖΎ‚Α‚ΔN
+Who do you think you're talkingN
+//‚ρ‚Ύ‚ζEEEP
+to?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C588)
+
+// Pos : 0002DBDD
+
+//ƒRƒmƒ„ƒ`IP
+You bastard!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C58C)
+
+// Pos : 0002DBEB
+
+//ƒRƒ‰ƒbI‚Ά‚Ά‰ΑΈ‚Ι‚µ‚λ‚ζEEEP
+Hey-! That's enough.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C590)
+
+// Pos : 0002DC0B
+
+//‚Ά‚Β‚ά‚Εƒ_ƒ“ƒ}ƒ‚π‚ί‚ή‹C‚Ύ‚ζP
+How long do you intend to remain silent?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C594)
+
+// Pos : 0002DC2D
+
+//‚¨‘O‚ΰƒzƒ“ƒg‹­ξ‚Ύ‚Θ‚EEEP
+You're also truly stubborn...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C598)
+
+// Pos : 0002DC4B
+
+//‚Π‚³‚µ‚Τ‚θ‚Μƒtƒ@ƒCƒg‚ΎBN
+This fight's been put off for a while.N
+//θ‰ΑΈ‚µ‚Λ‚¥‚ΊIP
+I'm not going easy on you!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C59C)
+
+// Pos : 0002DC76
+
+//‚µ‚ε‚¤‚ª‚Λ‚¥‚ΘA‚Ώ‚ε‚Α‚ΖA‰Β¤‚ªN
+If you insist, I'll dote on youN
+//‚Α‚Δ‚β‚ι‚ΊIP
+a bit!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C5A0)
+
+// Pos : 0002DCA5
+
+//³’Ό‚ΙΎ‚ν‚Λ‚¥‚ΖAƒzƒ“ƒg‚Ι’‚κ‚ΘN
+If you won't be honest we can't have aN
+//‚­‚Θ‚Α‚Ώ‚ά‚¤‚ΊEEEP
+real conversation...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C5A4)
+
+// Pos : 0002DCDC
+
+//Ψ‹’Κ^‚πB‚η‚κ‚ι‚Θ‚ρ‚΄‚A‚ά‚ΑN
+Sheesh, you're one clumsy fool to haveN
+//‚½‚­ƒhƒW‚Θ–μY‚Ύ‚ΊIP
+your photograph taken!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C5A8)
+
+// Pos : 0002DD13
+
+//ƒtƒtA•ί‚ά‚¦‚½‚ΊEEEP
+Heh-heh, caught you...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C5AC)
+
+// Pos : 0002DD2B
+
+//Ψ‹’Κ^‚πB‚η‚κ‚ι‚Θ‚ρ‚΄‚A‚ά‚ΑN
+Sheesh, you're one clumsy fool to haveN
+//‚½‚­ƒhƒW‚Θ–μY‚Ύ‚ΊIP
+your photograph taken!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C5B0)
+
+// Pos : 0002DD96
+
+//‚µ‚η‚Ψ‚Α‚Δ‚ΰƒ€ƒ_‚Ύ‚ΊEEEN
+(???)
+//“D–_ª«‚π’@‚«’Ό‚µ‚Δ‚β‚ιIP
+
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C5B4)
+
+// Pos : 0002DDCF
+
+//ζ‚θ’²‚Χ‚Θ‚ρ‚ΔA‚ ‚ά‚Α‚Ώ‚ε‚λ‚Ά‚±N
+(???)
+//‚½‚‚µ‚Λ‚¥‚ζEEEP
+
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C5B8)
+
+// Pos : 0002DE04
+
+//‚»‚±‚ΜΚ^‚ΙΚ‚Α‚Δ‚ι‚Μ‚Ν‚¨‘O‚Ύ‚λP
+Is that you in that photograph over there?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C5BC)
+
+// Pos : 0002DE26
+
+//΅“ϊ‚Ν‹@™‚ª«‚θ‚΅‚ρ‚Ύ‚ζ‚ΑIP
+I'm in a bad mood today-!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C5C0)
+
+// Pos : 0002DE44
+
+//‚¨‚θ‚α`‚ΑIP
+Hyaa-!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C5C4)
+
+// Pos : 0002DE52
+
+//”’σ‚µ‚β‚ª‚κ‚ΑIP
+Confess-!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C5C8)
+
+// Pos : 0002DE64
+
+//‘f’Ό‚Ι‚Θ‚θ‚β‚ª‚κ‚ΑIP
+Do as I say-!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C5CC)
+
+// Pos : 0002DE7A
+
+//‚Θ‚Ι‚µ‚β‚ª‚ι‚ΑIP
+What the hell are you doing-!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C5D0)
+
+// Pos : 0002DE8C
+
+//ƒ`Aƒ`ƒNƒVƒ‡ƒEIP
+D-dammit!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C5D4)
+
+// Pos : 0002DE9E
+
+//‚­‚»‚¤A‚β‚ι‚¶‚α‚Λ‚¥‚©EEEP
+Crap, not bad...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C5D8)
+
+// Pos : 0002DEBC
+
+//ƒ`ƒbAO‚µ‚½‚©EEEP
+Tch, (they) took off(?)...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C5DC)
+
+// Pos : 0002DED2
+
+//΅‰ρ‚Ν©“¦‚µ‚Δ‚ ‚°‚ιEEEP
+I'm willing to overlook this.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C5E0)
+
+// Pos : 0002DF08
+
+//ƒtƒ“EEE@φq‚©BP
+Hmph...it's Kimiko.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C5E4)
+
+// Pos : 0002DF1E
+
+//‚Θ‚ ‚ρ‚ΎA”όK‚©EEEP
+Oh, Miyuki...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C5E8)
+
+// Pos : 0002DF36
+
+//‚Θ‚ ‚ρ‚ΎA”όK‚©EEEP
+Oh, it's Miyuki...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C5EC)
+
+// Pos : 0002DF4E
+
+//—ν‰Ψ‚IP
+Reika!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C5F0)
+
+// Pos : 0002DF58
+
+//‚¨‚Α‚ΖA—zqEEEP
+Oh, Yoko...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C5F4)
+
+// Pos : 0002DF6C
+
+//‚ά‚A‚Ή‚Ά‚Ί‚ΆƒKƒ“ƒo‚Α‚Δ‚ΛIP
+Come on, let's do the best we can!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C5F8)
+
+// Pos : 0002DF8A
+
+//λ‚¤‚­‚‚Β‚Ζ‚±‚λ‚Ύ‚Α‚½‚νEEEN
+I almost attacked you...N
+//‹C‚π‚Β‚―‚Δ‚ζ‚ΛBP
+Be careful.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C5FC)
+
+// Pos : 0002DFBB
+
+//ƒ„ƒc‚Ν‚±‚Μ•Σ‚Ι‚Ν‚Ά‚Θ‚Ά‚έ‚½‚ΆBN
+That guy doesn't appear to be around this area.N
+//‚¶‚α‚ ‚ΛIP
+See ya!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C600)
+
+// Pos : 0002DFE6
+
+//‚»‚¤‚ΎIN
+That's right!N
+//‡‚ΆΎ—t‚π•·‚©‚Θ‚­‚Α‚Ώ‚αEEEP
+I have to ask the password.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C604)
+
+// Pos : 0002E00F
+
+//κ‰A‡‚ΆΎ—t‚π•·‚©‚Ή‚Δ‚ΰ‚η‚¤‚νP
+For now, let me hear the password.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C608)
+
+// Pos : 0002E031
+
+//‚Ζ‚θ‚ ‚¦‚ΈA‡‚ΆΎ—t‚πΎ‚Α‚Δ‚έ‚ΔP
+For now try saying the password.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C60C)
+
+// Pos : 0002E053
+
+//•W“I»‚ι‚Α‚Δ‚Ζ‚±‚ΛIP
+The target has appeared!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C610)
+
+// Pos : 0002E069
+
+//o‚½‚ν‚Λ‰φ“IP
+The thief is here!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C614)
+
+// Pos : 0002E079
+
+//“®‚©‚Θ‚Ά‚Ε‚ΑIP
+Freeze-!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C618)
+
+// Pos : 0002E089
+
+//‚ [‚ηA‚ά‚½A‚ ‚Θ‚½‚Θ‚ΜHP
+Agh-, you again?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C61C)
+
+// Pos : 0002E0A5
+
+//‚±‚Μ‚ν‚½‚µ‚Ι‰»‚―‚ι‚Θ‚ρ‚ΔA‚P‰­”NN
+You're 100 million years to early to disguiseN
+//‘‚Ά‚ν‚ζ‚ΑIP
+yourself as me-!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C620)
+
+// Pos : 0002E0D4
+
+//ƒj[ƒiEƒL[ƒƒt‚ΝA’n‹…γ‚Ε‚½‚ΎN
+There is only one Nina KirovN
+//κl‚ζEEEP
+in the world.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C624)
+
+// Pos : 0002E103
+
+//^‚Μ”ό‚µ‚³‚ΝA“ΰ–Κ‚©‚η‚Ι‚¶‚έo‚ΔN
+True beauty comes fromN
+//‚­‚ι‚ΰ‚Μ‚ζB@‰φ“‚³‚ρBP
+within. Mr. Gentleman Thief.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C628)
+
+// Pos : 0002E13E
+
+//o‚Δ‚«‚Θ‚³‚Ά‚ζ‚§IP
+Get out here!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C62C)
+
+// Pos : 0002E152
+
+//“¦‚°‘«‚Ύ‚―‚Νκ—¬‚ΛEEEP
+Their ability to run away is first class at least.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C630)
+
+// Pos : 0002E16C
+
+//“¦‚°‚ι‚Θ‚ρ‚Δ”Ϊ‹―‚ζEEEP
+You're a coward to run away .P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C634)
+
+// Pos : 0002E186
+
+//‚ ‚Θ‚½A‚±‚Μe‚ª–Ϊ‚Ι“ό‚η‚Θ‚Ά‚έ‚½N
+(???)
+//‚Ά‚ΛIHP
+
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C638)
+
+// Pos : 0002E1B1
+
+//‚ ‚Θ‚½‚ΰ’j‚Θ‚ηAƒZƒRƒC‚ά‚Λ‚·‚ι‚ρN
+(???)
+//‚¶‚α‚Θ‚Ά‚ν‚ζIP
+
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C63C)
+
+// Pos : 0002E1E2
+
+//‚±‚Μ‚ν‚½‚µ‚©‚ηƒ}ƒW‚Ε“¦‚°‚η‚κ‚ι‚ΖN
+do you seriously think you can escapeN
+//v‚Α‚Δ‚ρ‚ΜHP
+from me?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C640)
+
+// Pos : 0002E211
+
+//ƒtƒtƒtEEEN
+Heh-heh-heh...N
+
+//ƒVƒbƒ|‚πo‚µ‚½‚ν‚Λ‚ΑA‹UÒIP
+You've shown your true colors imposter!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C644)
+
+// Pos : 0002E23C
+
+//‚Ά‚ά•Ο‚Θ“®‚«‚π‚µ‚½‚ν‚ΛHN
+You just moved strangely didn't you?N
+//‚ΖΎ‚¤‚±‚Ζ‚ΝAƒ„ƒbƒpƒ‹UÒIP
+This means...I knew it an imposter!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C648)
+
+// Pos : 0002E273
+
+//‚Ά‚­‚η•Ο‘•‚µ‚Δ‚ΰA‚»‚ρ‚Θ‚ρ‚¶‚αAN
+No matter how disguised you areN
+//ƒoƒƒoƒ‚ζ‚ΑIP
+it's obvious like that-!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C64C)
+
+// Pos : 0002E2A4
+
+//ƒoƒCAƒoƒCEEEP
+Bye-bye...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C650)
+
+// Pos : 0002E2B6
+
+//—eΝ‚µ‚Θ‚Ά‚ν‚ζ‚ΑP
+I'll show no mercy-!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C654)
+
+// Pos : 0002E2C8
+
+//‚±‚κ‚Ε‚ά‚θ‚ζIP
+Now it's settled!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C658)
+
+// Pos : 0002E2DA
+
+//ƒLƒƒƒnƒnƒnEEEN
+Kya-ha-ha-ha...N
+//‚¨θ‚Ά‚β‚ί‚Δ‚¥`BP
+Please stop.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C65C)
+
+// Pos : 0002E2FF
+
+//ƒA`ƒnƒnƒnEEEN
+Ah-ha-ha-ha...N
+//‹–‚µ‚Δ‚¥`BP
+Forgive me.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C660)
+
+// Pos : 0002E31E
+
+//ƒAAƒAƒnƒnƒnEEEN
+Ah-ha-ha-ha...N
+//ƒ_Aƒ_ƒ‚Ύ‚Α‚Δ‚Ξ‚IP
+I-I said stop!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C664)
+
+// Pos : 0002E347
+
+//‚ά‚A‚Ά‚Ά‚νEEEN
+Well whatever...(that's fine)N
+//”²‚©‚θ–³‚­‚β‚Α‚Δ‚Ώ‚ε‚¤‚Ύ‚ΆBP
+Please don't make any mistakes.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C668)
+
+// Pos : 0002E378
+
+//–{•¨‚Μ‚ζ‚¤‚ΛEEEN
+Looks like the real thing...N
+//‚Η‚¤‚β‚η„‚Μv‚Ά‰ί‚²‚µ‚Ύ‚Α‚½‚έ‚½N
+Seems maybe I was makingN
+//‚ΆBP
+too much of it.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C66C)
+
+// Pos : 0002E3B2
+
+//‚n‚j‚ζIN
+OK!N
+//‚±‚Μ•Σ‚Ν’e‚ª”ς‚ρ‚Ε‚­‚ι‚©‚ΰ‚µ‚κ‚ΘN
+Bullets could fly in this area so pleaseN
+//‚Ά‚©‚ηA‹C‚π•t‚―‚Δ‚ΛBP
+be careful.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C670)
+
+// Pos : 0002E3F4
+
+//‚ ‚‚η`‚ΑA‚¨‚©‚µ‚Ά‚ν‚ΛHN
+Aah-, isn't that strange?N
+//‚Ώ‚ε‚Α‚Ζ—‚Θ‚³‚ΆIP
+Come here a moment!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C674)
+
+// Pos : 0002E423
+
+//‚Η‚¤‚µ‚Ώ‚α‚Α‚½‚Μ‚ζ‚ΑIN
+What's the matter!N
+//‚ΰ‚µ‚©‚µ‚ΔA‹UÒIN
+Perhaps, it's an imposter!N
+//‚±‚Α‚Ώ‚Ι—‚Θ‚³‚ΆIP
+Come over here!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C678)
+
+// Pos : 0002E461
+
+//ƒ„ƒbƒpƒ‚»‚¤‚Ύ‚Α‚½‚ΜEEEN
+I was right after all...N
+//‚Ώ‚ε‚Α‚ΖA—‚Δ‚Ά‚½‚Ύ‚«‚ά‚µ‚ε‚¤‚©P
+Why don't you come over here for a bit?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C67C)
+
+// Pos : 0002E49E
+
+//“Λ‘R‚Ε‚·‚ªA‚ ‚Θ‚½A•Ο‘•‚µ‚Δ‚ά‚·N
+I'll say this directly, are you wearing a N
+//‚ΛH@‚Ά‚Ά‚¦A”»‚Α‚Δ‚Ά‚ά‚·EEEN
+disguise? No, I know...N
+//„‚Μf’f‚ΙΤα‚Ά‚Ν‚ ‚θ‚ά‚Ή‚ρBN
+I'm not mistaken in my diagnosis.N
+//‚»‚¤‚Ε‚µ‚εHP
+Isn't that right? "P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C680)
+
+// Pos : 0002E50D
+
+//‚Ζ‚θ‚ ‚¦‚ΈA‚ ‚Θ‚½‚ΜƒJƒ‹ƒe‚π”q©N
+Yes, according to your medical recordsN
+//‚µ‚½‚Ζ‚±‚λA‚ ‚Θ‚½‚Ν‹Ι“x‚Μ‰φ“θN
+ it would appear you have an extreme caseN
+//–]Η‚Μ‚ζ‚¤‚Ε‚·‚ΛEEEN
+of longing to be a thief...N
+//α‚Ά‚ά‚·‚©HN
+Am I wrong?N
+//‘‚­θ‚π‘Ε‚½‚Θ‚Ά‚Ζƒiƒ‹ƒVƒX‚Μ‚ζ‚¤N
+If we don't do something quicklyN
+//‚Ι‚Θ‚Α‚Δ‚µ‚ά‚Ά‚ά‚·‚ζBP
+you will become like Narcisse.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C684)
+
+// Pos : 0002E5AC
+
+//„‚Ν‚ ‚Θ‚½‚Μ—Η‚«—‰πÒ‚Ε‚·BN
+I'll be understanding.N
+//‚³‚A‰½‚Ε‚ΰ•ο‚έ‰B‚³‚Έ‚¨b‚µ‚µ‚ΔN
+So please open up to me andN
+//‚Ώ‚ε‚¤‚Ύ‚ΆEEEN
+don't hold anything back...N
+//“Α‚ΙA“D–_‚Μ–‚Ι‚Β‚Ά‚Δ‚ΛIP
+Particularly about the thief stuff!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C688)
+
+// Pos : 0002E617
+
+//‚¦‚ΑA‚»‚¤‚Ύ‚Α‚½‚ΜEEEN
+Huh-, that's what it was...N
+//„‚Μ©—§‚Δα‚Ά‚Ύ‚Α‚½‚ζ‚¤‚ΛBN
+My diagnosis was mistaken.N
+//‹–‚µ‚ΔEEEP
+Please forgive me.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C68C)
+
+// Pos : 0002E65B
+
+//‚ ‚η‚ά‚A‚Η‚¤‚µ‚ά‚µ‚εEEEN
+Oh my, what shall we do...N
+//‚Φ‚ΦƒbAƒSƒƒ“IP
+Heh-heh -, sorry!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C690)
+
+// Pos : 0002E68A
+
+//‚ ‚ηA‚»‚ρ‚Θ–ξ‚ª‚ ‚Α‚½‚Θ‚ρ‚ΔAN
+Oh, it's natural under those circumstances.N
+//–ά_A‹–‚µ‚Δ‚­‚κ‚ι‚ν‚ζ‚ΛHP
+Do you forgive me?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C694)
+
+// Pos : 0002E6C7
+
+//‚ ‚θ‚ª‚Ζ‚¤EEEN
+Thank you...N
+//‚±‚κA‚¨l‚Ρ‚ΛIP
+Here's this as an apology!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C698)
+
+// Pos : 0002E6EA
+
+//ƒTƒ“ƒLƒ…[I@΄Σ‚µ‚Δ‚ι‚νEEEP
+Thank you! I appreciate it.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C69C)
+
+// Pos : 0002E70C
+
+//ƒzƒ“ƒg‚ΙƒSƒƒ“‚ΛIP
+I'm really sorry!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C6A0)
+
+// Pos : 0002E720
+
+//‚Λ‚¥`‚ρA‹–‚µ‚Δ‚¥EEEP
+Come on, forgive me...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C6A4)
+
+// Pos : 0002E73A
+
+//ƒCƒWƒƒ‹EEEP
+Meanie...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C6A8)
+
+// Pos : 0002E74A
+
+//ƒj[ƒiA‹ƒ‚Ά‚Ώ‚α‚¤‚©‚ηEEEP
+Nina will cry...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C6AC)
+
+// Pos : 0002E768
+
+//‚Θ‚ΙEEEHP
+What...?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C6B0)
+
+// Pos : 0002E776
+
+//ƒtƒ“EEEN
+Hm...N
+//‚ ‚Θ‚½’N‚Ι‘Ξ‚µ‚ΔΎ‚Α‚Δ‚ι‚ΜHP
+Who are you talking to?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C6B4)
+
+// Pos : 0002E79F
+
+//ϋ‚Μ‚«‚«•ϋ‚π’m‚η‚Θ‚Ά‚ζ‚¤‚ΛEEEP
+Your way of speaking seems unfamiliar.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C6B8)
+
+// Pos : 0002E7C1
+
+//‚µ‚Τ‚Ζ‚Ά‚ν‚ΛEEEN
+Stubborn...N
+//‚Ά‚Ά‰ΑΈA³‘Μ‚π»‚µ‚Θ‚³‚ΆIP
+Enough, reveal your true form!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C6BC)
+
+// Pos : 0002E7F2
+
+//‚»‚λ‚»‚λ–{‚π“ό‚κ‚ι‚ν‚ζEEEN
+I'm about to get serious.N
+//ƒjƒZƒ‚ƒm‚³‚ρBP
+Imposter.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C6C0)
+
+// Pos : 0002E821
+
+//‹­ξ‚Θl‚Α‚ΔD‚«‚ζB@‚Ε‚ΰ‚ΛEEP
+I like stubborn people. Mind you...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C6C4)
+
+// Pos : 0002E843
+
+//‚ ‚Θ‚½‚Μ‰»‚―‚Μ”η‚π”‚ª‚·Χ‚ΙAN
+I've thought of something interestingN
+//‚¨‚ΰ‚µ‚λ‚Ά‚±‚Ζ‚πl‚¦‚½‚νBP
+in order to reveal your disguise.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C6C8)
+
+// Pos : 0002E87E
+
+//‘f’Ό‚¶‚α‚Θ‚Άq‚ΝAƒƒVƒAƒ“Eƒ‹[N
+Lying child, RussianN
+//ƒƒbƒg‚ζBP
+Roulette.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C6CC)
+
+// Pos : 0002E8AB
+
+//Ά‚Μ’†‚Μ•—‹I‚π—‚·”y‚ΝA‹–‚·‚ν‚―N
+I cannot allow you to disturb theN
+//‚Ι‚Ν‚Ά‚©‚Θ‚Ά‚νIN
+public morals of the world!N
+//‚Λ‚¥A‰φ“‚³‚ρHP
+Right, thief?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C6D0)
+
+// Pos : 0002E8EF
+
+//~‚ά‚θ‚Θ‚³‚Ά‚ΑIP
+Stop-!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C6D4)
+
+// Pos : 0002E901
+
+//‚Η‚±‚Ιs‚­‹CHN
+Where do you think you're going?N
+//Θ’P‚Ι‚Ν“¦‚ª‚³‚Θ‚Ά‚ν‚ζEEEP
+You're not getting away that easily!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C6D8)
+
+// Pos : 0002E92E
+
+//‚β‚Α‚Ζ©‚Β‚―‚½‚νIEEEN
+Finally found you!N
+//ƒEƒtAƒtƒtƒtƒbEEEP
+Heh-heh-hee-hee...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C6DC)
+
+// Pos : 0002E95D
+
+//‚±‚ΜΚ^A‚Ά‚ΒB‚η‚κ‚½‚©ƒƒVƒAƒ“N
+Remember when this photo was taken
+//ƒ‹[ƒƒbƒg‚ΜΤ‚Ιv‚Άo‚µ‚Δ‚ΛIP
+during Russian roulette!
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C6E0)
+
+// Pos : 0002E99E
+
+//Ψ‹’Κ^‚ª‚ ‚ι‚Μ‚ζEEEN
+I have photographic evidence.N
+//ƒƒVƒAƒ“Eƒ‹[ƒƒbƒg‚Ε—V‚ρ‚Ε‚­‚κN
+If you play Russian rouletteN
+//‚½‚η•Τ‚µ‚Δ‚ ‚°‚Δ‚ΰ‚Ά‚Ά‚νBP
+I don't mind returning it.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C6E4)
+
+// Pos : 0002E9F4
+
+//Κ^ƒgƒ‰ƒbƒv‚Ι‚©‚©‚Α‚½ƒhƒW‚Θ‰φ“N
+Mr. clumsy thief who was caught onN
+//‚³‚ρEEE@ƒƒVƒAƒ“Eƒ‹[ƒƒbƒgN
+camera...How about we play RussianN
+//‚Ε‚ ‚»‚Ρ‚ά‚µ‚εHP
+roulette?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C6E8)
+
+// Pos : 0002EA48
+
+//‚ `‚ηA‰^‚ª‚Θ‚©‚Α‚½‚ν‚ΛIP
+Oh my, you just didn't have the luck!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C6EC)
+
+// Pos : 0002EA64
+
+//„‚Μ‚Ώ‚Λ‚ΑIP
+I win-!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C6F0)
+
+// Pos : 0002EA74
+
+//‚²‚ί‚ρ‚Θ‚³‚ΆEEEP
+I'm sorry...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C6F4)
+
+// Pos : 0002EA88
+
+//‚±‚ρ‚Θ‚±‚ΖA‚µ‚½‚­‚Θ‚Ά‚ρ‚Ύ‚―‚Η‚ΛP
+I don't want to do this (but).P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C6F8)
+
+// Pos : 0002EAAA
+
+//‰½‚Ε‚±‚¤‚Θ‚ι‚Μ‚§IP
+How did it turn out like this!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C6FC)
+
+// Pos : 0002EABE
+
+//‚½A•‚―‚Δ‚¥IP
+H-Help me!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C700)
+
+// Pos : 0002EACE
+
+//‚ ‚Ν`‚ρA„‚ª«‚©‚Α‚½‚ν‚P
+Ahh-, I-I'm sorry.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C704)
+
+// Pos : 0002EAEA
+
+//‚»‚±‚Ι‚Ά‚ι‚Μ‚Ν’N‚Λ‚ΑIHP
+Who's there-!?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C708)
+
+// Pos : 0002EB04
+
+//‚ ‚κH@‰½‚©‰Ή‚ª‚µ‚½‚ζEEEP
+Huh? I heard a sound...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C70C)
+
+// Pos : 0002EB22
+
+//‚Θ‚‚ρ‚ΎAφq‚ΛEEEP
+Oh it's Kimiko.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C710)
+
+// Pos : 0002EB3A
+
+//”όK‚Ύ‚Α‚½‚©‚ΛBP
+It was just Miyuki right?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C714)
+
+// Pos : 0002EB4C
+
+//‚ ‚κAƒj[ƒiEEEP
+Huh, Nina...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C718)
+
+// Pos : 0002EB60
+
+//ƒj[ƒi‚ΛEEEHP
+Nina...?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C71C)
+
+// Pos : 0002EB72
+
+//ƒrƒbƒNƒ‚µ‚½A—zq‚Ύ‚Α‚½‚Μ‚©‚P
+You startled me! It's just Yoko.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C720)
+
+// Pos : 0002EB92
+
+//‚»‚κ‚¶‚α—ν‰Ψ‚Ν‚ ‚Α‚Ώ‚Μ•ϋ‚π’T‚·‚ζP
+Well I'll (Reika will) search over there.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C724)
+
+// Pos : 0002EBB4
+
+//‰½‚©‚ ‚Α‚½‚ηA‘εΊ‚Ε—ν‰Ψ‚πΔ‚Τ‚ζP
+If anything happens, call me (Reika) loudly.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C728)
+
+// Pos : 0002EBD6
+
+//‹C‚π•t‚―‚Δx”υ‚·‚ι‚ζEEEP
+Keep a close eye out.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C72C)
+
+// Pos : 0002EBF2
+
+//”O‚ΜΧA‡‚ΆΎ—t‚πΎ‚Α‚Δ‚έ‚ι‚ζIP
+Just to be sure try saying the password!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C730)
+
+// Pos : 0002EC14
+
+//‚»‚¤Ύ‚¦‚ΞA‡‚ΆΎ—t‚Ν‰½‚Ύ‚Α‚½‚©N
+Speaking of which, what was that passwordN
+//‚ΛHP
+again?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C734)
+
+// Pos : 0002EC3B
+
+//‚»‚¤‚ΎA‡‚ΆΎ—t‚π•·‚­‚Μ‚π–Y‚κ‚ΔN
+That's right, I forgot to ask for theN
+//‚½‚ζEEEP
+password...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C738)
+
+// Pos : 0002EC68
+
+//“D–_‚ί‚¥A—ν‰Ψ‚ª•ί‚ά‚¦‚Δ‚β‚ιIP
+Damn thief, I'm going to catch you!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C73C)
+
+// Pos : 0002EC88
+
+//‚ ‚Θ‚½‚ª—α‚Μ‰φ“‚ΛHN
+Are you our gentleman thief?N
+//oε‚·‚ι‚ΛIP
+Prepare yourself!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C740)
+
+// Pos : 0002ECAB
+
+//‹‚Ι©‚Β‚―‚½‚ζB@‚»‚κ‚¶‚αA‚Ά‚­N
+I finally found you. Well, hereN
+//‚ζ`IP
+I go!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C744)
+
+// Pos : 0002ECD4
+
+//‚ά‚½A‚¨‘O‚ΛA‚µ‚Β‚±‚Ά‚ΛIP
+Again? You sure are persistent!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C748)
+
+// Pos : 0002ECF0
+
+//‚ ‚ΑI@—ν‰Ψ‚ΜƒjƒZƒ‚ƒmIP
+Ah-! A Reika imposter!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C74C)
+
+// Pos : 0002ED0A
+
+//‚ ‚κA‚ΰ‚¤κl—ν‰Ψ‚ª‚Ά‚ιBN
+Huh, there's another Reika.N
+//‚¨‘OƒjƒZƒ‚ƒm‚ΛEEEP
+You imposter...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C750)
+
+// Pos : 0002ED3B
+
+//‚Φ‚½‚­‚»IN
+Extreme clumsiness!N
+//—ν‰Ψ‚Ν‚»‚ρ‚Θ‚ρ‚¶‚α‚Θ‚Ά‚ζ‚ΑIP
+Reika is nothing like that-!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C754)
+
+// Pos : 0002ED64
+
+//”Ϊ‹―ƒ‚ƒmIN
+Coward!N
+//—ν‰Ψ‚ª‹°‚­‚Δ“¦‚°‚½‚ΛEEEP
+Reika ran away in fear...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C758)
+
+// Pos : 0002ED8B
+
+//‚ ‚κ‚ΑH@‚Η‚±‚Ά‚Α‚½‚©‚ΛEEEP
+Huh-? Where'd they go...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C75C)
+
+// Pos : 0002EDAB
+
+//‚ `‚ρA“¦‚°‚η‚κ‚½‚‚P
+Ahh, they escaped.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C760)
+
+// Pos : 0002EDC3
+
+//“¦‚°‚Δ‚ΰƒ€ƒ_‚ζAΟ”O‚·‚ι‚Λ‚ΑIP
+It's no use running, prepare yourself-!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C764)
+
+// Pos : 0002EDE3
+
+//‚»‚¤Θ’P‚Ι‚Ν“¦‚°‚η‚κ‚Θ‚Ά‚ζEEEP
+You won't get away that easily.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C768)
+
+// Pos : 0002EE05
+
+//‚ ‚Θ‚½A—ν‰Ψ‚©‚η“¦‚°‚η‚κ‚ι‚Ζv‚ΑN
+You think you can escape fromN
+//‚Δ‚ι‚©‚ΛHP
+me?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C76C)
+
+// Pos : 0002EE32
+
+//•Ο‘•‚Θ‚ρ‚©‚µ‚ΔA—ν‰Ψ‚πιx‚µ‚½‚Λ‚ΑP
+You can't fool me doing something like disguising yourself.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C770)
+
+// Pos : 0002EE54
+
+//‚ ‚Τ‚Θ‚­Aιx‚³‚κ‚ι‚Ζ‚±‚Ύ‚Α‚½‚ζBP
+I was nearly deceived.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C774)
+
+// Pos : 0002EE76
+
+//‚ ‚Θ‚½“¦‚°‚ζ‚¤‚Ζ‚µ‚½‚ΛHN
+Are you trying to run away?N
+//‚β‚Α‚Ο‚θ‰φ“‚Λ‚ΑIP
+You're the thief after all!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C778)
+
+// Pos : 0002EEA3
+
+//ƒeƒF`ƒBIP
+Te-i!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C77C)
+
+// Pos : 0002EEAF
+
+//ƒqƒbƒvƒAƒ^ƒbƒNIP
+Hip attack!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C780)
+
+// Pos : 0002EEC1
+
+//ƒAƒ`ƒ‡`ƒbIP
+Acho-!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C784)
+
+// Pos : 0002EECF
+
+//‚ ‚ΑA@“χ‚ά‚ρ‚Ύ‚ΑIN
+Ah-, a manju with meat filling!N
+//‚¨‚Ά‚µ‚ΆBP
+Delicious.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C788)
+
+// Pos : 0002EEF0
+
+//‚ΙA“χ‚ά‚ρEEEN
+M-Meat bun...N
+//‚Ά‚Α‚½‚Ύ‚Α‚«‚ά`‚·IP
+Let's eat!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C78C)
+
+// Pos : 0002EF17
+
+//‚¤‚ΣA‚±‚ρ‚Θ‚Ζ‚±‚λ‚Ι“χ‚ά‚ρ‚ª‚ ‚ιN
+Hm, to find a meat bun hereN
+//‚Θ‚ρ‚ΔAπ‚µ‚Ά‚Λ`BP
+makes me kinda happy.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C790)
+
+// Pos : 0002EF4E
+
+//‘ε“–‚½‚θ‚΅IN
+Jackpot!N
+//‚¶‚αA—ν‰Ψ‚Ν‚ ‚Α‚Ώ‚Ιs‚­‚ζBP
+Well I'll go over there.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C794)
+
+// Pos : 0002EF79
+
+//‚ ‚κA—ν‰Ψ‚Μ•ϋ‚ª‡‚ΆΎ—t–Y‚κ‚Ώ‚αN
+Huh, Reika forgot theN
+//‚Α‚½B@‚ά‚ΑA‚Ά‚Ά‚βBP
+password. Well, whatever.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C798)
+
+// Pos : 0002EFB2
+
+//‚β‚Α‚Ο‚θ–{•¨‚Ύ‚Α‚½‚ΛIN
+It was the real one after all!N
+//—ν‰Ψ‚Ι‚Ν‚Ώ‚α‚ρ‚Ζ”»‚Α‚Δ‚½‚ζBN
+I knew it.N
+//‚¶‚α‚ΑIP
+See ya-!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C79C)
+
+// Pos : 0002EFF0
+
+//‚ ‚κ`@‰φ‚µ‚Ά‚Ό`HN
+Huh aren't you suspicious?N
+//‚Ώ‚ε‚Α‚ΖA‚±‚Α‚Ώ‚Ι—‚ι‚ΛIP
+Come here a sec!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C7A0)
+
+// Pos : 0002F021
+
+//‚ ‚Θ‚½‹UÒα‚¤‚©HN
+You aren't an imposter?N
+//‚Ώ‚ε‚Α‚ΖA‚±‚Α‚Ώ‚Ι—‚ι‚ζIP
+Come here a sec!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C7A4)
+
+// Pos : 0002F050
+
+//ƒ€ƒbI@‰φ‚µ‚Ά‚Λ‚¥BN
+Urk-! Seems suspicious right?N
+//‚Ώ‚Α‚Ζ‚Ξ‚©‚θA‚Β‚«‡‚Α‚Δ‚ΰ‚η‚¤‚ΛP
+Come with me for a moment.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C7A8)
+
+// Pos : 0002F087
+
+//‚ ‚Θ‚½‚ªV‚µ‚­—‚½q‚ΛHP
+You a new kid?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C7AC)
+
+// Pos : 0002F11A
+
+//N‚Ύ‚ΛA‡‚ΆΎ—t‚π‚Ώ‚α‚ρ‚Ζ“‚¦‚ηN
+Hey, aren't you able to answer theN
+//‚κ‚Θ‚©‚Α‚½‚Μ‚ΝHN
+password like you're supposed to?N
+//‚Η‚¤‚µ‚Δ“‚¦‚η‚κ‚Θ‚©‚Α‚½‚Μ‚©‚ΘHN
+How come you don't answerN
+//ƒzƒ“ƒg‚Ν“D–_‚Θ‚ρ‚Ε‚µ‚εEEEHP
+You're really the thief right? "P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C7B0)
+
+// Pos : 0002F18D
+
+//‚³‚A‰B‚µ‚Δ‚ι‚±‚Ζ‚ª‚ ‚Α‚½‚η—ν‰ΨN
+Well, if you're hiding anythingN
+//ζ¶‚Ι‘S•”‚¨b‚µ‚µ‚ΔAN‚ΰ—Η‚ΆqN
+how about you tell Miss ReikaN
+//‚Μ’‡Τ“ό‚θ‚π‚µ‚ζ‚¤BN
+and join the good boy group.N
+//‰R‚Β‚«‚Ν“D–_‚Μn‚ά‚θ‚Ύ‚©‚ηA‰R‚ΝN
+You shouldn't lie becauseN
+//‚Β‚Ά‚Ώ‚αƒ_ƒ‚Ύ‚ζEEEP
+lying is the first step to being a thief."P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C7B4)
+
+// Pos : 0002F21D
+
+//‚Θ‚‚ρ‚ΎA‚»‚¤‚Ύ‚Α‚½‚Μ‚©‚BN
+Oh, that's what it was.N
+//‹^‚Α‚Δ«‚©‚Α‚½‚ζBP
+Sorry I doubted you.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C7B8)
+
+// Pos : 0002F24E
+
+//ƒAƒCƒ„`@—ν‰ΨAκ¶κ‘γ‚Μ•soBN
+Ahh I'll regret it my whole life.N
+//ƒSƒƒ“BP
+Sorry.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C7BC)
+
+// Pos : 0002F279
+
+//‹^‚Α‚½‚θ‚µ‚ΔA—ν‰Ψ‚ª«‚©‚Α‚½‚ζBN
+I'm sorry for doubting you.N
+//—ν‰Ψ‚²‚ί‚ρ‚Θ‚³‚Ά‚·‚ι‚ζBP
+I apologize.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C7C0)
+
+// Pos : 0002F2B4
+
+//‚¤‚Ω‚ΑI@π‚µ‚Ά‚ΛEEEN
+Really-! I'm glad...N
+//‚¨l‚Ρ‚Ι‚±‚κ‚ ‚°‚ι‚ζBP
+As an apology I'll give you this.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C7C4)
+
+// Pos : 0002F2E5
+
+//ξ‚―‚Νl‚ΜΧ‚Θ‚η‚Έ‚ζEEEN
+One good turn deserves another...N
+//‚β‚Α‚Ο‚θ—F’B‚ΛBP
+We're friends right.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C7C8)
+
+// Pos : 0002F312
+
+//ΣΣAΣΣEEEIP
+Xie xie (thank you), xie xie (thank you)...!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C7CC)
+
+// Pos : 0002F326
+
+//‚¤‚ν`‚ρA‹–‚µ‚Δ‚­‚κ‚Θ‚Ά‚΅‚΅‚΅P
+Waaa, you forgive me?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C7D0)
+
+// Pos : 0002F346
+
+//‚¤‚¦`‚ρBN
+Waah!N
+//—ν‰Ψ‚Μ‚±‚Ζ‚π‚Ά‚¶‚ί‚ι‚£‚£‚£P
+Reika's a meanie.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C7D4)
+
+// Pos : 0002F36D
+
+//‚Π‚Η`‚ΆA‚Π‚Η‚·‚¬‚ι‚£‚£‚£P
+How awful, you're too much!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C7D8)
+
+// Pos : 0002F389
+
+//‰½‚Ύ‚Α‚Δ‚¥`IHP
+What did you say!?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C7DC)
+
+// Pos : 0002F39B
+
+//΅‚Μ‚Ν—ν‰Ψ‚Μ•·‚«α‚Ά‚©‚ΛHN
+Did I mishear you just now?N
+//‚ΰ‚¤‚Ά‚Α‚Ψ‚ρΎ‚Α‚Δ‚έ‚ι‚ζIP
+Try saying that again!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C7E0)
+
+// Pos : 0002F3D2
+
+//—ν‰Ψζ¶‚πƒoƒJ‚Ι‚·‚ι‚Θ‚ρ‚ΔA‚ΰ‚¤N
+Making a fool of Miss Reika, you're makingN
+//“{‚Α‚½‚ζIP
+me angry!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C7E4)
+
+// Pos : 0002F3FF
+
+//‰½‚Ι‚ΰΎ‚ν‚Θ‚Ά‹C‚Λ‚ΑHN
+Don't feel like saying anything-?N
+//‚»‚κ‚¶‚α‚ Aζ¶‚Ι‚ΰl‚¦‚ª‚ ‚θ‚άN
+Well, I have anN
+//‚·IP
+idea!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C7E8)
+
+// Pos : 0002F43D
+
+//ζ¶A‹­ξ‚Θq‚Ν™‚Ά‚ζ‚ΑEEEN
+Teacher doesn't like stubborn children.N
+//‘f’Ό‚Ι‚Θ‚θ‚Θ‚³‚ΆIP
+Do as I say!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C7EC)
+
+// Pos : 0002F470
+
+//‚Ά‚Β‚ά‚Ε‚ΰ‚»‚¤‚β‚Α‚Δ‚ι‚ΖAζ¶AN
+If you keep doing this teacherN
+//ƒzƒ“ƒg‚Ι“{‚θ‚ά‚·‚ζEEEP
+will become very angry...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C7F0)
+
+// Pos : 0002F4AB
+
+//‚³`‚ A•Οg‚µ‚½—ν‰Ψ‚Ν‹°‚Ά‚ζ`‚§N
+You won't like me when I'm angry.N
+//‘f’Ό‚Ι”’σ‚µ‚Θ‚³‚Ά‚ΑIP
+Out with it-!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C7F4)
+
+// Pos : 0002F4E4
+
+//‚ ‚ΑI@‚»‚Μ–Ϊ‚ΝA—ν‰Ψ‚πƒoƒJ‚Ι‚µN
+Ah-! That look, are you making fun ofN
+//‚Δ‚ι‚ΛHN
+me?N
+//‚ά‚Α‚½‚­Έ—η‚µ‚Ώ‚α‚¤‚ζBP
+How rude.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C7F8)
+
+// Pos : 0002F528
+
+//l‚ª—D‚µ‚­‚µ‚Δ‚κ‚Ξ‚Ά‚Ά‹C‚Ι‚Θ‚Α‚ΔN
+If you treat people nicely they become full of themselves.N
+//‚Ά‚Ά‰ΑΈ³‘Μ‚π©‚Ή‚ι‚ΛIP
+Enough! Show your true form!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C7FC)
+
+// Pos : 0002F563
+
+//‚Ω`‚ηA•ί‚ά‚¦‚½‚ζEEEN
+See, caught you...N
+//‚Φ[‚ρ‚µ‚ρi•ΟgjIP
+Transform-!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C800)
+
+// Pos : 0002F592
+
+//Κ^ƒgƒ‰ƒbƒv‚ª–½ζ‚θ‚ζEEEN
+A fatal camera trap...N
+//oε‚§‚§IP
+Prepare yourself!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C804)
+
+// Pos : 0002F5BB
+
+//‚β‚Α‚Ζ©‚Β‚―‚½‚ζBN
+I finally found you.N
+//‚Ή‚Α‚©‚­Ψ‹’Κ^‚πB‚Α‚½‚ρ‚Ύ‚©‚ηP
+Because we finally took that long-awaited photographic evidence.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C808)
+
+// Pos : 0002F5F0
+
+//ƒPƒbAƒPƒbAƒPƒbAγ‰χ‚µ‚Δ‚ΰ’x‚ΆN
+Heh-heh-heh-, it's too late forN
+//‚Μ‚Ύ‚IP
+regrets!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C80C)
+
+// Pos : 0002F61B
+
+//‚Ά‚«‚Θ‚θ‚Ε‹Α‚Ά‚½‚Ε‚µ‚εHN
+You were surprised right?N
+//‚Ε‚ΰAθ‰ΑΈ‚Ν‚µ‚Θ‚Ά‚©‚ηoε‚·‚ιN
+But don't expect us to go easy onN
+//‚ΛIP
+youP
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C810)
+
+// Pos : 0002F65B
+
+//Ψ‹’Κ^‚ª‚ ‚ι‚ρ‚Ύ‚©‚ηA‚Ά‚Ά‰ΑΈN
+We have photographic evidence. Give upN
+//‘f’Ό‚Ι’ϊ‚ί‚ι‚ζEEEP
+and come quietly.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C814)
+
+// Pos : 0002F692
+
+//ƒJƒGƒ‹‚πƒoƒJ‚Ι‚µ‚½‚η‚Ά‚―‚Θ‚Ά‚ζ‚ΑP
+You mustn't look down on frogs.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C818)
+
+// Pos : 0002F6B4
+
+//‚±‚Μƒpƒ“ƒ`‚Ν‹­—σ‚ζ‚ΑIP
+This punch is strong-!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C81C)
+
+// Pos : 0002F6CC
+
+//‘f’Ό‚Ι”’σ‚·‚κ‚Ξ¨•Ω‚µ‚Δ‚ ‚°‚ι‚ζP
+If you confess nicely I'll forgive you.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C820)
+
+// Pos : 0002F6EE
+
+//S‚π“ό‚κ‘Φ‚¦‚ι‚ΛEEEP
+
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C824)
+
+// Pos : 0002F706
+
+//”Ϊ‹―ÒA“Λ‚«‚Ζ‚Ξ‚µ‚½‚Θ‚IP
+(???)
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C828)
+
+// Pos : 0002F722
+
+//ƒQƒQƒbI@‹N‚«‚ ‚ª‚κ‚Θ‚Ά‚ζ`‚§P
+
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C82C)
+
+// Pos : 0002F742
+
+//‚ `‚ρA“χ‚ά‚ρ‚ª`‚EEEP
+Ahh, my meat bun is...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C830)
+
+// Pos : 0002F75E
+
+//‚¦`‚ΑA’N‚©‚Ά‚ι‚Μ‚§HP
+Huh-, is someone there?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C834)
+
+// Pos : 0002F776
+
+//‚β‚Ύ‚ζ`‚§P
+Gross.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C838)
+
+// Pos : 0002F782
+
+//‚Ώ‚ε‚Α‚ΖAφq‚Θ‚Μ‚§HP
+Wait, is that Kimiko?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C83C)
+
+// Pos : 0002F79A
+
+//‚Ά‚«‚Θ‚θo‚Δ‚­‚ι‚Θ‚ρ‚ΔAƒrƒbƒNƒN
+You surprised me. Don't show upN
+//‚·‚ι‚¶‚α‚Θ‚ΆEEEP
+suddenly like that.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C840)
+
+// Pos : 0002F7CF
+
+//‚ά‚½‰ο‚Α‚Ώ‚α‚Α‚½BN
+We met again.N
+//‚Η‚¤‚µ‚ζ‚¤EEEP
+What should I do.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C844)
+
+// Pos : 0002F7F4
+
+//‚έA©‚Β‚―‚½‚ν‚ζ‚ΑIP
+I-I found you-!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C848)
+
+// Pos : 0002F80A
+
+//‚Ά‚ά‚έ‚ρ‚Θ‚πΔ‚Τ‚©‚ηA‘Ò‚Α‚Δ‚Θ‚³N
+I'm calling the others now, don't goN
+//‚Ά‚ΑIP
+anywhere!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C84C)
+
+// Pos : 0002F833
+
+//‚ ‚Θ‚½ƒoƒJ‚Λ‚¥A„‚Ι‚Ν•Ο‘•‚Ν’Κ—pN
+You sure are an idiot. (???)
+//‚µ‚Θ‚Ά‚Μ‚ζIP
+
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C850)
+
+// Pos : 0002F862
+
+//‚ `‚ηA‚Ή‚Α‚©‚­‚Μ•Ο‘•ƒLƒbƒg‚ª–³N
+Argh, long-awaited disguise kitN
+//‘Κ‚Ι‚Θ‚Α‚Ώ‚α‚Α‚½‚ν‚ΛIP
+ended up being worthless!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C854)
+
+// Pos : 0002F89B
+
+//‚ ‚Θ‚½‚Μ•Ο‘•‚ΰA‚ά‚‚ά‚‚Ύ‚―‚ΗAN
+Your disguise was alright but it's stillN
+//„‚Ι”δ‚Χ‚θ‚α‚ά‚Ύ‚ά‚Ύ‚Λ‚ΑIP
+nothing compared to the real thing!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C858)
+
+// Pos : 0002F8D8
+
+//‚ ‚κ`‚ΑH@Α‚¦‚Ώ‚α‚Α‚½EEEP
+Huh? They disappeared.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C85C)
+
+// Pos : 0002F8F8
+
+//‚Φ‚ΑH@‚Η‚±‚Ά‚Α‚Ώ‚α‚Α‚½‚ΜHN
+Huh-? Where'd they go?N
+//‚ά‚ΑA‚Ά‚Α‚©EEEP
+Well, whatever...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C860)
+
+// Pos : 0002F929
+
+//‚·A‘f‘‚Ά‚ΑIP
+H-He's fast!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C864)
+
+// Pos : 0002F939
+
+//’N‚©`@—‚Δ‚¥`IP
+Someone get over here!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C868)
+
+// Pos : 0002F94D
+
+//‚έ‚ρ‚Θ‚`@‰φ“‚ζ‚§`IP
+Everyone it's the thief!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C86C)
+
+// Pos : 0002F967
+
+//ƒ„ƒbƒz`ƒbI@©‚Β‚―‚½‚ν‚ζ`P
+Yoo-hoo-! Found you.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C870)
+
+// Pos : 0002F985
+
+//‚«‚α`‚ΑI@‚©‚¦‚ι‚£P
+Aah-! A frog!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C874)
+
+// Pos : 0002F99B
+
+//‚β‚Ύ‚ΑI@‚β‚ί‚ΔEEEP
+No-! Stop...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C878)
+
+// Pos : 0002F9B3
+
+//‚Π‚΅‚¦`‚ΑIP
+Yaagh-!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C87C)
+
+// Pos : 0002F9C1
+
+//‚ A‚ ‚κ‚ΑEEE@‚Φ‚ρ‚Λ‚¥HN
+H-Huh-...That's weird right?N
+//‚Ά‚Ά‚νA‚±‚Α‚Ώ‚Ι—‚Θ‚³‚ΆIP
+Whatever, come here!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C880)
+
+// Pos : 0002F9FA
+
+//‚¦`‚ΑI@‚Η‚¤‚µ‚ζ‚¤BN
+Huh-! What should we do.N
+//‚±‚¤‚Θ‚Α‚½‚ηEEE@—‚ι‚Μ‚ζ‚ΑIP
+If it's come to this...Here I come!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C884)
+
+// Pos : 0002FA33
+
+//‚ά‚Ά‚Α‚½‚Θ‚BN
+He got us.N
+//‚µ‚©‚½‚Θ‚Ά‚ν‚ΑIP
+There's nothing we can do!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C888)
+
+// Pos : 0002FA54
+
+//‚ζ‚­‚Ά‚η‚µ‚α‚Ά‚ά‚µ‚½EEEN
+Welcome...N
+//‚±‚±‚Νπ‰χ‚Μ•”‰®‚Ε‚·BN
+This is the penitence room (confessional).N
+//ƒAƒiƒ^‚Ι‚ΝA‚ά‚Έ_‚ΜΩ‚«‚πσ‚―‚ΔN
+To start will you shall receiveN
+//’Έ‚«‚ά‚·BN
+God's divine judgement.N
+//ƒAƒiƒ^‚ª³‚µ‚Ά‚Μ‚Ε‚ ‚κ‚Ξ_‚ΰ‚»‚ΜN
+As long as you are just,N
+//—l‚Ι‚¨“±‚«‚Ι‚Θ‚ι‚Ε‚µ‚ε‚¤BN
+God will lead you.N 
+//‚³‚A_‚Μ‚¨‚°ƒ‹[ƒƒbƒg‚Ε‚·BP
+Come, this is God's judgement roulette.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C88C)
+
+// Pos : 0002FB10
+
+//‚ ‚Θ‚½A«–‚‚Ι°‚π”„‚Α‚Ώ‚α‚Ά‚ά‚µN
+You sold your soul to a demon didn'tN
+//‚½‚ΛIHN
+you!?N
+//“V”±‚ª‰Ί‚θ‚ά‚·‚ζBP
+Divine punishment descends.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C890)
+
+// Pos : 0002FB4E
+
+//_‚Μ¤‚Ι‚·‚ª‚κ‚Θ‚Ά‚ΖAΎ‚¤‚Μ‚Ε‚·N
+(???)
+//‚Λ‚ΑIEEE@c”O‚Ε‚·BP
+
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C894)
+
+// Pos : 0002FB89
+
+//‚Θ‚ρ‚Ζ’Q‚©‚ν‚µ‚Ά‚¨•ϋEEEN
+What a sad person...N
+//‚µ‚©‚½‚ ‚θ‚ά‚Ή‚ρBP
+There is nothing that can be done.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C898)
+
+// Pos : 0002FBB8
+
+//ƒPƒ“–VFN
+Ken Monk:N
+//ƒEƒqƒ‡ƒqƒ‡`I@‚±‚ηA‚¨‘O‚ª‘ε«N
+Oh-ho-ho! Hey, you're the bigN
+//“}‚Μ‘ε“D–_‚Ύ‚ΘIHP
+evil thief!?
+
+
+//—z@qFN
+Yoko:N
+//ƒPƒ“–VNA‚»‚ρ‚ΘΎ—t­‚Ά‚µ‚Ώ‚αN
+Ken you mustn't talkN
+//ƒ_ƒ‚ζBP
+like that.P
+
+
+//ƒPƒ“–VFN
+Ken:N
+//‚»‚ρ‚Θ‚±‚Ζ‚ζ‚θA‘‚­‚±‚Ά‚Β‚π‰–βN
+Enough about that, hurry and tortureN
+//‚Ι‚©‚―‚ζ‚¤‚ΊIP
+this guy!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C89C)
+
+// Pos : 0002FC60
+
+//ƒPƒ“–VFN
+Ken:N
+//‚¨‚ΆA‚¨‚ά‚¦I@‚¨‚Ά‚η‚ªl`‚Ύ‚ΖN
+Hey, you! You think you can makeN
+//v‚Α‚ΔƒoƒJ‚Ι‚µ‚Δ‚ρ‚Ύ‚λBP
+fools of us like your personal toys.P
+
+
+//—z@qFN
+Yoko:N
+//‰φ“‚³‚ρA‘f’Ό‚Ι‚¨‚¤‚Ώ‚Ι‹A‚Α‚½•ϋN
+Mr. thief, you'd better quietly returnN
+//‚ª‚Ά‚Ά‚ν‚ζEEEP
+home...P
+
+
+//ƒPƒ“–VFN
+Ken:N
+//ƒ_ƒ‚Ύ‚Ί—zqIN
+No Yoko!N
+//‚½‚Ύ‚Ε‹A‚·‚ν‚―‚Ι‚Ν‚Ά‚©‚Λ‚¥‚ΘBP
+There's no way we can just send him back.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C8A0)
+
+// Pos : 0002FD16
+
+//ƒPƒ“–VFN
+Ken:N
+//‚¨‚Ά‚ηƒPƒ“–VEEEN
+We ken monks...N
+//—zq‚Ι—‚ά‚κ‚ΔA‚¨‘O‚π‚Ζ‚Α‚Ώ‚ί‚ΙN
+We came to request you hold himN
+//—‚½‚ρ‚Ύ‚ΊIP
+accountable!P
+
+
+//—z@qFN
+Yoko:N
+//‚ ‚ηA‚ν‚½‚µ‚»‚ρ‚Θ‚±‚Ζ—‚ρ‚Ε‚Θ‚ΆN
+Oh, I haven't been asked to do anyN
+//‚νEEEP
+such thing...P
+
+
+//ƒPƒ“–VFN
+Ken:N
+//‚Ά‚Ά‚Α‚Δ‚±‚Ζ‚ζEEEN
+Don't worry...N
+//‚¨‚Ά‚η‚Ι‚ά‚©‚µ‚Ζ‚«‚Θ‚ΑIP
+Leave it to us!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C8A4)
+
+// Pos : 0002FDCB
+
+//‚β‚Α‚½‚I@‰φ“‚π•ί‚ά‚¦‚½‚νBN
+You did it! You caught the thief.N
+//‚³‚ A—‚ι‚Μ‚ζ‚ΑIP
+Well, come on!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C8A8)
+
+// Pos : 0002FDFE
+
+//‚±‚ρ‚Ξ‚ρ‚νEEEN
+Good evening...N
+//‚¤‚Ώ‚ΜƒPƒ“–VN‚ª‘ε–‚Θ‚¨b‚ª‚ ‚ιN
+My ken monks have something importantN
+//‚Α‚ΔIP
+to tell you!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C8AC)
+
+// Pos : 0002FE38
+
+//‘Ò‚Ώ‚Θ‚³‚Ά‚ΑIN
+Hold your horses!N
+//‚±‚Α‚Ώ‚Ι—‚ι‚Μ‚ζEEEP
+Come over here.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C8B0)
+
+// Pos : 0002FE5F
+
+//ƒPƒ“–VFN
+Ken:N
+//‚ζ‚§A‚¨‘OA‚±‚ΜΚ^‚Θ‚ρ‚Ύ‚©•ª‚©N
+Hey, you. Do you know thisN
+//‚ι‚©HP
+photograph?P
+
+
+//—z@qFN
+Yoko:N
+//‚ ‚ΑAΨ‹’Κ^‚ΛHP
+Ah-, the evidence photograph?P
+
+
+//ƒPƒ“–VFN
+Ken:N
+//‘f’Ό‚Ιί‚π”F‚ί‚Λ‚¥‚ΖA’Ι‚Ά–Ϊ‚Ι‘N
+If you don't quietly admit your crime you'reN
+//‚¤‚ΊIP
+going to be in a world of hurt!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C8B4)
+
+// Pos : 0002FEDE
+
+//ƒPƒ“–VFN
+Ken:N
+//‚ζ‚­—‚½‚ΘEEEN
+Welcome...N
+//‘‘¬‚Ύ‚ªA‚±‚Α‚Ώ‚Ι‚Ν“®‚©‚ΚΨ‹’‚ªN
+It's sudden but we have hardN
+//‚ ‚ι‚ρ‚Ύ‚ΊIP
+evidence!P
+
+
+//—z@qFN
+Yoko:N
+//‚ ‚Θ‚½A‚³‚Α‚«Κ^B‚η‚κ‚½‚Ε‚µ‚εP
+The photo from earlier right?P
+
+
+//ƒPƒ“–VFN
+Ken:N
+//ƒEƒqƒ‡ƒqƒ‡EEEN
+Heh-heh-heh...N
+//‚®‚¤‚Μ‰Ή‚ΰo‚Λ‚¥‚Ύ‚λIHP
+You're completely blown away right!?P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C8B8)
+
+// Pos : 0002FF84
+
+//ƒPƒ“–VFN
+Ken:N
+//—zq‚Ι•ί‚ά‚ι‚Θ‚ρ‚ΔA‚¨‚ί‚¦‚ΰƒhƒWN
+You're a pretty clumsy thief getting caughtN
+//‚Θ‰φ“‚Ύ‚Θ‚BP
+by Yoko too.P
+
+
+//—z@qFN
+Yoko:N
+//Έ—η‚ΛIN
+Excuse me!N
+//„‚Ύ‚Α‚Δ‚β‚κ‚Ξ‚Ε‚«‚ι‚Μ‚ζEEEP
+You don't think I'm able to either?P
+
+
+//ƒPƒ“–VFN
+Ken:N
+//“{‚ι‚Θ‚Α‚ΔEEE@‚¨‚Ά‚η‚ª‘γ‚ν‚θN
+Don't get so angry...We're not the onesN
+//‚Ι‚¨d’u‚«‚µ‚Δ‚β‚ι‚ΊIP
+you should be punishing!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C8BC)
+
+// Pos : 00030030
+
+//ƒPƒ“–VFN
+Ken:N
+//ƒEƒqƒ‡ƒqƒ‡ƒqƒ‡ƒqƒ‡`BP
+Heh-heh-heh-heh.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C8C0)
+
+// Pos : 00030051
+
+//ƒPƒ“–VFN
+Ken:N
+//”½Θ‚µ‚λ‚ΑIP
+Think about what you've done!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C8C4)
+
+// Pos : 00030068
+
+//—z@qFN
+Yoko:N
+//‚¤‚η‚ά‚Θ‚Ά‚Ε‚ΛEEEP
+Don't hold it against me...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C8C8)
+
+// Pos : 00030087
+
+//‚Π‚Α‚Η[‚ΆIP
+How awful!P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C8CC)
+
+// Pos : 00030095
+
+//ƒPƒ“–VN•‚―‚Δ`BP
+Ken (will help you).P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002C8D0)
+
+// Pos : 000300A9
+
+//‚©‚ζ‚ν‚Ά‰³—‚Ι‚Θ‚ρ‚Δ–‚·‚ι‚ΜIP
+What did you do to (a/the) frail maiden!P
+
+
+
+
+
+
+#WRITE(MYPTR, $000301EC)
+
+// Pos : 00032234
+
+//E
+
+
+
+#WRITE(MYPTR, $00030204)
+
+// Pos : 0003224C
+
+//E
+
+
+
+#WRITE(MYPTR, $00034698)
+
+// Pos : 000346A4
+
+//΅‰ρ‚Νƒiƒ‹ƒVƒX‚Μ‚¨‰A‚Ε‰½‚Ζ‚©λ‹@N
+This time, thanks to Narcisse you were somehowN
+//‚π’Eo‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚½EEEP
+able to escape the crisis this time...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0003469C)
+
+// Pos : 000346E3
+
+//‚ά‚³‚©ƒiƒ‹ƒVƒX‚ª—‚Δ‚­‚κ‚ι‚Ζ‚ΝP
+Could it be Narcisse came.P
+
+
+
+
+
+
+#WRITE(MYPTR, $000346A0)
+
+// Pos : 00034703
+
+//ƒiƒ‹ƒVƒX‚Ν–l‚Μ‚±‚Ζ‚π©’£‚Α‚Δ‚Ά‚ιN
+Could Narcisse be watching over meN
+//‚Μ‚Ύ‚λ‚¤‚©EEEHP
+I wonder...?P
+
+
+
+
+
+
+#WRITE(MYPTR, $00034794)
+
+#WRITE(MYPTR, $00034798)
+
+// Pos : 000347BC
+
+//ƒLƒƒƒ“ƒfƒB‚π‚Ζ‚η‚κ‚½P
+Candy was takenP
+
+
+
+
+
+
+#WRITE(MYPTR, $0003479C)
+
+// Pos : 000347D2
+
+//ƒrƒXƒPƒbƒg‚π‚Ζ‚η‚κ‚½P
+Biscuit was taken.P
+
+
+
+
+
+
+#WRITE(MYPTR, $000347A0)
+
+// Pos : 000347E8
+
+//ƒ`ƒ‡ƒRƒ[ƒg‚π‚Ζ‚η‚κ‚½P
+Chocolate was taken.P
+
+
+
+
+
+
+#WRITE(MYPTR, $000347A4)
+
+// Pos : 00034800
+
+//ƒ`ƒ…ƒEƒCƒ“ƒKƒ€‚π‚Ζ‚η‚κ‚½P
+Chewing gum was taken.P
+
+
+
+
+
+
+#WRITE(MYPTR, $000347A8)
+
+// Pos : 0003481A
+
+//ƒƒ‰ƒbƒNƒXƒn[ƒu‚π‚Ζ‚η‚κ‚½P
+Relax herb was taken.P
+
+
+
+
+
+
+#WRITE(MYPTR, $000347AC)
+
+// Pos : 00034836
+
+//ƒƒtƒƒbƒVƒ…ƒn[ƒu‚π‚Ζ‚η‚κ‚½P
+Refresh herb was taken.P
+
+
+
+
+
+
+#WRITE(MYPTR, $000347B0)
+
+// Pos : 00034854
+
+//ƒXƒ^ƒ~ƒiƒhƒƒ“ƒN‚π‚Ζ‚η‚κ‚½P
+Stamina drink was taken.P
+
+
+
+
+
+
+#WRITE(MYPTR, $000347B4)
+
+// Pos : 00034870
+
+//ƒX[ƒp[ƒhƒƒ“ƒN‚π‚Ζ‚η‚κ‚½P
+Super drink was taken.P
+
+
+
+
+
+
+#WRITE(MYPTR, $000347B8)
+
+// Pos : 0003488C
+
+//ƒXƒyƒVƒƒƒ‹ƒhƒƒ“ƒN‚π‚Ζ‚η‚κ‚½P
+Special drink was taken.P
+
+
+
+
+
+
+#WRITE(MYPTR, $000348AC)
+
+#WRITE(MYPTR, $000348B0)
+
+// Pos : 000348D4
+
+//ƒLƒƒƒ“ƒfƒB‚π‚ΰ‚η‚Α‚½P
+Candy received.P
+
+
+
+
+
+
+#WRITE(MYPTR, $000348B4)
+
+// Pos : 000348EA
+
+//ƒrƒXƒPƒbƒg‚π‚ΰ‚η‚Α‚½P
+Biscuit received.P
+
+
+
+
+
+
+#WRITE(MYPTR, $000348B8)
+
+// Pos : 00034900
+
+//ƒ`ƒ‡ƒRƒ[ƒg‚π‚ΰ‚η‚Α‚½P
+Chocolate received.P
+
+
+
+
+
+
+#WRITE(MYPTR, $000348BC)
+
+// Pos : 00034918
+
+//ƒ`ƒ…ƒEƒCƒ“ƒKƒ€‚π‚ΰ‚η‚Α‚½P
+Chewing gum received.P
+
+
+
+
+
+
+#WRITE(MYPTR, $000348C0)
+
+// Pos : 00034932
+
+//ƒƒ‰ƒbƒNƒXƒn[ƒu‚π‚ΰ‚η‚Α‚½P
+Relax herb received.P
+
+
+
+
+
+
+#WRITE(MYPTR, $000348C4)
+
+// Pos : 0003494E
+
+//ƒƒtƒƒbƒVƒ…ƒn[ƒu‚π‚ΰ‚η‚Α‚½P
+Refresh herb received.P
+
+
+
+
+
+
+#WRITE(MYPTR, $000348C8)
+
+// Pos : 0003496C
+
+//ƒXƒ^ƒ~ƒiƒhƒƒ“ƒN‚π‚ΰ‚η‚Α‚½P
+Stamina drink received.P
+
+
+
+
+
+
+#WRITE(MYPTR, $000348CC)
+
+// Pos : 00034988
+
+//ƒX[ƒp[ƒhƒƒ“ƒN‚π‚ΰ‚η‚Α‚½P
+Super drink received.P
+
+
+
+
+
+
+#WRITE(MYPTR, $000348D0)
+
+// Pos : 000349A4
+
+//ƒXƒyƒVƒƒƒ‹ƒhƒƒ“ƒN‚π‚ΰ‚η‚Α‚½P
+Special drink received.P
+
+
+
+
+
+
+#WRITE(MYPTR, $00034A0C)
+
+// Pos : 00034A48
+
+//–l‚Νφqκ—p‚Ζ‘‚©‚κ‚½A‰φ‚µ‚°‚ΘN
+I was taken to a suspicious room withN
+//•”‰®‚ΦA‚κ‚Δs‚©‚κ‚½BP
+"Kimiko-only" written on it.P
+
+
+
+
+
+
+#WRITE(MYPTR, $00034A10)
+
+// Pos : 00034A81
+
+//–l‚Ν“Αέ‚Μζ’²Ί‚ΙA‚κ‚ά‚κ‚Δ‚µN
+I was brought to an investigation roomN
+//‚ά‚Α‚½BP
+set up especially for me.P
+
+
+
+
+
+
+#WRITE(MYPTR, $00034A14)
+
+// Pos : 00034AAC
+
+//–l‚Νγ–±Ί‚Μ‚ζ‚¤‚Θ‚ΦA‚κ‚ά‚κN
+I was led to a place like a medicalN
+//‚Δ‚µ‚ά‚Α‚½BP
+office.P
+
+
+
+
+
+
+#WRITE(MYPTR, $00034A18)
+
+// Pos : 00034ADB
+
+//–l‚Ν‹­ψ‚Ιq‹•”‰®‚Μ‚ζ‚¤‚Θ‚Φ‰N
+I was forcibly taken to a place resemblingN
+//‚µ‚ά‚κ‚Δ‚µ‚ά‚Α‚½BP
+a child's room.P
+
+
+
+
+
+
+#WRITE(MYPTR, $00034A1C)
+
+// Pos : 00034B12
+
+//–l‚Ν—zqκ—p‚Ζ‘‚©‚κ‚½“Α•ΚΊ‚ΙAN
+I was taken to a deluxe suite with Yoko-onlyN
+//‚κ‚ά‚κ‚½BP
+written on it.P
+
+
+
+
+
+
+#WRITE(MYPTR, $00034A20)
+
+// Pos : 00034C4A
+
+//φq‚Νg\‚¦‚½IP
+Kimiko squared off!P
+
+
+//‚Ά‚Α‚½‚Ά‰½‚π‚·‚ι‚Β‚ΰ‚θ‚ΎEEEP
+Just what does she intend to do...?P
+
+
+
+
+
+
+
+#WRITE(MYPTR, $00034A24)
+
+// Pos : 00034C7B
+
+//”όK‚Νg\‚¦‚½IP
+Miyuki squared off!P
+
+
+//‚Ά‚Α‚½‚Ά‰½‚π‚·‚ι‚Β‚ΰ‚θ‚ΎEEEP
+Just what does she intend to do...?P
+
+
+
+
+
+
+
+#WRITE(MYPTR, $00034A28)
+
+// Pos : 00034CAC
+
+//ƒj|ƒi‚Νg\‚¦‚½IP
+Nina squared off!P
+
+
+//‚Ά‚Α‚½‚Ά‰½‚π‚·‚ι‚Β‚ΰ‚θ‚ΎEEEP
+Just what does she intend to do...?P
+
+
+
+
+
+
+
+#WRITE(MYPTR, $00034A2C)
+
+// Pos : 00034CDF
+
+//—ν‰Ψ‚Νg\‚¦‚½IP
+Reika squared off!P
+
+
+//‚Ά‚Α‚½‚Ά‰½‚π‚·‚ι‚Β‚ΰ‚θ‚ΎEEEP
+Just what does she intend to do...?P
+
+
+
+
+
+
+
+#WRITE(MYPTR, $00034A30)
+
+// Pos : 00034D10
+
+//—zq‚Νg\‚¦‚½IP
+Yoko squared off!P
+
+
+//‚Ά‚Α‚½‚Ά‰½‚π‚·‚ι‚Β‚ΰ‚θ‚ΎEEEP
+Just what do they intend to do...?P
+
+
+
+
+
+
+
+#WRITE(MYPTR, $00034A34)
+
+// Pos : 00034B41
+
+//φq‚Ν‚Π‚ι‚ρ‚Ε‚Ά‚ιIIP
+Kimiko flinched!P
+
+
+//‚»‚Μ‚·‚«‚Ι–l‚Νφq‚π”›‚θγ‚°‚½BP
+Taking that opening I tied Kimiko up.P
+
+
+
+
+
+
+#WRITE(MYPTR, $00034A38)
+
+// Pos : 00034B7A
+
+//”όK‚ΝΒ‚΄‚ί‚Δ‚Ά‚ιIIP
+Miyuki goes pale!P
+
+
+//–l‚Ν‚·‚«‚π©‚Δ”όK‚π“Λ‚«”ς‚Ξ‚µ‚½P
+I see an opening and push Miyuki awayP
+
+
+
+
+
+
+#WRITE(MYPTR, $00034A3C)
+
+// Pos : 00034BB3
+
+//‚±‚±‚Ε‚β‚η‚κ‚ι‚ν‚―‚Ι‚Ν‚Ά‚©‚Θ‚ΆIP
+There's no way I'm being done in here!P
+
+
+//‚±‚κ‚Ε‚ΰ‚­‚η‚¦IIP
+Eat this!P
+
+
+
+
+
+
+#WRITE(MYPTR, $00034A40)
+
+// Pos : 00034BE8
+
+//—ν‰Ψ‚Ν“χƒ}ƒ“‚Ι‹C‚π‚Ζ‚η‚κ‚Δ‚Ά‚ιHN
+Is Reika preoccupied with the meat bun?N
+//‚¦‚΅IIP
+Eh!P
+
+
+
+
+
+
+#WRITE(MYPTR, $00034A44)
+
+// Pos : 00034C13
+
+//“¦‚°‚ι‚Ι‚Ν‚±‚κ‚µ‚©‚Θ‚ΆIP
+I have no choice but to run away!P
+
+
+//‚¨‚ά‚¦‚Θ‚ρ‚©‚±‚¤‚µ‚Δ‚β‚ιIIP
+(???)P
+
+
+
+
+
+

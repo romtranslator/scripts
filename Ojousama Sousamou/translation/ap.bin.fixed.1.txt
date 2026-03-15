@@ -1,0 +1,417 @@
+#VAR(TABLE, TABLE)
+
+#ADDTBL("SJIS.TBL", TABLE)
+
+#ACTIVETBL(TABLE)
+
+
+
+#JUMP("NOT_SET")
+
+
+
+// Pos : 000475AA
+
+// Fixed Length : 0024
+
+//ＮＯＴＨＩＮＧ　　
+NOTHING
+
+
+
+// Pos : 000475CE
+
+// Fixed Length : 0024
+
+//キャンディを手に入れたP
+Candy acquired.P
+
+
+
+
+
+
+// Pos : 000475F2
+
+// Fixed Length : 0024
+
+//ビスケットを手に入れたP
+Biscuit acquired.P
+
+
+
+
+
+
+// Pos : 00047616
+
+// Fixed Length : 0024
+
+//チョコレートを手に入れたP
+Chocolate acquired.P
+
+
+
+
+
+
+// Pos : 0004763A
+
+// Fixed Length : 0024
+
+//チュウインガムを手に入れたP
+Chewing gum acquired.P
+
+
+
+
+
+
+// Pos : 0004765E
+
+// Fixed Length : 0024
+
+//リラックスハーブを手に入れたP
+Relax herb acquired.P
+
+
+
+
+
+
+// Pos : 00047682
+
+// Fixed Length : 0024
+
+//リフレッシュハーブを手に入れたP
+Refresh herb acquired.P
+
+
+
+
+
+
+// Pos : 000476A6
+
+// Fixed Length : 0024
+
+//スタミナドリンクを手に入れたP
+Stamina drink acquired.P
+
+
+
+
+
+
+// Pos : 000476CA
+
+// Fixed Length : 0024
+
+//スーパードリンクを手に入れたP
+Super drink acquired.P
+
+
+
+
+
+
+// Pos : 000476EE
+
+// Fixed Length : 0024
+
+//スペシャルドリンクを手に入れたP
+Special drink acquired.P
+
+
+
+
+
+
+// Pos : 00047712
+
+// Fixed Length : 0024
+
+//赤外線スコープを手に入れたP
+Infrared scope acquired.P
+
+
+
+
+
+
+// Pos : 00047736
+
+// Fixed Length : 0024
+
+//吸盤ピストルを手に入れたP
+Sucker pistol acquired.P
+
+
+
+
+
+
+// Pos : 0004775A
+
+// Fixed Length : 0024
+
+//アイアンシューズを手に入れたP
+Iron shoes acquired.P
+
+
+
+
+
+
+// Pos : 0004777E
+
+// Fixed Length : 0024
+
+//身代わり人形を手に入れたP
+Substitute doll acquired.P
+
+
+
+
+
+
+// Pos : 000477A2
+
+// Fixed Length : 0024
+
+//プラスティク爆弾を手に入れたP
+Plastic explosive acquired.P
+
+
+
+
+
+
+// Pos : 000477C6
+
+// Fixed Length : 0024
+
+//におい袋を手に入れたP
+Odor bag acquired.P
+
+
+
+
+
+
+// Pos : 000477EA
+
+// Fixed Length : 0024
+
+//中和スプレーを手に入れたP
+Neutralize spray acquired.P
+
+
+
+
+
+
+// Pos : 0004780E
+
+// Fixed Length : 0024
+
+//ペンチを手に入れたP
+Pliers acquired.P
+
+
+
+
+
+
+// Pos : 00047832
+
+// Fixed Length : 0024
+
+//護符を手に入れたP
+Talisman acquired.P
+
+
+
+
+
+
+// Pos : 00047856
+
+// Fixed Length : 0024
+
+//ミネラルウォーターを手に入れたP
+Mineral water acquired.P
+
+
+
+
+
+
+// Pos : 0004787A
+
+// Fixed Length : 0024
+
+//ゴムのゲジゲジを手に入れたP
+Rubber centipede acquired.P
+
+
+
+
+
+
+// Pos : 0004789E
+
+// Fixed Length : 0024
+
+//チキン・マスクを手に入れたP
+Chicken-mask acquired.P
+
+
+
+
+
+
+// Pos : 000478C2
+
+// Fixed Length : 0024
+
+//肉マンを手に入れたP
+Meat bun acquired.P
+
+
+
+
+
+
+// Pos : 000478E6
+
+// Fixed Length : 0024
+
+//チックル・ハンドを手に入れたP
+Tickle-hand acquired.P
+
+
+
+
+
+
+// Pos : 0004790A
+
+// Fixed Length : 0024
+
+//ぴこぴこを手に入れたP
+Squeaky acquired.P
+
+
+
+
+
+
+// Pos : 0004792E
+
+// Fixed Length : 0024
+
+//変装キットを手に入れたP
+Disguise kit acquired.P
+
+
+
+
+
+
+// Pos : 00047952
+
+// Fixed Length : 0024
+
+//発光弾を手に入れたP
+Luminescence bullet acquired.P
+
+
+
+
+
+
+// Pos : 00047976
+
+// Fixed Length : 0024
+
+//言い訳虎ノ巻を手に入れたP
+Cop-out answer book acquired.P
+
+
+
+
+
+
+// Pos : 0004799A
+
+// Fixed Length : 0024
+
+//公子の録音テープを手に入れたP
+Kimiko audio tape acquired.P
+
+
+
+
+
+
+// Pos : 000479BE
+
+// Fixed Length : 0024
+
+//陽子の録音テープを手に入れたP
+Yoko audio tape acquired.P
+
+
+
+
+
+
+// Pos : 000479E2
+
+// Fixed Length : 0024
+
+//美幸の録音テープを手に入れたP
+Miyuki audio tape acquired.P
+
+
+
+
+
+
+// Pos : 00047A06
+
+// Fixed Length : 0024
+
+//麗華の録音テープを手に入れたP
+Reika audio tape acquired.P
+
+
+
+
+
+
+// Pos : 00047A2A
+
+// Fixed Length : 0024
+
+//ニ－ナの録音テープを手に入れたP
+Nina audio tape acquired.P
+
+
+
+
+
+
+// Pos : 00047A4E
+
+// Fixed Length : 0024
+
+//ＩＣチップを手に入れたP
+IC chip acquired.P
+
+
+
+
+
+

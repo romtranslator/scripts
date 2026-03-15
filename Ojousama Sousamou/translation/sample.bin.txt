@@ -1,0 +1,1370 @@
+#VAR(TABLE, TABLE)
+
+#ADDTBL("SJIS.TBL", TABLE)
+
+#ACTIVETBL(TABLE)
+
+#VAR(MYPTR, CUSTOMPOINTER)
+
+#CREATEPTR(MYPTR, "LINEAR", $00030000, 32)
+
+
+
+#JUMP("NOT_SET")
+
+
+
+#WRITE(MYPTR, $0001C8A8)
+
+// Pos : 0000FB3C
+
+//お嬢様からの手紙が入っていた。cこんなトラップに掛かる様じゃまだ\n
+It contains a letter from a lady.c You're much to early to set a\n
+//まだね。c・・・フッ、ナメられたもんだな。c
+trap like that...c Hmph, I'm being taken lightly.c
+
+
+#WRITE(MYPTR, $0001C8AC)
+
+// Pos : 0000FBA7
+
+//お嬢様からの手紙が入っていた。c残念でしたー、お馬鹿な怪盗さん。c・・・ちょっと、くやしい。c
+It contains a letter from a lady. Too bad foolish little mystery thief.c hn... That ticks me off a little.c
+
+
+#WRITE(MYPTR, $0001C8B0)
+
+// Pos : 0000FC03
+
+//お嬢様からの手紙が入っていた。cやーい、やーい、からっぽだよー。cクソッ、バカにしやがって！c
+It contains a letter from a lady.cWell, well, it's empty.cDamn it, I'm being made a fool of!c
+
+
+#WRITE(MYPTR, $0001CB48)
+
+// Pos : 0000FD70
+
+//わっ、なんだこれは？\n
+W-What's this?\n
+//捕獲用のネットか・・・\n
+A capturing net...\n
+//ちくしょう！　動けないぞ！c
+Dammit! I can't move!c
+
+
+#WRITE(MYPTR, $0001CB5C)
+
+// Pos : 0000FDB8
+
+//どわっ～！　地雷を踏んでしまった\n
+Waa-! I accidentally stepped on a land mine.\n
+//こんな所に地雷を仕掛けるなんて、\n
+Putting a land mine someplace like this,\n
+//まったく、あのお嬢様達はなにを考\n
+really, what are those young ladies\n
+//えているんだ。c
+thinking.c
+
+
+#WRITE(MYPTR, $0001CB70)
+
+// Pos : 0000FE2B
+
+//こんな単純なトラップに掛かるなん\n
+Setting such a simple trap\n
+//て・・・\n
+is...\n
+//トホホ・・・　情けない。c
+Boo-hoo-hoo...I'm (they're) pathetic.c
+
+
+#WRITE(MYPTR, $0001CB84)
+
+// Pos : 0000FE6F
+
+//げほっ、げほっ！　催眠ガス！？c
+Cough -, cough -! Sleeping gas!?c
+
+
+#WRITE(MYPTR, $0001CB98)
+
+// Pos : 0000FE8F
+
+//バナナの皮・・・cだ、誰だ、こんな所にバナナの皮を\n
+A banana peel...cWho would discard a\n
+//捨てる奴は！！c
+banana peel someplace like this!c
+
+
+#WRITE(MYPTR, $0001CBAC)
+
+// Pos : 0000FED1
+
+//くっ！　体がびしょ濡れだ！cまったく、どれだけトラップがあるN
+Grr-! I'm soaked to the skin!cSeriously, how many trapsN
+//んだ・・・c
+are there...c
+
+
+#WRITE(MYPTR, $0001CBC0)
+
+// Pos : 0000FF19
+
+//ちっ！　立体映像か・・・cだまされた。c
+Tch-! A 3-D image...cI was fooled.c
+
+
+#WRITE(MYPTR, $0001CBD4)
+
+// Pos : 0000FF40
+
+//目がま・わ・る・・・cクラクラしてまっすぐ進めない・・c
+The world is spinning-...cI'm so dizzy I can't walk straight.c
+
+
+#WRITE(MYPTR, $0001CBE8)
+
+// Pos : 0000FF77
+
+//ちくしょう！接着剤を踏んでしまっ\n
+Dammit! I stepped on an adhesive strip-.\n
+//た。なんとか脱出できたが・・・c
+I was able to escape somehow.c
+
+
+#WRITE(MYPTR, $0001CBFC)
+
+// Pos : 0000FFB8
+
+//しまった！　写真をとられた・・・P
+Dammit! My photograph was taken...P
+
+
+
+
+
+
+#WRITE(MYPTR, $0001CC10)
+
+// Pos : 0000FFDB
+
+//ちくしょう！　これも罠か・・・P
+Dammit! This a trap too.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0001CC38)
+
+// Pos : 00010035
+
+//くっ・・・　まだ頭がずきずきするc超音波か？c随分、科学的なトラップも仕掛けて\n
+Grr-... My head is still throbbingc from ultrasonic waves?c They also set up some extremely\n
+//あるんだな・・・c
+high tech traps.c
+
+
+#WRITE(MYPTR, $0001CC4C)
+
+// Pos : 00010094
+
+//いきなり床が開くとは・・・c危なかった、もう少しで下まで落ち\n
+The floor suddenly opened and...c That was close,\n
+//る所だった。c
+a little more and I would have fallen.c
+
+
+#WRITE(MYPTR, $0001CC60)
+
+// Pos : 000100DE
+
+//くっ！　きいたな・・・cまさかシャンデリアが落ちてくるとN
+Grr-! That was a dirty trick... cI didn't think the chandelier would fallN
+//は・・・cまったく、手加減を知らん奴らだ！c
+...cSeriously, those girls have never heard of going easy on someone!c
+
+
+#WRITE(MYPTR, $0001CC74)
+
+// Pos : 00010141
+
+//わっ！　床から針が・・・c床にこんな仕掛けがあったなんてc
+Wah-! Needles from the floor. cSetting such a trap in the floor...c
+
+
+#WRITE(MYPTR, $0001CC80)
+
+// Pos : 0001017A
+
+//げっ！　こんな所にピアノ線が！c
+Urk-! What's piano wire doing here!c
+
+
+#WRITE(MYPTR, $0001CC8C)
+
+// Pos : 0001019A
+
+//しっ、しまった。　赤外線か・・・c
+D-Damn it. Infra-red rays.c
+
+
+#WRITE(MYPTR, $0001CC98)
+
+// Pos : 000101BC
+
+//何か動いたようだ・・・c
+Something seemed to move.c
+
+
+#WRITE(MYPTR, $0001CCA4)
+
+// Pos : 000101D4
+
+//あっちちっ！　強引にいきすぎたな\n
+Ow-ow! That was a little too close.\n
+//もう少しで丸焼けになる所だった。c
+Any more an I would have been barbecued.c
+
+
+#WRITE(MYPTR, $0001CCB0)
+
+// Pos : 00010217
+
+//ぎゃっ！　し、しびれる・・・cこれは結構きいたな・・・c
+Gha-! I'm all numb...c That was pretty dirty.c
+
+
+#WRITE(MYPTR, $0001CCBC)
+
+// Pos : 0001024E
+
+//ふぅ～　まったっく酷いめにあったN
+Whew that was really awful.N
+//命がいくつあっても足りないな。c避けて通るしかなさそうだな。c
+No matter how lives you have it wouldn't be enough.c I guess I'll go around.c
+
+
+#WRITE(MYPTR, $0001CCC8)
+
+// Pos : 000102AC
+
+//わわっ！　びっくりした。cいきなり花火がとんでくるとは・・c
+Wah-! That startled me.c Fireworks suddenly coming out...c
+
+
+#WRITE(MYPTR, $0001CCD4)
+
+// Pos : 000102E7
+
+//いまのも罠の一つなのか・・・cだとしたらお嬢様達もあなどれない\n
+Another trap?...cIf so those ladies are pretty good\n
+//な・・・cそれとも本物の幽霊だったのか？c
+...cOr was it a real ghost?c
+
+
+#WRITE(MYPTR, $0001CCE0)
+
+// Pos : 0001034E
+
+//あんなにたくさんの吸血コウモリが\n
+Attacking so many blood sucking bats\n
+//襲ってくるなんて・・・c何だかクラクラしてきた・・・c
+has kind of...cMade me a little dizzy.c
+
+
+#WRITE(MYPTR, $0001CCEC)
+
+// Pos : 000103A4
+
+//この神殿もだいぶもろくなっている\n
+This temple looks pretty fragile\n
+//ようだな・・・c早くお宝を手に入れて脱出しよう。c
+...c I'd better nab the treasure and hustle out of here.c
+
+
+#WRITE(MYPTR, $0001CD04)
+
+// Pos : 000103F7
+
+//これがナルシスが狙っていたお宝だ\n
+This is the treasure Narcisse was aiming for\n
+//な・・・cダイヤの首飾りを、手に入れたc
+...cDiamond necklace acquired.c
+
+
+#WRITE(MYPTR, $0001CD10)
+
+// Pos : 0001043F
+
+//何とか第２の目標を達成できた。c怪盗と呼ばれるまでがんばるぞ！cエメラルドの仏像を手に入れたc
+I was able to achieve the secondary goal somehow.c Gotta give it my all until they call me the greatest thief!cEmerald Buddha statue acquired.c
+
+
+#WRITE(MYPTR, $0001CD1C)
+
+// Pos : 0001049B
+
+//やっとお宝を手にいれることができ\n
+I'm finally able to get my hands on the treasure\n
+//た・・・cこの調子で次のお宝も頂きだ！c聖母マリアの肖像画を手に入れたc
+... cI'll keep this up and get the treasure!c Virgin Mary portrait acquired.c
+
+
+#WRITE(MYPTR, $0001CD28)
+
+// Pos : 00010502
+
+//これで残るお宝はあと一つ、怪盗の\n
+After this there is only one treasure left. Just a little\n
+//仲間入りまでもう少しだ！c五爪の龍の香炉を手に入れたc
+more before I join the greatest thief club!c Five-claw dragon censer acquired.c
+
+
+#WRITE(MYPTR, $0001CD34)
+
+// Pos : 00010558
+
+//ついに最後のお宝を手に入れたぞ！cこれで僕も怪盗の仲間入りだ！cサファイアの王冠を手に入れたc
+I've finally acquired the last treasure! cNow I'm gonna be in the greatest thief group!c Sapphire crown acquired.c
+
+
+#WRITE(MYPTR, $0001CD40)
+
+// Pos : 000105B4
+
+//・・・！cこれが、ネクトールの壺なのか！cやった！ついに、ネクトールの壺を\n
+...!c This is Nectar Jar!cYay! I've finally found the Nectar\n
+//手に入れたぞ！cこれで、僕も本物の怪盗になったん\n
+Jar!cNow I can finally be called a true thief\n
+//だ！c
+!c
+
+
+#WRITE(MYPTR, $0001D0E8)
+
+// Pos : 0001D659
+
+//ん、この銅像\n
+Hm, this bronze statue\n
+//なにかのスイッチみたいだなc
+seems to have some sort of switch.c
+
+
+#WRITE(MYPTR, $0001D168)
+
+// Pos : 0001D7E9
+
+//今さら逃げ帰るわけにはいかないな\n
+At this point there's no way I can run home\n
+//・・・c
+...c
+
+
+#WRITE(MYPTR, $0001D0F8)
+
+#WRITE(MYPTR, $0001D258)
+
+#WRITE(MYPTR, $0001D268)
+
+// Pos : 0001D63F
+
+//何か妙なスイッチがあるなc
+There's some strange switch.c
+
+
+#WRITE(MYPTR, $0001D328)
+
+// Pos : 0001D682
+
+//この鏡・・・？cどうやら、かくし通路になっている\n
+This mirror...?cIt seems like some hidden\n
+//ようだ。c
+passage.c
+
+
+#WRITE(MYPTR, $0001D3E8)
+
+// Pos : 0001D6DE
+
+//この壁・・・c壊せるかもしれないな？c
+This wall...cMaybe it's breakable?c
+
+
+#WRITE(MYPTR, $0001D3F8)
+
+// Pos : 0001D6BC
+
+//机の端に、変なスイッチがある・・c
+There's a strange switch at the edge of the desk.c
+
+
+#WRITE(MYPTR, $0001D408)
+
+// Pos : 0001D725
+
+//この壁・・・\n
+This wall is...\n
+//もろそうだなc
+brittle-seeming./c
+
+
+#WRITE(MYPTR, $0001D428)
+
+// Pos : 0001D703
+
+//ん、こんなところにスイッチが・・c
+Hm, what's a switch doing here.c
+
+
+#WRITE(MYPTR, $0001D568)
+
+// Pos : 0001D740
+
+//広いっ！　こんなちっぽけな島の地\n
+It's huge-! To hide a temple\n
+//下にこれほど巨大な神殿が隠されて\n
+underground on such a small\n
+//いたなんて・・・cしかし、この神殿のどこかにデロス\n
+island...cHowever, Delos' lost treasure\n
+//のお宝が隠されているはずだ。c・・・よしっ、いくぞ！c
+should be hidden here somewherec...Ok-, here we go!c
+
+
+#WRITE(MYPTR, $0001D850)
+
+// Pos : 00014CE2
+
+//公子は、力尽きた。c
+Kimiko' power is depleted.c
+
+
+#WRITE(MYPTR, $0001D854)
+
+// Pos : 00014CF6
+
+//美幸は、力尽きた。c
+Miyuki's power is depleted.c
+
+
+#WRITE(MYPTR, $0001D858)
+
+// Pos : 00014D0A
+
+//ニーナは、力尽きた。c
+Nina's power is depleted.c
+
+
+#WRITE(MYPTR, $0001D85C)
+
+// Pos : 00014D20
+
+//麗華は、力尽きた。c
+Reika's power is depleted.c
+
+
+#WRITE(MYPTR, $0001D860)
+
+// Pos : 00014D34
+
+//陽子は、力尽きた。c
+Yoko's power is depleted.c
+
+
+#WRITE(MYPTR, $0001D864)
+
+// Pos : 00014D48
+
+//ナルシスは、力尽きた。c
+Narcisse's power is depleted.c
+
+
+#WRITE(MYPTR, $0007216C)
+
+// Pos : 00017C58
+
+//ＮＯＴＨＩＮＧ
+NOTHING
+
+
+#WRITE(MYPTR, $00072170)
+
+// Pos : 00017C67
+
+//ゴムのゲジゲジ
+Rubber Centipede
+
+
+#WRITE(MYPTR, $00072174)
+
+// Pos : 00017C76
+
+//チキン・マスク
+Chicken Mask
+
+
+#WRITE(MYPTR, $00072178)
+
+// Pos : 00017C85
+
+//肉マン
+Meat Bun
+
+
+#WRITE(MYPTR, $0007217C)
+
+// Pos : 00017C8C
+
+//チックル・ハンド
+Tickle Hand
+
+
+#WRITE(MYPTR, $00072180)
+
+// Pos : 00017C9D
+
+//ぴこぴこカエル
+Squeaky Frog
+
+
+#WRITE(MYPTR, $00072184)
+
+// Pos : 00017CAC
+
+//変装キット
+Disguise Kit
+
+
+#WRITE(MYPTR, $00072188)
+
+// Pos : 00017CB7
+
+//公子専用テープ
+Kimiko-only Tape
+
+
+#WRITE(MYPTR, $0007218C)
+
+// Pos : 00017CC6
+
+//美幸専用テープ
+Miyuki-only Tape
+
+
+#WRITE(MYPTR, $00072190)
+
+// Pos : 00017CD5
+
+//ニーナ専用テープ
+Nina-only Tape
+
+
+#WRITE(MYPTR, $00072194)
+
+// Pos : 00017CE6
+
+//麗華専用テープ
+Reika-only Tape
+
+
+#WRITE(MYPTR, $00072198)
+
+// Pos : 00017CF5
+
+//陽子専用テープ
+Yoko-only Tape
+
+
+#WRITE(MYPTR, $0007219C)
+
+// Pos : 00017D04
+
+//発光弾
+Luminescence Bullet
+
+
+#WRITE(MYPTR, $000721A0)
+
+// Pos : 00017D0B
+
+//言い訳虎の巻
+Cop-out Answer Book
+
+
+#WRITE(MYPTR, $000721A4)
+
+// Pos : 00017D18
+
+//キャンディ
+Candy
+
+
+#WRITE(MYPTR, $000721A8)
+
+// Pos : 00017D23
+
+//ビスケット
+Biscuit
+
+
+#WRITE(MYPTR, $000721AC)
+
+// Pos : 00017D2E
+
+//チョコレート
+Chocolate
+
+
+#WRITE(MYPTR, $000721B0)
+
+// Pos : 00017D3B
+
+//チュウインガム
+Chewing Gum
+
+
+#WRITE(MYPTR, $000721B4)
+
+// Pos : 00017D4A
+
+//リラックスハーブ
+Relax Herb
+
+
+#WRITE(MYPTR, $000721B8)
+
+// Pos : 00017D5B
+
+//リフレッシュハーブ
+Refresh Herb
+
+
+#WRITE(MYPTR, $000721BC)
+
+// Pos : 00017D6E
+
+//スタミナドリンク
+Stamina Drink
+
+
+#WRITE(MYPTR, $000721C0)
+
+// Pos : 00017D7F
+
+//スーパードリンク
+Super Drink
+
+
+#WRITE(MYPTR, $000721C4)
+
+// Pos : 00017D90
+
+//スペシャルドリンク
+Special Drink
+
+
+#WRITE(MYPTR, $000721C8)
+
+// Pos : 00017DA3
+
+//赤外線スコープ
+Infrared Scope
+
+
+#WRITE(MYPTR, $000721CC)
+
+// Pos : 00017DB2
+
+//吸盤ピストル
+Sucker Pistol
+
+
+#WRITE(MYPTR, $000721D0)
+
+// Pos : 00017DBF
+
+//アイアンシューズ
+Iron Shoes
+
+
+#WRITE(MYPTR, $000721D4)
+
+// Pos : 00017DD0
+
+//身代わり人形
+Substitute Doll
+
+
+#WRITE(MYPTR, $000721D8)
+
+// Pos : 00017DDD
+
+//プラスチック爆弾
+Plastic Explosive
+
+
+#WRITE(MYPTR, $000721DC)
+
+// Pos : 00017DEE
+
+//におい袋
+Odor Bag
+
+
+#WRITE(MYPTR, $000721E0)
+
+// Pos : 00017DF7
+
+//中和スプレー
+Neutralize Spray
+
+
+#WRITE(MYPTR, $000721E4)
+
+// Pos : 00017E04
+
+//ペンチ
+Pliers
+
+
+#WRITE(MYPTR, $000721E8)
+
+// Pos : 00017E0B
+
+//護符
+Talisman
+
+
+#WRITE(MYPTR, $000721EC)
+
+// Pos : 00017E10
+
+//聖水
+Holy Water
+
+
+#WRITE(MYPTR, $000721F0)
+
+// Pos : 00017E15
+
+//ＩＣチップ
+IC chip
+
+
+#WRITE(MYPTR, $000721F4)
+
+// Pos : 00017E20
+
+//金貨を発見した。cこれは世界でも数の少ない貴重な金N
+You found a gold coin.c This is one of the few of these coinsN
+//貨だ。c金貨を入手した。c
+in the world.cGold coin acquired.c
+
+
+#WRITE(MYPTR, $000721F8)
+
+// Pos : 00017E6B
+
+//銀貨を発見した。cこんな銀貨でも、いくらかにはなるN
+You found a silver coin.cI wonder what such a silver coin isN
+//か・・・c銀貨を入手した。c
+worth...cSilver coin acquired.c
+
+
+#WRITE(MYPTR, $000721FC)
+
+// Pos : 00017EB8
+
+//銅貨を発見した。cたいした価値はないが、まぁ、頂い\n
+Copper coin found.c It's not very valuable but I'll\n
+//ておくか・・・c銅貨を入手した。c
+take it...c Copper coin acquired.c
+
+
+#WRITE(MYPTR, $00072200)
+
+// Pos : 00017F0B
+
+//金の髪飾りを発見した。cこれは陽貴妃が愛用していたと言わN
+Gold hair accessory found.c Didn't they say that this was the sun empress' favoriteN
+//れる髪飾りじゃないか。c金の髪飾りを入手した。c
+hair accessory. cGold hair accessory acquired.c
+
+
+#WRITE(MYPTR, $00072204)
+
+// Pos : 00017F72
+
+//銀の髪飾りを発見した。cノルマン王朝に伝わる髪飾りがこんN
+Silver hair accessory found.c So there was a hair accessory handed down fromN
+//な所にあったとは・・・c銀の髪飾りを入手した。c
+the Norman dynasty in this sort of place...c Silver hair accessory acquired.c
+
+
+#WRITE(MYPTR, $00072208)
+
+// Pos : 00017FD9
+
+//ヒスイの指輪を発見した。cエカテリーナ二世がしていたとされN
+Jade ring found.c It was worn by Catherine the Great.N
+//る指輪だな。cヒスイの指輪を入手した。c
+Jade ring acquired.c
+
+
+#WRITE(MYPTR, $0007220C)
+
+// Pos : 0001803A
+
+//ルビーの指輪を発見した。c５カラットもある大きなルビーの指N
+Ruby ring found.cA ring with a big five carat rubyN
+//輪だ。　ラッキー！cルビーの指輪を入手した。c
+in it. Today's my lucky day!c Ruby ring acquired.c
+
+
+#WRITE(MYPTR, $00072210)
+
+// Pos : 000180A1
+
+//真珠のピアスを発見した。c何処にでもあるありふれた物だが貰N
+Pearl earrings found.c Just your everyday commonplace pearlN
+//っておくか・・・c真珠のピアスを入手した。c
+earrings...c Pearl earrings acquired.c
+
+
+#WRITE(MYPTR, $00072214)
+
+// Pos : 00018106
+
+//真珠のネックレスを発見した。cルイ十三世が愛人に贈った、真珠のN
+Pearl necklace found.cA pearl necklace given by Louis XIII to aN
+//首飾りだっ！　なかなかの値打ち物N
+lover-! A very valuable item.N
+//だな。c真珠のネックレスを入手した。c
+c Pearl necklace acquired.c
+
+
+#WRITE(MYPTR, $00072218)
+
+// Pos : 0001818A
+
+//金の腕輪を発見した。cこ、これはインカ帝国皇帝がはめてN
+Gold bracelet found. cI-Isn't this a gold bracelet worn by theN
+//いたとされる黄金の腕輪じゃないかc金の腕輪を入手した。c
+Inca Empire's emperor?cGold bracelet acquired.c
+
+
+#WRITE(MYPTR, $0007221C)
+
+// Pos : 000181F7
+
+//銀の腕輪を発見した。cシャー・ジャハンが最愛の后に贈っN
+Silver braceletc found. A silver bracelet given by Shah JahanN
+//たとされる銀の腕輪か・・・c銀の腕輪を入手した。c
+to his beloved empress... cSilver bracelet acquired.c
+
+
+#WRITE(MYPTR, $00072220)
+
+// Pos : 0001825E
+
+//銀の手鏡を発見した。c帝政、ロシアの貴族が愛用していたN
+Silver hand-mirror found.c A hand-mirror favored by the nobles ofN
+//手鏡だな・・・cニーナの物か？c銀の手鏡を入手した。c
+the Russian Empire... cWas it Nina's?c Silver hand-mirror acquired.c
+
+
+#WRITE(MYPTR, $00072224)
+
+// Pos : 000182C8
+
+//銅の手鏡を発見した。cこれは、三角縁神獣鏡だ・・・c骨董屋が喜びそうな代物だな。c銅の手鏡を入手した。c
+Copper hand-mirror found.c This is a Sankaku-buchi Shinjukyo mirror...cThis would thrill any antique dealer.c Copper hand-mirror acquired.c
+
+
+#WRITE(MYPTR, $00072228)
+
+// Pos : 0001832D
+
+//ガラスの杯を発見した。cこれはササン朝ペルシャの頃のガラN
+Glass wine cupsc found. These are glass cups from Sessanian PersiaN
+//スだな。cガラスの杯を入手した。c
+times.c Glass wine cups acquired.c
+
+
+#WRITE(MYPTR, $0007222C)
+
+// Pos : 00018386
+
+//象牙の扇子を発見した。c山田長政、愛用の扇子とは驚いた！N
+Ivory folding fan found.c Surprisingly it was Nagamasa Yamada's favorite folding fan!N
+//しかし、変な物まであるなぁ・・・c象牙の扇子を入手した。c
+However, it sure is odd isn't it...cIvory folding fan acquired.c
+
+
+#WRITE(MYPTR, $00072230)
+
+// Pos : 000183F7
+
+//金のシヴァ神像を発見した。cシヴァ神を型どった金の彫像のようN
+Gold Shiva statue found. cIt's a gold sculpture that appears to beN
+//だ。c金のシヴァ神像を入手した。c
+in the shape of Shiva.c Gold Shiva statue acquired.c
+
+
+#WRITE(MYPTR, $00072234)
+
+// Pos : 00018454
+
+//水晶の玉を発見した。cクレオパトラが占いに用いたと言わN
+Crystal sphere found.c To find the legendary crystal ball used forN
+//れる伝説の水晶玉がこんな所にあるN
+fortune-telling by Cleopatra someplaceN
+//なんて・・・c水晶の玉を入手した。c
+like this...c Crystal sphere acquired.c
+
+
+#WRITE(MYPTR, $00072238)
+
+// Pos : 000184CE
+
+//アクアマリンのブローチを発見したcショップに持って行けば、例のお姉\n
+Aquamarine brooch found.cThe kind of thing a girl would be pleased to find\n
+//さんが喜びそうだな。cアクアマリンのブローチを入手したc
+when you go to a shop.c Aquamarine brooch acquiredc
+
+
+#WRITE(MYPTR, $0007223C)
+
+// Pos : 00018547
+
+//純金の壷を発見した。cラッキー！　秀吉、愛用の黄金の茶N
+Pure gold jar found.cIt's my lucky day! Hideyoshi's favorite golden teaN
+//壷だ。c純金の壷を入手した。c
+jar.cPure gold jar acquired.c
+
+
+#WRITE(MYPTR, $00072240)
+
+// Pos : 0001859A
+
+//金刺繍の帽子を発見した。cナポレオンがかぶっていた金の刺繍N
+Gold embroidered hatc found. A hat featuring gold embroideryN
+//をあしらった帽子だな。cちょっとかぶってみようかな・・・c金刺繍の帽子を入手した。c
+worn by Napoleon.cI guess I'll try it on for a bit...cGold embroidered hat acquired.c
+
+
+#WRITE(MYPTR, $00072244)
+
+// Pos : 00018626
+
+//金のランプを発見した。c金製のランプだ。　特に珍しい物でN
+Gold lamp found.cA lamp made of gold. It's not a particularly uniqueN
+//はないな。c金のランプを入手した。c
+thing.cGold lamp acquired.c
+
+
+#WRITE(MYPTR, $00072248)
+
+// Pos : 00018681
+
+//金の延べ棒を発見した。cけっこう重いな・・・c金の延べ棒を入手した。c
+Gold bar found.cIt's pretty heavy...c Gold bar acquired.c
+
+
+#WRITE(MYPTR, $0007224C)
+
+// Pos : 000186C5
+
+//銀の食器を発見した。cフィリップ二世が愛用していた銀製N
+Silver tablewarec found. Tableware made of silver, used byN
+//の食器だな。cブルボン家の紋章がついている。c銀の食器を入手した。c
+Philip II.cBears the crest of the House of Bourbon.c Silver tableware acquired.c
+
+
+#WRITE(MYPTR, $00072250)
+
+// Pos : 0001873D
+
+//水晶の短剣を発見した。cシャルル七世がジャンヌ・ダルクにN
+Crystal dagger found.cIsn't this the treasured swordN
+//贈ったと伝えられる宝剣じゃないかN
+given to Joan of Arc by Charles VII?N
+//歴史的にも貴重な物だぞ。c水晶の短剣を入手した。c
+It's an historic artifact.cCrystal dagger acquired.c
+
+
+#WRITE(MYPTR, $00072254)
+
+// Pos : 000187C7
+
+//七宝の剣を発見した。cフビライがマルコ・ポーロの為に作N
+Cloisonne swordc found. A gem strewn swordN
+//ったとされる、宝石を散りばめた短N
+made by Kublai for Marco Polo.N
+//剣だ。c七宝の剣を入手した。c
+cCloisonne sword acquired.c
+
+
+#WRITE(MYPTR, $00072258)
+
+// Pos : 0001883B
+
+//エメラルドの仮面を発見した。c古代メキシコのマヤ文明で造られたN
+Emerald mask found.cAn emerald mask created in ancient Mexico byN
+//エメラルドの仮面だな。c保存の状態も良いようだ。cエメラルドの仮面を入手した。c
+the Maya civilization.cIt seems to be well preserved too.cEmerald mask acquired.c
+
+
+#WRITE(MYPTR, $0007225C)
+
+// Pos : 000188C7
+
+//白磁の壷を発見した。cこれは清王乾隆帝秘蔵の品じゃないN
+White porcelain jar found.c Isn't this the Qing ruler Qianlong Emperor'sN
+//か！cこれを見逃す手はないな・・・c白磁の壷を入手した。c
+treasure!c I can't pass this up...cWhite porcelain jar acquired.c
+
+
+#WRITE(MYPTR, $00072260)
+
+// Pos : 00018935
+
+//謎のコインを発見した。c中世ヨーロッパ時代に造られた、何N
+Mysterious coin found.cCreated in the European Middle Ages periodN
+//かの記念コインのようだが・・・c価値はあるのか？c謎のコインを入手した。c
+in commemoration of something it seems...cIs it valuable?c Mysterious coin acquiredc
+
+
+#WRITE(MYPTR, $00072264)
+
+// Pos : 000189B5
+
+//金の仏像を発見した。cこれは何か意味のあるものかもしれ\n
+Gold Buddha statue found.cThis must have some kind of\n
+//ないぞ！c金の仏像を入手した。c
+significant meaning!c Gold Buddha statue acquired.c
+
+
+#WRITE(MYPTR, $00072268)
+
+// Pos : 00018A0A
+
+//銀の仏像を発見した。cどこか普通の仏像と違う気がするなc銀の仏像を入手した。c
+Silver Buddha statue found.cFeels different from your normal Buddha statue.cSilver Buddha statue acquired.c
+
+
+#WRITE(MYPTR, $0007226C)
+
+// Pos : 00018A56
+
+//銅の仏像を発見した。cどことなく意味ありげな仏像だな？c銅の仏像を入手した。c
+Copper Buddha statue found.cWhat kind of meaning does this Buddha statue have?cCopper Buddha statue acquired.c
+
+
+#WRITE(MYPTR, $00072270)
+
+// Pos : 00018AA2
+
+//ＮＯＴＨＩＮＧ
+NOTHING
+
+
+
+#WRITE(MYPTR, $00072274)
+
+// Pos : 00018AB1
+
+//キャンディ
+Candy
+
+
+
+#WRITE(MYPTR, $00072278)
+
+// Pos : 00018ABC
+
+//ビスケット
+Biscuit
+
+
+
+#WRITE(MYPTR, $0007227C)
+
+// Pos : 00018AC7
+
+//チョコレート
+Chocolate
+
+
+
+#WRITE(MYPTR, $00072280)
+
+// Pos : 00018AD4
+
+//チュウインガム
+Chewing Gum
+
+
+
+#WRITE(MYPTR, $00072284)
+
+// Pos : 00018AE3
+
+//リラックスハーブ
+Relax Herb
+
+
+
+#WRITE(MYPTR, $00072288)
+
+// Pos : 00018AF4
+
+//リフレッシュハーブ
+Refresh Herb
+
+
+
+#WRITE(MYPTR, $0007228C)
+
+// Pos : 00018B07
+
+//スタミナドリンク
+Stamina Drink
+
+
+
+#WRITE(MYPTR, $00072290)
+
+// Pos : 00018B18
+
+//スーパードリンク
+Super Drink
+
+
+
+#WRITE(MYPTR, $00072294)
+
+// Pos : 00018B29
+
+//スペシャルドリンク
+Special Drink
+
+
+
+#WRITE(MYPTR, $00072298)
+
+// Pos : 00018B3C
+
+//赤外線スコープ
+Infrared Scope
+
+
+
+#WRITE(MYPTR, $0007229C)
+
+// Pos : 00018B4B
+
+//吸盤ピストル
+Sucker Pistol
+
+
+
+#WRITE(MYPTR, $000722A0)
+
+// Pos : 00018B58
+
+//アイアンシューズ
+Iron Shoes
+
+
+
+#WRITE(MYPTR, $000722A4)
+
+// Pos : 00018B69
+
+//身代わり人形
+Substitute Doll
+
+
+
+#WRITE(MYPTR, $000722A8)
+
+// Pos : 00018B76
+
+//プラスチック爆弾
+Plastic Explosive
+
+
+
+#WRITE(MYPTR, $000722AC)
+
+// Pos : 00018B87
+
+//におい袋
+Odor Bag
+
+
+
+#WRITE(MYPTR, $000722B0)
+
+// Pos : 00018B90
+
+//中和スプレー
+Neutralize Spray
+
+
+
+#WRITE(MYPTR, $000722B4)
+
+// Pos : 00018B9D
+
+//ペンチ
+Pliers
+
+
+
+#WRITE(MYPTR, $000722B8)
+
+// Pos : 00018BA4
+
+//護符
+Talisman
+
+
+
+#WRITE(MYPTR, $000722BC)
+
+// Pos : 00018BA9
+
+//聖水
+Holy Water
+
+
+
+#WRITE(MYPTR, $000722C0)
+
+// Pos : 00018BAE
+
+//ゴムのゲジゲジ
+Rubber Centipede
+
+
+
+#WRITE(MYPTR, $000722C4)
+
+// Pos : 00018BBD
+
+//チキン・マスク
+Chicken Mask
+
+
+
+#WRITE(MYPTR, $000722C8)
+
+// Pos : 00018BCC
+
+//肉マン
+Meat Bun
+
+
+
+#WRITE(MYPTR, $000722CC)
+
+// Pos : 00018BD3
+
+//チックル・ハンド
+Tickle Hand
+
+
+
+#WRITE(MYPTR, $000722D0)
+
+// Pos : 00018BE4
+
+//ぴこぴこカエル
+Squeaky Frog
+
+
+
+#WRITE(MYPTR, $000722D4)
+
+// Pos : 00018BF3
+
+//変装キット
+Disguise Kit
+
+
+
+#WRITE(MYPTR, $000722D8)
+
+// Pos : 00018BFE
+
+//発光弾
+Luminescence Bullet
+
+
+
+#WRITE(MYPTR, $000722DC)
+
+// Pos : 00018C05
+
+//言い訳虎の巻
+Cop-out Answer Book
+
+
+
+#WRITE(MYPTR, $000722E0)
+
+// Pos : 00018C12
+
+//公子専用テープ
+Kimiko-only Tape
+
+
+
+#WRITE(MYPTR, $000722E4)
+
+// Pos : 00018C21
+
+//美幸専用テープ
+Miyuki-only Tape
+
+
+
+#WRITE(MYPTR, $000722E8)
+
+// Pos : 00018C30
+
+//ニーナ専用テープ
+Nina-only Tape
+
+
+
+#WRITE(MYPTR, $000722EC)
+
+// Pos : 00018C41
+
+//麗華専用テープ
+Reika-only Tape
+
+
+
+#WRITE(MYPTR, $000722F0)
+
+// Pos : 00018C50
+
+//陽子専用テープ
+Yoko-only Tape
+
+
+
+#WRITE(MYPTR, $000722F4)
+
+// Pos : 00018C5F
+
+//ＩＣチップ
+IC chip
+
+
+

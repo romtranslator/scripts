@@ -1,0 +1,2828 @@
+#VAR(TABLE, TABLE)
+
+#ADDTBL("SJIS.TBL", TABLE)
+
+#ACTIVETBL(TABLE)
+
+
+
+#JUMP("NOT_SET")
+
+
+
+// Pos : 0001FC58
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 0001FC98
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 0001FCD8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 0001FD18
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 0001FD58
+
+// Fixed Length : 0040
+
+//【お嬢様捜査網　ＳＴＡＦＦ】　　
+
+
+
+// Pos : 0001FD98
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 0001FDD8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 0001FE18
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 0001FE58
+
+// Fixed Length : 0040
+
+//［エグゼクティブ　　　　　　　　
+
+
+
+// Pos : 0001FE98
+
+// Fixed Length : 0040
+
+//　　　　プロデューサー］　　　　
+
+
+
+// Pos : 0001FED8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 0001FF18
+
+// Fixed Length : 0040
+
+//竹内　政夫　　　　　　　　　　　
+
+
+
+// Pos : 0001FF58
+
+// Fixed Length : 0040
+
+//（ＮＥＣホームエレクトロニクス）
+
+
+
+// Pos : 0001FF98
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 0001FFD8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00020018
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00020058
+
+// Fixed Length : 0040
+
+//［プロデューサー］　　　　　　　
+
+
+
+// Pos : 00020098
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 000200D8
+
+// Fixed Length : 0040
+
+//高垣　信宏　　　　　　　　　　　
+
+
+
+// Pos : 00020118
+
+// Fixed Length : 0040
+
+//（ＮＥＣホームエレクトロニクス）
+
+
+
+// Pos : 00020158
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00020198
+
+// Fixed Length : 0040
+
+//小野木　圭一　　　　　　　　　　
+
+
+
+// Pos : 000201D8
+
+// Fixed Length : 0040
+
+//（ＩｍａｇｅＷｏｒｋｓ）　　　　
+
+
+
+// Pos : 00020218
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00020258
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00020298
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 000202D8
+
+// Fixed Length : 0040
+
+//　　　　［企　画］　　　　　　　
+
+
+
+// Pos : 00020318
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00020358
+
+// Fixed Length : 0040
+
+//窪田　正義　　　　　　　　　　　
+
+
+
+// Pos : 00020398
+
+// Fixed Length : 0040
+
+//（ＨＥＡＤＲＯＯＭ）　　　　　　
+
+
+
+// Pos : 000203D8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00020418
+
+// Fixed Length : 0040
+
+//　　　　［原　作］　　　　　　　
+
+
+
+// Pos : 00020458
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00020498
+
+// Fixed Length : 0040
+
+//若松　会津士　　　　　　　　　　
+
+
+
+// Pos : 000204D8
+
+// Fixed Length : 0040
+
+//（Ｍａｒｃｕｓ）　　　　　　　　
+
+
+
+// Pos : 00020518
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00020558
+
+// Fixed Length : 0040
+
+//［アシスタント　　　　　　　　　
+
+
+
+// Pos : 00020598
+
+// Fixed Length : 0040
+
+//　　　　プロデューサー］　　　　
+
+
+
+// Pos : 000205D8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00020618
+
+// Fixed Length : 0040
+
+//江島　淳　　　　　　　　　　　　
+
+
+
+// Pos : 00020658
+
+// Fixed Length : 0040
+
+//（ＨＥＡＤＲＯＯＭ）　　　　　　
+
+
+
+// Pos : 00020698
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 000206D8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00020718
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00020758
+
+// Fixed Length : 0040
+
+//［キャラクターデザイン］　　　　
+
+
+
+// Pos : 00020798
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 000207D8
+
+// Fixed Length : 0040
+
+//稀崎　雅　　　　　　　　　　　　
+
+
+
+// Pos : 00020818
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00020858
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00020898
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 000208D8
+
+// Fixed Length : 0040
+
+//［サウンド］　　　　　　　　　　
+
+
+
+// Pos : 00020918
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00020958
+
+// Fixed Length : 0040
+
+//山本　敬一　　　　　　　　　　　
+
+
+
+// Pos : 00020998
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 000209D8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00020A18
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00020A58
+
+// Fixed Length : 0040
+
+//【キャスト】　　　　　　　　　　
+
+
+
+// Pos : 00020A98
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00020AD8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00020B18
+
+// Fixed Length : 0040
+
+//綾小路　公子　　　新山　志保　　
+
+
+
+// Pos : 00020B58
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00020B98
+
+// Fixed Length : 0040
+
+//綾小路　美幸　　　永島　由子　　
+
+
+
+// Pos : 00020BD8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00020C18
+
+// Fixed Length : 0040
+
+//竜崎　陽子　　　　柳瀬　なつみ　
+
+
+
+// Pos : 00020C58
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00020C98
+
+// Fixed Length : 0040
+
+//周　　麗華　　　　丹下　桜　　　
+
+
+
+// Pos : 00020CD8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00020D18
+
+// Fixed Length : 0040
+
+//ニーナ・キーロフ　笠原　留美　　
+
+
+
+// Pos : 00020D58
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00020D98
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00020DD8
+
+// Fixed Length : 0040
+
+//怪盗ナルシス　　　小山　裕香　　
+
+
+
+// Pos : 00020E18
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00020E58
+
+// Fixed Length : 0040
+
+//店　　長　　　　　遠藤　武　　　
+
+
+
+// Pos : 00020E98
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00020ED8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00020F18
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00020F58
+
+// Fixed Length : 0040
+
+//【ゲームパート】　　　　　　　　
+
+
+
+// Pos : 00020F98
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00020FD8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00021018
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00021058
+
+// Fixed Length : 0040
+
+//［ゲームデザイン］　　　　　　　
+
+
+
+// Pos : 00021098
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 000210D8
+
+// Fixed Length : 0040
+
+//八代　隆之　　　　　　　　　　　
+
+
+
+// Pos : 00021118
+
+// Fixed Length : 0040
+
+//（フィルインカフェ）　　　　　　
+
+
+
+// Pos : 00021158
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00021198
+
+// Fixed Length : 0040
+
+//［開発監修］　　　　　　　　　　
+
+
+
+// Pos : 000211D8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00021218
+
+// Fixed Length : 0040
+
+//保坂　亨　　　　　　　　　　　　
+
+
+
+// Pos : 00021258
+
+// Fixed Length : 0040
+
+//（フィルインカフェ）　　　　　　
+
+
+
+// Pos : 00021298
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 000212D8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00021318
+
+// Fixed Length : 0040
+
+//［プログラム］　　　　　　　　　
+
+
+
+// Pos : 00021358
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00021398
+
+// Fixed Length : 0040
+
+//菊池　利之　　　　　　　　　　　
+
+
+
+// Pos : 000213D8
+
+// Fixed Length : 0040
+
+//（フィルインカフェ）　　　　　　
+
+
+
+// Pos : 00021418
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00021458
+
+// Fixed Length : 0040
+
+//國分　正行　　　　　　　　　　　
+
+
+
+// Pos : 00021498
+
+// Fixed Length : 0040
+
+//（フィルインカフェ）　　　　　　
+
+
+
+// Pos : 000214D8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00021518
+
+// Fixed Length : 0040
+
+//中野　陽祐　　　　　　　　　　　
+
+
+
+// Pos : 00021558
+
+// Fixed Length : 0040
+
+//（フィルインカフェ）　　　　　　
+
+
+
+// Pos : 00021598
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 000215D8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00021618
+
+// Fixed Length : 0040
+
+//［グラフィック］　　　　　　　　
+
+
+
+// Pos : 00021658
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00021698
+
+// Fixed Length : 0040
+
+//我妻　毅彦　　　　　　　　　　　
+
+
+
+// Pos : 000216D8
+
+// Fixed Length : 0040
+
+//（フィルインカフェ）　　　　　　
+
+
+
+// Pos : 00021718
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00021758
+
+// Fixed Length : 0040
+
+//高橋　功一　　　　　　　　　　　
+
+
+
+// Pos : 00021798
+
+// Fixed Length : 0040
+
+//（フィルインカフェ）　　　　　　
+
+
+
+// Pos : 000217D8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00021818
+
+// Fixed Length : 0040
+
+//功野　玉夫　　　　　　　　　　　
+
+
+
+// Pos : 00021858
+
+// Fixed Length : 0040
+
+//（フィルインカフェ）　　　　　　
+
+
+
+// Pos : 00021898
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 000218D8
+
+// Fixed Length : 0040
+
+//本田　猛　　　　　　　　　　　　
+
+
+
+// Pos : 00021918
+
+// Fixed Length : 0040
+
+//（フィルインカフェ）　　　　　　
+
+
+
+// Pos : 00021958
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00021998
+
+// Fixed Length : 0040
+
+//ＫＯＯＬＫＩＺＺ　　　　　　　　
+
+
+
+// Pos : 000219D8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00021A18
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00021A58
+
+// Fixed Length : 0040
+
+//［デバック］　　　　　　　　　　
+
+
+
+// Pos : 00021A98
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00021AD8
+
+// Fixed Length : 0040
+
+//森　祥昭　　　　　　　　　　　　
+
+
+
+// Pos : 00021B18
+
+// Fixed Length : 0040
+
+//（フィルインカフェ）　　　　　　
+
+
+
+// Pos : 00021B58
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00021B98
+
+// Fixed Length : 0040
+
+//重見　恭匡　　　　　　　　　　　
+
+
+
+// Pos : 00021BD8
+
+// Fixed Length : 0040
+
+//（フィルインカフェ）　　　　　　
+
+
+
+// Pos : 00021C18
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00021C58
+
+// Fixed Length : 0040
+
+//ポールトゥウィン　　　　　　　　
+
+
+
+// Pos : 00021C98
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00021CD8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00021D18
+
+// Fixed Length : 0040
+
+//［開発プロデューサー］　　　　　
+
+
+
+// Pos : 00021D58
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00021D98
+
+// Fixed Length : 0040
+
+//紺谷　昌也　　　　　　　　　　　
+
+
+
+// Pos : 00021DD8
+
+// Fixed Length : 0040
+
+//（フィルインカフェ）　　　　　　
+
+
+
+// Pos : 00021E18
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00021E58
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00021E98
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00021ED8
+
+// Fixed Length : 0040
+
+//【ムービーパート】　　　　　　　
+
+
+
+// Pos : 00021F18
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00021F58
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00021F98
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00021FD8
+
+// Fixed Length : 0040
+
+//［絵コンテ・演出］　　　　　　　
+
+
+
+// Pos : 00022018
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00022058
+
+// Fixed Length : 0040
+
+//吉岡　仙朋　　　　　　　　　　　
+
+
+
+// Pos : 00022098
+
+// Fixed Length : 0040
+
+//（Ｍａｒｃｕｓ）　　　　　　　　
+
+
+
+// Pos : 000220D8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00022118
+
+// Fixed Length : 0040
+
+//［作画監督］　　　　　　　　　　
+
+
+
+// Pos : 00022158
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00022198
+
+// Fixed Length : 0040
+
+//越智　信次　　　　　　　　　　　
+
+
+
+// Pos : 000221D8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00022218
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00022258
+
+// Fixed Length : 0040
+
+//［原　画］　　　　　　　　　　　
+
+
+
+// Pos : 00022298
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 000222D8
+
+// Fixed Length : 0040
+
+//越智　信次　　　鵜飼　美樹　　　
+
+
+
+// Pos : 00022318
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00022358
+
+// Fixed Length : 0040
+
+//崔　　ふみひで　山下　美幸　　　
+
+
+
+// Pos : 00022398
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 000223D8
+
+// Fixed Length : 0040
+
+//斎藤　雅和　　　村上　直紀　　　
+
+
+
+// Pos : 00022418
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00022458
+
+// Fixed Length : 0040
+
+//阿蒜　晃志　　　　　　　　　　　
+
+
+
+// Pos : 00022498
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 000224D8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00022518
+
+// Fixed Length : 0040
+
+//［動画チェック］　　　　　　　　
+
+
+
+// Pos : 00022558
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00022598
+
+// Fixed Length : 0040
+
+//越智　早苗　　　　　　　　　　　
+
+
+
+// Pos : 000225D8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00022618
+
+// Fixed Length : 0040
+
+//［動　画］　　　　　　　　　　　
+
+
+
+// Pos : 00022658
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00022698
+
+// Fixed Length : 0040
+
+//秋吉　育子　　　浦田　武治　　　
+
+
+
+// Pos : 000226D8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00022718
+
+// Fixed Length : 0040
+
+//ＦＡＩ　　　　　マッドハウス　　
+
+
+
+// Pos : 00022758
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00022798
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 000227D8
+
+// Fixed Length : 0040
+
+//［色彩設計］　　　　　　　　　　
+
+
+
+// Pos : 00022818
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00022858
+
+// Fixed Length : 0040
+
+//渋谷　圭子　　　　　　　　　　　
+
+
+
+// Pos : 00022898
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 000228D8
+
+// Fixed Length : 0040
+
+//［色指定仕上検査］　　　　　　　
+
+
+
+// Pos : 00022918
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00022958
+
+// Fixed Length : 0040
+
+//菅野　仁美　　　菰田　智子　　　
+
+
+
+// Pos : 00022998
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 000229D8
+
+// Fixed Length : 0040
+
+//丹羽　由香理　　　　　　　　　　
+
+
+
+// Pos : 00022A18
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00022A58
+
+// Fixed Length : 0040
+
+//［特殊効果］　　　　　　　　　　
+
+
+
+// Pos : 00022A98
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00022AD8
+
+// Fixed Length : 0040
+
+//干場　豊　　　　　　　　　　　　
+
+
+
+// Pos : 00022B18
+
+// Fixed Length : 0040
+
+//（マリックス）　　　　　　　　　
+
+
+
+// Pos : 00022B58
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00022B98
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00022BD8
+
+// Fixed Length : 0040
+
+//　　　　［仕　上］　　　　　　　
+
+
+
+// Pos : 00022C18
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00022C58
+
+// Fixed Length : 0040
+
+//ＦＡＩ　　　　マッドハウス　　　
+
+
+
+// Pos : 00022C98
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00022CD8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00022D18
+
+// Fixed Length : 0040
+
+//［美術監督］　　　　　　　　　　
+
+
+
+// Pos : 00022D58
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00022D98
+
+// Fixed Length : 0040
+
+//脇　　威志　　　　　　　　　　　
+
+
+
+// Pos : 00022DD8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00022E18
+
+// Fixed Length : 0040
+
+//［背　景］　　　　　　　　　　　
+
+
+
+// Pos : 00022E58
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00022E98
+
+// Fixed Length : 0040
+
+//小浜　美代子　　和気　礼里　　　
+
+
+
+// Pos : 00022ED8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00022F18
+
+// Fixed Length : 0040
+
+//黒田　淳一　　　陳　　西峰　　　
+
+
+
+// Pos : 00022F58
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00022F98
+
+// Fixed Length : 0040
+
+//菱沼　由典　　　下村　省一　　　
+
+
+
+// Pos : 00022FD8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00023018
+
+// Fixed Length : 0040
+
+//本間　匠　　　　別宮　篤幾　　　
+
+
+
+// Pos : 00023058
+
+// Fixed Length : 0040
+
+//　　　　　　　　（グリーン）　　
+
+
+
+// Pos : 00023098
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 000230D8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00023118
+
+// Fixed Length : 0040
+
+//［撮影監督］　　　　　　　　　　
+
+
+
+// Pos : 00023158
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00023198
+
+// Fixed Length : 0040
+
+//鈴木　秀男　　　　　　　　　　　
+
+
+
+// Pos : 000231D8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00023218
+
+// Fixed Length : 0040
+
+//［撮　影］　　　　　　　　　　　
+
+
+
+// Pos : 00023258
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00023298
+
+// Fixed Length : 0040
+
+//藤田　正明　　　諫川　弘　　　　
+
+
+
+// Pos : 000232D8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00023318
+
+// Fixed Length : 0040
+
+//山口　利明　　　　　　　　　　　
+
+
+
+// Pos : 00023358
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00023398
+
+// Fixed Length : 0040
+
+//西出　徹　　　　　　　　　　　　
+
+
+
+// Pos : 000233D8
+
+// Fixed Length : 0040
+
+//（虫プロダクション）　　　　　　
+
+
+
+// Pos : 00023418
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00023458
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00023498
+
+// Fixed Length : 0040
+
+//［編　集］　　　　　　　　　　　
+
+
+
+// Pos : 000234D8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00023518
+
+// Fixed Length : 0040
+
+//伊藤　勇喜子　　尾形　治敏　　　
+
+
+
+// Pos : 00023558
+
+// Fixed Length : 0040
+
+//　　　　　　　　（尾形編集室）　
+
+
+
+// Pos : 00023598
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 000235D8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00023618
+
+// Fixed Length : 0040
+
+//［音響監督］　　　　　　　　　　
+
+
+
+// Pos : 00023658
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00023698
+
+// Fixed Length : 0040
+
+//本田　保則　　　　　　　　　　　
+
+
+
+// Pos : 000236D8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00023718
+
+// Fixed Length : 0040
+
+//［音響制作］　　　　　　　　　　
+
+
+
+// Pos : 00023758
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00023798
+
+// Fixed Length : 0040
+
+//アーツプロ　　　　　　　　　　　
+
+
+
+// Pos : 000237D8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00023818
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00023858
+
+// Fixed Length : 0040
+
+//［現　像］　　　　　　　　　　　
+
+
+
+// Pos : 00023898
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 000238D8
+
+// Fixed Length : 0040
+
+//イマジカ　　　　　　　　　　　　
+
+
+
+// Pos : 00023918
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00023958
+
+// Fixed Length : 0040
+
+//［タイトル・リスワーク］　　　　
+
+
+
+// Pos : 00023998
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 000239D8
+
+// Fixed Length : 0040
+
+//マキ・プロ　　　　　　　　　　　
+
+
+
+// Pos : 00023A18
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00023A58
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00023A98
+
+// Fixed Length : 0040
+
+//［制作担当］　　　　　　　　　　
+
+
+
+// Pos : 00023AD8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00023B18
+
+// Fixed Length : 0040
+
+//星川　孝文　　　　　　　　　　　
+
+
+
+// Pos : 00023B58
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00023B98
+
+// Fixed Length : 0040
+
+//［制作進行］　　　　　　　　　　
+
+
+
+// Pos : 00023BD8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00023C18
+
+// Fixed Length : 0040
+
+//杉保　徳洋　　　　　　　　　　　
+
+
+
+// Pos : 00023C58
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00023C98
+
+// Fixed Length : 0040
+
+//［プロダクション　　　　　　　　
+
+
+
+// Pos : 00023CD8
+
+// Fixed Length : 0040
+
+//　　　　マネージャー］　　　　　
+
+
+
+// Pos : 00023D18
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00023D58
+
+// Fixed Length : 0040
+
+//中山　晴夫　　　　　　　　　　　
+
+
+
+// Pos : 00023D98
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00023DD8
+
+// Fixed Length : 0040
+
+//［制作事務］　　　　　　　　　　
+
+
+
+// Pos : 00023E18
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00023E58
+
+// Fixed Length : 0040
+
+//　渡部　圭　　　　　　　　　　　
+
+
+
+// Pos : 00023E98
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00023ED8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00023F18
+
+// Fixed Length : 0040
+
+//［アニメーション　　　　　　　　
+
+
+
+// Pos : 00023F58
+
+// Fixed Length : 0040
+
+//　　　　プロデューサー］　　　　
+
+
+
+// Pos : 00023F98
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00023FD8
+
+// Fixed Length : 0040
+
+//高江　勇次　　　　　　　　　　　
+
+
+
+// Pos : 00024018
+
+// Fixed Length : 0040
+
+//（Ｍａｒｃｕｓ）　　　　　　　　
+
+
+
+// Pos : 00024058
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00024098
+
+// Fixed Length : 0040
+
+//安西　武　　　　　　　　　　　　
+
+
+
+// Pos : 000240D8
+
+// Fixed Length : 0040
+
+//（童夢）　　　　　　　　　　　　
+
+
+
+// Pos : 00024118
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00024158
+
+// Fixed Length : 0040
+
+//［アニメーション制作］　　　　　
+
+
+
+// Pos : 00024198
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 000241D8
+
+// Fixed Length : 0040
+
+//童夢　　　　　　　　　　　　　　
+
+
+
+// Pos : 00024218
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00024258
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00024298
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 000242D8
+
+// Fixed Length : 0040
+
+//［広　報］　　　　　　　　　　　
+
+
+
+// Pos : 00024318
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00024358
+
+// Fixed Length : 0040
+
+//桑原　秀夫　　　　　　　　　　　
+
+
+
+// Pos : 00024398
+
+// Fixed Length : 0040
+
+//（ＮＥＣホームエレクトロニクス）
+
+
+
+// Pos : 000243D8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00024418
+
+// Fixed Length : 0040
+
+//杉山　暢　　　　　　　　　　　　
+
+
+
+// Pos : 00024458
+
+// Fixed Length : 0040
+
+//（ＮＥＣホームエレクトロニクス）
+
+
+
+// Pos : 00024498
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 000244D8
+
+// Fixed Length : 0040
+
+//福山　邦彦　　　　　　　　　　　
+
+
+
+// Pos : 00024518
+
+// Fixed Length : 0040
+
+//（ＩｍａｇｅＷｏｒｋｓ）　　　　
+
+
+
+// Pos : 00024558
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00024598
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 000245D8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00024618
+
+// Fixed Length : 0040
+
+//［販　促］　　　　　　　　　　　
+
+
+
+// Pos : 00024658
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00024698
+
+// Fixed Length : 0040
+
+//粕谷　康伸　　　　　　　　　　　
+
+
+
+// Pos : 000246D8
+
+// Fixed Length : 0040
+
+//（ＮＥＣホームエレクトロニクス）
+
+
+
+// Pos : 00024718
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00024758
+
+// Fixed Length : 0040
+
+//近藤　信之　　　　　　　　　　　
+
+
+
+// Pos : 00024798
+
+// Fixed Length : 0040
+
+//（ＮＥＣホームエレクトロニクス）
+
+
+
+// Pos : 000247D8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00024818
+
+// Fixed Length : 0040
+
+//菅沼　恒次　　　　　　　　　　　
+
+
+
+// Pos : 00024858
+
+// Fixed Length : 0040
+
+//（ＮＥＣホームエレクトロニクス）
+
+
+
+// Pos : 00024898
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 000248D8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00024918
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00024958
+
+// Fixed Length : 0040
+
+//［協　力］　　　　　　　　　　　
+
+
+
+// Pos : 00024998
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 000249D8
+
+// Fixed Length : 0040
+
+//ＮＥＣパーソナルシステム　　　　
+
+
+
+// Pos : 00024A18
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00024A58
+
+// Fixed Length : 0040
+
+//東宝　　　　　　　　　　　　　　
+
+
+
+// Pos : 00024A98
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00024AD8
+
+// Fixed Length : 0040
+
+//青二プロダクション　　　　　　　
+
+
+
+// Pos : 00024B18
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00024B58
+
+// Fixed Length : 0040
+
+//アバコクリエイティブスタジオ　　
+
+
+
+// Pos : 00024B98
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00024BD8
+
+// Fixed Length : 0040
+
+//タバック　　　　　　　　　　　　
+
+
+
+// Pos : 00024C18
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00024C58
+
+// Fixed Length : 0040
+
+//放送出版プランニングセンター　　
+
+
+
+// Pos : 00024C98
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00024CD8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00024D18
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00024D58
+
+// Fixed Length : 0040
+
+//［企　画］　　　　　　　　　　　
+
+
+
+// Pos : 00024D98
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00024DD8
+
+// Fixed Length : 0040
+
+//ＨＥＡＤＲＯＯＭ　　　　　　　　
+
+
+
+// Pos : 00024E18
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00024E58
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00024E98
+
+// Fixed Length : 0040
+
+//［プロデュース］　　　　　　　　
+
+
+
+// Pos : 00024ED8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00024F18
+
+// Fixed Length : 0040
+
+//ＩｍａｇｅＷｏｒｋｓ　　　　　　
+
+
+
+// Pos : 00024F58
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00024F98
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00024FD8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00025018
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00025058
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00025098
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 000250D8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00025118
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00025158
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00025198
+
+// Fixed Length : 0040
+
+//　　　　　［製　作］　　　　　　
+
+
+
+// Pos : 000251D8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00025218
+
+// Fixed Length : 0040
+
+//　ＮＥＣホームエレクトロニクス　
+
+
+
+// Pos : 00025258
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00025298
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 000252D8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00025318
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00025358
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00025398
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 000253D8
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+
+// Pos : 00025418
+
+// Fixed Length : 0040
+
+//　　　　　　　　　　　　　　　　
+
+
+

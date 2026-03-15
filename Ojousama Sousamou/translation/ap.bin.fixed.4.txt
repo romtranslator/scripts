@@ -1,0 +1,62 @@
+#VAR(TABLE, TABLE)
+
+#ADDTBL("SJIS.TBL", TABLE)
+
+#ACTIVETBL(TABLE)
+
+
+
+#JUMP("NOT_SET")
+
+
+
+// Pos : 000491BE
+
+// Fixed Length : 0080
+
+//ニ－ナはまだ僕を尋問するつもりN
+Nina still intends to question
+//だP
+meP
+
+
+
+
+
+
+// Pos : 0004923E
+
+// Fixed Length : 0080
+
+//陽子はまだ僕を尋問するつもりだP
+Yoko still intends to question me.P
+
+
+
+
+
+
+// Pos : 000492BE
+
+// Fixed Length : 0080
+
+//公子はまだ僕を尋問するつもりだP
+Kimiko still intends to question me.P
+
+
+
+
+
+
+// Pos : 0004933E
+
+// Fixed Length : 0080
+
+//麗華はまだ僕を尋問するつもりだP
+Reika still intends to question me.P
+
+
+
+
+
+

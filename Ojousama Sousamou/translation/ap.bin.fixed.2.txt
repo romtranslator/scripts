@@ -1,0 +1,417 @@
+#VAR(TABLE, TABLE)
+
+#ADDTBL("SJIS.TBL", TABLE)
+
+#ACTIVETBL(TABLE)
+
+
+
+#JUMP("NOT_SET")
+
+
+
+// Pos : 00047A72
+
+// Fixed Length : 0026
+
+//ＮＯＴＨＩＮＧ　　
+NOTHING
+
+
+
+// Pos : 00047A98
+
+// Fixed Length : 0026
+
+//キャンディを奪われたP
+Candy was stolen.P
+
+
+
+
+
+
+// Pos : 00047ABE
+
+// Fixed Length : 0026
+
+//ビスケットを奪われたP
+Biscuit was stolen.P
+
+
+
+
+
+
+// Pos : 00047AE4
+
+// Fixed Length : 0026
+
+//チョコレートを奪われたP
+Chocolate was stolen.P
+
+
+
+
+
+
+// Pos : 00047B0A
+
+// Fixed Length : 0026
+
+//チュウインガムを奪われたP
+Chewing gum was stolen.P
+
+
+
+
+
+
+// Pos : 00047B30
+
+// Fixed Length : 0026
+
+//リラックスハーブを奪われたP
+Relax herb was stolen.P
+
+
+
+
+
+
+// Pos : 00047B56
+
+// Fixed Length : 0026
+
+//リフレッシュハーブを奪われたP
+Refresh herb was stolen.P
+
+
+
+
+
+
+// Pos : 00047B7C
+
+// Fixed Length : 0026
+
+//スタミナドリンクを奪われたP
+Stamina drink was stolen.P
+
+
+
+
+
+
+// Pos : 00047BA2
+
+// Fixed Length : 0026
+
+//スーパードリンクを奪われたP
+Super drink was stolen.P
+
+
+
+
+
+
+// Pos : 00047BC8
+
+// Fixed Length : 0026
+
+//スペシャルドリンクを奪われたP
+Special drink was stolen.P
+
+
+
+
+
+
+// Pos : 00047BEE
+
+// Fixed Length : 0026
+
+//赤外線スコープを奪われたP
+Infrared scope was stolen.P
+
+
+
+
+
+
+// Pos : 00047C14
+
+// Fixed Length : 0026
+
+//吸盤ピストルを奪われたP
+Sucker pistol was stolen.P
+
+
+
+
+
+
+// Pos : 00047C3A
+
+// Fixed Length : 0026
+
+//アイアンシューズを奪われたP
+Iron shoes were stolen.P
+
+
+
+
+
+
+// Pos : 00047C60
+
+// Fixed Length : 0026
+
+//身代わり人形を奪われたP
+Substitute doll was stolen.P
+
+
+
+
+
+
+// Pos : 00047C86
+
+// Fixed Length : 0026
+
+//プラスティク爆弾を奪われたP
+Plastic explosive was stolen.P
+
+
+
+
+
+
+// Pos : 00047CAC
+
+// Fixed Length : 0026
+
+//におい袋を奪われたP
+Odor bag was stolen.P
+
+
+
+
+
+
+// Pos : 00047CD2
+
+// Fixed Length : 0026
+
+//中和スプレーを奪われたP
+Neutralize spray was stolen.P
+
+
+
+
+
+
+// Pos : 00047CF8
+
+// Fixed Length : 0026
+
+//ペンチを奪われたP
+Pliers were stolen.P
+
+
+
+
+
+
+// Pos : 00047D1E
+
+// Fixed Length : 0026
+
+//護符をを奪われたP
+Talisman was stolen.P
+
+
+
+
+
+
+// Pos : 00047D44
+
+// Fixed Length : 0026
+
+//ミネラルウォーターを奪われたP
+Mineral water was stolen.P
+
+
+
+
+
+
+// Pos : 00047D6A
+
+// Fixed Length : 0026
+
+//ゴムのゲジゲジを奪われたP
+Rubber centipede was stolen.P
+
+
+
+
+
+
+// Pos : 00047D90
+
+// Fixed Length : 0026
+
+//チキン・マスクを奪われたP
+Chicken-mask was stolen.P
+
+
+
+
+
+
+// Pos : 00047DB6
+
+// Fixed Length : 0026
+
+//肉マンを奪われたP
+Meat bun was stolen.P
+
+
+
+
+
+
+// Pos : 00047DDC
+
+// Fixed Length : 0026
+
+//チックル・ハンドを奪われたP
+Tickle-hand was stolen.P
+
+
+
+
+
+
+// Pos : 00047E02
+
+// Fixed Length : 0026
+
+//ぴこぴこを奪われたP
+Squeaky was stolen.P
+
+
+
+
+
+
+// Pos : 00047E28
+
+// Fixed Length : 0026
+
+//変装キットを奪われたP
+Disguise kit was stolen.P
+
+
+
+
+
+
+// Pos : 00047E4E
+
+// Fixed Length : 0026
+
+//発光弾を奪われたP
+Luminescence bullet was stolen.P
+
+
+
+
+
+
+// Pos : 00047E74
+
+// Fixed Length : 0026
+
+//言い訳虎ノ巻を奪われたP
+Cop-out answer book was stolen.P
+
+
+
+
+
+
+// Pos : 00047E9A
+
+// Fixed Length : 0026
+
+//公子の録音テープを奪われたP
+Kimiko audio tape was stolen.P
+
+
+
+
+
+
+// Pos : 00047EC0
+
+// Fixed Length : 0026
+
+//陽子の録音テープを奪われたP
+Yoko audio tape was stolen.P
+
+
+
+
+
+
+// Pos : 00047EE6
+
+// Fixed Length : 0026
+
+//美幸の録音テープを奪われたP
+Miyuki audio tape was stolen.P
+
+
+
+
+
+
+// Pos : 00047F0C
+
+// Fixed Length : 0026
+
+//麗華の録音テープを奪われたP
+Reika audio tape was stolen.P
+
+
+
+
+
+
+// Pos : 00047F32
+
+// Fixed Length : 0026
+
+//ニ－ナの録音テープを奪われたP
+Nina audio tape was stolen.P
+
+
+
+
+
+
+// Pos : 00047F58
+
+// Fixed Length : 0026
+
+//ＩＣチップを奪われたP
+IC chip was stolen.P
+
+
+
+
+
+

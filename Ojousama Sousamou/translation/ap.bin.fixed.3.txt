@@ -1,0 +1,94 @@
+#VAR(TABLE, TABLE)
+
+#ADDTBL("SJIS.TBL", TABLE)
+
+#ACTIVETBL(TABLE)
+
+
+
+#JUMP("NOT_SET")
+
+
+
+// Pos : 00048FFE
+
+// Fixed Length : 0040
+
+//美幸は身構えた！N
+Miyuki squared off!N
+//いったい何をするつもりだ・・・P
+Just what do they intend to do...?P
+
+
+
+
+
+
+// Pos : 0004903E
+
+// Fixed Length : 0040
+
+//ニ－ナは身構えた！N
+Nina squared off!N
+//いったい何をするつもりだ・・・P
+Just what do they intend to do...?P
+
+
+
+
+
+
+// Pos : 0004907E
+
+// Fixed Length : 0040
+
+//陽子は身構えた！N
+Yoko squared off!N
+//いったい何をするつもりだ・・・P
+Just what do they intend to do...?P
+
+
+
+
+
+
+// Pos : 000490BE
+
+// Fixed Length : 0040
+
+//公子は身構えた！N
+Kimiko squared off!N
+//いったい何をするつもりだ・・・P
+Just what do they intend to do...?P
+
+
+
+
+
+
+// Pos : 000490FE
+
+// Fixed Length : 0040
+
+//麗華は身構えた！N
+Reika squared off!N
+//いったい何をするつもりだ・・・P
+Just what do they intend to do...?P
+
+
+
+
+
+
+// Pos : 0004913E
+
+// Fixed Length : 0040
+
+//美幸はまだ僕を尋問するつもりだP
+Miyuki still intends to question me.P
+
+
+
+
+
+

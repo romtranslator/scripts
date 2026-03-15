@@ -1,0 +1,729 @@
+#VAR(TABLE, TABLE)
+
+#ADDTBL("SJIS.TBL", TABLE)
+
+#ACTIVETBL(TABLE)
+
+#VAR(MYPTR, CUSTOMPOINTER)
+
+#CREATEPTR(MYPTR, "LINEAR", $00030000, 32)
+
+
+
+#JUMP("NOT_SET")
+
+
+
+#WRITE(MYPTR, $0002625C)
+
+// Pos : 00026288
+
+//去る○月○日、ニューヨークの有名N
+On the Xth of last month, the diamond
+//宝飾店ピファニー本店から時価１５N
+necklace known as "Blue Star", valuedN
+//億円の『ブルースター』と呼ばれるN
+at 1.5M dollars was stolen from theN
+//ダイヤの首飾りが盗まれた。P
+famous Piffany's jewelry store in New York.P
+
+
+//店長の談話：N
+Manager:N
+//あまりの手口の鮮やかさに開いた口N
+I'm dumbfounded by the skillfulnessN
+//がふさがりません。P
+of your criminal plotting.P
+
+
+//美幸嬢の談話：N
+Miyuki:N
+//ちくしょう！N
+Dammit!N
+//あれだけ罠を張り巡らせたのに、N
+It was successfully stolen evenN
+//まんまと盗みやがって・・・P
+with so many traps placed...P
+
+
+//必ずとっ捕まえてやる。P
+I'll catch them without fail.P
+
+
+
+
+
+
+#WRITE(MYPTR, $00026260)
+
+// Pos : 000263B5
+
+//謎の怪盗より予告のあった、タイのN
+The mysterious gentleman thief whoN
+//ワット・オドローキー寺院へ、昨晩N
+gave advance notice of his intention to breakN
+//怪盗が予告通り侵入し、歴史的にもN
+into Thailand's Wat Odoroukii temple, last nightN
+//大変貴重とされている文化財の一つP
+stole the "Emerald Buddha Statue" regarded asP
+
+
+//である『エメラルドの仏像』を盗みN
+having both historic and culturalN
+//去った。P
+value.P
+
+
+//僧官長の談話：N
+Head Monk:
+//盗まれた小仏像は、陽子嬢の祖父にN
+The stolen Buddha statue in the careofN
+//あたる方が、当寺院に寄進して下さN
+Miss Yoko's grandfather is a precious item thatN
+//った大切なもの。P
+had been contributed to this temple.P
+
+
+//一日も早く当寺院に仏像が戻るのをN
+I pray the Buddha statue be returnedN
+//祈るのみでございます。P
+to the temple without delay.P
+
+
+//陽子嬢の談話：N
+Yoko:N
+//わたしが付いていながら、怪盗にしN
+I can only express regret thatN
+//てやられるなんて、悔やんでも悔やN
+the thief was able to trick meN
+//み切れません。P
+despite my presence.P
+
+
+//必ず犯人を捕まえて見せます。P
+Watch as I will surely catch the offender.P
+
+
+
+
+
+
+#WRITE(MYPTR, $00026264)
+
+// Pos : 0002657B
+
+//このところ、各国で犯行を繰り返しN
+It has become clear that the mysterious gentlemanN
+//ている謎の怪盗が、今度はマインツN
+thief who's been perpetrating crimesN
+//郊外のキーロフ家別荘から、大胆にN
+internationally has this time boldly snatchedN
+//も『聖母マリアの肖像画』を、奪いP
+the "Virgin Mary portrait" from a holiday houseP
+
+
+//去っていたことが明かになった。P
+in Kirov on the outskirts of Mainz.P
+
+
+//執事長の談話：N
+Head butler:N
+//防犯設備は完璧だと思っていたのでN
+I thought our security system was impenetrableN
+//すが・・・P
+but...P
+
+
+//こうもあっさり警備網を突破されるN
+For our security net to be breachedN
+//とは、思いも寄りませんでした。N
+so easily like this, I never saw it coming.N
+//無念です！P
+It's heatbreaking!P
+
+
+//ニーナ嬢の談話：N
+Nina:N
+//許さないわよ！　このわたしに恥をN
+It's unforgivable! For me to sufferN
+//かかせるなんて・・・P
+embarrassment like this...P
+
+
+//今度会ったらただじゃおかないからN
+Be prepared to pay for thisN
+//覚悟しておきなさい。P
+next time we meet.P
+
+
+
+
+
+
+#WRITE(MYPTR, $00026268)
+
+// Pos : 00026722
+
+//○月○日未明、マカオ最大のカジノN
+According to the mysterious gentleman thiefN
+//五爪龍で、店名の由来でもある明朝N
+the "Five-clawed dragon censer", namesake of Macau'sN
+//末期の名作『五爪の龍の香炉』が、N
+largest casino the Five-clawed Dragon, and artifact.N
+//謎の怪盗により盗み出された。P
+of the final years of the Ming Dynasty, was stolen.P
+
+
+//マネージャーの談話：N
+Manager:N
+//この度は、本当にとんでもないことN
+This has really become quiteN
+//になってしまいました。P
+the mess.P
+
+
+//よりによってこの店で一番大事な品N
+Of all things this shop's most important itemN
+//が盗み出されるとは・・・P
+being stolen...P
+
+
+//麗華嬢の談話：N
+Reika:N
+//びぇ～ん！　うちの龍が盗まれた～N
+Urrr-! My dragon was stolen.N
+//麗華、本気で怒ったよ。P
+I'm seriously angry.P
+
+
+//おじいちゃんの大切な龍を盗ったのN
+Stealing Grandpa's important dragonN
+//絶対許せないね！N
+is absolute unforgivable!N
+//今度会ったらお仕置きよ。P
+Next time I see you you're dead meat.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002626C)
+
+// Pos : 000268BC
+
+//月N日未明、東京湾上で開催中の
+According to the Mysterious gentleman thief
+//古代エジプト展会場から、展示品N
+the main item of the currently running Ancient EgyptN
+//の目玉である『サファイアの王冠』N
+exhibit in upper Tokyo Bay, the "Sapphire Crown"N
+//が謎の怪盗によって盗まれた。P
+was stolen from the exhibition hall on the Xth of X month.P
+
+
+//運営委員長の談話：N
+Management Committee Chairman:N
+//展示会そのものが怪盗を捕まえる罠N
+The exhibition itself had become a trap to catch theN
+//になっていたのですが・・・P
+gentleman thief but...P
+
+
+//それよりも、怪盗に奪われた王冠をN
+Most importantly, we must hurry and recover theN
+//早く取り戻さなくては・・・P
+crown that was stolen gentleman thief...P
+
+
+//公子嬢の談話：N
+Kimiko:N
+//このわたくしから王冠を盗むなんてN
+I cannot tolerate the crownN
+//許せませんわ。P
+being stolen from me.P
+
+
+//しかも、ナルシスが一枚咬んでいたN
+(???)
+//なんて・・・N
+(???)
+//あの怪盗ただ者ではございませんわN
+That gentleman thief is no ordinary person.N
+//くやし～い！！P
+How infuriating!P
+
+
+
+
+
+
+#WRITE(MYPTR, $00026270)
+
+// Pos : 00026A63
+
+//昨日、ギリシャで今世紀最大ともいN
+Yesterday, the most valuable discovery of this centuryN
+//える貴重な発見がなされた。P
+was made in Greece.P
+
+
+//発見されたのは、古代ギリシャ時代N
+The discovery, a "Golden Warship"N
+//の数々の財宝で、その中に含まれてN
+from ancient Greek times containingN
+//いた『黄金の軍船』は世界中の注目N
+many treasures has gathered the attentionN
+//を集めている。P
+of the entire world.P
+
+
+//公子嬢の談話：N
+Kimiko:N
+//人類の貴重な遺産を怪盗から守るこN
+I'm very glad to be able to protect mankind's precious inheritanceN
+//とができて、大変嬉しく思います。P
+from this gentleman thief.P
+
+
+//宝物類は全て博物館に寄贈いたしまN
+The treasures were all donated toN
+//すわ。N
+museums.N
+//でも、やっぱりくやし～いっ！P
+But, it's so infuriating after all!P
+
+
+//美幸嬢の談話：N
+Miyuki:N
+//お宝なんてどうだっていいんだよ！N
+Who cares about the treasure!N
+//問題はナルシスと例の怪盗だ・・・N
+The problem is Narcisse and our gentleman thief...N
+//ちくしょう！P
+Dammit!P
+
+
+//麗華嬢の談話：N
+Reika:N
+//あの怪盗なかなかすばしっこいヤツN
+That gentleman thief's very nimble guy.N
+//だったね。　今度、会ったら絶対にN
+Next time I see him I'm catching himN
+//麗華が捕まえてやるよ。P
+for sure.P
+
+
+//陽子嬢の談話：N
+Yoko:N
+//くやしいわ！　またしてもナルシスN
+I can't stand it! We let NarcisseN
+//と例の怪盗を取り逃がしてしまうなN
+and our gentleman thief slip through our fingersN
+//んて・・・P
+again...P
+
+
+//でも今回は人類の貴重な遺産を守れN
+But we protected these culturalN
+//たんだし・・・N
+treasures...N
+//しかたないですね。P
+It couldn't be helped right.P
+
+
+//ニーナ嬢の談話：N
+Nina:N
+//まぁ、わたしたちの執念の前に今回N
+Basically, before our tenacityN
+//はさすがの怪盗も尻尾を巻いて逃げN
+the gentleman thief could to nothing butN
+//出したようねっ！P
+turn tail and flee this time!P
+
+
+//おっほほほほほほ・・・P
+Oh-ho-ho-ho-ho-ho-ho...P
+
+
+
+
+
+
+#WRITE(MYPTR, $00026274)
+
+// Pos : 00026D88
+
+//お前は、ホントにそんな腕で怪盗にN
+You, really intend to become a professional thiefN
+//なるつもりか？P
+with that skill?P
+
+
+
+
+
+
+#WRITE(MYPTR, $00026278)
+
+// Pos : 00026DB9
+
+//まぁ、まぁの出来だな、もっと腕をN
+You did so-so. Please polish yourN
+//磨いてくれよ・・・P
+skills more.P
+
+
+
+
+
+
+#WRITE(MYPTR, $0002627C)
+
+// Pos : 00026DEE
+
+//経験が浅い割には、首尾よくいったN
+Having comparatively little experience, I supposeN
+//方かな・・・P
+you were rather successful...P
+
+
+
+
+
+
+#WRITE(MYPTR, $00026280)
+
+// Pos : 00026E1D
+
+//だいぶ腕を上げたみたいだな・・・P
+It looks like you've improved your skills considerably.P
+
+
+
+
+
+
+#WRITE(MYPTR, $00026284)
+
+// Pos : 00026E3F
+
+//上出来だ・・・！P
+Well done!P
+
+
+
+
+
+
+#WRITE(MYPTR, $000D4380)
+
+// Pos : 000D544E
+
+//あの様な方顔も見たくありませんヮP
+I don't want to see that type of face.P
+
+
+
+
+
+
+#WRITE(MYPTR, $000D4384)
+
+// Pos : 000D5470
+
+//個人的にもちょっとネ・・・P
+Personally I'll pass...P
+
+
+
+
+
+
+#WRITE(MYPTR, $000D4388)
+
+// Pos : 000D548C
+
+//ナルシスよりはましかもネ・・・P
+They may even be better than Narcisse...P
+
+
+
+
+
+
+#WRITE(MYPTR, $000D438C)
+
+// Pos : 000D54AC
+
+//またいつかお会いできるかしら・・P
+I wonder if we'll be able to meet again sometime...P
+
+
+
+
+
+
+#WRITE(MYPTR, $000D4390)
+
+// Pos : 000D54CE
+
+//わたくしも、怪盗になろうかな・・P
+Maybe I'll become a professional thief too...P
+
+
+
+
+
+
+#WRITE(MYPTR, $000D4394)
+
+// Pos : 000D54F0
+
+//とことんふざけた野郎だぜっ！P
+What a frivolous bastard-!
+
+
+
+
+
+
+#WRITE(MYPTR, $000D4398)
+
+// Pos : 000D550E
+
+//あんな奴、論外だぜっ！P
+A guy like that is out of the question!
+
+
+
+
+
+
+#WRITE(MYPTR, $000D439C)
+
+// Pos : 000D5526
+
+//なかなか面白ぇ奴だったな・・・P
+He was a very amusing guy...P
+
+
+
+
+
+
+#WRITE(MYPTR, $000D43A0)
+
+// Pos : 000D5546
+
+//ど、どうだっていいだろっ！P
+W-Who the heck cares!P
+
+
+
+
+
+
+#WRITE(MYPTR, $000D43A4)
+
+// Pos : 000D5562
+
+//ちくしょう、惚れちまったぜ！P
+Dammit, I've gone and fallen for him!P
+
+
+
+
+
+
+#WRITE(MYPTR, $000D43A8)
+
+// Pos : 000D5647
+
+//なに、あいつ？N
+What, him?N
+//一番嫌いなタイプね・・・P
+He's the type I hate the most...P
+
+
+
+
+
+
+#WRITE(MYPTR, $000D43AC)
+
+// Pos : 000D5670
+
+//ナルシスの真似なんかして、気取るN
+He's suspected of mimicking NarcisseN
+//んじゃないわよ！P
+isn't he(???)!P
+
+
+
+
+
+
+#WRITE(MYPTR, $000D43B0)
+
+// Pos : 000D56A3
+
+//大した気にもならないわ・・・P
+I totally don't care...P
+
+
+
+
+
+
+#WRITE(MYPTR, $000D43B4)
+
+// Pos : 000D56C1
+
+//別に恨んでなんかいないわョ・・・P
+I don't really hold a grudge or anything...P
+
+
+
+
+
+
+#WRITE(MYPTR, $000D43B8)
+
+// Pos : 000D56E3
+
+//怪盗のくせに、アイツ素敵なのよねP
+He's a wonderful guy for a thief isn't he.P
+
+
+
+
+
+
+#WRITE(MYPTR, $000D43BC)
+
+// Pos : 000D5580
+
+//麗華、アイツのこと大っ嫌いね！P
+I hate that guy!P
+
+
+
+
+
+
+#WRITE(MYPTR, $000D43C0)
+
+// Pos : 000D55A0
+
+//まったく、変なヤツよ・・・P
+He's really a weirdo...P
+
+
+
+
+
+
+#WRITE(MYPTR, $000D43C4)
+
+// Pos : 000D55BC
+
+//麗華、アイツのことよく分からないN
+I don't know much about that guyN
+//ね・・・P
+...P
+
+
+
+
+
+
+
+#WRITE(MYPTR, $000D43C8)
+
+// Pos : 000D55E7
+
+//アイツ、ホントは悪いヤツじゃないN
+He's not really a bad guy
+//んじゃないか？P
+is he?P
+
+
+
+
+
+
+#WRITE(MYPTR, $000D43CC)
+
+// Pos : 000D5618
+
+//麗華、アイツの事、お婿さんにしよN
+Maybe I should marryN
+//うかな・・・P
+that guy...P
+
+
+
+
+
+
+#WRITE(MYPTR, $000D43D0)
+
+// Pos : 000D5705
+
+//あんな最低な奴、見たことない！P
+I've never seen such a disgusting guy!P
+
+
+
+
+
+
+#WRITE(MYPTR, $000D43D4)
+
+// Pos : 000D5725
+
+//ヤナ感じよね・・・P
+He gives you the creeps right...P
+
+
+
+
+
+
+#WRITE(MYPTR, $000D43D8)
+
+// Pos : 000D5739
+
+//泥棒じゃなければねぇ・・・P
+If he weren't a thief...(???)P
+
+
+
+
+
+
+#WRITE(MYPTR, $000D43DC)
+
+// Pos : 000D5755
+
+//ちょっと、いい男だったわね。P
+He was a good man, just a bit.P
+
+
+
+
+
+
+#WRITE(MYPTR, $000D43E0)
+
+// Pos : 000D5773
+
+//早く次の予告状来ないかなぁ・・・P
+I wonder if his next announcement won't come quickly...P
+
+
+
+
+
+

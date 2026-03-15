@@ -1,0 +1,542 @@
+#VAR(TABLE, TABLE)
+
+#ADDTBL("SJIS.TBL", TABLE)
+
+#ACTIVETBL(TABLE)
+
+
+
+#JUMP("NOT_SET")
+
+
+
+// Pos : 0001B252
+
+// Fixed Length : 0050
+
+//キャンディを使用した。p
+Used candy.p
+
+
+// Pos : 0001B2A2
+
+// Fixed Length : 0050
+
+//体力が少し回復した。c
+Recovered a bit of physical strength.c
+
+
+// Pos : 0001B2F2
+
+// Fixed Length : 0050
+
+//ビスケットを使用した。p
+Used Biscuit.p
+
+
+// Pos : 0001B342
+
+// Fixed Length : 0050
+
+//体力が大きく回復した。c
+Physical strength greatly recovered.c
+
+
+// Pos : 0001B392
+
+// Fixed Length : 0050
+
+//チョコレートを使用した。p
+Used chocolate.p
+
+
+// Pos : 0001B3E2
+
+// Fixed Length : 0050
+
+//体力が完全に回復した。c
+Physical strength completely recovered.c
+
+
+// Pos : 0001B432
+
+// Fixed Length : 0050
+
+//チュウインガムを使用した。p
+Used chewing gum.p
+
+
+// Pos : 0001B482
+
+// Fixed Length : 0050
+
+//気力が少し回復した。c
+Recovered a little willpower.c
+
+
+// Pos : 0001B4D2
+
+// Fixed Length : 0050
+
+//リラックスハーブを使用した。p
+Used relax herb.p
+
+
+// Pos : 0001B522
+
+// Fixed Length : 0050
+
+//気力が大きく回復した。c
+Willpower greatly recovered.c
+
+
+// Pos : 0001B572
+
+// Fixed Length : 0050
+
+//リフレッシュハーブを使用した。p
+Used refresh herb.p
+
+
+// Pos : 0001B5C2
+
+// Fixed Length : 0050
+
+//気力が完全に回復した。c
+Willpower completely recovered.c
+
+
+// Pos : 0001B612
+
+// Fixed Length : 0050
+
+//スタミナドリンクを使用した。p
+Used stamina drink.p
+
+
+// Pos : 0001B662
+
+// Fixed Length : 0050
+
+//体力と気力が少し回復した。c
+Physical strength and willpower recovered a little.c
+
+
+// Pos : 0001B6B2
+
+// Fixed Length : 0050
+
+//スーパードリンクを使用した。p
+Used super drink.p
+
+
+// Pos : 0001B702
+
+// Fixed Length : 0050
+
+//体力と気力が大きく回復した。c
+Physical strength and willpower greatly recovered.c
+
+
+// Pos : 0001B752
+
+// Fixed Length : 0050
+
+//スペシャルドリンクを使用した。p
+Used special drink.p
+
+
+// Pos : 0001B7A2
+
+// Fixed Length : 0050
+
+//体力と気力が完全に回復した。c
+Physical strength and willpower completely recovered.c
+
+
+// Pos : 0001B7F2
+
+// Fixed Length : 0050
+
+//赤外線スコープを使用した。p
+Used infrared scope.p
+
+
+// Pos : 0001B842
+
+// Fixed Length : 0050
+
+//赤外線が見える様になった。c
+Became able to see infra-red rays.c
+
+
+// Pos : 0001B892
+
+// Fixed Length : 0050
+
+//吸盤ピストルを使用した。c
+Used sucker pistol.c
+
+
+// Pos : 0001B8E2
+
+// Fixed Length : 0050
+
+
+
+
+
+// Pos : 0001B932
+
+// Fixed Length : 0050
+
+//アイアンシューズを使用した。p
+Used iron shoes.p
+
+
+// Pos : 0001B982
+
+// Fixed Length : 0050
+
+//ちょっと重いな・・・c
+They're a little heavy...c
+
+
+// Pos : 0001B9D2
+
+// Fixed Length : 0050
+
+//身代わり人形を使用した。p
+Used substitute doll.p
+
+
+// Pos : 0001BA22
+
+// Fixed Length : 0050
+
+//身代わり人形は砕け散った！c
+Substitute doll shattered!c
+
+
+// Pos : 0001BA72
+
+// Fixed Length : 0050
+
+//プラスチック爆弾を使用した。p
+Used plastic explosive.p
+
+
+// Pos : 0001BAC2
+
+// Fixed Length : 0050
+
+//q壁が壊れて通れるようになった。c
+qBecame able to pass through the broken wall.c
+
+
+// Pos : 0001BB12
+
+// Fixed Length : 0050
+
+//におい袋を使用した。c
+Used odor bag.c
+
+
+// Pos : 0001BB62
+
+// Fixed Length : 0050
+
+
+
+
+
+// Pos : 0001BBB2
+
+// Fixed Length : 0050
+
+//中和スプレーを使用した。c
+Used neutralize spray.c
+
+
+// Pos : 0001BC02
+
+// Fixed Length : 0050
+
+
+
+
+
+// Pos : 0001BC52
+
+// Fixed Length : 0050
+
+//ペンチを使用した。c
+Used pliers used.c
+
+
+// Pos : 0001BCA2
+
+// Fixed Length : 0050
+
+//ピアノ線を切断した。c
+Cut the piano wire.c
+
+
+// Pos : 0001BCF2
+
+// Fixed Length : 0050
+
+//護符を使用した。c
+Used talisman.c
+
+
+// Pos : 0001BD42
+
+// Fixed Length : 0050
+
+
+
+
+
+// Pos : 0001BD92
+
+// Fixed Length : 0050
+
+//聖水を使用した。p
+Used holy water.p
+
+
+// Pos : 0001BDE2
+
+// Fixed Length : 0050
+
+//ロボットがショ－トして\n
+Robot shorted out and
+//動かなくなった。c
+Stopped working.c
+
+
+// Pos : 0001BE32
+
+// Fixed Length : 0050
+
+//ゴムのゲジゲジを使用した。c
+Used rubber centipede.c
+
+
+// Pos : 0001BE82
+
+// Fixed Length : 0050
+
+//ここでは、使えないな。c
+Cannot use here.c
+
+
+// Pos : 0001BED2
+
+// Fixed Length : 0050
+
+//チキン・マスクを使用した。c
+Used chicken-mask.c
+
+
+// Pos : 0001BF22
+
+// Fixed Length : 0050
+
+//ここでは、使えないな。c
+Cannot use here.c
+
+
+// Pos : 0001BF72
+
+// Fixed Length : 0050
+
+//肉マンを使用した。c
+Used meat bun.c
+
+
+// Pos : 0001BFC2
+
+// Fixed Length : 0050
+
+//ここでは、使えないな。c
+Cannot use here.c
+
+
+// Pos : 0001C012
+
+// Fixed Length : 0050
+
+//チックル・ハンドを使用した。c
+Used tickle-hand.c
+
+
+// Pos : 0001C062
+
+// Fixed Length : 0050
+
+//ここでは、使えないな。c
+Cannot use here.c
+
+
+// Pos : 0001C0B2
+
+// Fixed Length : 0050
+
+//ぴこぴこカエルを使用した。c
+Used squeaky frog.c
+
+
+// Pos : 0001C102
+
+// Fixed Length : 0050
+
+//ここでは、使えないな。c
+Cannot use here.c
+
+
+// Pos : 0001C152
+
+// Fixed Length : 0050
+
+//変装キットを使用した。c
+Used disguise kit.c
+
+
+// Pos : 0001C1A2
+
+// Fixed Length : 0050
+
+//ここでは、使えないな。c
+Cannot use here.c
+
+
+// Pos : 0001C1F2
+
+// Fixed Length : 0050
+
+//発光弾を使用した。c
+Used luminescence bullet.c
+
+
+// Pos : 0001C242
+
+// Fixed Length : 0050
+
+//ここでは、使えないな。c
+Cannot use here.c
+
+
+// Pos : 0001C292
+
+// Fixed Length : 0050
+
+//言い訳虎ノ巻を使用した。c
+Used cop-out answer book.c
+
+
+// Pos : 0001C2E2
+
+// Fixed Length : 0050
+
+//ここでは、使えないな。c
+Cannot use here.c
+
+
+// Pos : 0001C332
+
+// Fixed Length : 0050
+
+//公子専用テープを使用した。c
+Used Kimiko-only tape.c
+
+
+// Pos : 0001C382
+
+// Fixed Length : 0050
+
+//ここでは、使えないな。c
+Cannot use here.c
+
+
+// Pos : 0001C3D2
+
+// Fixed Length : 0050
+
+//美幸専用テープを使用した。c
+Used Miyuki-only tape.c
+
+
+// Pos : 0001C422
+
+// Fixed Length : 0050
+
+//ここでは、使えないな。c
+Cannot use here.c
+
+
+// Pos : 0001C472
+
+// Fixed Length : 0050
+
+//ニ－ナ専用テープを使用した。c
+Used Nina-only tape.c
+
+
+// Pos : 0001C4C2
+
+// Fixed Length : 0050
+
+//ここでは、使えないな。c
+Cannot use here.c
+
+
+// Pos : 0001C512
+
+// Fixed Length : 0050
+
+//麗華専用テープを使用した。c
+Used Reika-only tape.c
+
+
+// Pos : 0001C562
+
+// Fixed Length : 0050
+
+//ここでは、使えないな。c
+Cannot use here.c
+
+
+// Pos : 0001C5B2
+
+// Fixed Length : 0050
+
+//陽子専用テープを使用した。c
+Used Yoko-only tape.c
+
+
+// Pos : 0001C602
+
+// Fixed Length : 0050
+
+//ここでは、使えないな。c
+Cannot use here.c
+
+
+// Pos : 0001C652
+
+// Fixed Length : 0050
+
+//ＩＣチップを使用した。p
+Used IC chip.p
+
+
+// Pos : 0001C6A2
+
+// Fixed Length : 0050
+
+//センサーの性能があがったc
+Sensor performance went up.c
+
+

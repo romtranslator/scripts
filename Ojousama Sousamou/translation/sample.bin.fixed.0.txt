@@ -1,0 +1,286 @@
+#VAR(TABLE, TABLE)
+
+#ADDTBL("SJIS.TBL", TABLE)
+
+#ACTIVETBL(TABLE)
+
+
+
+#JUMP("NOT_SET")
+
+
+
+// Pos : 0001AED8
+
+// Fixed Length : 0014
+
+//ＮＯＴＨＩＮＧ　　
+NOTHING
+
+
+// Pos : 0001AEEC
+
+// Fixed Length : 0014
+
+//キャンディ　　　　
+Candy
+
+
+// Pos : 0001AF00
+
+// Fixed Length : 0014
+
+//ビスケット　　　　
+Biscuit
+
+
+// Pos : 0001AF14
+
+// Fixed Length : 0014
+
+//チョコレート　　　
+Chocolate
+
+
+// Pos : 0001AF28
+
+// Fixed Length : 0014
+
+//チュウインガム　　
+Chewing Gum
+
+
+// Pos : 0001AF3C
+
+// Fixed Length : 0014
+
+//リラックスハーブ　
+Relax Herb
+
+
+// Pos : 0001AF50
+
+// Fixed Length : 0014
+
+//リフレッシュハーブ
+Refresh Herb
+
+
+
+// Pos : 0001AF64
+
+// Fixed Length : 0014
+
+//スタミナドリンク　
+Stamina Drink
+
+
+// Pos : 0001AF78
+
+// Fixed Length : 0014
+
+//スーパードリンク　
+Super Drink
+
+
+// Pos : 0001AF8C
+
+// Fixed Length : 0014
+
+//スペシャルドリンク
+Special Drink
+
+
+
+// Pos : 0001AFA0
+
+// Fixed Length : 0014
+
+//赤外線スコープ　　
+Infrared Scope
+
+
+// Pos : 0001AFB4
+
+// Fixed Length : 0014
+
+//吸盤ピストル　　　
+Sucker Pistol
+
+
+// Pos : 0001AFC8
+
+// Fixed Length : 0014
+
+//アイアンシューズ　
+Iron Shoes
+
+
+// Pos : 0001AFDC
+
+// Fixed Length : 0014
+
+//身代わり人形　　　
+Substitute Doll
+
+
+// Pos : 0001AFF0
+
+// Fixed Length : 0014
+
+//プラスチック爆弾　
+Plastic Explosive
+
+
+// Pos : 0001B004
+
+// Fixed Length : 0014
+
+//におい袋　　　　　
+Odor Bag
+
+
+// Pos : 0001B018
+
+// Fixed Length : 0014
+
+//中和スプレー　　　
+Neutralize Spray
+
+
+// Pos : 0001B02C
+
+// Fixed Length : 0014
+
+//ペンチ　　　　　　
+Pliers
+
+
+// Pos : 0001B040
+
+// Fixed Length : 0014
+
+//護符　　　　　　　
+Talisman
+
+
+// Pos : 0001B054
+
+// Fixed Length : 0014
+
+//聖水　　　　　　　
+Holy Water
+
+
+// Pos : 0001B068
+
+// Fixed Length : 0014
+
+//ゴムのゲジゲジ　　
+Rubber Centipede
+
+
+// Pos : 0001B07C
+
+// Fixed Length : 0014
+
+//チキン・マスク　　
+Chicken Mask
+
+
+// Pos : 0001B090
+
+// Fixed Length : 0014
+
+//肉マン　　　　　　
+Meat Bun
+
+
+// Pos : 0001B0A4
+
+// Fixed Length : 0014
+
+//チックル・ハンド　
+Tickle Hand
+
+
+// Pos : 0001B0B8
+
+// Fixed Length : 0014
+
+//ぴこぴこカエル　　
+Squeaky Frog
+
+
+// Pos : 0001B0CC
+
+// Fixed Length : 0014
+
+//変装キット　　　　
+Disguise Kit
+
+
+// Pos : 0001B0E0
+
+// Fixed Length : 0014
+
+//発光弾　　　　　　
+Luminescence Bullet
+
+
+// Pos : 0001B0F4
+
+// Fixed Length : 0014
+
+//言い訳虎ノ巻　　　
+Cop-out Answer Book
+
+
+// Pos : 0001B108
+
+// Fixed Length : 0014
+
+//公子専用テープ　　
+Kimiko-only Tape
+
+
+// Pos : 0001B11C
+
+// Fixed Length : 0014
+
+//美幸専用テープ　　
+Miyuki-only Tape
+
+
+// Pos : 0001B130
+
+// Fixed Length : 0014
+
+//ニ－ナ専用テープ　
+Nina-only Tape
+
+
+// Pos : 0001B144
+
+// Fixed Length : 0014
+
+//麗華専用テープ　　
+Reika-only Tape
+
+
+// Pos : 0001B158
+
+// Fixed Length : 0014
+
+//陽子専用テープ　　
+Yoko-only Tape
+
+
+// Pos : 0001B16C
+
+// Fixed Length : 0014
+
+//ＩＣチップ　　　　
+IC chip
+
+
