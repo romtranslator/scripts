@@ -1,0 +1,205 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -786432 , 32)
+#JMP($00001260)
+
+
+// Ptr: 000C00C5
+#WRITE(PTR, $00000043)
+<BOX_SHOW>
+<PLAYER_LAST_NAME>
+
+//「ただいま～。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$00><$00>
+
+//香奈「あっ、お帰りなさい。
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C00FA
+#WRITE(PTR, $0000006D)
+<BOX_SHOW>
+<PLAYER_LAST_NAME>
+
+//「ただいま、香奈ちゃん。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$01><$00>
+<START_LIP_ANIM>
+
+//香奈「今日は早いんですね、綾華と一緒じゃなかったんですか？
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「いや、一緒じゃなかったけど…なんで？
+
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 000C0184
+#WRITE(PTR, $00000090)
+<BOX_SHOW>
+<VOICE><$02><$00>
+<START_LIP_ANIM>
+
+//香奈「えっ！？\n
+
+//なんでって…えと…なんと…なく…。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「ふ～ん、まぁいいけどね。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$03><$00>
+<START_LIP_ANIM>
+
+//香奈「あはっ、あははは。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「俺部屋にいるから、何かあったら声かけてね。
+
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 000C022C
+#WRITE(PTR, $000000B3)
+<BOX_SHOW>
+<VOICE><$04><$00>
+<START_LIP_ANIM>
+
+//香奈「はい！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C11E9
+#WRITE(PTR, $000009C2)
+<BOX_SHOW>
+<$77><$00>
+<$70><$08><$B0>
+
+//ここまでのデータをＳＡＶＥしますか？\n
+
+//「ＳＡＶＥしない。\n
+
+//「ＳＡＶＥする。\n
+<BREAK>
+
+
+// Ptr: 000C123A
+#WRITE(PTR, $000009D8)
+#WRITE(PTR, $000009DF)
+#WRITE(PTR, $000011E4)
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C0C01
+#WRITE(PTR, $00000B92)
+<$30><$03><$40><$19>
+//・
+
+//<$0C><$00><$2B><$00><$12><$08><$01><$67><$0A><$0C><$00><$0F><$00><$01><BREAK>
+
+
+// Ptr: 000C10DA
+#WRITE(PTR, $00000DFF)
+<$77><$00>
+<$70><$6C><$18>
+
+//は　い
+
+<$70><$6C><$28>
+
+//いいえ
+
+<BREAK>
+
+
+// Ptr: 000C10F0
+#WRITE(PTR, $00000E34)
+<$77><$00>
+<$70><$6C><$40>
+
+//は　い
+
+<$70><$6C><$50>
+
+//いいえ
+
+<BREAK>
+
+
+// Ptr: 000C1106
+#WRITE(PTR, $00000E69)
+<$77><$00>
+<$70><$6C><$68>
+
+//は　い
+
+<$70><$6C><$78>
+
+//いいえ
+
+<BREAK>
+
+
+// Ptr: 000C111C
+#WRITE(PTR, $00000E9E)
+<$77><$00>
+<$70><$6C><$90>
+
+//は　い
+
+<$70><$6C><$A0>
+
+//いいえ
+
+<BREAK>
+
+
+// Ptr: 000C1132
+#WRITE(PTR, $00000ED3)
+<$77><$00>
+<$70><$6C><$B8>
+
+//は　い
+
+<$70><$6C><$C8>
+
+//いいえ
+
+<BREAK>
+
+

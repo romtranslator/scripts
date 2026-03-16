@@ -1,0 +1,1337 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -524288 , 32)
+#JMP($00003A60)
+
+
+// Ptr: 00081D97
+#WRITE(PTR, $00000571)
+<$70><$48><$60>
+
+//そして時は過ぎ…
+
+<BREAK>
+
+
+// Ptr: 0008075F
+#WRITE(PTR, $000005D8)
+<BOX_SHOW>
+<VOICE><$00><$00>
+<START_LIP_ANIM>
+
+//香奈「うふふ、アナタに似てとってもかわいいですね。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「そうかい？\n
+
+//俺は弥生さんに似ていると思うんだけどなぁ…。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$01><$00>
+<START_LIP_ANIM>
+
+//香奈「ううん、ほら、目元なんてアナタにそっくり。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「ははっ、…この子には幸多く、元気に育って欲しいな。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$02><$00>
+<START_LIP_ANIM>
+
+//香奈「うふふ、私達みたいに…ね、アナタ？
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「ああ、そうだな、香奈。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$03><$00>
+<START_LIP_ANIM>
+
+//香奈「さっ、家で皆も待っているわ。\n
+
+//そろそろ帰りましょう。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000808D3
+#WRITE(PTR, $000005EA)
+<BOX_SHOW>
+<VOICE><$04><$00>
+<START_LIP_ANIM>
+
+//真奈美「あっ、お兄ちゃん！\n
+
+//ごめ～ん、待ったぁ？
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「ああ、ちょっとだけね。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$05><$00>
+<START_LIP_ANIM>
+
+//真奈美「エヘヘ、よかった！\n
+
+//お兄ちゃん、帰っちゃったかと思って心配しちゃったんだ！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「あれぇ～？\n
+
+//真奈美ちゃん、もうお兄ちゃんは卒業じゃなかったのかなぁ～？
+
+<PAUSE>
+<CLEAR>
+<VOICE><$06><$00>
+<START_LIP_ANIM>
+
+//真奈美「うふふっ、いいの、いいの！\n
+
+//だってお兄ちゃんのほうが呼びやすいんだもん！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<VOICE><$07><$00>
+<START_LIP_ANIM>
+
+//真奈美「さっ、早く行きましょっ！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 00080A49
+#WRITE(PTR, $000005FC)
+<BOX_SHOW>
+<VOICE><$08><$00>
+
+//香奈「二人とも、おめでとう！
+
+<PAUSE>
+<CLEAR>
+<VOICE><$09><$00>
+
+//真奈美「おめでとう、お母さん！\n
+
+//お兄ちゃん！
+
+<PAUSE>
+<CLEAR>
+<VOICE><$0A><$00>
+<START_LIP_ANIM>
+
+//弥生「ありがとう…本当にありがとう…。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<VOICE><$0B><$00>
+<START_LIP_ANIM>
+
+//弥生「うっ…ううっ…。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「どうしたんですか…泣いているんですか？
+
+<PAUSE>
+<CLEAR>
+<VOICE><$0C><$00>
+<START_LIP_ANIM>
+
+//弥生「ええ…ぐすっ…でもね、悲しいからじゃないわ、嬉しいからよ…。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「弥生さん…。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$0D><$00>
+<START_LIP_ANIM>
+
+//弥生「ぐすっ…大丈夫。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<VOICE><$0E><$00>
+<START_LIP_ANIM>
+
+//弥生「さぁ、これから二人っきりのハネムーンよ！\n
+
+//思いっきり甘えちゃうんだからっ！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 00080BE2
+#WRITE(PTR, $0000060E)
+<BOX_SHOW>
+<VOICE><$0F><$00>
+<START_LIP_ANIM>
+
+//由希子「こぉらぁ～、起きなさぁ～い！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「もうちょっと…あと１分…な、たのむよ…ムニャムニャ…。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$10><$00>
+<START_LIP_ANIM>
+
+//由希子「もぉ～！\n
+
+//さっきからそればっかりじゃないの！！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「そういうなよ、昨夜寝れなかったのはお前のせいなんだからな…。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$11><$00>
+<START_LIP_ANIM>
+
+//由希子「むぅ～、人のせいにしないでよね！早く起きないと、フライパンで叩き起こすわよ！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<VOICE><$09><$80>
+
+//ガコッ～ン！？
+
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「痛ぁっ！？\n
+
+//本当にフライパンで、殴るなぁ～！
+
+<PAUSE>
+<CLEAR>
+<VOICE><$12><$00>
+<START_LIP_ANIM>
+
+//由希子「ウフフ、いい気味よ。\n
+
+//さっさとご飯食べて出かけましょっ！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 00080DB0
+#WRITE(PTR, $00000620)
+<BOX_SHOW>
+<VOICE><$13><$00>
+<START_LIP_ANIM>
+
+//綾華「きゃはっ☆　センパイ！\n
+
+//そろそろお弁当にしましょっかぁ。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「ああ、そうだね。\n
+
+//綾華ちゃんのお弁当楽しみだな。
+
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「いっただきまぁ～す！
+
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「パクパクパク…モグモグ…うっ！？
+
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「マッ、マズイ…。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$14><$00>
+<START_LIP_ANIM>
+
+//綾華「えっ…そんなことわぁ…ぱくっと。\n
+
+//うぇ～ほんとだぁ～まっずぅ～い。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「こらぁ、綾華ぁ！\n
+
+//約束を破ったなぁ！\n
+
+//約束通り、針飲ませちゃうぞぉ～！
+
+<PAUSE>
+<CLEAR>
+<VOICE><$15><$00>
+<START_LIP_ANIM>
+
+//綾華「きゃはっ、きゃははは。\n
+
+//綾華ぁ、し～らないっと！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 00080F57
+#WRITE(PTR, $00000632)
+<BOX_SHOW>
+<VOICE><$16><$00>
+<START_LIP_ANIM>
+
+//ひより「こぉらぁ～、ま～くん、イタズラはやめなさい。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「はは、まぁまぁ、いまどきの子は元気すぎるくらいがちょうどいいんじゃないの？
+
+<PAUSE>
+<CLEAR>
+<VOICE><$17><$00>
+<START_LIP_ANIM>
+
+//ひより「そんなこと言ってぇ、イタズラされても知りませんからねぇ。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「大丈夫だって、さすがに俺にそんなことは…。
+
+<PAUSE>
+<CLEAR>
+
+//ま～くん「ま～くん、きぃっ～くっ！\n
+
+//でぇやぁ～！
+
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「うわっ！？
+
+<PAUSE>
+<CLEAR>
+<VOICE><$09><$80>
+
+//ドゴーン！！
+
+<BREAK>
+
+
+// Ptr: 000810AC
+#WRITE(PTR, $00000664)
+<PAUSE>
+<CLEAR>
+<VOICE><$18><$00>
+<START_LIP_ANIM>
+
+//ひより「うふふ、大丈夫ですか…、あははっ…。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「痛ぁ～、ひどいよひよりちゃん、笑うなんて…。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$19><$00>
+<START_LIP_ANIM>
+
+//ひより「うふふ、ごめんなさい。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<VOICE><$1A><$00>
+<START_LIP_ANIM>
+
+//ひより「お腹の中の子も…あんなふうに元気に育ってくれるといいなぁ～。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「えっ！？\n
+
+//それって…もしかしてっ！！
+
+<PAUSE>
+<CLEAR>
+<VOICE><$1B><$00>
+<START_LIP_ANIM>
+
+//ひより「うふふ、もうすぐ家族が増えるんですから、頑張ってくださいね、パ～パ。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 00081202
+#WRITE(PTR, $00000676)
+<BOX_SHOW>
+<VOICE><$1C><$00>
+<START_LIP_ANIM>
+
+//優「どうしたの？\n
+
+//あっ、何なのその小包？
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「うん、舞ちゃんからみたいだよ。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$1D><$00>
+<START_LIP_ANIM>
+
+//優「えっ、舞からっ！？\n
+
+//ねっ、早く開けて見せてっ！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「ああ、ちょっと待て…。\n
+
+//これ、舞ちゃんが書いた小説だね。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$1E><$00>
+<START_LIP_ANIM>
+
+//優「あっ、それ知ってる！\n
+
+//舞の最新作でしょ？
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<VOICE><$1F><$00>
+<START_LIP_ANIM>
+
+//優「えっとぉ…なんてタイトルだったっけ～？
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「え～っと、この本のタイトルはね…。
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 00081358
+#WRITE(PTR, $00000688)
+<$77><$00>
+<$70><$20><$60>
+<VOICE><$20><$00>
+
+//『ファーストキッス・ストーリー』
+
+<BREAK>
+
+
+// Ptr: 00081382
+#WRITE(PTR, $000006A2)
+<BOX_SHOW>
+<VOICE><$3B><$80>
+
+//ザパーン…ザザザザザ…。
+
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「はぁ～、疲れたぁ…。\n
+
+//ちょっと休憩しようか？
+
+<PAUSE>
+<CLEAR>
+<VOICE><$21><$00>
+<START_LIP_ANIM>
+
+//舞「あん、もっと遊びましょうよ！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「あんまりはしゃぎすぎると、肌が焼けちゃうよ～。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$22><$00>
+<START_LIP_ANIM>
+
+//舞「うふふ、健康な女の子は、少しくらい焼けてる方がいいんです！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「そんなこと言わないでさぁ…少しは休もうよ。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$23><$00>
+<START_LIP_ANIM>
+
+//舞「ダ・メ・です！\n
+
+//私達にはあまり時間がないんですからっ！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<VOICE><$24><$00>
+<START_LIP_ANIM>
+
+//舞「それに、先輩のために新しい水着も買ったんですからねっ！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<VOICE><$25><$00>
+<START_LIP_ANIM>
+
+//舞「ほら、手を出して下さい！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「はぁ～、舞ちゃんにはかなわないな。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$26><$00>
+<START_LIP_ANIM>
+
+//舞「うふふ、さぁ、行きましょっ！！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 00081599
+#WRITE(PTR, $000006D0)
+<BOX_SHOW>
+<VOICE><$27><$00>
+
+//声「あのぉ…この桜の木に何か？
+
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「ええ、ちょっとした想い出があるんですよ…。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$28><$00>
+
+//声「そうですか。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$29><$00>
+
+//声「うふふ、ちゃ～んと覚えていてくれたんですね！
+
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「えっ、覚えてって？\n
+
+//こっ、この声はまさか…。
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 0008166B
+#WRITE(PTR, $000006E6)
+<BOX_SHOW>
+<PLAYER_LAST_NAME>
+
+//「みっ、美穂ちゃん！？
+
+<PAUSE>
+<CLEAR>
+<VOICE><$2A><$00>
+<START_LIP_ANIM>
+
+//美穂「あはは…ただいま。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「本当に、本当に美穂ちゃんなんだね！？
+
+<PAUSE>
+<CLEAR>
+<VOICE><$2B><$00>
+<START_LIP_ANIM>
+
+//美穂「はい。\n
+
+//正真正銘、春日野美穂です。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<VOICE><$2C><$00>
+<START_LIP_ANIM>
+
+//美穂「それに…。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<VOICE><$2D><$00>
+<START_LIP_ANIM>
+
+//美穂「うふっ、こうやってちゃ～んとアナタを触ることもできるんですよ。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「美穂ちゃん…。\n
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「あの日の言葉を信じて、俺、ずっと待っていたんだ！
+
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「信じてよかった…本当によかった…。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$2E><$00>
+<START_LIP_ANIM>
+
+//美穂「私も、あなたに会いたかった…。\n
+
+//ずっと…この時を願っていたの！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<VOICE><$2F><$00>
+<START_LIP_ANIM>
+
+//美穂「もう、絶対に離れないんだからっ！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 0008184C
+#WRITE(PTR, $000006F8)
+<BOX_SHOW>
+
+//パチパチパチパチ…。
+
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「恭子さん、初主演おめでとう！\n
+
+//はい、これっ！！
+
+<PAUSE>
+<CLEAR>
+<VOICE><$30><$00>
+<START_LIP_ANIM>
+
+//恭子「あはっ、ありがとう！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<VOICE><$31><$00>
+<START_LIP_ANIM>
+
+//恭子「ホントに、キミには感謝しているわ。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<VOICE><$32><$00>
+<START_LIP_ANIM>
+
+//恭子「言葉だけじゃ足りないと思うけど、今はありがとうって言わせてね。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「別にいいよ、俺は恭子さんの笑顔が見れれば十分なんだからさ。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$33><$00>
+<START_LIP_ANIM>
+
+//恭子「ううん、そんなことないよ。\n
+
+//あっ、ちょっと横向いて貰えるかなぁ。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「えっ…よいしょっと…。\n
+
+//これでいいかな？
+
+<PAUSE>
+<CLEAR>
+<VOICE><$34><$00>
+<START_LIP_ANIM>
+
+//恭子「うん。\n
+
+//ちゅっ！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「あっ…恭子さん！？
+
+<PAUSE>
+<CLEAR>
+<VOICE><$35><$00>
+<START_LIP_ANIM>
+
+//恭子「うふふ、続きは家に帰ったからにしましょ～ね。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 00081A5A
+#WRITE(PTR, $0000071D)
+<BOX_SHOW>
+
+//トゥルルル、トゥルルル…。
+
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 00081A79
+#WRITE(PTR, $00000725)
+<VOICE><$1E><$80>
+
+//ガチャ
+
+<PAUSE>
+<CLEAR>
+<VOICE><$36><$00>
+
+//美里「もしもし、綾乃。\n
+
+//…あたし、今晩、…お店に泊まるから…。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$37><$00>
+
+//美里「ばか、そんなんじゃないの…。
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 00081AF0
+#WRITE(PTR, $00000737)
+<BOX_SHOW>
+<VOICE><$38><$00>
+<START_LIP_ANIM>
+
+//香澄「オーダー、ミートソースワンで～す。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「ひぃ～、また注文かよぉ～！？\n
+
+//なんか、今日ってすごく忙しくないか？
+
+<PAUSE>
+<CLEAR>
+<VOICE><$39><$00>
+<START_LIP_ANIM>
+
+//香澄「いいじゃないですかぁ、お客さんが来てくれれば、お店の売り上げになるんですから！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「そりゃ、そうだけどさぁ～。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$3A><$00>
+<START_LIP_ANIM>
+
+//香澄「それに、私達の大切な生活費なんですからね！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「う～、香澄ちゃんて妙に現実的なんだよなぁ…とほほ。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$00><$80>
+
+//カランコロ～ン！
+
+<PAUSE>
+<CLEAR>
+<VOICE><$3B><$00>
+<START_LIP_ANIM>
+
+//香澄「あっ、いらっしゃいませ～！\n
+
+//チェリーポットへようこそっ！！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 00081CAF
+#WRITE(PTR, $00000754)
+<$70><$60><$C0>
+<$77><$00>
+
+//ファーストＫｉｓｓ☆物語
+
+<$70><$66><$D0>
+
+//　　　－　完　－
+
+<BREAK>
+
+
+// Ptr: 00082030
+#WRITE(PTR, $00001F95)
+<$77><$00>
+<$77><$00>
+<$70><$00><$A0>
+
+//〔選択肢〕
+
+<$70><$08><$BA>
+
+//　　　　　　　　はい\n
+
+//　　　　　　　　いいえ
+
+<BREAK>
+
+
+// Ptr: 00082071
+#WRITE(PTR, $00001FA0)
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 00082178
+#WRITE(PTR, $00002076)
+<$77><$00>
+<$70><$24><$20>
+
+//女の子を選んでください．．．
+
+<BREAK>
+
+
+// Ptr: 0008219B
+#WRITE(PTR, $00002080)
+<$77><$00>
+<$70><$30><$40>
+
+//織倉　香奈
+
+<BREAK>
+
+
+// Ptr: 00082267
+#WRITE(PTR, $0000208A)
+<$77><$00>
+<$70><$30><$40>
+
+//？？　？？
+
+<BREAK>
+
+
+// Ptr: 000821AC
+#WRITE(PTR, $00002095)
+<$77><$00>
+<$70><$30><$58>
+
+//織倉　真奈美
+
+<BREAK>
+
+
+// Ptr: 00082278
+#WRITE(PTR, $0000209F)
+<$77><$00>
+<$70><$30><$58>
+
+//？？　？？？
+
+<BREAK>
+
+
+// Ptr: 000821BF
+#WRITE(PTR, $000020AA)
+<$77><$00>
+<$70><$30><$70>
+
+//織倉　弥生
+
+<BREAK>
+
+
+// Ptr: 0008228B
+#WRITE(PTR, $000020B4)
+<$77><$00>
+<$70><$30><$70>
+
+//？？　？？
+
+<BREAK>
+
+
+// Ptr: 000821D0
+#WRITE(PTR, $000020BF)
+<$77><$00>
+<$70><$30><$88>
+
+//杉崎　由希子
+
+<BREAK>
+
+
+// Ptr: 0008229C
+#WRITE(PTR, $000020C9)
+<$77><$00>
+<$70><$30><$88>
+
+//？？　？？？
+
+<BREAK>
+
+
+// Ptr: 000821E3
+#WRITE(PTR, $000020D4)
+<$77><$00>
+<$70><$30><$A0>
+
+//七瀬　綾華
+
+<BREAK>
+
+
+// Ptr: 000822AF
+#WRITE(PTR, $000020DE)
+<$77><$00>
+<$70><$30><$A0>
+
+//？？　？？
+
+<BREAK>
+
+
+// Ptr: 000821F4
+#WRITE(PTR, $000020E9)
+<$77><$00>
+<$70><$30><$B8>
+
+//蒼月　ひより
+
+<BREAK>
+
+
+// Ptr: 000822C0
+#WRITE(PTR, $000020F3)
+<$77><$00>
+<$70><$30><$B8>
+
+//？？　？？？
+
+<BREAK>
+
+
+// Ptr: 00082207
+#WRITE(PTR, $000020FE)
+<$77><$00>
+<$70><$90><$40>
+
+//藤沢　優
+
+<BREAK>
+
+
+// Ptr: 000822D3
+#WRITE(PTR, $00002108)
+<$77><$00>
+<$70><$90><$40>
+
+//？？　？
+
+<BREAK>
+
+
+// Ptr: 00082216
+#WRITE(PTR, $00002113)
+<$77><$00>
+<$70><$90><$58>
+
+//藤沢　舞
+
+<BREAK>
+
+
+// Ptr: 000822E2
+#WRITE(PTR, $0000211D)
+<$77><$00>
+<$70><$90><$58>
+
+//？？　？
+
+<BREAK>
+
+
+// Ptr: 00082225
+#WRITE(PTR, $00002128)
+<$77><$00>
+<$70><$90><$70>
+
+//春日野　美穂
+
+<BREAK>
+
+
+// Ptr: 000822F1
+#WRITE(PTR, $00002132)
+<$77><$00>
+<$70><$90><$70>
+
+//？？？　？？
+
+<BREAK>
+
+
+// Ptr: 00082238
+#WRITE(PTR, $0000213D)
+<$77><$00>
+<$70><$90><$88>
+
+//森村　恭子
+
+<BREAK>
+
+
+// Ptr: 00082304
+#WRITE(PTR, $00002147)
+<$77><$00>
+<$70><$90><$88>
+
+//？？　？？
+
+<BREAK>
+
+
+// Ptr: 00082249
+#WRITE(PTR, $00002152)
+<$77><$00>
+<$70><$90><$A0>
+
+//橘　美里
+
+<BREAK>
+
+
+// Ptr: 00082315
+#WRITE(PTR, $0000215C)
+<$77><$00>
+<$70><$90><$A0>
+
+//？　？？
+
+<BREAK>
+
+
+// Ptr: 00082258
+#WRITE(PTR, $00002167)
+<$77><$00>
+<$70><$90><$B8>
+
+//橘　香澄
+
+<BREAK>
+
+
+// Ptr: 00082324
+#WRITE(PTR, $00002171)
+<$77><$00>
+<$70><$90><$B8>
+
+//？　？？
+
+<BREAK>
+
+
+// Ptr: 000839ED
+#WRITE(PTR, $000031C6)
+<BOX_SHOW>
+<$77><$00>
+<$70><$08><$B0>
+
+//ここまでのデータをＳＡＶＥしますか？\n
+
+//「ＳＡＶＥしない。\n
+
+//「ＳＡＶＥする。\n
+<BREAK>
+
+
+// Ptr: 00083A3E
+#WRITE(PTR, $000031DC)
+#WRITE(PTR, $000031E3)
+#WRITE(PTR, $000039E8)
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 00083405
+#WRITE(PTR, $00003396)
+<$30><$03><$40><$19>
+//｣5
+
+//<$08><$00><$2B><$00><$12><$08><$01><PAUSE>
+<$32><$08><$00><$0F><$00><$01><BREAK>
+
+
+// Ptr: 000838DE
+#WRITE(PTR, $00003603)
+<$77><$00>
+<$70><$6C><$18>
+
+//は　い
+
+<$70><$6C><$28>
+
+//いいえ
+
+<BREAK>
+
+
+// Ptr: 000838F4
+#WRITE(PTR, $00003638)
+<$77><$00>
+<$70><$6C><$40>
+
+//は　い
+
+<$70><$6C><$50>
+
+//いいえ
+
+<BREAK>
+
+
+// Ptr: 0008390A
+#WRITE(PTR, $0000366D)
+<$77><$00>
+<$70><$6C><$68>
+
+//は　い
+
+<$70><$6C><$78>
+
+//いいえ
+
+<BREAK>
+
+
+// Ptr: 00083920
+#WRITE(PTR, $000036A2)
+<$77><$00>
+<$70><$6C><$90>
+
+//は　い
+
+<$70><$6C><$A0>
+
+//いいえ
+
+<BREAK>
+
+
+// Ptr: 00083936
+#WRITE(PTR, $000036D7)
+<$77><$00>
+<$70><$6C><$B8>
+
+//は　い
+
+<$70><$6C><$C8>
+
+//いいえ
+
+<BREAK>
+
+

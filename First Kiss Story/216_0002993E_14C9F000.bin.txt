@@ -1,0 +1,1326 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -524288 , 32)
+#JMP($00003A50)
+
+
+// Ptr: 00080A07
+#WRITE(PTR, $00000050)
+<$77><$00>
+<$70><$0C><$60>
+
+//そして、時はあっという間に過ぎ…。
+
+<BREAK>
+
+
+// Ptr: 00080A30
+#WRITE(PTR, $00000068)
+<$77><$00>
+<$70><$18><$60>
+
+//俺は卒業式当日の朝を迎えた…。
+
+<BREAK>
+
+
+// Ptr: 00080A55
+#WRITE(PTR, $000000C5)
+<BOX_SHOW>
+<$6D><$01>
+<VOICE><$00><$00>
+<START_LIP_ANIM>
+
+//弥生「はい、ハンカチ。\n
+
+//他に忘れ物はないわね？
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「ええ、大丈夫です。
+
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 00080AA6
+#WRITE(PTR, $000000F6)
+<$6D><$00>
+<VOICE><$01><$00>
+<START_LIP_ANIM>
+
+//香奈「もう、お母さん！\n
+<PLAYER_LAST_NAME>
+
+//さんは子供じゃないんだから、そういうのは失礼よ。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 00080AFA
+#WRITE(PTR, $00000127)
+<$6D><$01>
+<VOICE><$02><$00>
+<START_LIP_ANIM>
+
+//弥生「えっ、そう？\n
+
+//ごめんなさいね、
+
+<PLAYER_LAST_NAME>
+
+//君。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 00080B2E
+#WRITE(PTR, $00000166)
+<$6D><$02>
+<VOICE><$03><$00>
+<START_LIP_ANIM>
+
+//真奈美「お兄ちゃ～ん、そろそろ出かけないと遅刻しちゃうよぉ～！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 00080B77
+#WRITE(PTR, $000001AE)
+<$6D><$00>
+<VOICE><$04><$00>
+<START_LIP_ANIM>
+
+//香奈「それじゃあ、そろそろ出かけましょうか。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「そうだね。\n
+
+//じゃ、弥生さん行ってきます。
+
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 00080BDB
+#WRITE(PTR, $000001BE)
+<VOICE><$05><$00>
+<$6D><$00>
+<START_LIP_ANIM>
+
+//香奈＆真奈美「いってきまぁ～す。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 00080C06
+#WRITE(PTR, $000001F4)
+<$6D><$00>
+<VOICE><$06><$00>
+<START_LIP_ANIM>
+
+//弥生「行ってらっしゃ～い！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 00080C2C
+#WRITE(PTR, $0000022E)
+<BOX_SHOW>
+<$6D><$01>
+<VOICE><$07><$00>
+<START_LIP_ANIM>
+
+//真奈美「えへへ、ここでお別れするのも今日で最後だね。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「そうだね…。
+
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 00080C7E
+#WRITE(PTR, $0000025F)
+<$6D><$01>
+<VOICE><$08><$00>
+<START_LIP_ANIM>
+
+//真奈美「お兄ちゃん…行ってきます！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「行ってらっしゃい、真奈美ちゃん。
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 00080CD2
+#WRITE(PTR, $0000029F)
+<BOX_SHOW>
+<$6D><$00>
+<VOICE><$09><$00>
+<START_LIP_ANIM>
+
+//香奈「真奈美…。\n
+
+//あの子最近すごく成長したと思いませんか？うふふ、これもあなたのおかげです。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 00080D39
+#WRITE(PTR, $000002C2)
+<VOICE><$0A><$00>
+<START_LIP_ANIM>
+
+//香奈「…こうして二人で登校するのも、今日が最後なんですよね…。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<$68><$00><$02><VOICE><$0B><$00>
+<START_LIP_ANIM>
+
+//香奈「
+
+<PLAYER_LAST_NAME>
+
+//さん、あの…今まで私に親切にしてくれて、本当にありがとうごさいました。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「香奈ちゃん…こちらこそ、今までありがとう。
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 00080E09
+#WRITE(PTR, $000002EE)
+<BOX_SHOW>
+<VOICE><$0C><$00>
+
+//由希子「おはよ～。\n
+
+//あ～ら、今日もお二人揃って登校なのねぇ～。
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 00080E4F
+#WRITE(PTR, $0000031F)
+<BOX_SHOW>
+<PLAYER_LAST_NAME>
+
+//「オッス、由希子。
+
+<PAUSE>
+<CLEAR>
+<$6D><$00>
+<VOICE><$0D><$00>
+<START_LIP_ANIM>
+
+//香奈「おはようございます、杉崎先輩。\n
+
+//ご卒業、おめでとうございます。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 00080EB4
+#WRITE(PTR, $00000350)
+<$6D><$01>
+<VOICE><$0E><$00>
+<START_LIP_ANIM>
+
+//由希子「うふふ、ありがとう、織倉さん。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<$6D><$00>
+<VOICE><$0F><$00>
+<START_LIP_ANIM>
+
+//香奈「それじゃ、私はお先に…。\n
+<PLAYER_LAST_NAME>
+
+//さん、卒業式頑張って下さいね。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「ああ、ありがとう香奈ちゃん。
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 00080F50
+#WRITE(PTR, $00000373)
+<BOX_SHOW>
+<$6D><$00>
+<VOICE><$10><$00>
+<START_LIP_ANIM>
+
+//由希子「うふふ、相変わらずかわいい子ね。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<VOICE><$11><$00>
+<START_LIP_ANIM>
+
+//由希子「さっ、私達も行きましょう。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<VOICE><$12><$00>
+
+//綾乃「お～い、そこの二人ちょっと待ったぁ～！
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 00080FDF
+#WRITE(PTR, $000003A4)
+<BOX_SHOW>
+<$6D><$01>
+<VOICE><$13><$00>
+<START_LIP_ANIM>
+
+//綾乃「ふう～～～、ギリギリセーフってとこかぁ！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<$6D><$00>
+<VOICE><$14><$00>
+<START_LIP_ANIM>
+
+//由希子「どうしたの、そんなに息切らしちゃってぇ？
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 00081146
+#WRITE(PTR, $000003B9)
+<$6D><$01>
+<VOICE><$18><$00>
+<START_LIP_ANIM>
+
+//綾乃「はぁはぁ、それがよぉ、妹の奴が寝坊して俺を起しそびれたんだよ。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「えっ、妹？\n
+
+//お前に妹なんていたんだっけ？
+
+<PAUSE>
+<CLEAR>
+<VOICE><$19><$00>
+<START_LIP_ANIM>
+
+//綾乃「あれ、以前言わなかったか？
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「いや、全然知らないぞ？
+
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 00081205
+#WRITE(PTR, $000003EA)
+<$6D><$00>
+<VOICE><$1A><$00>
+<START_LIP_ANIM>
+
+//由希子「私も、綾乃君に妹さんがいたなんて初耳よ！？
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 00081052
+#WRITE(PTR, $000003F5)
+<$6D><$01>
+<VOICE><$15><$00>
+<START_LIP_ANIM>
+
+//綾乃「はぁはぁ、それがよぉ、香澄の奴が寝坊して俺を起しそびれたんだよ。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「おいおい、高３にもなって妹に起してもらうなよ。
+
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 000810D7
+#WRITE(PTR, $00000426)
+<$6D><$00>
+<VOICE><$16><$00>
+<START_LIP_ANIM>
+
+//由希子「あはは、まったく綾乃君も相変わらずなんだからっ！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<$6D><$01>
+<VOICE><$17><$00>
+<START_LIP_ANIM>
+
+//綾乃「そういうなよ、
+
+<PLAYER_FIRST_NAME>
+
+//、杉崎ぃ～。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 00081243
+#WRITE(PTR, $00000431)
+<BOX_SHOW>
+<$6D><$01>
+<VOICE><$1B><$00>
+<START_LIP_ANIM>
+
+//綾乃「うおっ、しまった！？\n
+
+//ゆっくり話している場合じゃなかったんだ、急ごうぜっ！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 0008129E
+#WRITE(PTR, $00000462)
+<$6D><$00>
+<VOICE><$1C><$00>
+<START_LIP_ANIM>
+
+//由希子「そうね。\n
+
+//ほら、走るわよ
+
+<PLAYER_LAST_NAME>
+
+//！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000812CD
+#WRITE(PTR, $0000048C)
+<$77><$00>
+<$70><$0C><$60>
+
+//…そして、何事もなく卒業式は終わり、
+
+<$70><$0C><$70>
+
+//俺達は３年間の高校課程を終え、晴れて
+
+<$70><$0C><$80>
+
+//自由の身となった…。
+
+<BREAK>
+
+
+// Ptr: 00081336
+#WRITE(PTR, $000004E9)
+<BOX_SHOW>
+<$6D><$00>
+<VOICE><$1D><$00>
+<START_LIP_ANIM>
+
+//由希子「はぁ～あ。\n
+
+//卒業式、終わっちゃったね。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<$6D><$01>
+<VOICE><$1E><$00>
+<START_LIP_ANIM>
+
+//綾乃「そうだな。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「ああ…。
+
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 00081396
+#WRITE(PTR, $0000051A)
+<$6D><$00>
+<VOICE><$1F><$00>
+<START_LIP_ANIM>
+
+//由希子「んっ！\n
+
+//ちょっとぉ、せっかく卒業したんだから、\n
+
+//もっと楽しそうな顔しなさいよっ！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 000813F7
+#WRITE(PTR, $0000054B)
+<VOICE><$20><$00>
+<START_LIP_ANIM>
+
+//由希子「アンタ達がそんな顔してると、こっちにまで移っちゃうんだから…。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<VOICE><$21><$00>
+<START_LIP_ANIM>
+
+//由希子「ううっ…ぐすっ…。\n
+
+//ほら…移っちゃったじゃないの…ううっ…ぐすっ…。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「由希子…。
+
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 000814A8
+#WRITE(PTR, $0000057C)
+<$6D><$01>
+<VOICE><$22><$00>
+<START_LIP_ANIM>
+
+//綾乃「あっ、スマン杉崎！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 000814CB
+#WRITE(PTR, $000005AD)
+<$6D><$01>
+<VOICE><$23><$00>
+<START_LIP_ANIM>
+
+//綾乃「よぉ～し、俺はもう笑顔だ。\n
+
+//だから泣くな、杉崎！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<$6D><$00>
+<VOICE><$24><$00>
+<START_LIP_ANIM>
+
+//由希子「ぐすっ…ううっ…。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「ほら、由希子ハンカチ使えよ…。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$25><$00>
+<START_LIP_ANIM>
+
+//由希子「うん、ぐすっ…ぐすっ…。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「ふふ、今まであまり気がつかなかったけどさ、お前って結構かわいい顔するんだな。
+
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 000815CB
+#WRITE(PTR, $000005DE)
+<VOICE><$26><$00>
+<START_LIP_ANIM>
+
+//由希子「えっ！？\n
+
+//ちょ、ちょっと突然何言い出すのよ！？
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<$6D><$01>
+<VOICE><$27><$00>
+<START_LIP_ANIM>
+
+//綾乃「うむ、俺もそう思う。\n
+
+//杉崎はとびっきりかわいいぜ！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 00081649
+#WRITE(PTR, $0000060F)
+<$6D><$00>
+<VOICE><$28><$00>
+<START_LIP_ANIM>
+
+//由希子「やっ、やだもぉ！\n
+
+//今更おだてられたって、なにも出ないんだからねっ！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「ふふ、照れるなよ由希子。
+
+<PAUSE>
+<CLEAR>
+<$6D><$01>
+<VOICE><$29><$00>
+<START_LIP_ANIM>
+
+//綾乃「照れた顔も可愛かったりしてなっ！\n
+
+//あは、あはははは！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 000816FD
+#WRITE(PTR, $00000640)
+<$6D><$00>
+<VOICE><$2A><$00>
+<START_LIP_ANIM>
+
+//由希子「も、もう、知らないっ！\n
+
+//フンッだ！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<VOICE><$2B><$00>
+
+//宏「賑やかだな、お前達…。
+
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 00081750
+#WRITE(PTR, $0000067F)
+<VOICE><$2C><$00>
+<START_LIP_ANIM>
+
+//由希子「えっ？\n
+
+//あらぁ、宏君！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 00081776
+#WRITE(PTR, $000006C7)
+<$6D><$01>
+<VOICE><$2D><$00>
+<START_LIP_ANIM>
+
+//綾乃「おっ、香坂じゃないか。\n
+
+//今日も神出鬼没だな。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 000817B2
+#WRITE(PTR, $0000070F)
+<$6D><$02>
+<VOICE><$2E><$00>
+<START_LIP_ANIM>
+
+//宏「ふっ、相変わらず失礼な奴等だ…。\n
+
+//まっ、それも今日で最後だがな。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<$6D><$01>
+<VOICE><$2F><$00>
+<START_LIP_ANIM>
+
+//綾乃「かぁ～お前こそ相変わらずな奴だ。\n
+
+//そのトゲのある言い方、なんとかならないのか？
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 0008185C
+#WRITE(PTR, $00000757)
+<$6D><$00>
+<VOICE><$30><$00>
+<START_LIP_ANIM>
+
+//由希子「うふふ、二人ともそのくらいにしときなさいよ。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<VOICE><$31><$00>
+<START_LIP_ANIM>
+
+//由希子「それより、こうやってメンバーも揃ったことだし、これから皆でどこかへ出かけない？
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 000818F8
+#WRITE(PTR, $0000079F)
+<$6D><$01>
+<VOICE><$32><$00>
+<START_LIP_ANIM>
+
+//綾乃「おっ、それ賛成～！\n
+<PLAYER_FIRST_NAME>
+
+//、香坂、もちろん行くよな？
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「ああ、俺はいいぜ。
+
+<PAUSE>
+<CLEAR>
+<$6D><$02>
+<VOICE><$33><$00>
+<START_LIP_ANIM>
+
+//宏「ふっ、そうだな。\n
+
+//今日くらい、お前達と一緒に過ごすのもよかろう…。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 0008199E
+#WRITE(PTR, $000007E7)
+<$6D><$00>
+<VOICE><$34><$00>
+<START_LIP_ANIM>
+
+//由希子「よぉ～し、それじゃぱぁっ～と行きましょうか、ぱぁ～っと！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 000819E9
+#WRITE(PTR, $000007F7)
+<$6D><$01>
+<VOICE><$35><$00>
+<START_LIP_ANIM>
+
+//綾乃＆宏＆
+
+<PLAYER_LAST_NAME>
+
+//「オーッ！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 00081A0B
+#WRITE(PTR, $0000082E)
+<$77><$00>
+<$70><$0C><$60>
+
+//…こうして俺達の３年間に渡る高校生活は
+
+<$70><$0C><$70>
+
+//無事に終わりを告げた…。
+
+<BREAK>
+
+
+// Ptr: 00081A53
+#WRITE(PTR, $00000889)
+<BOX_SHOW>
+<VOICE><$36><$00>
+<START_LIP_ANIM>
+
+//弥生「表に車が来たわよ、大きな荷物から運んじゃいましょう。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「あっ、すみません弥生さん。
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 00081AB8
+#WRITE(PTR, $00000896)
+<BOX_SHOW>
+<$77><$00>
+
+//　　　　　　　　　・
+
+<BREAK>
+
+
+// Ptr: 00081AD1
+#WRITE(PTR, $0000089F)
+<$77><$00>
+
+//　　　　　　　　　・\n
+
+//　　　　　　　　　・
+
+<BREAK>
+
+
+// Ptr: 00081AFE
+#WRITE(PTR, $000008A8)
+<$77><$00>
+
+//　　　　　　　　　・\n
+
+//　　　　　　　　　・\n
+
+//　　　　　　　　　・
+
+<BREAK>
+
+
+// Ptr: 00081B40
+#WRITE(PTR, $000008B1)
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 00081B44
+#WRITE(PTR, $000008CF)
+<BOX_SHOW>
+<PLAYER_LAST_NAME>
+
+//「よいしょっと、ふぅ～。\n
+
+//　これで荷物は全部だ！
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 00081B7B
+#WRITE(PTR, $000008F2)
+<BOX_SHOW>
+<VOICE><$37><$00>
+<START_LIP_ANIM>
+
+//真奈美「お兄ちゃん、このハブラシ持っていって！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「ああ、そうだね。\n
+
+//向こうへ戻っても使わせてもらうよ。
+
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 00081BEC
+#WRITE(PTR, $00000915)
+<VOICE><$38><$00>
+<START_LIP_ANIM>
+
+//真奈美「えへへ、うん！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 00081C0C
+#WRITE(PTR, $00000941)
+<BOX_SHOW>
+<VOICE><$39><$00>
+<START_LIP_ANIM>
+
+//香奈「あの、何かお手伝いすることありませんか？
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「いや、もういいよ。\n
+
+//ありがとう香奈ちゃん。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$3A><$00>
+
+//弥生「
+
+<PLAYER_LAST_NAME>
+
+//く～ん、そろそろ出かける時間よ～！
+
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「あっ、は～い。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$3B><$00>
+
+//香奈「………。
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 00081CCA
+#WRITE(PTR, $00000980)
+<BOX_SHOW>
+<$6D><$00>
+<VOICE><$3C><$00>
+<START_LIP_ANIM>
+
+//真奈美「またね、お兄ちゃん！\n
+
+//お休みになったら、絶対遊びに来てね！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「ああ、また一緒に遊びに行こうね。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$3D><$00>
+<START_LIP_ANIM>
+
+//真奈美「うん！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<$6D><$02>
+<VOICE><$3E><$00>
+<START_LIP_ANIM>
+
+//弥生「向こうへ帰って落着いたら、必ず連絡をちょうだいね。\n
+
+//それと、ご両親によろしくね。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「はい、わかりました。
+
+<PAUSE>
+<CLEAR>
+<$6D><$01>
+<VOICE><$3F><$00>
+<START_LIP_ANIM>
+
+//香奈「…色々ありがとうございました。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「いや、こちらこそ。\n
+
+//嫌な思いをさせたかも知れないけど、俺、\n
+
+//香奈ちゃん達と暮せて楽しかったよ。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$40><$00>
+<START_LIP_ANIM>
+
+//香奈「…私も楽しかったです、また…遊びに来て下さいね。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「ああ…必ず。
+
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「皆さん、１ヶ月間お世話になりました。\n
+
+//それじゃ、俺はこれで失礼します。
+
+<PAUSE>
+<CLEAR>
+<$6D><$00>
+<VOICE><$41><$00>
+<START_LIP_ANIM>
+
+//真奈美「お兄ちゃん、バイバーイ！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<$6D><$01>
+<VOICE><$42><$00>
+<START_LIP_ANIM>
+
+//香奈「お体に気をつけて…大学頑張って下さいね。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<$6D><$02>
+<VOICE><$43><$00>
+<START_LIP_ANIM>
+
+//弥生「これが最後のお別れではないわ…。\n
+
+//また会いましょうね。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「はいっ！
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 00081FA6
+#WRITE(PTR, $0000099A)
+<$77><$00>
+<$70><$0C><$60>
+
+//こうして、ちょっと普通ではない１ヶ月間
+
+<$70><$0C><$70>
+
+//の居候生活が幕を閉じた。
+
+<BREAK>
+
+
+// Ptr: 00081FEE
+#WRITE(PTR, $000009BF)
+<$77><$00>
+<$70><$0C><$60>
+
+//時が経てば、今日のこの別れも、遠き日の
+
+<$70><$0C><$70>
+
+//想い出となるのだろう…。
+
+<BREAK>
+
+
+// Ptr: 00082036
+#WRITE(PTR, $000009DA)
+<$77><$00>
+<$70><$00><$60>
+
+//その時が訪れる迄…この思いは胸の中に…。
+
+<BREAK>
+
+
+// Ptr: 000839DD
+#WRITE(PTR, $000031B6)
+<BOX_SHOW>
+<$77><$00>
+<$70><$08><$B0>
+
+//ここまでのデータをＳＡＶＥしますか？\n
+
+//「ＳＡＶＥしない。\n
+
+//「ＳＡＶＥする。\n
+<BREAK>
+
+
+// Ptr: 00083A2E
+#WRITE(PTR, $000031CC)
+#WRITE(PTR, $000031D3)
+#WRITE(PTR, $000039D8)
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000833F5
+#WRITE(PTR, $00003386)
+<$30><$03><$40><$19>
+//・
+
+//<$08><$00><$2B><$00><$12><$08><$01><$5B><$32><$08><$00><$0F><$00><$01><BREAK>
+
+
+// Ptr: 000838CE
+#WRITE(PTR, $000035F3)
+<$77><$00>
+<$70><$6C><$18>
+
+//は　い
+
+<$70><$6C><$28>
+
+//いいえ
+
+<BREAK>
+
+
+// Ptr: 000838E4
+#WRITE(PTR, $00003628)
+<$77><$00>
+<$70><$6C><$40>
+
+//は　い
+
+<$70><$6C><$50>
+
+//いいえ
+
+<BREAK>
+
+
+// Ptr: 000838FA
+#WRITE(PTR, $0000365D)
+<$77><$00>
+<$70><$6C><$68>
+
+//は　い
+
+<$70><$6C><$78>
+
+//いいえ
+
+<BREAK>
+
+
+// Ptr: 00083910
+#WRITE(PTR, $00003692)
+<$77><$00>
+<$70><$6C><$90>
+
+//は　い
+
+<$70><$6C><$A0>
+
+//いいえ
+
+<BREAK>
+
+
+// Ptr: 00083926
+#WRITE(PTR, $000036C7)
+<$77><$00>
+<$70><$6C><$B8>
+
+//は　い
+
+<$70><$6C><$C8>
+
+//いいえ
+
+<BREAK>
+
+

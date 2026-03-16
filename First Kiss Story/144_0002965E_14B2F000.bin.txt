@@ -1,0 +1,275 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -786432 , 32)
+#JMP($000016C0)
+
+
+// Ptr: 000C0171
+#WRITE(PTR, $0000003D)
+<BOX_SHOW>
+<PLAYER_LAST_NAME>
+
+//「新しい我が家となった織倉家だ。
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C034A
+#WRITE(PTR, $00000048)
+<BOX_SHOW>
+<VOICE><$00><$00>
+
+//男の声「うん、だから織倉さんの好きな物とかを教えて欲しいんだ。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$01><$00>
+
+//女の子の声「お姉ちゃんが好きなものかぁ…えっとぉ～。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$02><$00>
+
+//男の声「ふむふむ、なるほど。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$03><$00>
+
+//女の子の声「それにぃ～。
+
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「んっ、この声は？
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C041E
+#WRITE(PTR, $00000080)
+<BOX_SHOW>
+<$6D><$00>
+<VOICE><$04><$00>
+<START_LIP_ANIM>
+
+//真奈美「あ～っ、お兄ちゃん！！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C0449
+#WRITE(PTR, $000000B1)
+<BOX_SHOW>
+<$6D><$01>
+<VOICE><$05><$00>
+<START_LIP_ANIM>
+
+//哲也「えっ、お兄ちゃん？\n
+
+//あれ確か織倉さんて姉妹だけのはずじゃあ…。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「よう、珍しい組み合わせだね、真奈美ちゃん。
+
+<PAUSE>
+<CLEAR>
+<$6D><$00>
+<VOICE><$06><$00>
+<START_LIP_ANIM>
+
+//真奈美「そうそう、あとね、お姉ちゃんが一番好きなのはお兄ちゃんだよ！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C0516
+#WRITE(PTR, $000000E2)
+<BOX_SHOW>
+<$6D><$01>
+<VOICE><$07><$00>
+<START_LIP_ANIM>
+
+//哲也「一番好きなのはお兄ちゃんと…え゛っ！？\n
+
+//お兄ちゃんて…もしかしてコイツのこと？
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C0576
+#WRITE(PTR, $00000110)
+<BOX_SHOW>
+<$6D><$00>
+<VOICE><$08><$00>
+<START_LIP_ANIM>
+
+//真奈美「ん！　コイツじゃないよ、お兄ちゃんだもん。\n
+
+//なんかやだなこの人…行こっ、お兄ちゃん。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「えっ、あっ、ああ…。
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C05F8
+#WRITE(PTR, $00000136)
+<BOX_SHOW>
+<VOICE><$09><$00>
+<START_LIP_ANIM>
+
+//哲也「あっ、ちょっと待って下さいよ～。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C0170
+#WRITE(PTR, $00000151)
+<$59><BOX_SHOW>
+<PLAYER_LAST_NAME>
+
+//「新しい我が家となった織倉家だ。//
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C1649
+#WRITE(PTR, $00000E22)
+<BOX_SHOW>
+<$77><$00>
+<$70><$08><$B0>
+
+//ここまでのデータをＳＡＶＥしますか？\n
+
+//「ＳＡＶＥしない。\n
+
+//「ＳＡＶＥする。\n
+<BREAK>
+
+
+// Ptr: 000C169A
+#WRITE(PTR, $00000E38)
+#WRITE(PTR, $00000E3F)
+#WRITE(PTR, $00001644)
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C1061
+#WRITE(PTR, $00000FF2)
+<$30><$03><$40><$19><BREAK>
+
+
+// Ptr: 000C153A
+#WRITE(PTR, $0000125F)
+<$77><$00>
+<$70><$6C><$18>
+
+//は　い
+
+<$70><$6C><$28>
+
+//いいえ
+
+<BREAK>
+
+
+// Ptr: 000C1550
+#WRITE(PTR, $00001294)
+<$77><$00>
+<$70><$6C><$40>
+
+//は　い
+
+<$70><$6C><$50>
+
+//いいえ
+
+<BREAK>
+
+
+// Ptr: 000C1566
+#WRITE(PTR, $000012C9)
+<$77><$00>
+<$70><$6C><$68>
+
+//は　い
+
+<$70><$6C><$78>
+
+//いいえ
+
+<BREAK>
+
+
+// Ptr: 000C157C
+#WRITE(PTR, $000012FE)
+<$77><$00>
+<$70><$6C><$90>
+
+//は　い
+
+<$70><$6C><$A0>
+
+//いいえ
+
+<BREAK>
+
+
+// Ptr: 000C1592
+#WRITE(PTR, $00001333)
+<$77><$00>
+<$70><$6C><$B8>
+
+//は　い
+
+<$70><$6C><$C8>
+
+//いいえ
+
+<BREAK>
+
+

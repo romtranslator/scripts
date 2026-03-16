@@ -1,0 +1,639 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -786432 , 32)
+#JMP($00002410)
+
+
+// Ptr: 000C02C2
+#WRITE(PTR, $0000002E)
+<BOX_SHOW>
+<PLAYER_LAST_NAME>
+
+//「新しい我が家となった織倉家だ。
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C049B
+#WRITE(PTR, $00000075)
+<BOX_SHOW>
+<VOICE><$00><$00>
+<START_LIP_ANIM>
+
+//真奈美「あっ、お兄ちゃん！\n
+
+//真奈美のお買い物に付き合って欲しいんだけど…いいかなぁ？
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<$77><$00>
+<$70><$00><$A0>
+
+//〔選択肢〕
+
+<$70><$08><$BA>
+
+//「いいよ、どこへ行くんだい？\n
+
+//「ごめん、今日はちょっと…。
+
+<BREAK>
+
+
+// Ptr: 000C0543
+#WRITE(PTR, $00000099)
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「いいよ、どこへ行くんだい？
+
+<PAUSE>
+<CLEAR>
+<VOICE><$01><$00>
+<START_LIP_ANIM>
+
+//真奈美「うん、アーケード街の方だよ。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C0592
+#WRITE(PTR, $000000C5)
+<BOX_SHOW>
+<VOICE><$02><$00>
+<START_LIP_ANIM>
+
+//真奈美「う～んとぉ、どこがいいかなぁ…。\n
+
+//あっ、あそこのデパートがいいや！\n
+
+//お兄ちゃん、こっちこっち。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C0601
+#WRITE(PTR, $000000F1)
+<BOX_SHOW>
+<PLAYER_LAST_NAME>
+
+//「ところで、今日は何を買いに来たの？
+
+<PAUSE>
+<CLEAR>
+<VOICE><$03><$00>
+<START_LIP_ANIM>
+
+//真奈美「えへへっ、もうちょっとでわかると思うよ。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C0664
+#WRITE(PTR, $0000011D)
+<BOX_SHOW>
+<VOICE><$04><$00>
+<START_LIP_ANIM>
+
+//真奈美「えへへっ、チョコレートがいっぱいだね！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「そっか、真奈美ちゃんバレンタインのチョコを買いに来たんだね？
+
+<PAUSE>
+<CLEAR>
+<VOICE><$05><$00>
+<START_LIP_ANIM>
+
+//真奈美「うん！\n
+
+//ねぇ、お兄ちゃんだったらどれが欲しい？
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「そうだな…。
+
+<PAUSE>
+<CLEAR>
+<$77><$00>
+<$70><$00><$A0>
+
+//〔選択肢〕
+
+<$70><$08><$B0>
+
+//「直径３０ｃｍの巨大なハート型チョコ。\n
+
+//「真奈美ちゃん似の顔型をしたチョコ。\n
+
+//「サイコロサイズのミニチョコ。
+
+<BREAK>
+
+
+// Ptr: 000C07A8
+#WRITE(PTR, $00000137)
+#WRITE(PTR, $00000205)
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 000C07AB
+#WRITE(PTR, $0000015A)
+<BOX_SHOW>
+<VOICE><$06><$00>
+<START_LIP_ANIM>
+
+//真奈美「そっ、そんな大きいやつなのぉ？\n
+
+//真奈美のお小遣いじゃ、ちょっと無理だよ。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<VOICE><$07><$00>
+<START_LIP_ANIM>
+
+//真奈美「ねぇ、こっちのこれはどうかなぁ？
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C0834
+#WRITE(PTR, $0000016F)
+<CLEAR>
+<VOICE><$08><$00>
+<START_LIP_ANIM>
+
+//真奈美「あっ、それ真奈美もいいなぁって思ってたやつだよぉ！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<VOICE><$09><$00>
+<START_LIP_ANIM>
+
+//真奈美「う～ん足りるかなぁ…ちょっと待ってね。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<VOICE><$0A><$00>
+<START_LIP_ANIM>
+
+//真奈美「ひい、ふぅ、みぃ…あっ、足りないかぁ。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「誰かにプレゼントするのかい？\n
+
+//よかったら、足りない分は俺が立て替えてあげようか？
+
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 000C0937
+#WRITE(PTR, $00000192)
+<BOX_SHOW>
+<VOICE><$0B><$00>
+<START_LIP_ANIM>
+
+//真奈美「えっ？　ダメダメ！！\n
+
+//それはダメだよ、お兄ちゃん！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「そっ、そうか…。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$0C><$00>
+
+//美希「あっ、真奈美じゃない？
+
+<PAUSE>
+<CLEAR>
+<VOICE><$0D><$00>
+
+//麻里菜「休日の午後に彼氏と仲良くお買い物なんて、真奈美ちゃんもなかなかやりますなぁ～。
+
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 000C0A0C
+#WRITE(PTR, $000001B5)
+<BOX_SHOW>
+<VOICE><$0E><$00>
+<START_LIP_ANIM>
+
+//真奈美「えっ？\n
+
+//あ～、美希ちゃんに麻里菜ちゃん！？
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<VOICE><$0F><$00>
+<START_LIP_ANIM>
+
+//真奈美「お兄ちゃん、ちょっとごめんね！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C0A75
+#WRITE(PTR, $000001CD)
+<BOX_SHOW>
+<VOICE><$10><$00>
+
+//真奈美「どうしたのお買い物？
+
+<PAUSE>
+<CLEAR>
+<VOICE><$11><$00>
+
+//美希「目的はアンタと一緒よ。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$12><$00>
+
+//麻里菜「わたし達もね、チョコ買いに来たの。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$13><$00>
+
+//美希「で、これだってのは見つかったの？
+
+<PAUSE>
+<CLEAR>
+<VOICE><$14><$00>
+
+//真奈美「うん…でもちこっとお小遣いが足りなくて…えへへっ。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$15><$00>
+
+//麻里菜「あっ、だったら特設会場の方へ行ってみれば？\n
+
+//向こうの方がここより安く売ってたわよ。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$16><$00>
+
+//真奈美「えっ、本当？\n
+
+//ありがとう、美希ちゃん、麻里菜ちゃん！
+
+<PAUSE>
+<CLEAR>
+<VOICE><$17><$00>
+
+//美希「いいっていいって、真奈美の恋のためなら一肌でも二肌でも脱いであげるわよ。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$18><$00>
+
+//麻里菜「ところで、真奈美達はどこまで進んだの？
+
+<PAUSE>
+<CLEAR>
+<VOICE><$19><$00>
+
+//美希「もしかしてぇ、もうしちゃったとか？
+
+<PAUSE>
+<CLEAR>
+<VOICE><$1A><$00>
+
+//真奈美「えっ！？\n
+
+//や、やだもう～何言ってるのよぉ！\n
+
+//真奈美、知らないもんっ！
+
+<PAUSE>
+<CLEAR>
+<VOICE><$1B><$00>
+
+//美希＆麻里菜「あはっ、あははは。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$1C><$00>
+
+//真奈美「じゃ、真奈美は行くね。
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C0D3C
+#WRITE(PTR, $000001F0)
+<BOX_SHOW>
+<VOICE><$1D><$00>
+<START_LIP_ANIM>
+
+//真奈美「お兄ちゃん、お待たせっ！\n
+
+//別の所に特設会場があるんだって、そっち行ってみよ！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C0D9A
+#WRITE(PTR, $00000228)
+<VOICE><$1E><$00>
+<START_LIP_ANIM>
+
+//真奈美「えっ！？\n
+
+//お兄ちゃん、これがいいの？
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「あははっ、実は俺、こんなのしか貰ったことないんだよ。
+
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「それに、こういう物は見てくれや大きさじゃなくて、渡す人の気持ちだと思うよ。
+
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 000C0E58
+#WRITE(PTR, $0000024B)
+<BOX_SHOW>
+<VOICE><$1F><$00>
+<START_LIP_ANIM>
+
+//真奈美「お兄ちゃん…うん、そうだね。\n
+
+//真奈美、気持ちだけならすっごく大きいよっ！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「だったら、これでも十分なハズさ…。\n
+
+//でも…さすがにこれじゃ極端過ぎるかな？
+
+<PAUSE>
+<CLEAR>
+<VOICE><$20><$00>
+<START_LIP_ANIM>
+
+//真奈美「そ、そうだね…。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C0F20
+#WRITE(PTR, $00000255)
+<BOX_SHOW>
+<VOICE><$21><$00>
+
+//店員「ありがとうごさいました～。
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C0F49
+#WRITE(PTR, $00000281)
+<BOX_SHOW>
+<VOICE><$22><$00>
+<START_LIP_ANIM>
+
+//真奈美「えへへっ、買っちゃった！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//（真奈美ちゃんはお気に入りのチョコを買えたらしく、いつになく上機嫌だった。
+
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 000C0FC1
+#WRITE(PTR, $00000290)
+<PLAYER_LAST_NAME>
+
+//（でも、今日買ったチョコって一体誰にあげるんだろう…もしかして俺に…。
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C100E
+#WRITE(PTR, $0000029B)
+<PLAYER_LAST_NAME>
+
+//（でも、今日買ったチョコって一体誰にあげるんだろう…ちょっぴり相手がうらやましいな。
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C1069
+#WRITE(PTR, $000002B4)
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「ごめん、今日はちょっと…。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$23><$00>
+<START_LIP_ANIM>
+
+//真奈美「そうかぁ…じゃ、真奈美はちょっとお買い物に行ってくるね。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「ああ、行ってらっしゃい。
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C2395
+#WRITE(PTR, $00001B6E)
+<BOX_SHOW>
+<$77><$00>
+<$70><$08><$B0>
+
+//ここまでのデータをＳＡＶＥしますか？\n
+
+//「ＳＡＶＥしない。\n
+
+//「ＳＡＶＥする。\n
+<BREAK>
+
+
+// Ptr: 000C23E6
+#WRITE(PTR, $00001B84)
+#WRITE(PTR, $00001B8B)
+#WRITE(PTR, $00002390)
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C1DAD
+#WRITE(PTR, $00001D3E)
+<$30><$03><$40><$19><$4B><$1F><$0C><$00><$2B><$00><$12><$08><$01><$13><$1C><$0C><$00><$0F><$00><$01><BREAK>
+
+
+// Ptr: 000C2286
+#WRITE(PTR, $00001FAB)
+<$77><$00>
+<$70><$6C><$18>
+
+//は　い
+
+<$70><$6C><$28>
+
+//いいえ
+
+<BREAK>
+
+
+// Ptr: 000C229C
+#WRITE(PTR, $00001FE0)
+<$77><$00>
+<$70><$6C><$40>
+
+//は　い
+
+<$70><$6C><$50>
+
+//いいえ
+
+<BREAK>
+
+
+// Ptr: 000C22B2
+#WRITE(PTR, $00002015)
+<$77><$00>
+<$70><$6C><$68>
+
+//は　い
+
+<$70><$6C><$78>
+
+//いいえ
+
+<BREAK>
+
+
+// Ptr: 000C22C8
+#WRITE(PTR, $0000204A)
+<$77><$00>
+<$70><$6C><$90>
+
+//は　い
+
+<$70><$6C><$A0>
+
+//いいえ
+
+<BREAK>
+
+
+// Ptr: 000C22DE
+#WRITE(PTR, $0000207F)
+<$77><$00>
+<$70><$6C><$B8>
+
+//は　い
+
+<$70><$6C><$C8>
+
+//いいえ
+
+<BREAK>
+
+

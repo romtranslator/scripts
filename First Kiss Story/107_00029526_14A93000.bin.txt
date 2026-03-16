@@ -1,0 +1,550 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -786432 , 32)
+#JMP($00001C70)
+
+
+// Ptr: 000C002B
+#WRITE(PTR, $00000023)
+<$06><$00><$08><$02><$06><$6D><$02>
+<$01><$28><$79><$00><$00><$0B><$6E><$00><$80><$00><$01><$00><$6E><$00><$02><$35><$02><$0C><$00><$03><$06><$79><$00><$01><$29><$0B><START_LIP_ANIM>
+<$00><$04><$00><$00><$03><START_LIP_ANIM>
+<$00><$4F><$00><$00><$00><$00><$00><$01>
+//・
+
+//<$03><$00><$12><$01><$00><$80><$02>
+//ｲ
+
+//<$0C><$00><$03><$0C><$01><$1F><$02><$56><$00>
+//ﾂ
+
+//<$00><$00><$00><$00><$00><$01><$00><$0C><$01><$1F><$00><$0C><$01><$3F><$00><$05><$01><$00><$04><$00><$21><$12><$02><$00><$80><$21><$00><$80><$02><$4B><$04><$0C><$00><$03><$31><$04>
+//・
+
+//<$00><$00>
+//・
+
+//<$00><$00><$4F><$00><$00><$00><$00><$00><$01>
+//・
+
+//<$03><$00><$56><$00>
+//ﾃ
+
+//<$00><$00><$00><$00><$00><$01><$00><$12><$02><$00><$80><$21><$00><$80><$02>
+//ﾊ
+
+//<$0C><$00><$03><$08><BREAK>
+
+
+// Ptr: 000C0235
+#WRITE(PTR, $00000041)
+<BOX_SHOW>
+<PLAYER_LAST_NAME>
+
+//「駅前に建つ総合デパートのウィンズスクエアだ。
+
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「少し前までは雑居ビルになっていたんだけど、改装されてこの春オープンしたばかりのデパートだ。
+
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「いろいろなテナントが入っているから、ここ一軒あれば欲しいものが全部揃ってしまうんじゃないかな？
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C03B2
+#WRITE(PTR, $00000064)
+<BOX_SHOW>
+<PLAYER_LAST_NAME>
+
+//「香奈ちゃんがいると思ったんだけど、今日はいないか…。
+
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「仕方ない、帰ろう。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$00><$00>
+
+//声「うーん、今日はどうしよっかなぁ…。
+
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「あれ、あの声は…。
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C044B
+#WRITE(PTR, $0000008E)
+<BOX_SHOW>
+<PLAYER_LAST_NAME>
+
+//「やっ、香奈ちゃん。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$01><$00>
+<START_LIP_ANIM>
+
+//香奈「あっ、今帰りですか？\n
+
+//よかったら、お買い物一緒にしてもらえませんか？
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「ああ、いいよ。
+
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 000C04CA
+#WRITE(PTR, $000000BB)
+<BOX_SHOW>
+<VOICE><$02><$00>
+<START_LIP_ANIM>
+
+//香奈「ふふっ、良かった。\n
+
+//それじゃ、お願いします。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C0506
+#WRITE(PTR, $00000100)
+<BOX_SHOW>
+<PLAYER_LAST_NAME>
+
+//「し、しかし…こんなに沢山…。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$03><$00>
+<START_LIP_ANIM>
+
+//香奈「ごめんなさい、
+
+<PLAYER_LAST_NAME>
+
+//さんが居るとつい沢山買い込んでしまって…。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「頼りにされるのは嬉しいけど、買込んだのを俺のせいにされてもなぁ…。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$04><$00>
+<START_LIP_ANIM>
+
+//香奈「あっ、ごめんなさい！\n
+
+//そんなつもりじゃ…。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「ははっ、冗談だよ。\n
+
+//さっ、遅くならないうちに帰ろうか。
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C062C
+#WRITE(PTR, $00000135)
+<BOX_SHOW>
+<VOICE><$05><$00>
+<START_LIP_ANIM>
+
+//香奈「そういえば、真奈美の作ったお弁当、どうでしたか？
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「えっ！？
+
+<PAUSE>
+<CLEAR>
+<$77><$00>
+<$70><$00><$A0>
+
+//〔選択肢〕
+
+<$70><$08><$BA>
+
+//「うん、まぁ美味しかったよ。\n
+
+//「いや、ちょっと…味付けがね。
+
+<BREAK>
+
+
+// Ptr: 000C06C7
+#WRITE(PTR, $0000014B)
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「うん、まぁ美味しかったよ…。
+
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 000C06EC
+#WRITE(PTR, $0000016E)
+<BOX_SHOW>
+<VOICE><$06><$00>
+<START_LIP_ANIM>
+
+//香奈「そうですか、ふぅ。\n
+
+//真奈美、きっと大喜びしますよ。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「そ、そうかな。\n
+
+//あは、あははは。
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C0753
+#WRITE(PTR, $00000179)
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「いや、ちょっと味付けがね…。
+
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 000C0778
+#WRITE(PTR, $0000019C)
+<BOX_SHOW>
+<VOICE><$07><$00>
+<START_LIP_ANIM>
+
+//香奈「そうですか…。\n
+
+//あの…真奈美、一所懸命作ったんです、お兄ちゃんに食べて貰うんだって…。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<VOICE><$08><$00>
+<START_LIP_ANIM>
+
+//香奈「だから…。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<$77><$00>
+<$70><$00><$A0>
+
+//〔選択肢〕
+
+<$70><$08><$BA>
+
+//「美味しかったって言うつもりだよ。\n
+
+//「いや、本当のことを言うつもりだよ。
+
+<BREAK>
+
+
+// Ptr: 000C084D
+#WRITE(PTR, $000001B2)
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「ああ、わかってるさ。\n
+
+//真奈美ちゃんには美味しかったって言うつもりだよ。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$09><$00>
+<START_LIP_ANIM>
+
+//香奈「
+
+<PLAYER_LAST_NAME>
+
+//さん…ありがとう。\n
+
+//真奈美には私が色々と教えておきますから…また、食べてやって下さい。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「ああ、いいよ。\n
+
+//香奈ちゃんがコーチしてくれるなら、次は安心して食べれそうだ。
+
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 000C0950
+#WRITE(PTR, $000001D5)
+<BOX_SHOW>
+<VOICE><$0A><$00>
+<START_LIP_ANIM>
+
+//香奈「そうだといいですね、うふふ。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C097D
+#WRITE(PTR, $000001EA)
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「いや、本当のことを言うつもりだよ。嘘はつかない方がいい、真奈美ちゃんもきっとそれを望んでいるはずさ。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$0B><$00>
+<START_LIP_ANIM>
+
+//香奈「そう…ですか…。\n
+
+//そうかもしれませんね、変なことを言ってごめんなさい。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「香奈ちゃんて、優しいんだね。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$0C><$00>
+<START_LIP_ANIM>
+
+//香奈「いえ、そんなことは…。\n
+
+//ただ、真奈美のあんなに楽しそうな姿、今まで見たことがなかったから…。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<VOICE><$0D><$00>
+<START_LIP_ANIM>
+
+//香奈「あの、優しく言ってあげてくださいね。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「ああ、そうするよ。
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C0220
+#WRITE(PTR, $00000201)
+<$59><$0B><$6E><$00><$80><$00><$01><$00><$6E><$00><$02><$2F><$03><$0C><$00><$03><$12><$10><$00><$00><$59><BOX_SHOW>
+<PLAYER_LAST_NAME>
+
+//「駅前に建つ総合デパートのウィンズスクエアだ。//
+
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「少し前までは雑居ビルになっていたんだけど、改装されてこの春オープンしたばかりのデパートだ。//
+
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「いろいろなテナントが入っているから、ここ一軒あれば欲しいものが全部揃ってしまうんじゃないかな？//
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C032F
+#WRITE(PTR, $0000022B)
+<BOX_SHOW>
+<PLAYER_LAST_NAME>
+
+//「ここには、さっき来たぞ。\n
+
+//他へ行ってみよう。
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C1BFD
+#WRITE(PTR, $000013D6)
+<BOX_SHOW>
+<$77><$00>
+<$70><$08><$B0>
+
+//ここまでのデータをＳＡＶＥしますか？\n
+
+//「ＳＡＶＥしない。\n
+
+//「ＳＡＶＥする。\n
+<BREAK>
+
+
+// Ptr: 000C1C4E
+#WRITE(PTR, $000013EC)
+#WRITE(PTR, $000013F3)
+#WRITE(PTR, $00001BF8)
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C1615
+#WRITE(PTR, $000015A6)
+<$30><$03><$40><$19>
+//ｳ
+
+//<$0C><$00><$2B><$00><$12><$08><$01><$7B><$14><$0C><$00><$0F><$00><$01><BREAK>
+
+
+// Ptr: 000C1AEE
+#WRITE(PTR, $00001813)
+<$77><$00>
+<$70><$6C><$18>
+
+//は　い
+
+<$70><$6C><$28>
+
+//いいえ
+
+<BREAK>
+
+
+// Ptr: 000C1B04
+#WRITE(PTR, $00001848)
+<$77><$00>
+<$70><$6C><$40>
+
+//は　い
+
+<$70><$6C><$50>
+
+//いいえ
+
+<BREAK>
+
+
+// Ptr: 000C1B1A
+#WRITE(PTR, $0000187D)
+<$77><$00>
+<$70><$6C><$68>
+
+//は　い
+
+<$70><$6C><$78>
+
+//いいえ
+
+<BREAK>
+
+
+// Ptr: 000C1B30
+#WRITE(PTR, $000018B2)
+<$77><$00>
+<$70><$6C><$90>
+
+//は　い
+
+<$70><$6C><$A0>
+
+//いいえ
+
+<BREAK>
+
+
+// Ptr: 000C1B46
+#WRITE(PTR, $000018E7)
+<$77><$00>
+<$70><$6C><$B8>
+
+//は　い
+
+<$70><$6C><$C8>
+
+//いいえ
+
+<BREAK>
+
+

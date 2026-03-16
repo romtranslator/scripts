@@ -1,0 +1,305 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -786432 , 32)
+#JMP($000014A0)
+
+
+// Ptr: 000C010D
+#WRITE(PTR, $0000002E)
+<BOX_SHOW>
+<PLAYER_LAST_NAME>
+
+//uV‚µ‚¢‰ä‚ª‰Æ‚Æ‚È‚Á‚½D‘q‰Æ‚¾B
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C0135
+#WRITE(PTR, $00000055)
+<BOX_SHOW>
+<PLAYER_LAST_NAME>
+
+//u‚½‚¾‚¢‚ÜB
+
+<PAUSE>
+<CLEAR>
+
+//uƒpƒ^ƒpƒ^ƒpƒ^cB
+
+<PAUSE>
+<CLEAR>
+<VOICE><$00><$00>
+
+//^“Þ”üu
+
+<PLAYER_LAST_NAME>
+
+//‚³‚ñA‚¨‹A‚è‚È‚³`‚¢B
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C0182
+#WRITE(PTR, $00000089)
+<BOX_SHOW>
+<PLAYER_LAST_NAME>
+
+//u‚æ‚ÁA^“Þ”ü‚¿‚á‚ñB
+
+<PAUSE>
+<CLEAR>
+<VOICE><$01><$00>
+<START_LIP_ANIM>
+
+//^“Þ”üu‚Ó‚£A‚æ‚©‚Á‚½‚ŸB
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//u‚¦H\n
+
+//‰½‚ª‚æ‚©‚Á‚½‚ÌH
+
+<PAUSE>
+<CLEAR>
+<VOICE><$02><$00>
+<START_LIP_ANIM>
+
+//^“Þ”üu‚¤‚ñA^“Þ”üA
+
+<PLAYER_LAST_NAME>
+
+//‚³‚ñ‚ª–ÀŽq‚É‚È‚Á‚Ä‚é‚ñ‚¶‚á‚È‚¢‚©‚ÆŽv‚Á‚ÄS”z‚µ‚Ä‚½‚ñ‚Å‚·B
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//u‚ ‚Í‚Í‚ÁA‚³‚·‚ª‚É–À‚Á‚½‚è‚Í‚µ‚È‚¢‚æB
+
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 000C0260
+#WRITE(PTR, $000000AC)
+<BOX_SHOW>
+<VOICE><$03><$00>
+<START_LIP_ANIM>
+
+//^“Þ”üu‚»‚¤‚Å‚·‚æ‚ËA‚²‚ß‚ñ‚È‚³‚¢
+
+<PLAYER_LAST_NAME>
+
+//‚³‚ñB
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//u•Ê‚ÉŽÓ‚é‚±‚Æ‚Í‚È‚¢‚æB\n
+
+//S”z‚µ‚Ä‚­‚ê‚Ä‚ ‚è‚ª‚Æ‚¤B
+
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 000C02CB
+#WRITE(PTR, $000000CF)
+<BOX_SHOW>
+<VOICE><$04><$00>
+<START_LIP_ANIM>
+
+//^“Þ”üu‚¦‚Ö‚Ö‚ÁB
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//u‚Æ‚±‚ë‚ÅA‚È‚É‚©—pŽ–‚©‚ÈH
+
+<PAUSE>
+<CLEAR>
+<VOICE><$05><$00>
+<START_LIP_ANIM>
+
+//^“Þ”üu‚ ‚ÁA‚Í‚¢B\n
+
+//ŽÀ‚ÍA
+
+<PLAYER_LAST_NAME>
+
+//‚³‚ñ‚É‚à‰ÆŽ–‚Ì•ª’S‚ð‚µ‚Ä–á‚¨‚¤‚ÆŽv‚Á‚ÄcB
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//u‚ ‚ A•Ê‚É‚©‚Ü‚í‚È‚¢‚æB\n
+
+//‰´‚Í‰½‚ð‚·‚ê‚Î‚¢‚¢‚©‚ÈH
+
+<PAUSE>
+<CLEAR>
+<VOICE><$06><$00>
+<START_LIP_ANIM>
+
+//^“Þ”üu‚¦‚Á‚ÆA‚¨•—˜Cê‚Ì‚¨‘|œ‚ð‚¨Šè‚¢‚µ‚Ä‚à‚¢‚¢‚Å‚·‚©H
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//u—¹‰ðA‚¶‚áA‚·‚®‚ÉŽn‚ß‚æ‚¤‚©B\n
+
+//‚â‚è•û‚¾‚¯‹³‚¦‚Ä‚à‚ç‚¦‚éH
+
+<PAUSE>
+<CLEAR>
+<VOICE><$07><$00>
+<START_LIP_ANIM>
+
+//^“Þ”üu‚Í‚¢B
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C010C
+#WRITE(PTR, $000000ED)
+<$59><BOX_SHOW>
+<PLAYER_LAST_NAME>
+
+//uV‚µ‚¢‰ä‚ª‰Æ‚Æ‚È‚Á‚½D‘q‰Æ‚¾B//
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C1429
+#WRITE(PTR, $00000C02)
+<BOX_SHOW>
+<$77><$00>
+<$70><$08><$B0>
+
+//‚±‚±‚Ü‚Å‚Ìƒf[ƒ^‚ð‚r‚`‚u‚d‚µ‚Ü‚·‚©H\n
+
+//u‚r‚`‚u‚d‚µ‚È‚¢B\n
+
+//u‚r‚`‚u‚d‚·‚éB\n
+<BREAK>
+
+
+// Ptr: 000C147A
+#WRITE(PTR, $00000C18)
+#WRITE(PTR, $00000C1F)
+#WRITE(PTR, $00001424)
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C0E41
+#WRITE(PTR, $00000DD2)
+<$30><$03><$40><$19>
+//ß
+
+//<$0C><$00><$2B><$00><$12><$08><$01>
+//§
+
+//<$0C><$00><$0F><$00><$01><BREAK>
+
+
+// Ptr: 000C131A
+#WRITE(PTR, $0000103F)
+<$77><$00>
+<$70><$6C><$18>
+
+//‚Í@‚¢
+
+<$70><$6C><$28>
+
+//‚¢‚¢‚¦
+
+<BREAK>
+
+
+// Ptr: 000C1330
+#WRITE(PTR, $00001074)
+<$77><$00>
+<$70><$6C><$40>
+
+//‚Í@‚¢
+
+<$70><$6C><$50>
+
+//‚¢‚¢‚¦
+
+<BREAK>
+
+
+// Ptr: 000C1346
+#WRITE(PTR, $000010A9)
+<$77><$00>
+<$70><$6C><$68>
+
+//‚Í@‚¢
+
+<$70><$6C><$78>
+
+//‚¢‚¢‚¦
+
+<BREAK>
+
+
+// Ptr: 000C135C
+#WRITE(PTR, $000010DE)
+<$77><$00>
+<$70><$6C><$90>
+
+//‚Í@‚¢
+
+<$70><$6C><$A0>
+
+//‚¢‚¢‚¦
+
+<BREAK>
+
+
+// Ptr: 000C1372
+#WRITE(PTR, $00001113)
+<$77><$00>
+<$70><$6C><$B8>
+
+//‚Í@‚¢
+
+<$70><$6C><$C8>
+
+//‚¢‚¢‚¦
+
+<BREAK>
+
+

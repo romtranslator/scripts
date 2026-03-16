@@ -1,0 +1,482 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -786432 , 32)
+#JMP($00001CD0)
+
+
+// Ptr: 000C03F6
+#WRITE(PTR, $00000071)
+<BOX_SHOW>
+<VOICE><$00><$00>
+<START_LIP_ANIM>
+
+//香奈「あら、どうしたんですか？\n
+
+//さっき出かけたと思ったのに…。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「うん、外へ行くつもりだったけど、やっぱり家でゆっくりしようと思ってね。
+
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 000C0489
+#WRITE(PTR, $00000094)
+<BOX_SHOW>
+<VOICE><$01><$00>
+<START_LIP_ANIM>
+
+//香奈「ふふっ、そうですか。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「部屋にいるから、なにか用事があったらいってね。
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C04E2
+#WRITE(PTR, $000000A6)
+<BOX_SHOW>
+<VOICE><$02><$00>
+
+//香奈「あっ、きゃぁ！
+
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 000C04FE
+#WRITE(PTR, $000000DC)
+<BOX_SHOW>
+
+//ドッシーン！
+
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「なっ、なんだ一体？\n
+
+//香奈ちゃんの声がしたけど…、一階へ降りてみよう。
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C0559
+#WRITE(PTR, $000000EF)
+<BOX_SHOW>
+<PLAYER_LAST_NAME>
+
+//「香奈ちゃーん！
+
+<PAUSE>
+<CLEAR>
+<VOICE><$03><$00>
+
+//香奈「痛たたた…。
+
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「クローゼットの方か？
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C05A2
+#WRITE(PTR, $000000FC)
+<BOX_SHOW>
+<VOICE><$04><$00>
+<START_LIP_ANIM>
+
+//香奈「いったぁ～い。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「香奈ちゃん、どうしたの大丈夫？
+
+<PAUSE>
+<CLEAR>
+<VOICE><$05><$00>
+<START_LIP_ANIM>
+
+//香奈「お洋服を出していたら、踏み台の椅子が倒れちゃって…痛たたた。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「ほら香奈ちゃん、俺の手を掴んで。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$06><$00>
+<START_LIP_ANIM>
+
+//香奈「あっ、はい。\n
+
+//よいしょっ、と。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「大丈夫かい、どこか痛くない？
+
+<PAUSE>
+<CLEAR>
+<VOICE><$07><$00>
+<START_LIP_ANIM>
+
+//香奈「背中とお尻がちょっと…痛たたた。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「リビングでしばらく横になったほうがいいよ。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$08><$00>
+<START_LIP_ANIM>
+
+//香奈「痛たた…。\n
+
+//そ、そうします…。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C0727
+#WRITE(PTR, $0000012C)
+<BOX_SHOW>
+<VOICE><$09><$00>
+<START_LIP_ANIM>
+
+//弥生「ただいま～。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<VOICE><$0A><$00>
+
+//香奈「あふっ、あんっ。
+
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 000C075E
+#WRITE(PTR, $0000014F)
+<BOX_SHOW>
+<VOICE><$0B><$00>
+<START_LIP_ANIM>
+
+//弥生「えっ？
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<VOICE><$0C><$00>
+
+//香奈「あんっ…そこ、そこです。\n
+
+//ん、んんっ、痛っ…。
+
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 000C07AC
+#WRITE(PTR, $00000172)
+<BOX_SHOW>
+<VOICE><$0D><$00>
+
+//弥生「ちょっと、香奈、どうしたの？
+
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「どうだい香奈ちゃん、気持ちいいかい？
+
+<PAUSE>
+<CLEAR>
+<VOICE><$0E><$00>
+
+//香奈「はい…もっと…もっと強くしても平気です。
+
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「わかった、痛かったらいってね。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$0F><$00>
+
+//香奈「はい……んっ、うあっ、あっ、ああ～っ。
+
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 000C0888
+#WRITE(PTR, $00000195)
+<BOX_SHOW>
+<VOICE><$10><$00>
+
+//弥生「！？\n
+
+//あなた達！　一体何をやってるのっ！
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C08BE
+#WRITE(PTR, $000001B7)
+<BOX_SHOW>
+<VOICE><$11><$00>
+
+//香奈「あっ、お母さん。\n
+
+//おかえりなさい。
+
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「お帰りなさい、弥生さん。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$12><$00>
+
+//香奈「何って、別に…さっき腰打っちゃって、それでマッサージしてもらってただけよ。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$13><$00>
+<START_LIP_ANIM>
+
+//弥生「えっ…マッサージ！？
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「ええ、そうですけど、それが何か？
+
+<PAUSE>
+<CLEAR>
+<VOICE><$14><$00>
+<START_LIP_ANIM>
+
+//弥生「い、いや…その…。\n
+
+//そ、そう…そうよね、別に何でもないわよね。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<VOICE><$15><$00>
+<START_LIP_ANIM>
+
+//弥生「ご、ごめんなさい。\n
+
+//なんでもないわ。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C0A22
+#WRITE(PTR, $000001E3)
+<BOX_SHOW>
+<VOICE><$16><$00>
+<START_LIP_ANIM>
+
+//香奈「お母さん、急に慌ててどうしたんだろう？
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「さぁ…？\n
+
+//あんな取り乱した姿は初めて見たけど…いつもああなのかい？
+
+<PAUSE>
+<CLEAR>
+<VOICE><$17><$00>
+<START_LIP_ANIM>
+
+//香奈「ううん、私も初めて見たわ。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C021C
+#WRITE(PTR, $000001FD)
+<$59><BOX_SHOW>
+<PLAYER_LAST_NAME>
+
+//「新しい我が家となった織倉家だ。//
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C1C5D
+#WRITE(PTR, $00001436)
+<BOX_SHOW>
+<$77><$00>
+<$70><$08><$B0>
+
+//ここまでのデータをＳＡＶＥしますか？\n
+
+//「ＳＡＶＥしない。\n
+
+//「ＳＡＶＥする。\n
+<BREAK>
+
+
+// Ptr: 000C1CAE
+#WRITE(PTR, $0000144C)
+#WRITE(PTR, $00001453)
+#WRITE(PTR, $00001C58)
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C1675
+#WRITE(PTR, $00001606)
+<$30><$03><$40><$19><$13><$18><$0C><$00><$2B><$00><$12><$08><$01>
+//ﾛ
+
+//<$0C><$00><$0F><$00><$01><BREAK>
+
+
+// Ptr: 000C1B4E
+#WRITE(PTR, $00001873)
+<$77><$00>
+<$70><$6C><$18>
+
+//は　い
+
+<$70><$6C><$28>
+
+//いいえ
+
+<BREAK>
+
+
+// Ptr: 000C1B64
+#WRITE(PTR, $000018A8)
+<$77><$00>
+<$70><$6C><$40>
+
+//は　い
+
+<$70><$6C><$50>
+
+//いいえ
+
+<BREAK>
+
+
+// Ptr: 000C1B7A
+#WRITE(PTR, $000018DD)
+<$77><$00>
+<$70><$6C><$68>
+
+//は　い
+
+<$70><$6C><$78>
+
+//いいえ
+
+<BREAK>
+
+
+// Ptr: 000C1B90
+#WRITE(PTR, $00001912)
+<$77><$00>
+<$70><$6C><$90>
+
+//は　い
+
+<$70><$6C><$A0>
+
+//いいえ
+
+<BREAK>
+
+
+// Ptr: 000C1BA6
+#WRITE(PTR, $00001947)
+<$77><$00>
+<$70><$6C><$B8>
+
+//は　い
+
+<$70><$6C><$C8>
+
+//いいえ
+
+<BREAK>
+
+

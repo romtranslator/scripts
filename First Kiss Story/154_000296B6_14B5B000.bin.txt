@@ -1,0 +1,315 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -786432 , 32)
+#JMP($00001710)
+
+
+// Ptr: 000C012D
+#WRITE(PTR, $00000039)
+<BOX_SHOW>
+<PLAYER_LAST_NAME>
+
+//「ただいま。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$00><$00>
+
+//香奈「あの、
+
+<PLAYER_LAST_NAME>
+
+//さん…。
+
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「ん、どうしたの香奈ちゃん？
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C017C
+#WRITE(PTR, $00000077)
+<BOX_SHOW>
+<VOICE><$01><$00>
+<START_LIP_ANIM>
+
+//香奈「はい…あの、真奈美のことなんです…。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<VOICE><$02><$00>
+<START_LIP_ANIM>
+
+//香奈「あの子、今までわがままを言ったり、甘えたりしない子だったんですけど、最近ちょっと変なんですよね…。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「それって、もしかして俺のせいかな？
+
+<PAUSE>
+<CLEAR>
+<VOICE><$03><$00>
+<START_LIP_ANIM>
+
+//香奈「わかりませんけど、多分…。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<VOICE><$04><$00>
+<START_LIP_ANIM>
+
+//香奈「今みたいな生活がずっと続くわけではないですから…。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<VOICE><$05><$00>
+<START_LIP_ANIM>
+
+//香奈「真奈美に優しくしてあげるのも程々にしておいて下さいね。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「ふむ…そんなつもりはなかったんだけどなぁ…ごめんね、香奈ちゃん。
+
+<PAUSE>
+<CLEAR>
+<VOICE><$06><$00>
+<START_LIP_ANIM>
+
+//香奈「いえ、あの…別に
+
+<PLAYER_LAST_NAME>
+
+//さんが悪いってわけではありませんから。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<VOICE><$07><$00>
+<START_LIP_ANIM>
+
+//香奈「ただ、
+
+<PLAYER_LAST_NAME>
+
+//さんがいなくなった後の真奈美が心配で…。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「香奈ちゃん…。
+
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 000C03CC
+#WRITE(PTR, $0000009A)
+<BOX_SHOW>
+<VOICE><$08><$00>
+<START_LIP_ANIM>
+
+//香奈「あっ、そろそろお夕飯の支度しないと…。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BREAK>
+
+
+// Ptr: 000C0402
+#WRITE(PTR, $000000BD)
+<BOX_SHOW>
+<VOICE><$09><$00>
+<START_LIP_ANIM>
+
+//香奈「うふふ、今日も美味しいお料理作りますから、期待していて下さね！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C0451
+#WRITE(PTR, $000000D5)
+<BOX_SHOW>
+<PLAYER_LAST_NAME>
+
+//「俺がいなくなった後か…考えもしなかったけど、そんな日があっという間に来てしまうんだろうな…。
+
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「ただの居候だったつもりだけど…どうもそうはいかないみたいだな…。
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C04FD
+#WRITE(PTR, $000000F8)
+<BOX_SHOW>
+<VOICE><$0A><$00>
+<START_LIP_ANIM>
+
+//真奈美「ただいま～。\n
+
+//あれ、どーしたのお兄ちゃん？\n
+
+//なんだかくらーい顔してるよ、えへへっ。
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<PLAYER_LAST_NAME>
+
+//「真奈美ちゃん…いや、なんでもないさっ。\n
+
+//そうだ、たまには勉強でも見てあげようか？
+
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C05B5
+#WRITE(PTR, $0000011B)
+<BOX_SHOW>
+<VOICE><$0B><$00>
+<START_LIP_ANIM>
+
+//真奈美「えへへ、うん！\n
+
+//よろしくお願いします、せんせ！
+
+<STOP_LIP_ANIM>
+<PAUSE>
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C16A1
+#WRITE(PTR, $00000E7A)
+<BOX_SHOW>
+<$77><$00>
+<$70><$08><$B0>
+
+//ここまでのデータをＳＡＶＥしますか？\n
+
+//「ＳＡＶＥしない。\n
+
+//「ＳＡＶＥする。\n
+<BREAK>
+
+
+// Ptr: 000C16F2
+#WRITE(PTR, $00000E90)
+#WRITE(PTR, $00000E97)
+#WRITE(PTR, $0000169C)
+<CLEAR>
+<BOX_HIDE>
+<BREAK>
+
+
+// Ptr: 000C10B9
+#WRITE(PTR, $0000104A)
+<$30><$03><$40><$19><$57><$12><$0C><$00><$2B><$00><$12><$08><$01><$1F><$0F><$0C><$00><$0F><$00><$01><BREAK>
+
+
+// Ptr: 000C1592
+#WRITE(PTR, $000012B7)
+<$77><$00>
+<$70><$6C><$18>
+
+//は　い
+
+<$70><$6C><$28>
+
+//いいえ
+
+<BREAK>
+
+
+// Ptr: 000C15A8
+#WRITE(PTR, $000012EC)
+<$77><$00>
+<$70><$6C><$40>
+
+//は　い
+
+<$70><$6C><$50>
+
+//いいえ
+
+<BREAK>
+
+
+// Ptr: 000C15BE
+#WRITE(PTR, $00001321)
+<$77><$00>
+<$70><$6C><$68>
+
+//は　い
+
+<$70><$6C><$78>
+
+//いいえ
+
+<BREAK>
+
+
+// Ptr: 000C15D4
+#WRITE(PTR, $00001356)
+<$77><$00>
+<$70><$6C><$90>
+
+//は　い
+
+<$70><$6C><$A0>
+
+//いいえ
+
+<BREAK>
+
+
+// Ptr: 000C15EA
+#WRITE(PTR, $0000138B)
+<$77><$00>
+<$70><$6C><$B8>
+
+//は　い
+
+<$70><$6C><$C8>
+
+//いいえ
+
+<BREAK>
+
+
