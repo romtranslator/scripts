@@ -373,10 +373,9 @@ Training
 ;我が軍は、いくつかの妨害工作を行[N]
 ;い、前線部隊が後退防御態勢を整え[N]
 ;るまで、時間を稼ぐことになった[P]
-Based on intelligence attained over the past 12 hours, it's become clear that the enemy's main front is attempting to cross our defensive line all in one go.
+Based on intelligence attained over the past twelve hours, it's become clear that the enemy's main front is attempting to cross our defensive line all in one go.
 
 We're reorganizing our front-line forces, and if worse comes to worst, we project that we'll be unable to withstand the enemy's attack.
-
 
 ;Ｈ４－２１において、我が軍の戦線[N]
 ;に大きな穴があいた。敵は大量の部[N]
@@ -419,9 +418,9 @@ To further complicate things, the lieutenant colonel possesses knowledge of the 
 
 ;まもなく我が軍は、この混乱した前[N]
 ;線に反撃を開始する。[P]
+Our forces initiated Operation Rewind four days ago. Through rapid retreats and skillful provocation, the enemy front is progressing like an avalanche, and the troops' morale is beginning to wane.
 
-;
-
+We are preparing to launch a counterattack against this disordered front line.
 
 ;敵が戦線の再編にとりかかった。こ[N]
 ;れは事前の予測であるが、コルベッ[N]
@@ -429,9 +428,7 @@ To further complicate things, the lieutenant colonel possesses knowledge of the 
 
 ;自然要塞は、予想外に強固なもので[N]
 ;あることが判明した。[P]
-
-;
-
+The enemy has begun reorganizing its battlefront. This forecast is preliminary, but it is becoming evident that the natural fortress they are building in the Corvette Mountains is stronger than anticipated.
 
 ;我が軍の情報部から、敵が秘密裡に[N]
 ;超大型原子力発電所を建設している[N]
