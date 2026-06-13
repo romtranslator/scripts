@@ -4106,49 +4106,51 @@
 
 
 まずいなもう試験が始まっている。
-
+Uh-oh. Exams have already started.
 
 これじゃあえり子に起こされた意味がない。
-
+This completely defeats the purpose of Eriko waking me up.
 
 すでに試験が始まっているけど、どうしようか？
+The exams have already started. What should I do?
 
-
-頭を下げて教室に入ることにしよう面倒だから試験をサボろう
-
+頭を下げて教室に入ることにしよう
+面倒だから試験をサボろう
+Bow my head and slip into the classroom.
+It's too much of a hassle. I'll just skip exams.
 
 高村くん遅いぞ。
-
+You're late, Takamura.
 
 あと５分遅れたら試験を受けることすら認められなかったところだ。
-
+If you'd been five minutes later, I wouldn't have allowed to take your exams at all.
 
 すみません。
-
+I'm sorry.
 
 わかればよろしい。
-
+As long as you understand.
 
 高村くんどこに行くんだ？
-
+Where are you going, Takamura?
 
 しまった見つかった。
-
+Damn it. I've been spotted.
 
 試験はもう始まっているぞ。
-
+Exams have already begun.
 
 早く席について試験を受けたまえ。
-
+Hurry to your seat and start your exams.
 
 これが前期最後の試験だ。
-
+These are the midterm exams.
 
 気を取り直していくか。%K%E%O
-
+I guess I'll just have to pull myself together.%K%E%O
 
 さて、どう答えようか？
-
+Well, how should I answer?
 
 留年するのはイヤだから真面目に解答しよう勉強してこなかったので運にかけよう面倒Yv・
 
@@ -10944,7 +10946,7 @@ Tell Noriko about tomorrow's memorial service on your way back.
 There's no way I'd forget that.
 
 そうさ忘れるはずなんてない。
-Yeah. I know you wouldn't forget.
+Yeah. There's no way I'd forget.
 
 それじゃ、行ってくる。%K%E%O
 Well then, I'm off.%K%E%O
