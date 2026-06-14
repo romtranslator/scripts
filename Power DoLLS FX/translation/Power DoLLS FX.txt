@@ -428,7 +428,9 @@ We are preparing to launch a counterattack against this disordered front line.
 
 ;自然要塞は、予想外に強固なもので[N]
 ;あることが判明した。[P]
-The enemy has begun reorganizing its battlefront. This forecast is preliminary, but it is becoming evident that the natural fortress they are building in the Corvette Mountains is stronger than anticipated.
+The enemy has begun reorganizing its battlefront.
+
+This forecast is preliminary, but it is becoming evident that the natural fortress they are establishing in the Corvette Mountains is stronger than we anticipated.
 
 ;我が軍の情報部から、敵が秘密裡に[N]
 ;超大型原子力発電所を建設している[N]
@@ -440,9 +442,9 @@ The enemy has begun reorganizing its battlefront. This forecast is preliminary, 
 ;このプラントは工業への電力供給だ[N]
 ;けでなく、各兵器の製造にも使用さ[N]
 ;れるだろう。[P]
+Our intelligence division has provided a report indicating that the enemy is secretly building a massive nuclear power facility. Despite its obsolete design, the estimated output is one gigawatt.
 
-;
-
+This plant is expected to generate electricity not only for industry but also for weapons manufacturing.
 
 ;敵の大型原子力発電所が稼動し始め[N]
 ;た。現在のところ試運転状態ではあ[N]
@@ -451,9 +453,7 @@ The enemy has begun reorganizing its battlefront. This forecast is preliminary, 
 ;始めるだろう。そこで我が軍首脳部[N]
 ;は、この発電所に対して破壊工作を[N]
 ;行うことを決定した。[P]
-
-;
-
+The enemy's massive nuclear power plant has begun operation. It's in the trial phase at the present time, but it will likely begin full-scale operation soon. Our top brass have decided to carry out a demolition maneuver against this reactor.
 
 ;本年もまた、地球からの兵士がオム[N]
 ;ニに到着しようとしている。今回の[N]
@@ -465,9 +465,9 @@ The enemy has begun reorganizing its battlefront. This forecast is preliminary, 
 
 ;軍上層部は、雌雄を決するのは[N]
 ;今しかないと考えている。[P]
+Soldiers from Earth will be arriving at Omni again this year. Including the current dispatch of troops, the numerically inferior Earth forces will reach 4 million, and they will likely switch to a counterattack.
 
-;
-
+Military leadership believes that now is our only chance to resolve the situation once and for all.
 
 ;地球軍との最後の戦争であったはず[N]
 ;の覚醒施設破壊より１ヶ月、地球軍[N]
