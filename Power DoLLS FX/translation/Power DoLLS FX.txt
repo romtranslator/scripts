@@ -467,7 +467,7 @@ The enemy's massive nuclear power plant has begun operation. It's in the trial p
 ;今しかないと考えている。[P]
 Soldiers from Earth will be arriving at Omni again this year. Including the current dispatch of troops, the numerically inferior Earth forces will reach 4 million, and they will likely switch to a counterattack.
 
-Military leadership believes that now is our only chance to resolve the situation once and for all.
+High command believes that now is our only chance to resolve the situation once and for all.
 
 ;地球軍との最後の戦争であったはず[N]
 ;の覚醒施設破壊より１ヶ月、地球軍[N]
@@ -508,6 +508,7 @@ The installation action will be performed twice at each install location.[P]
 ;作戦名：ナイアガラドロップ作戦[N]
 ;作戦目的：敵縦侵部隊の２時間にわ[N]
 ;たる阻止[P]
+Operation name: Niagara Drop
 
 ;概要：敵縦侵部隊が我が軍の戦線深[N]
 ;くに侵入することを阻止する。[P]
@@ -1322,7 +1323,7 @@ Quit
 Outside of attack range
 
 ;攻撃範囲に敵はいません
-[N]o enemies in attack range
+No enemies in attack range
 
 ;セ－ブ　
 Save
@@ -1343,34 +1344,34 @@ Animation
 Grid
 
 ;アニメをＯＦＦにします
-
+Animation OFF
 
 ;アニメをＯＮにします
-
+Animation ON
 
 ;グリッドをＯＦＦにします
-
+Grid OFF
 
 ;グリッドをＯＮにします
-
-
-;実　行
-
-
-;中　断
-
+Grid ON
 
 ;実　行
-
+Engage
 
 ;中　断
-
+Abort
 
 ;実　行
-
+Engage
 
 ;中　断
+Abort
 
+;実　行
+Engage
+
+;中　断
+Abort
 
 ;プラン内容
 Plan details
@@ -1460,31 +1461,31 @@ Engage
 Abort
 
 ;攻撃範囲に敵はいません
-
+No enemies in attack range
 
 ;政府軍行動フェイズ
-
+Government forces action phase
 
 ;爆弾を設置中
-
+Installing bomb
 
 ;爆弾を設置完了
-
+Bomb installation complete
 
 ;３箇所の爆薬設置箇所の内、
-
+The explosives have not been installed
 
 ;どこにも設置出来ていません。
-
+at any of the three designated points.
 
 ;１箇所設置出来ています。
-
+Installed at location one.
 
 ;２箇所設置出来ています。
-
+Installed at location two.
 
 ;３箇所設置出来ています。
-
+Installed at location three.
 
 ;現在？ユニットが侵入しています。
 
