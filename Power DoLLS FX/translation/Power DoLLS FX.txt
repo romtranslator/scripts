@@ -549,52 +549,53 @@ DRu25 ground-to-ground missiles.
 
 ;作戦名：オーバーキル作戦[N]
 ;作戦目的：敵輸送部隊の壊滅[P]
-
+Operation name: Operation Overkill
+Operation objective: Destroy the enemy transport units
 ;概要：敵輸送部隊のトラックを８０[N]
 ;％以上破壊し、北部山岳地帯に向け[N]
 ;て脱出する。[P]
-
+Summary: Demolish over 80% of the enemy's transport trucks, and escape to the mountainous northern area.
 ;作戦の進行状況は、［状況確認］で[N]
 ;知る事ができる。[P]
-
+You can check the operation's progress under "Status Check."
 ;なお、今回のミッションより以下の[N]
 ;兵器が配備される。[P]
-
+Additionally, from the current mission on, the following weapons will be deployed:
 ;Ｘ４＋　装甲歩兵[P]
-
+X4+ armored infantry.
 ;Ｍ６Ｂ　ガトリング砲[P]
-
-;
+M6B gatling gun.
 
 
 ;作戦名：マウンテンハイク作戦[N]
 ;作戦目的：敵防御陣の撃破および高[N]
 ;地の占拠[P]
-
+Operation name: Operation Mountain Hike
+Operation objective: Crush the enemy's defensive encampment and occupy the high ground.
 ;概要：作戦実行部隊は、エリア北西[N]
 ;部の高地に築かれた敵防御部隊を撃[N]
 ;破し、[P]
-
+Summary: Units carrying out this operation will destroy the enemy forces stationed in the northwest of the operation area,
 ;この高地を３０分にわたって占拠[N]
 ;敵を牽制し、のち南西の山脈のエリ[N]
 ;ア南端から脱出する。[P]
-
+divert the enemy for 30 minutes while occupying this high ground, and escape via the southern edge of the southwestern mountain range.
 ;作戦の進行状況は、［状況確認］で[N]
 ;知る事ができる。[P]
-
+You can check the operation's progress under "Status Check."
 ;なお、今回のミッションより以下の[N]
 ;兵器が配備される。[P]
-
+Additionally, from the current mission on, the following weapons will be deployed:
 ;Ｘ４＋Ｃ　装甲強襲歩兵[P]
-
+X4+C armored assault infantry.
 ;ＤＲｕ３５　対地ミサイル[P]
-
-;
+DRu35 ground-to-ground missile.
 
 
 ;作戦名：スピアーヘッド作戦[N]
 ;作戦目的：カオルン橋の爆破の阻止[P]
-
+Operation name : Operation Spearhead
+Operation objective: Prevent the demolition of Kaolin Bridge.
 ;概要：現在侵攻中のグランドスピア[N]
 ;ー作戦において、カオルン橋の確保[N]
 ;は必須事項だが、[P]
@@ -612,10 +613,9 @@ DRu25 ground-to-ground missiles.
 
 ;なお、今回のミッションより以下の[N]
 ;兵器が配備される。[P]
-
+Additionally, from the current mission on, the following weapons will be deployed:
 ;Ｍ６１　グレネードランチャー[P]
-
-;
+M61 grenade launcher.
 
 
 ;作戦名：アトミックバスター作戦[N]
@@ -635,14 +635,13 @@ DRu25 ground-to-ground missiles.
 
 ;なお、今回のミッションより以下の[N]
 ;兵器が配備される。[P]
-
+Additionally, from the current mission on, the following weapons will be deployed:
 ;Ｘ４Ｓ　装甲歩兵[P]
-
+X4S armored infantry.
 ;ＡＲＸ２　アサルトライフル[P]
-
+ARX2 assault rifle.
 ;ＭＣ８８　速射砲[P]
-
-;
+MC88 rapid-fire cannon.
 
 
 ;作戦名：パワードールズ[N]
