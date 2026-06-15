@@ -487,9 +487,11 @@ High command believes that now is our only chance to resolve the situation once 
 ;メルトダウンまで一刻の猶予も無い[N]
 ;我々はカーゴバードで緊急展開し[N]
 ;原発の破壊を阻止する。[P]
+One month after the destruction of the Awakening Facility, which was intended to be the final battle against the Earth forces, Earth remnants have occupied the nuclear power plant that had been disabled by Operation Omni Syndrome.
 
-;
+These remnants appear to be planning a meltdown of the nuclear reactor. If executed, it will completely destroy the surrounding 50 kilometers and distribute lethal fallout over a vast area.
 
+With no time to lose before the meltdown, we will initiate emergency deployment of Cargo Bird and prevent demolition of the nuclear power plant.
 
 ;作戦名：遠すぎたダム大作戦[N]
 ;作戦目的：ハイカラムダムの破壊[P]
@@ -502,49 +504,47 @@ Summary: Three TX48 high-efficiency explosives will be installed at High-column 
 ;各設置場所において２回に渡って設[N]
 ;置行動を行う。[P]
 The installation action will be performed twice at each install location.[P]
-;
 
 
 ;作戦名：ナイアガラドロップ作戦[N]
 ;作戦目的：敵縦侵部隊の２時間にわ[N]
 ;たる阻止[P]
 Operation name: Niagara Drop
-
+Operational objective: Block enemy invading forces for two hours.
 ;概要：敵縦侵部隊が我が軍の戦線深[N]
 ;くに侵入することを阻止する。[P]
-
+Summary: Prevent enemy invading forces from penetrating deep into our front lines.
 ;２時間後には、後方の友軍が戦線を[N]
 ;再構築する為、[P]
-
+In two hours, friendly forces in the rear will rebuild their lines. 
 ;この２時間の間に南西に進軍する敵[N]
 ;部隊が１０ユニットを越えないよう[N]
 ;にしなければならない。[P]
-
+Therefore, the number of enemy units advancing southwest must not exceed 10 during this time.
 ;なお現在の侵攻状況は［状況確認］[N]
 ;によって知る事ができる。[P]
-
-;
+The current invasion status can be checked via "Status Check."
 
 
 ;作戦名：キッドナップ作戦[N]
 ;作戦目的：ワイラー中佐の回収[P]
-
+Operation name : Operation Kidnap
+Operational objective: Recovery of Lieutenant Colonel Wyler
 ;概要：作戦エリア北西部の捕虜収容[N]
 ;所から、ワイラー中佐を奪還する[P]
-
+Summary: Recover Lieutenant Colonel Wyler from the prison camp in the northwest of the operation area.
 ;部隊回収のため、南部湾岸に潜水艦[N]
 ;「アクエリアス」が浮上する。[P]
-
+The submarine "Aquarius" will surface off the southern coast to recover our units.
 ;既定時刻までに、全員がエリア南部[N]
 ;にある三角州の道路以南に到達する[N]
 ;こと。[P]
-
+All personnel must reach the area located south of Delta Road within the southern operational zone.
 ;なお、今回のミッションより以下の[N]
 ;兵器が配備される。[P]
-
+Additionally, from the current mission on, the following weapons will be deployed:
 ;ＤＲｕ２５　対地ミサイル[P]
-
-;
+DRu25 ground-to-ground missiles.
 
 
 ;作戦名：オーバーキル作戦[N]
@@ -1488,28 +1488,28 @@ Installed at location two.
 Installed at location three.
 
 ;現在？ユニットが侵入しています。
-
+? unit is currently invading.
 
 ;ワイラー中佐、未救出！
-
+Lieutenant Colonel Wyler hasn't been recovered!
 
 ;ワイラー中佐、救出完了！
-
+Lieutenant Colonel Wyler, recovery complete!
 
 ;現在の破壊率は？０％です。
-
+Current demolition rate ? 0 %.
 
 ;現在の破壊率は１００％です。
-
+Current demolition rate 100%.
 
 ;現在、　？分占拠しています。
-
+Currently occupying ? shares.
 
 ;４箇所の爆薬設置箇所の内、
-
+Out of four explosive installation points,
 
 ;？箇所に設置されています。
-
+? locations have been installed.
 
 ;トレーラーをすべて破壊！
 
@@ -1521,184 +1521,184 @@ Installed at location three.
 
 
 ;４箇所の爆薬設置箇所の内？箇所
-
+Out of four explosive installation points,
 
 ;に設置されています。
-
+? locations have been installed.
 
 ;１２箇所の安全装置の内　？箇所
-
+Out of twelve saftey devices, ? devices
 
 ;破壊出来ています。
-
+have been demolished.
 
 ;６箇所の爆薬設置箇所の内？箇所
-
+Out of six explosive installation points,
 
 ;排除されています。
-
+? locations have been removed.
 
 ;トレーニング中です
-
+Currently training.
 
 ;平地　１
-
+Plain 1
 
 ;道　　１
-
+Road 1
 
 ;森林　２
-
+Forest 2
 
 ;河川　２
-
+River 2
 
 ;崖　　２
-
+Cliff 2
 
 ;荒地　２
-
+Ground 2
 
 ;橋梁　１
-
+Bridge 1
 
 ;施設　１
-
-
-;不可　　
-
+Facility 1
 
 ;不可　　
+Not possible
 
+;不可　　
+Not possible
 
 ;ダム　１
-
-
-;不可　　
-
+Dam 1
 
 ;不可　　
-
-
-;不可　　
-
+Not possible
 
 ;不可　　
-
-
-;不可　　
-
+Not possible
 
 ;不可　　
+Not possible
 
+;不可　　
+Not possible
+
+;不可　　
+Not possible
+
+;不可　　
+Not possible
 
 ;ハ－ディ
-
+Hardy
 
 ;ジュリア
-
+Julia
 
 ;セルマ
-
+Selma
 
 ;ファン
-
+Fan
 
 ;アリス
-
+Alice
 
 ;ニュ－ランド
-
+Nuland
 
 ;フェイルン
-
+Failun
 
 ;レイバ－グ
-
+Leiburg
 
 ;シェ－レ
-
+Schiele
 
 ;クァンメイ
-
+Guanmei
 
 ;ノックス
-
+Knox
 
 ;オムニ海兵隊中佐
-
+Omni Marine Corps Lieutenant Colonel
 
 ;オムニ海軍少佐
-
+Omni Navy Major
 
 ;オムニ陸軍大尉
-
+Omni Army Captain
 
 ;オムニ海軍少尉
-
+Omni Navy Second Lieutenant
 
 ;オムニ海兵隊大尉
-
+Omni Marine Corps Captain
 
 ;オムニ防空軍中尉
-
+Omni Air Force First Lieutenant
 
 ;装甲歩兵
-
+Armored Infantry
 
 ;装甲支援歩兵
-
-
-;装甲強襲歩兵
-
-
-;装甲歩兵
-
+Armored Support Infantry
 
 ;装甲強襲歩兵
-
+Armored Assault Infantry
 
 ;装甲歩兵
+Armored Infantry
 
+;装甲強襲歩兵
+Armored Assault Infantry
+
+;装甲歩兵
+Armored Infantry
 
 ;Ｍ５８Ｔ主力戦車
-
+M58T Main Battle Tank
 
 ;Ｍ２１Ｂ歩兵戦闘車
-
+M21B Infantry Combat Vehicle
 
 ;Ｍ４３Ｔ中戦車
-
+M43T Medium Tank
 
 ;Ｍ１ＳＣ装甲偵察車
-
+M1SC Armored Reconnaissance Vehicle
 
 ;Ｍ１５０トレ－ラ－
-
+M150 Trailer
 
 ;Ｍ３ＡＡ対空自走砲
-
+M3AA Self-propelled Antiaircraft Artillery
 
 ;Ｍ３ＭＬ自走ＭＬ
-
+M3ML Self-propelled ML
 
 ;ＴＳ２Ａ装甲歩兵
-
+TS2A Armored Infantry
 
 ;ＴＳ２Ｂ装甲歩兵
-
+TS2B Armored Infantry
 
 ;ＴＳＲ１装甲歩兵
-
+TSR1 Armored Infantry
 
 ;ＴＳ２Ｃ装甲歩兵
-
+TS2C Armored Infantry
 
 ;ＴＳ３Ｃ装甲歩兵
-
+TS3C Armored Infantry
 
 ;ＴＳ３装甲歩兵
-
+TS3 Armored Infantry
 
 ;我が軍の戦線に迫っていた敵部隊は[N]
 ;ダムの決壊によって、氾濫したミス[N]
