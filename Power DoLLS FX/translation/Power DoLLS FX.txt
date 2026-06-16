@@ -442,7 +442,7 @@ This forecast is preliminary, but it is becoming evident that the natural fortre
 ;このプラントは工業への電力供給だ[N]
 ;けでなく、各兵器の製造にも使用さ[N]
 ;れるだろう。[P]
-Our intelligence division has provided a report indicating that the enemy is secretly building a massive nuclear power facility. Despite its obsolete design, the estimated output is one gigawatt.
+Our intelligence division has provided a report indicating that the enemy is secretly building a massive nuclear power facility. Despite its outdated design, the estimated output is one gigawatt.
 
 This plant is expected to generate electricity not only for industry but also for weapons manufacturing.
 
@@ -453,7 +453,7 @@ This plant is expected to generate electricity not only for industry but also fo
 ;始めるだろう。そこで我が軍首脳部[N]
 ;は、この発電所に対して破壊工作を[N]
 ;行うことを決定した。[P]
-The enemy's massive nuclear power plant has begun operation. It's in the trial phase at the present time, but it will likely begin full-scale operation soon. Our top brass have decided to carry out a demolition maneuver against this reactor.
+The enemy's massive nuclear power plant has begun operation. It's in the trial phase at the present time, but it will likely begin full-scale operation soon. Our top brass have decided to carry out a demolition maneuver against this facility.
 
 ;本年もまた、地球からの兵士がオム[N]
 ;ニに到着しようとしている。今回の[N]
@@ -465,7 +465,7 @@ The enemy's massive nuclear power plant has begun operation. It's in the trial p
 
 ;軍上層部は、雌雄を決するのは[N]
 ;今しかないと考えている。[P]
-Soldiers from Earth will be arriving at Omni again this year. Including the current dispatch of troops, the numerically inferior Earth forces will reach 4 million, and they will likely switch to a counterattack.
+Soldiers from Earth will be arriving at Omni again this year. Including the current dispatch of troops, the numerically inferior Earth forces will reach four million, and they will likely switch to a counterattack.
 
 High command believes that now is our only chance to resolve the situation once and for all.
 
@@ -495,8 +495,8 @@ With no time to lose before the meltdown, we will initiate emergency deployment 
 
 ;作戦名：遠すぎたダム大作戦[N]
 ;作戦目的：ハイカラムダムの破壊[P]
-Operation name: Operation Distant Dam[N]
-Operation objective: Demolition of High-column dam[P]
+Operation name: Operation Distant Dam.[N]
+Operation objective: Demolition of High-column dam.[P]
 ;概要：ハイカラムダムにＴＸ４８高[N]
 ;性能爆薬を３個設置する。爆弾の設[N]
 ;置には１個あたり１０分を要し、[P]
@@ -509,7 +509,7 @@ The installation action will be performed twice at each install location.[P]
 ;作戦名：ナイアガラドロップ作戦[N]
 ;作戦目的：敵縦侵部隊の２時間にわ[N]
 ;たる阻止[P]
-Operation name: Niagara Drop
+Operation name: Niagara Drop.
 Operational objective: Block enemy invading forces for two hours.
 ;概要：敵縦侵部隊が我が軍の戦線深[N]
 ;くに侵入することを阻止する。[P]
@@ -528,11 +528,11 @@ The current invasion status can be checked via "Status Check."
 
 ;作戦名：キッドナップ作戦[N]
 ;作戦目的：ワイラー中佐の回収[P]
-Operation name : Operation Kidnap
-Operational objective: Recovery of Lieutenant Colonel Wyler
+Operation name : Operation Kidnap.
+Operational objective: Recovery of Lieutenant Colonel Wyler.
 ;概要：作戦エリア北西部の捕虜収容[N]
 ;所から、ワイラー中佐を奪還する[P]
-Summary: Recover Lieutenant Colonel Wyler from the prison camp in the northwest of the operation area.
+Summary: Recover Lieutenant Colonel Wyler from the POW camp in the northwest of the operation area.
 ;部隊回収のため、南部湾岸に潜水艦[N]
 ;「アクエリアス」が浮上する。[P]
 The submarine "Aquarius" will surface off the southern coast to recover our units.
@@ -549,8 +549,8 @@ DRu25 ground-to-ground missiles.
 
 ;作戦名：オーバーキル作戦[N]
 ;作戦目的：敵輸送部隊の壊滅[P]
-Operation name: Operation Overkill
-Operation objective: Destroy the enemy transport units
+Operation name: Operation Overkill.
+Operation objective: Destroy the enemy transport units.
 ;概要：敵輸送部隊のトラックを８０[N]
 ;％以上破壊し、北部山岳地帯に向け[N]
 ;て脱出する。[P]
@@ -594,23 +594,23 @@ DRu35 ground-to-ground missile.
 
 ;作戦名：スピアーヘッド作戦[N]
 ;作戦目的：カオルン橋の爆破の阻止[P]
-Operation name : Operation Spearhead
-Operation objective: Prevent the demolition of Kaolin Bridge.
+Operation name : Operation Spearhead.
+Operation objective: Prevent the demolition of Kowloon Bridge.
 ;概要：現在侵攻中のグランドスピア[N]
 ;ー作戦において、カオルン橋の確保[N]
 ;は必須事項だが、[P]
-
+Summary: Regarding the ongoing Operation Grand Spear, our securing Kowloon Bridge is essential, and in response to this, the enemy is about to blow it up.
 ;これに対し、敵はこの橋梁の爆破を[N]
 ;行おうとしている。我々は、橋梁上[N]
 ;で活動する全ての敵部隊を排除し[P]
-
+We are to eliminate all enemy forces active on the bridge and defend it with our lives until friendly units arrive.
 ;友軍の到着までカオルン橋を死守す[N]
 ;る。敵が橋梁を爆破するには、４箇[N]
 ;所に爆弾を設置する必要がある。[P]
-
+To blow up the bridge, the enemy must install bombs at four locations.
 ;敵が設置した爆弾数は［状況確認］[N]
 ;によって確認することができる。[P]
-
+You can confirm the number of bombs planted by the enemy by using "Situation Check."
 ;なお、今回のミッションより以下の[N]
 ;兵器が配備される。[P]
 Additionally, from the current mission on, the following weapons will be deployed:
@@ -621,18 +621,18 @@ M61 grenade launcher.
 ;作戦名：アトミックバスター作戦[N]
 ;作戦目的：敵ウラニウム輸送部隊の[N]
 ;撃破[P]
-
+Operation name: Operation Atomic Buster.
+Operation objective: Crush the enemy's uranium transport units.
 ;概要：敵ウラニウム輸送部隊はトレ[N]
 ;ーラー１０台によって構成されてい[N]
 ;る。この１０台のトレーラー全てを[P]
-
+Summary: The enemy uranium transport force consists of 10 trailers.
 ;撃破し、エリア東端苓G�
-
-
+Destroy all 10 trailers and escape from the eastern edge of the area.
 ;より脱出する。[N]
 ;作戦中のトレーラーの破壊台数は、[N]
 ;［状況確認］で知ることができる。[P]
-
+You can check the number of trailers destroyed during the operation by using "Situation Check."
 ;なお、今回のミッションより以下の[N]
 ;兵器が配備される。[P]
 Additionally, from the current mission on, the following weapons will be deployed:
