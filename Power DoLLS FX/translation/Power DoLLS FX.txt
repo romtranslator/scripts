@@ -647,75 +647,73 @@ MC88 rapid-fire cannon.
 ;作戦名：パワードールズ[N]
 ;作戦目的：敵冷凍睡眠覚醒施設の破[N]
 ;壊工作[P]
-
+Operation name: Power DoLLS
+Operation objective: Sabotage the enemy's cryogenic sleep awakening facilities
 ;概要：各部隊は上陸後、宇宙港南部[N]
 ;に４箇所ある覚醒施設に向かい、こ[N]
 ;の破壊を行う。[P]
-
+Summary: After landing, each unit will head to the awakening facilities located in four sites in the southern half of the spaceport and proceed to demolish them.
 ;破壊すべき施設は凹型をしており、[N]
 ;その窪みには数個の排気口がある。[N]
 ;この排気口の横で破壊工作を行う。[P]
-
-;
+The facilities to be demolished have a concave shape, and there are several exhaust ports in the recess. The demolition is to be carried out next to these exhaust ports.
 
 
 ;作戦名：ラストモーメント[N]
 ;作戦目的：原子力発電所破壊阻止[P]
-
+Operation name: Last Moment
+Operation objective: Prevent demolition of the nuclear power plant.
 ;概要：地球軍の残党が原発のメルト[N]
 ;ダウンを進めている事が発覚した。[P]
-
+Summary: We've discovered that the remnants of the earth army are proceeding with the meltdown of the nuclear power plant's reactor.
 ;敵は原発内に爆弾を仕掛け、施設[N]
 ;と共に玉砕する覚悟だ。[P]
-
+They have planted bombs inside the plant and are prepared to go down with the facility.
 ;我々は設置された爆弾を全て発見、[N]
 ;処理しなくてはならない。[P]
-
+We must locate and dispose of all the planted bombs.
 ;設置された爆弾は［爆弾排除］によ[N]
 ;り無事に排除できる。[P]
-
-;
+The bombs can be safely removed using "bomb disposal."
 
 
 ;我々は、敵先鋒である戦列左翼、エ[N]
 ;リアＢＣ－Ｄ６に強行降下を行い[N]
 ;防衛ラインである、[P]
-
+We will conduct a strike-drop in area BC-D6, the defensive line that makes up the left wing of the enemy vanguard's battle line,
 ;ミスカトニック川上流のハイカラム[N]
 ;ダムの破壊を行う。河川の氾濫は十[N]
 ;数時間に渡って、[P]
-
+and destroy the High-column Dam upstream on the Miskatonic River. The river will flood for dozens of hours, which ought to disrupt the enemy's advance.
 ;敵の進軍を混乱させるだろう。そし[N]
 ;て、ここで得た１時間は１０００人[N]
 ;の将兵の命を救うことになる。[P]
-
-;
+Thereby, an hour gained here will save the lives of thousands of soldiers.
 
 
 ;敵の当面の目標はＨ６－２２にある[N]
 ;我が軍の燃料集積基地とみられる。[P]
-
+The enemy's immediate target appears to be our fuel storage facility at H6-22.
 ;現在、予備兵力をＨ５－２１に向け[N]
 ;ているが、予想交戦地域はＨ５－２[N]
 ;２と見られ、燃料集積基地は[P]
-
+Reserve forces are currently on their way to H5-21, but H5-22 is considered the anticipated battle zone, and our fuel storage facility
 ;危険にさらされる可能性が大きい。[N]
 ;我々は、Ｈ５－２１に降下展開し、[N]
 ;敵地上軍の侵攻を少なくとも[P]
-
+is likely to be in jeopardy. We will deploy and drop into H5-21, where we will hold off the enemy ground forces' attack until at least 13:50.
 ;１３５０時まで阻止する。燃料集積[N]
 ;基地は、防衛部隊として消耗した対[N]
 ;空中隊３個と、[P]
-
+The fuel storage facility is protected by three depleted antiaircraft squadrons and one artillery battery,
 ;１個砲兵中隊によって護られている[N]
 ;が、この戦力で対応できるのは、よ[N]
 ;くて敵２個中隊、[P]
-
+but this force can only withstand about two enemy companies or ten enemy units at best.
 ;１０個部隊程度だ。これ以上の敵戦[N]
 ;力をＨ５－２１より南西に侵入させ[N]
 ;るな。[P]
-
-;
+Do not allow more enemy forces than this to penetrate southwest of H5-21.
 
 
 ;ワイラー中佐はＢ５－１３にある[N]
