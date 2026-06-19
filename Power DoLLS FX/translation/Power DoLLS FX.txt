@@ -713,40 +713,37 @@ but this force can only withstand about two enemy companies or ten enemy units a
 ;１０個部隊程度だ。これ以上の敵戦[N]
 ;力をＨ５－２１より南西に侵入させ[N]
 ;るな。[P]
-Do not allow more enemy forces than this to penetrate southwest of H5-21.
+Do not allow more enemy forces than these to penetrate southwest of H5-21.
 
 
 ;ワイラー中佐はＢ５－１３にある[N]
 ;敵の捕虜収容所に囚われているらし[N]
 ;い。中佐が捕虜となってから[P]
-
+Lieutenant Colonel Wyler appears to be being held captive in the enemy's POW camp at B5-13.
 ;既に１２時間が経過している。我々[N]
 ;の任務は中佐の救出および、敵勢力[N]
 ;下からの脱出 QE
-
-
+Twelve hours have already passed since the lieutenant colonel was captured. Our mission is to recover the lieutenant colonel and escape from under the
 ;になる。[P]
-
-;
+enemy forces.
 
 
 ;敵補給部隊は、この事態に対応して[N]
 ;大規模な輸送部隊を編成しようとし[N]
 ;ている。我々は今回の反撃に[P]
-
+In accordance with the circumstances, the enemy supply division is attempting to organize a large-scale transport.
 ;先立って、敵戦線後方深くにある輸[N]
 ;送部隊本部の１つに対して直接攻撃[N]
 ;を行う。[P]
-
+Prior to this counterattack, we'll launch a direct attack on one of the transport unit's headquarters deep behind enemy lines.
 ;この輸送部隊本部には３０台近い輸[N]
 ;送トラックが集合しており、これら[N]
 ;のトラックを破壊することで、[P]
-
+There are nearly thirty trucks gathered at this HQ, and by destroying them, the frontline troops whose supplies are already overdue
 ;既に補給が滞っている敵前線部隊は[N]
 ;潰走を余儀なくされるだろう。破壊[N]
 ;の目標は８０％とする。[P]
-
-;
+should be forced to rout. The target for destruction is 80%.
 
 
 ;我々はコルベット山系の要衝、ホー[N]
