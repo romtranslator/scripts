@@ -749,86 +749,78 @@ should be forced to rout. The target for destruction is 80%.
 ;我々はコルベット山系の要衝、ホー[N]
 ;ガン渓谷で構築されつつある防衛線[N]
 ;に対して攻撃を行い、[P]
-
+We will attack the defensive line being constructed in Hogan Canyon, a strategic position in the Corvette Mountains, and nip their fortification efforts in the bud.
 ;渓谷の要塞化を早期に阻止する。特[N]
 ;にエリア北西部の高地は、この地点[N]
 ;を通る幹線路を支配下に[P]
-
+In particular, they have taken control of the major line that runs through this location.
 ;入れている。今回の作戦の目標はこ[N]
 ;の高地から敵を排除し、３０分以上[N]
 ;占拠することだ。[P]
-
-;
+Our current operational goal is to clear the enemy from this high ground and hold it for more than 30 minutes.
 
 
 ;この侵攻作戦には途中の３つの橋梁[N]
 ;の確保が不可欠だ。我々はこのうち[N]
 ;最もヤハルに近いカオルン橋の[P]
-
+It's essential for this attack operation that we capture three bridges en route. We're responsible for securing Kowloon Bridge,
 ;確保を担当する。敵はグランドスピ[N]
 ;アー作戦に応じてこの橋梁を爆破す[N]
 ;る公算が高い。[P]
-
+the closest one to Yahar. The probability of the enemy blowing up this bridge in response to Operation Grand Spear is high.
 ;我々は、ここに降下を行い、地上部[N]
 ;隊が到着するまで、橋梁を敵の手か[N]
 ;ら死守する。[P]
-
+We will drop here and defend it from the enemy at all costs until surface units arrive.
 ;我が地上部隊の到着予定時刻は順調[N]
 ;にいけば０８３０時になるだろう。[P]
-
-;
+If all goes well, our ground troops are expected to arrive at 08:30.
 
 
 ;我々は、ウラニウムを輸送中の敵部[N]
 ;隊に対し待ち伏せ攻撃を行い、原発[N]
 ;の操業を妨害する。[P]
-
+We will ambush the enemy forces transporting uranium and hinder the operation of their nuclear power plant.
 ;敵は１０台のトレーラーを使用して[N]
 ;搬送を計画しており、これらのうち[N]
 ;どれにウラニウムが積載されて[P]
-
+The enemy is planning to use ten tractor-trailers for transportation, and we don't know which of these will be carrying uranium.
 ;いるのかは不明だ。敵輸送部隊のト[N]
 ;レーラー１０台全てを破壊しろ。[P]
-
-;
+Destroy all 10 trailers in the enemy transport convoy.
 
 
 ;我々はこの原子力発電所にカーゴバ[N]
 ;ードで降下し、その制御施設を破壊[N]
 ;する。[P]
-
+We'll drop at this nuclear power plant with Cargo Bird and destroy the control facilities.
 ;破壊の目標となる制御施設は発電所[N]
 ;内４箇所に分かれている。発電所の[N]
 ;中の凹型の建物に注目してくれ。[P]
-
+The control facilities that will be targeted for demolition are divided into four locations within the power plant. Take note of the concave buildings inside.
 ;この４つの建物が目標の制御施設に[N]
 ;なる。我々はここに爆弾を設置して[N]
 ;制御施設のみを破壊する。[P]
-
+These four buildings will be the targets. We will plant bombs here to destroy only the control facilities.
 ;爆弾の設置地点は各建造物の凹型の[N]
 ;窪みに当たる部分だ。[P]
-
-;
-
+The bomb placement points are in the concave recesses of each building.
 
 ;になるだろう。[P]
-
-;
 
 
 ;我々はカーゴバードにて原子力発電[N]
 ;所内に緊急展開を行い、残党が設置[N]
 ;した爆弾を１つ残らず排除する。[P]
-
+We will perform rapid deployment inside the nuclear power plant via Cargo Bird and eliminate every single bomb planted by the survivors.
 ;現在この地点には１個師団相当が集[N]
 ;結し鉄壁の防御陣を築いている為、[N]
 ;作戦は一筋縄ではいかないだろう。[P]
-
+Currently, a force equivalent to one division has gathered at this location, forming an impenetrable defensive line, so I fear the operation won't be simple.
 ;しかし同時に失敗も許されない。我[N]
 ;々にとっては、これが本当のラスト[N]
 ;ミッションになる。[P]
-
-;
+However, at the same time, failure is not an option. This will truly be our final mission.
 
 
 ;今回の作戦では、我が軍の他の部隊[N]
@@ -838,7 +830,6 @@ We cannot expect support from allied units during this operation.[P]
 ;に後退防御態勢を整えなければなら[N]
 ;ないからだ。[P]
 All frontline units must prepare a defensive retreat as quickly as possible.[P]
-;
 
 
 ;幸い、Ｈ６－２１には第２１師団傘[N]
@@ -911,7 +902,6 @@ TX48 high explosives will be used to destroy the targets, with each device takin
 ;これを、それぞれ違う位置に対し[N]
 ;設置する。[P]
 Plant these bombs at various locations. [P]
-;
 
 
 ;まず、降下作戦に先立ち、航空支援[N]
@@ -930,7 +920,6 @@ landing behind them, if feasible, near the High Column Dam. TX48 high explosives
 ;要する。これを、それぞれ違う位置[N]
 ;に対して設置しろ。[P]
 with each device taking ten minutes to plant. Plant these bombs at various locations. [P]
-;
 
 
 ;今回の作戦は、降下部隊と支援部隊[N]
