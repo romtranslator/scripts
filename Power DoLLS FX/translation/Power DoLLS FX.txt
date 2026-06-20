@@ -835,58 +835,52 @@ All frontline units must prepare a defensive retreat as quickly as possible.[P]
 ;幸い、Ｈ６－２１には第２１師団傘[N]
 ;下の砲兵中隊が展開している為、我[N]
 ;らはこれらの支援を受けることが[P]
-
+Fortunately, since an artillery battery affiliated with the 21st division is deployed at H6-21, we'll be able to receive their support.
 ;できる。航空兵力は、ＴＦＷ１４４[N]
 ;より１個飛行中隊が、我々の直衛に[N]
 ;あたる。[P]
-
+As for air power, one flight squadron from TFW14 will be assigned as our escort.
 ;支援爆撃は１１５５時より要請可能[N]
 ;となる。支援部隊の弾薬の総量から[N]
 ;みて、１０回ほどの爆撃が可能だ。[P]
-
-;
+Support bombing can be requested starting at 11:55.
+Judging by our support units' total ammunition, they should be able to make around ten bombing runs.
 
 
 ;今回の作戦地域は、敵戦線に深く入[N]
 ;っているため、我が軍の支援は不可[N]
 ;能となっている。[P]
-
-;
+Our forces can no longer provide support because the current area of operations lies deep within the enemy front.
 
 
 ;今回の作戦エリアは敵戦線深部であ[N]
 ;り、また敵制空権下でもあるため[N]
 ;一切の支援は不可能だ。[P]
-
-;
+Our forces cannot provide support since the current operational area lies deep within the enemy front; not to mention, we are under enemy air superiority. 
 
 
 ;今回の作戦は隠密性が重要である。[N]
 ;航空機、陸上部隊による支援はこれ[N]
 ;を疎外するため行われない。[P]
-
-;
+Covert operations are crucial for this mission. Air and ground support will not be provided to avoid hindering the operation.
 
 
 ;作戦の性質上、この作戦において[N]
 ;爆撃支援は不可能だ。我々だけで[N]
 ;作戦を成功させることになる。[P]
-
-;
+Due to the nature of this operation, bombing support is not possible. We must achieve success in this operation on our own.
 
 
 ;今回の作戦は、極めて強固な敵戦線[N]
 ;の後方で行われる。[N]
 ;このため一切の支援は不可能だ。[P]
-
-;
+This operation will take place behind an extremely strong enemy front. Therefore, no support is possible whatsoever.
 
 
 ;明らかな理由から、この作戦におい[N]
 ;て爆撃支援は不可能だ。我々だけで[N]
 ;この作戦を成功させることになる。[P]
-
-;
+For obvious reasons, bombing support is impossible in this operation. We will have to succeed in this operation on our own.
 
 
 ;降下部隊は、航空支援部隊の援護の[N]
@@ -2117,135 +2111,6 @@ This is Meteor Leader. Meteor formation has reached the supporting standby airsp
 ;作戦エリアに突入する。降下カウン[N]
 ;トダウン開始。[P]
 All Silver Fox aircraft, entering the operation area now. Starting drop countdown.[P]
-;
-
-
-;セーブデータは、シナリオ１[N]
-;遠すぎたダム大作戦です[N]
-;ロードしますか？[N]
-;
-
-
-;セーブデータは、シナリオ２[N]
-;ナイアガラドロップです[N]
-;ロードしますか？[N]
-;
-
-
-;セーブデータは、シナリオ３[N]
-;キッドナップ作戦です[N]
-;ロードしますか？[N]
-;
-
-
-;ーブデータは、シナリオ４[N]
-;オーバーキル作戦です[N]
-;ロードしますか？[N]
-;
-
-
-;セーブデータは、シナリオ５[N]
-;マウンテンハイクです[N]
-;ロードしますか？[N]
-;
-
-
-;セーブデータは、シナリオ６[N]
-;スピアーヘッド作戦です[N]
-;ロードしますか？[N]
-;
-
-
-;セーブデータは、シナリオ７[N]
-;アトミックバスターです[N]
-;ロードしますか？[N]
-;
-
-
-;セーブデータは、シナリオ８[N]
-;オムニシンドロームです[N]
-;ロードしますか？[N]
-;
-
-
-;セーブデータは、シナリオ９[N]
-;パワードールズです[N]
-;ロードしますか？[N]
-;
-
-
-;セーブデータは、シナリオ１０[N]
-;ラストモ－メントです[N]
-;ロードしますか？[N]
-;
-
-
-;ロードデータはありません[N]
-;
-
-
-;セーブデータは、シナリオ１[N]
-;遠すぎたダム大作戦です[N]
-;セーブしますか？[N]
-;
-
-
-;セーブデータは、シナリオ２[N]
-;ナイアガラドロップです[N]
-;セーブしますか？[N]
-;
-
-
-;セーブデータは、シナリオ３[N]
-;キッドナップ作戦です[N]
-;セーブしますか？[N]
-;
-
-
-;セーブデータは、シナリオ４[N]
-;オーバーキル作戦です[N]
-;セーブしますか？[N]
-;
-
-
-;セーブデータは、シナリオ５[N]
-;マウンテンハイクです[N]
-;セーブしますか？[N]
-;
-
-
-;セーブデータは、シナリオ６[N]
-;スピアーヘッド作戦です[N]
-;セーブしますか？[N]
-;
-
-
-;セーブデータは、シナリオ７[N]
-;アトミックバスターです[N]
-;セーブしますか？[N]
-;
-
-
-;セーブデータは、シナリオ８[N]
-;オムニシンドロームです[N]
-;セーブしますか？[N]
-;
-
-
-;セーブデータは、シナリオ９[N]
-;パワードールズです[N]
-;セーブしますか？[N]
-;
-
-
-;セーブデータは、シナリオ１０[N]
-;ラストモ－メントです[N]
-;セーブしますか？[N]
-;
-
-
-;セーブデータはありません[N]
-;セーブしますか？[N]
 ;
 
 
