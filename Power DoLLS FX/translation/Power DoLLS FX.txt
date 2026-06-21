@@ -919,96 +919,91 @@ with each device taking ten minutes to plant. Plant these bombs at various locat
 ;今回の作戦は、降下部隊と支援部隊[N]
 ;のコンビネーションで成り立ってい[N]
 ;る。[P]
-
+This operation consists of a combination of paratroops and support units.
 ;作戦開始時より航空支援部隊が、対[N]
 ;地支援のため上空で待機する。次に[N]
 ;後続の降下部隊が侵入降下を行い[P]
-
+From the operation's start time, air support units will be standing by for ground support. Next, follow-up paratroops will perform an infiltration drop and assess the situation.
 ;状況を把握。可能ならば敵部隊に対[N]
 ;して攻撃をしかけ、敵戦力の消耗を[N]
 ;はかる。[P]
-
-;
+If possible, they'll launch an attack on enemy forces in an effort to exhaust them.
 
 
 ;今回の作戦では選択肢は１つしかな[N]
 ;い。我々はミサイル潜水艦「アクエ[N]
 ;リアス」より、[P]
-
+For this operation, there is only one choice.
 ;開発中のカーゴバードにより射出さ[N]
 ;れ、Ｂ５－１３でペイロードを分離[N]
 ;降下を行う。[P]
-
+The missile submarine "Aquarius" will launch the under-construction Cargo Bird, which will then execute a payload separation drop at B5-13.
 ;作戦を実行の末、回収はＢ５－１３[N]
 ;南部の三角州に１４５０時より１０[N]
 ;分間のみ「アクエリアス」が[P]
-
+Regarding recovery, after the operation, "Aquarius" will surface in the southern delta at B5-13 at 14:50 and wait for us for just ten minutes.
 ;浮上して、我々を待つことになって[N]
 ;いる。もしこの時間に間に合わなか[N]
 ;った場合、「アクエリアス」は[P]
-
+If we miss this opportunity, "Aquarius" will abandon recovery and return to base.
 ;回収を断念して帰投する。中佐が乗[N]
 ;船できなかった場合、作戦は失敗と[N]
 ;みなされる。[P]
-
+If the lieutenant colonel cannot board, the operation will be deemed a failure.
 ;作戦失敗時には、我々の回収作業も[N]
 ;行われる予定はない。[P]
-
-;
+If we fail the operation, there are no preparations to recover us.
 
 
 ;作戦を実行の末、回収はＢ５－１３[N]
 ;南部の三角州に１５００時より１０[N]
 ;分間のみ「アクエリアス」が[P]
-
+Regarding recovery, after the operation, "Aquarius" will surface in the southern delta at B5-13 at 15:00 and wait for us for just ten minutes.
 ;浮上して、我々を待つことになって[N]
 ;いる。もしこの時間に間に合わなか[N]
 ;った場合、「アクエリアス」は[P]
-
+If we miss this opportunity, "Aquarius" will abandon recovery and return to base.
 ;回収を断念して帰投する。中佐が乗[N]
 ;船できなかった場合、作戦は失敗と[N]
 ;みなされる。[P]
-
+If the lieutenant colonel cannot board, the operation will be deemed a failure.
 ;作戦失敗時には、我々の回収作業も[N]
 ;行われる予定はない。[P]
-
-;
+If we fail the operation, there are no preparations to recover us.
 
 
 ;作戦を実行の末、回収はＢ５－１３[N]
 ;南部の三角州に１５１０時より１０[N]
 ;分間のみ「アクエリアス」が[P]
-
+Regarding recovery, after the operation, "Aquarius" will surface in the southern delta at B5-13 at 15:10 and wait for us for just ten minutes.
 ;浮上して、我々を待つことになって[N]
 ;いる。もしこの時間に間に合わなか[N]
 ;った場合、「アクエリアス」は[P]
-
+If we miss this opportunity, "Aquarius" will abandon recovery and return to base.
 ;回収を断念して帰投する。中佐が乗[N]
 ;船できなかった場合、作戦は失敗と[N]
 ;みなされる。[P]
-
+If the lieutenant colonel cannot board, the operation will be deemed a failure.
 ;作戦失敗時には、我々の回収作業も[N]
 ;行われる予定はない。[P]
-
-;
+If we fail the operation, there are no preparations to recover us.
 
 
 ;作戦を実行の末、回収はＢ５－１３[N]
 ;南部の三角州に１５２０時より１０[N]
 ;分間のみ「アクエリアス」が[P]
-
+Regarding recovery, after the operation, "Aquarius" will surface in the southern delta at B5-13 at 15:20 and wait for us for just ten minutes.
 ;浮上して、我々を待つことになって[N]
 ;いる。もしこの時間に間に合わなか[N]
 ;った場合、「アクエリアス」は[P]
-
+If we miss this opportunity, "Aquarius" will abandon recovery and return to base.
 ;回収を断念して帰投する。中佐が乗[N]
 ;船できなかった場合、作戦は失敗と[N]
 ;みなされる。[P]
-
+If the lieutenant colonel cannot board, the operation will be deemed a failure.
 ;作戦失敗時には、我々の回収作業も[N]
 ;行われる予定はない。[P]
-
-;
+If we fail the operation, there are no preparations to recover us.
 
 
 ;プランＡは、Ｃ５５６輸送機によっ[N]
