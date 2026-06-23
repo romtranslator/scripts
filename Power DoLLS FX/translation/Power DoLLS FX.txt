@@ -1009,41 +1009,36 @@ If we fail the operation, there are no preparations to recover us.
 ;プランＡは、Ｃ５５６輸送機によっ[N]
 ;て敵制空権掌握圏外ぎりぎりまで接[N]
 ;近し、高度３５０００ｍより[P]
-
+Plan A is to approach just short of the enemy's air superiority range via the C556 transport and perform a high-altitude drop from 35,000 m, individually gliding into the target area.
 ;高高度降下を行い、目標エリアまで[N]
 ;各自滑空して侵入する。この方法は[N]
 ;比較的安全であるが、降下地点は[P]
-
+This method is comparatively safe, but the drop site winds up covering a fairly wide range.
 ;かなり広範囲に広がる事になる。目[N]
-;標達成後は、北部tl[N]
-;;
-
-
+;標達成後は、北部tl[N] 
 ;の山岳地帯に脱出[N]
 ;する。[P]
-
+Upon objective completion, we'll escape to the northern mountains.
 ;迎えはない、帰りは徒歩になる。[P]
-
-;
+There is no one to pick us up, so we'll be returning on foot.
 
 
 ;プランＢでは敵制空権下に、ＡＣ１[N]
 ;５強襲機で強襲降下を行う。このエ[N]
 ;リアは敵制空権下のため、敵戦闘機[P]
-
+Plan B is to conduct an assault drop with AC15 attack aircraft under enemy air superiority.
 ;による迎撃が予想される。これに対[N]
 ;抗するため、航空護衛部隊は対空装[N]
 ;備で、強襲降下部隊の護衛にあたる[P]
-
+Enemy fighters are expected to intercept due to the area's air supremacy. To counter this threat, the air escort units will use their anti-aircraft weapons to protect the assault parachute units.
 ;あるいは敵戦闘機により強襲降下部[N]
 ;隊、航空護衛部隊に損害があるかも[N]
 ;しれないが降下時の着地精度を高く[P]
-
+Although both the assault parachute units and the air escort units may sustain damage from enemy fighter jets, this approach makes it possible to achieve a high degree of accuracy when landing.
 ;することが可能だ。目標達成後は、[N]
 ;北部の山岳地帯に脱出する。[N]
 ;迎えはない、帰りは徒歩になる。[P]
-
-;
+Upon objective completion, we'll escape to the northern mountains. There is no one to pick us up, so we'll be returning on foot.
 
 
 ;今回の作戦は、グランドスピアー作[N]
