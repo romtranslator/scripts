@@ -1044,20 +1044,19 @@ Upon objective completion, we'll escape to the northern mountains. There is no o
 ;今回の作戦は、グランドスピアー作[N]
 ;戦の一環として行われる。作戦の実[N]
 ;行内容は我々の判断で行うが、[P]
-
+The current operation will be conducted as part of Operation Grand Spear.
 ;作戦の概要はグランドスピアーにそ[N]
 ;って行われる。橋梁を確保する降下[N]
 ;部隊は同時に該当エリアに向かい[P]
-
+The details of the operation will be determined at our discretion, but it will adhere to the outline of Operation Grand Spear.
 ;橋梁東部より侵入し、橋梁の東端へ[N]
 ;降下する。橋梁上の敵部隊を排除し[N]
 ;た後、設置された爆弾を排除する。[P]
-
+The paratroopers in charge of securing the bridge will leave their various positions and approach it from the east, landing at its eastern end. After eliminating the enemy forces from the bridge, destroy the bombs they planted.
 ;爆弾は４箇所以上設置されると、橋[N]
 ;の爆破には充分な量だ。なんとして[N]
 ;も食い止める。[P]
-
-;
+If there are bombs in four locations on the bridge, that's enough to destroy it. They must be halted at all costs.
 
 
 ;このプランは、海軍の潜水艦「アク[N]
@@ -1066,91 +1065,87 @@ Upon objective completion, we'll escape to the northern mountains. There is no o
 
 
 ;用して奇襲を行う。[P]
-
+This plan involves performing a surprise attack using the naval submarine "Aquarius" and the Cargo Bird system.
 ;我々は「アクエリアス」によってカ[N]
 ;ーゴバードの射出ポイントまで輸送[N]
 ;される。その後、敵輸送部隊が[P]
-
+We will be transported by the USS Aquarius to the Cargo Bird launch point.
 ;このエリアを通過するタイミングに[N]
 ;あわせカーゴバードで射出される。[N]
 ;カーゴバードの速度から考えて、[P]
-
+Afterwards, Cargo Bird will eject in sync with the timing of the enemy transport units.
 ;敵がこの奇襲を予測する事は不可能[N]
 ;であり、またこれを回避する事も難[N]
 ;しいだろう。[P]
-
+Considering Cargo Bird's speed, it will be impossible for the enemy to predict this surprise attack,
 ;目的達成後は、速やかにエリア東端[N]
 ;から脱出する。[P]
-
-;
+and it should also be hard to evade.
 
 
 ;このプランでは、高高度降下を行っ[N]
 ;て、現地に侵入する。降下を完了し[N]
 ;た部隊は、エリア東部の森林に[P]
-
+In this plan, we'll perform a high-altitude drop and infiltrate the site.
 ;潜伏し、移動部隊の到着を待つ。敵[N]
 ;は充分に警戒しているので、移動部[N]
 ;隊が現地を通過する瞬間まで、[P]
-
+The units, having completed their drop, will hide in the eastern forest area and await the arrival of the mobile units.
 ;我々の存在を知られてはならない。[N]
 ;もし、こちらの行動に気付けば、敵[N]
 ;は脱兎の如く逃げ出すだろう。[P]
-
+The enemy will be wary, so our presence must remain unknown until the instant the mobile units pass through the site. If they become aware of our actions, they'll flee at lightning speed.
 ;我々の得た情報では、敵輸送部隊が[N]
 ;このエリアの橋を渡るのは、１０３[N]
 ;０時ということだ。[P]
-
+According to intel we acquired, the enemy transport units will cross over the bridge area at 1030 hours.
 ;目的達成後は、速やかにエリア東端[N]
 ;から脱出する。[P]
-
-;
+After achieving our objective, we will quickly escape from the eastern edge of the area.
 
 
 ;今回の作戦は敵勢力の極めて深部に[N]
 ;潜入することになる為、再び「アク[N]
 ;エリアス」と[P]
-
+This operation will involve infiltrating deep into enemy territory, so we will once again use the "Aquarius" and the Cargo Bird system.
 ;カーゴバードシステムを使用する。[N]
 ;我々は「アクエリアス」より射出さ[N]
 ;れ発電所内に降下、[P]
-
+We will be fired from the "Aquarius" and drop inside the power plant, escaping to the coast after planting the TX48 high-power explosives.
 ;ＴＸ４８高性能爆薬を設置後、海岸[N]
 ;まで脱出する。ここで機密保護のた[N]
 ;め乗機を破壊した後、[P]
-
+After destroying the aircraft to maintain confidentiality, we'll withdraw from the area, swimming to a point 30 km out in the open sea,
 ;泳いでこのエリアから離脱、発電所[N]
 ;沖３０ｋｍのポイントで「アクエリ[N]
 ;アス」が我々を回収する。[P]
-
-;
+where we'll be picked up by the "Aquarius."
 
 
 ;は［装置破壊］によって破壊する[N]
 ;事ができる。[P]
-
+ can be destroyed with "device demolition."
 ;今回の作戦では、脱出、救出は想定[N]
 ;されていない。自らの任務を果たす[N]
 ;ことだけを考えてくれ。[P]
-
-;
+Escape and rescue are not anticipated in this operation. Please focus solely on fulfilling your own mission.
 
 
 ;残党共は持てるだけの爆弾で着々と[N]
 ;メルトダウンへ向けての準備を開始[N]
 ;している為、[P]
-
+The remnants have begun steadily preparing to trigger a meltdown with their remaining explosives, so we haven't a moment to lose.
 ;我々には一刻の猶予も残されていな[N]
 ;い。早急にカーゴバードに搭乗し[N]
 ;緊急展開を行う。[P]
-
+We'll board Cargo Bird and perform emergency deployment ASAP.
 ;現時点で残党共はどれくらいの爆弾[N]
 ;を仕掛けるのか予測は不可能だ。[P]
-
+At this point, it's impossible to predict how many bombs the remaining forces will plant.
 ;このため我々は、施設内に発見した[N]
 ;全ての爆弾を排除しなければならな[N]
 ;い。[P]
-
+Therefore, we must eliminate all bombs we discover within the facility.
 
 ;セーブデータはありません[N]
 There are no save data.
@@ -1479,13 +1474,13 @@ Out of four explosive installation points,
 ? locations have been installed.
 
 ;トレーラーをすべて破壊！
-
+All trailers destroyed!
 
 ;現在？台のトレーラーを破壊して
-
+Currently, we have destroyed ? 
 
 ;います。
-
+trailers.
 
 ;４箇所の爆薬設置箇所の内？箇所
 Out of four explosive installation points,
