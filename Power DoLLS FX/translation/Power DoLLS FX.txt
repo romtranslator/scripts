@@ -1665,39 +1665,36 @@ TS3 Armored Infantry
 ;我が軍の戦線に迫っていた敵部隊は[N]
 ;ダムの決壊によって、氾濫したミス[N]
 ;カトニック河の両側に、[P]
-
+The dam collapse caused flooding on both sides of the Miskatonic River,
 ;戦力を分散することになった。この[N]
 ;ことで攻撃のタイミングを失った敵[N]
 ;部隊は、[P]
-
+forcing the enemy forces approaching our battlefront to disperse. This forced the enemy, who had lost the opportunity to attack,
 ;作戦の変更を余儀なくされ、我が軍[N]
 ;の戦線は再び強固なものとなった。[P]
-
-;
+to change tactics, while our forces' battlefront solidified once more.
 
 
 ;諸君の抵抗により、敵部隊はこの地[N]
 ;点の侵攻を断念するにいたった。現[N]
 ;在、我が軍は潰走する敵部隊を[P]
-
+Ladies, your resistance has led to the enemy forces abandoning their assault on this location.
 ;追撃中であり、いずれこの戦線は[N]
 ;以前の位置まで回復することになる[N]
 ;だろう。[P]
-
-;
+Currently, our forces are in pursuit of the routed enemy. Our battlefront should recover to its previous position before long.
 
 
 ;諸君の努力によって、リワインド作[N]
 ;戦の情報を護ることができた。[P]
-
+Thanks to you ladies' hard work, we were able to safeguard Operation Rewind's intel.
 ;この極めて困難な目的を達成した諸[N]
 ;君の勇気は、高く評価されることに[N]
 ;なるだろう。[P]
-
+We will highly commend your courage in achieving this extremely difficult objective.
 ;まもなく開始されるリワインド作戦[N]
 ;の成果が、その証しとなる。[P]
-
-;
+The results of the upcoming Operation Rewind shall serve as proof of that.
 
 
 ;大規模な補給が行われることを頼り[N]
