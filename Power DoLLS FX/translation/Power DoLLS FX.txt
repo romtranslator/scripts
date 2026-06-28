@@ -1691,7 +1691,7 @@ Thanks to you ladies' hard work, we were able to safeguard Operation Rewind's in
 ;この極めて困難な目的を達成した諸[N]
 ;君の勇気は、高く評価されることに[N]
 ;なるだろう。[P]
-We will highly commend your courage in achieving this extremely difficult objective.
+Your courage in achieving this extremely difficult objective will be highly commended.
 ;まもなく開始されるリワインド作戦[N]
 ;の成果が、その証しとなる。[P]
 The results of the upcoming Operation Rewind shall serve as proof of that.
@@ -1699,29 +1699,26 @@ The results of the upcoming Operation Rewind shall serve as proof of that.
 
 ;大規模な補給が行われることを頼り[N]
 ;に抵抗を続けていた敵前線部隊は[P]
-
+The frontline troops, who relied on large-scale supply trains to continue fighting,
 ;補給部隊の壊滅と届くことのない補[N]
 ;給の報せに士気が崩壊し、各所で潰[N]
 ;走を始めた。[P]
-
+lost morale and started to rout in various locations when they learned of their destruction and a shortage of supplies.
 ;リワインド作戦は、当初の目標を大[N]
 ;きく上回る成功を収めようとしてい[N]
 ;る。[P]
-
-;
+Operation Rewind is on track to achieve a level of success that far exceeds its initial goals.
 
 
 ;敵上層部は、今回の攻撃によってホ[N]
 ;ーガン渓谷の放棄を決定、大幅な戦[N]
 ;線の後退を開始している。[P]
-
+Thanks to this attack, the enemies' top brass have decided to abandon the current attack on Hogan Canyon and have begun a large-scale battlefront retreat.
 ;第１特務部隊の航空基地占拠作戦と[N]
 ;ともに、我が軍の機動歩兵部隊の優[N]
 ;秀さを証明できたことは、[P]
-
 ;実に喜ばしいことである。[P]
-
-;
+Being able to prove the superiority of our mobile infantry units, along with the 1st Special Forces' operation to occupy the airbase, is indeed something to celebrate.
 
 
 ;諸君の活躍により、我が軍侵攻部隊[N]
