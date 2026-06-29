@@ -1724,82 +1724,77 @@ Being able to prove the superiority of our mobile infantry units, along with the
 ;諸君の活躍により、我が軍侵攻部隊[N]
 ;はカオルン橋を無事通過することが[N]
 ;できた。[P]
-
+Thanks to you ladies' success, our attack forces were able to pass over the Kowloon Bridge safely.
 ;しかし、グランドスピアー作戦は残[N]
 ;念ながら成功とは言えない結果に終[N]
 ;わろうとしている。[P]
-
+However, I'm afraid Operation Grand Spear is ending in a result we can't call a success.
 ;しかしそれでも我々は、敵がより防[N]
 ;御的にならざるをえない状況を生み[N]
 ;だしたといえるだろう。[P]
-
-;
+What I can say is that we have created a situation where the enemy has no choice but to become more defensive.
 
 
 ;諸君、作戦ご苦労だった。[N]
 ;今回の作戦によって敵は工業を支え[N]
 ;る電力を失ったも同然である。[P]
-
+Ladies, thank you for your hard work on the operation. 
 ;別命あるまで、ゆっくり休んでくれ[N]
 ;たまえ。[P]
-
-;
+By the current operation, the enemy has effectively lost their full industrial power supply. Please take it easy and get some rest until further orders.
 
 
 ;これで敵軍の兵器への不安はなくな[N]
 ;った。しかも、敵は工業を支える電[N]
 ;力を得ることも[P]
-
+Now, we no longer have to worry about the enemy forces' weapons. Not only that, but they've has lost access to the electricity that sustains their industry.
 ;出来なくなったのである。地球軍の[N]
 ;士気はすでに底を尽いていることだ[N]
 ;ろう。[P]
-
+The morale of the Earth forces must have already hit rock bottom.
 ;出来ることならばこのまま敵が降伏[N]
 ;を求めてくれることを願いたいが[N]
 ;しかし、[P]
-
 ;地球からは無尽のK&D=
-
-
+If only they would surrender, but endless soldiers and supplies keep coming from Earth.
 ;兵士、物資が送ら[N]
 ;れて来る。我々の戦いはいつまで続[N]
 ;くのだろうか。[P]
-
-;
+I wonder how long this conflict will continue.
 
 
 ;よくやってくれた、諸君等の努力に[N]
 ;よって覚醒施設を失った地球軍は[N]
 ;もはや今後１年間に到着する人口を[P]
-
+Well done! Thanks to your ladies' efforts, the Earth forces have lost their awakening facility and no longer have the means to awaken the population arriving in the next year.
 ;覚醒させる手段を失った。地球政府[N]
 ;のハミルトン提督は、オムニ政府の[N]
 ;提案した停戦要求に応じ、[P]
-
+Admiral Hamilton of the Earth government has accepted the ceasefire request proposed by the Omni government,
 ;ここにオムニ独立戦争の幕が降りる[N]
 ;に至った。[P]
-
-;
+and thus the Omni War of Independence has come to an end.
 
 
 ;演習を終了する。[N]
 ;装備確認、撤収！[P]
-
-;
+Practice over.
+Loadout confirmed, withdrawal!
 
 
 ;作戦名：遠すぎたダム大作戦[N]
 ;プラン：Ａ[N]
 ;作戦目的：ハイカラムダムの破壊[P]
-
+Operation name: Operation Distant Dam
+Plan: A
+Operation objective: Demolition of High-column Dam
 ;概要：ハイカラムダムにＴＸ４８高[N]
 ;性能爆薬を３個設置する。爆弾の設[N]
 ;置には１個あたり１０分を要し、[P]
-
+Outline: We will plant three TX48 high efficiency explosives on High-column Dam. 
 ;各設置場所において２回に渡って設[N]
 ;置行動を行う。[P]
-
-;
+It requires ten minutes for each bomb installation, and you must perform the installation action twice at each site.
 
 
 ;作戦名：遠すぎたダム大作戦[N]
