@@ -500,7 +500,7 @@ Operation objective: Demolition of High-column dam.[P]
 ;概要：ハイカラムダムにＴＸ４８高[N]
 ;性能爆薬を３個設置する。爆弾の設[N]
 ;置には１個あたり１０分を要し、[P]
-Summary: Three TX48 high-efficiency explosives will be installed at High-column Dam.
+Outline: Three TX48 high-efficiency explosives will be installed at High-column Dam.
 ;各設置場所において２回に渡って設[N]
 ;置行動を行う。[P]
 The installation action will be performed twice at each install location.[P]
@@ -513,7 +513,7 @@ Operation name: Niagara Drop.
 Operational objective: Block enemy invading forces for two hours.
 ;概要：敵縦侵部隊が我が軍の戦線深[N]
 ;くに侵入することを阻止する。[P]
-Summary: Prevent enemy invading forces from penetrating deep into our front lines.
+Outline: Prevent enemy invading forces from penetrating deep into our front lines.
 ;２時間後には、後方の友軍が戦線を[N]
 ;再構築する為、[P]
 In two hours, friendly forces in the rear will rebuild their lines. 
@@ -532,7 +532,7 @@ Operation name : Operation Kidnap.
 Operational objective: Recovery of Lieutenant Colonel Wyler.
 ;概要：作戦エリア北西部の捕虜収容[N]
 ;所から、ワイラー中佐を奪還する[P]
-Summary: Recover Lieutenant Colonel Wyler from the POW camp in the northwest of the operation area.
+Outline: Recover Lieutenant Colonel Wyler from the POW camp in the northwest of the operation area.
 ;部隊回収のため、南部湾岸に潜水艦[N]
 ;「アクエリアス」が浮上する。[P]
 The submarine "Aquarius" will surface off the southern coast to recover our units.
@@ -554,7 +554,7 @@ Operation objective: Destroy the enemy transport units.
 ;概要：敵輸送部隊のトラックを８０[N]
 ;％以上破壊し、北部山岳地帯に向け[N]
 ;て脱出する。[P]
-Summary: Demolish over 80% of the enemy's transport trucks, and escape to the mountainous northern area.
+Outline: Demolish over 80% of the enemy's transport trucks, and escape to the mountainous northern area.
 ;作戦の進行状況は、［状況確認］で[N]
 ;知る事ができる。[P]
 You can check the operation's progress under "Status Check."
@@ -575,7 +575,7 @@ Operation objective: Crush the enemy's defensive encampment and occupy the high 
 ;概要：作戦実行部隊は、エリア北西[N]
 ;部の高地に築かれた敵防御部隊を撃[N]
 ;破し、[P]
-Summary: Units carrying out this operation will destroy the enemy forces stationed in the northwest of the operation area,
+Outline: Units carrying out this operation will destroy the enemy forces stationed in the northwest of the operation area,
 ;この高地を３０分にわたって占拠[N]
 ;敵を牽制し、のち南西の山脈のエリ[N]
 ;ア南端から脱出する。[P]
@@ -599,7 +599,7 @@ Operation objective: Prevent the demolition of Kowloon Bridge.
 ;概要：現在侵攻中のグランドスピア[N]
 ;ー作戦において、カオルン橋の確保[N]
 ;は必須事項だが、[P]
-Summary: Regarding the ongoing Operation Grand Spear, our securing Kowloon Bridge is essential, and in response to this, the enemy is about to blow it up.
+Outline: Regarding the ongoing Operation Grand Spear, our securing Kowloon Bridge is essential, and in response to this, the enemy is about to blow it up.
 ;これに対し、敵はこの橋梁の爆破を[N]
 ;行おうとしている。我々は、橋梁上[N]
 ;で活動する全ての敵部隊を排除し[P]
@@ -626,7 +626,7 @@ Operation objective: Crush the enemy's uranium transport units.
 ;概要：敵ウラニウム輸送部隊はトレ[N]
 ;ーラー１０台によって構成されてい[N]
 ;る。この１０台のトレーラー全てを[P]
-Summary: The enemy uranium transport force consists of 10 trailers.
+Outline: The enemy uranium transport force consists of 10 trailers.
 ;撃破し、エリア東端苓G�
 Destroy all 10 trailers and escape from the eastern edge of the area.
 ;より脱出する。[N]
@@ -652,7 +652,7 @@ Operation objective: Sabotage the enemy's cryogenic sleep awakening facilities
 ;概要：各部隊は上陸後、宇宙港南部[N]
 ;に４箇所ある覚醒施設に向かい、こ[N]
 ;の破壊を行う。[P]
-Summary: After landing, each unit will head to the awakening facilities located in four sites in the southern half of the spaceport and proceed to demolish them.
+Outline: After landing, each unit will head to the awakening facilities located in four sites in the southern half of the spaceport and proceed to demolish them.
 ;破壊すべき施設は凹型をしており、[N]
 ;その窪みには数個の排気口がある。[N]
 ;この排気口の横で破壊工作を行う。[P]
@@ -665,7 +665,7 @@ Operation name: Last Moment
 Operation objective: Prevent demolition of the nuclear power plant.
 ;概要：地球軍の残党が原発のメルト[N]
 ;ダウンを進めている事が発覚した。[P]
-Summary: We've discovered that the remnants of the earth army are proceeding with the meltdown of the nuclear power plant's reactor.
+Outline: We've discovered that the remnants of the earth army are proceeding with the meltdown of the nuclear power plant's reactor.
 ;敵は原発内に爆弾を仕掛け、施設[N]
 ;と共に玉砕する覚悟だ。[P]
 They have planted bombs inside the plant and are prepared to go down with the facility.
@@ -1357,7 +1357,7 @@ Destroy device
 Remove bomb
 
 ;状況確認
-Confirm scenario
+Check status
 
 ;支援要請
 Request support
@@ -1800,152 +1800,156 @@ It requires ten minutes for each bomb installation, and you must perform the ins
 ;作戦名：遠すぎたダム大作戦[N]
 ;プラン：Ｂ[N]
 ;作戦目的：ハイカラムダムの破壊[P]
-
+Operation name: Operation Distant Dam
+Plan: B
+Operation objective: Demolition of High-column Dam
 ;概要：ハイカラムダムにＴＸ４８高[N]
 ;性能爆薬を３個設置する。爆弾の設[N]
 ;置には１個あたり１０分を要し、[P]
-
+Outline: We will plant three TX48 high efficiency explosives on High-column Dam. 
 ;各設置場所において２回に渡って設[N]
 ;置行動を行う。[P]
-
-;
+It requires ten minutes for each bomb installation, and you must perform the installation action twice at each site.
 
 
 ;作戦名：ナイアガラドロップ作戦[N]
 ;作戦目的：敵縦侵部隊の２時間にわ[N]
 ;たる阻止[P]
-
+Operation name: Operation Niagara Drop[N]
+Operation objective: Prevent the enemy penetration force from crossing over for 2 hours.
 ;概要：敵侵部隊が我が軍の戦線深く[N]
 ;に侵入することを阻止する。[P]
-
+Outline: You must prevent enemy units from getting deep into our forces' battlefront.
 ;２時間後には、後方の友軍が戦線を[N]
 ;再構築する為、[P]
-
+After two hours, friendly forces in the rear will rebuild our battlefront.
 ;この２時間の間に南西に進軍する敵[N]
 ;部隊が１０ユニットを越えないよう[N]
 ;にしろ。[P]
-
+Therefore, ensure that no more than ten enemy units march southwest of here.
 ;なお、敵の現在の侵攻状況は、[N]
 ;［状況確認］で知る事ができる。[P]
-
-;
+Additionally, you can see the enemy's current attack status with "check status."
 
 
 ;作戦名：キッドナップ作戦[N]
 ;プラン：Ａ[N]
 ;作戦目的：ワイラー中佐の回収[P]
-
+Operation name: Operation Kidnap
+Plan: A
+Operation objective: Recover Lieutenant Colonel Wyler
 ;概要：作戦エリア北西部の捕虜収容[N]
 ;所から、ワイラー中佐を奪還する[P]
-
+Outline: At 1450 hours, the submarine "Aquarius" will surface to recover the units sent
 ;部隊回収のため、１４５０時に潜水[N]
 ;艦「アクエリアス」が浮上する。[P]
-
+to rescue Lieutenant Colonel Wyler from the POW camp in the northwest of the operation area.
 ;この時刻までに、全員がエリア南部[N]
 ;にある三角州の道路以南に到達する[N]
 ;こと。[P]
-
-;
+All personnel must reach the area south of Delta Road in the southern part of the operational area by this time.
 
 
 ;作戦名：キッドナップ作戦[N]
 ;プラン：Ｂ[N]
 ;作戦目的：ワイラー中佐の回収[P]
-
+Operation name: Operation Kidnap
+Plan: B
+Operation objective: Recover Lieutenant Colonel Wyler
 ;概要：作戦エリア北西部の捕虜収容[N]
 ;所から、ワイラー中佐を奪還する[P]
-
+Outline: At 1500 hours, the submarine "Aquarius" will surface to recover the units sent
 ;部隊回収のため、１５００時に潜水[N]
-;艦「ア(lX
-
-
-;クエリアス」が浮上する。[P]
-
+;艦「アクエリアス」が浮上する。[P]
+to rescue Lieutenant Colonel Wyler from the POW camp in the northwest of the operation area.
 ;この時刻までに、全員がエリア南部[N]
 ;にある三角州の道路以南に到達する[N]
 ;こと。[P]
-
-;
+All personnel must reach the area south of Delta Road in the southern part of the operational area by this time.
 
 
 ;作戦名：キッドナップ作戦[N]
 ;プラン：Ｃ[N]
 ;作戦目的：ワイラー中佐の回収[P]
-
+Operation name: Operation Kidnap
+Plan: C
+Operation objective: Recover Lieutenant Colonel Wyler
 ;概要：作戦エリア北西部の捕虜収容[N]
 ;所から、ワイラー中佐を奪還する[P]
-
+Outline: At 1510 hours, the submarine "Aquarius" will surface to recover the units sent
 ;部隊回収のため、１５１０時に潜水[N]
 ;艦「アクエリアス」が浮上する。[P]
-
+to rescue Lieutenant Colonel Wyler from the POW camp in the northwest of the operation area.
 ;この時刻までに全員が、エリア南部[N]
 ;にある三角州の道路以南に到達する[N]
 ;こと。[P]
-
-;
+All personnel must reach the area south of Delta Road in the southern part of the operational area by this time.
 
 
 ;作戦名：キッドナップ作戦[N]
 ;プラン：Ｄ[N]
 ;作戦目的：ワイラー中佐の回収[P]
-
+Operation name: Operation Kidnap
+Plan: D
+Operation objective: Recover Lieutenant Colonel Wyler
 ;概要：作戦エリア北西部の捕虜収容[N]
 ;所から、ワイラー中佐を奪還する[P]
-
+Outline: At 1520 hours, the submarine "Aquarius" will surface to recover the units sent
 ;部隊回収のため、１５２０時に潜水[N]
 ;艦「アクエリアス」が浮上する。[P]
-
+to rescue Lieutenant Colonel Wyler from the POW camp in the northwest of the operation area.
 ;この時刻までに全員が、エリア南部[N]
 ;にある三角州の道路以南に到達する[N]
 ;こと。[P]
-
-;
+All personnel must reach the area south of Delta Road in the southern part of the operational area by this time.
 
 
 ;作戦名：オーバーキル作戦[N]
 ;プラン：Ａ[N]
 ;作戦目的：敵輸送部隊の壊滅[P]
-
+Operation name: Operation Overkill
+Plan: A
+Operation objective: Destroy the enemy's transport units
 ;概要：敵輸送部隊のトラックを[N]
 ;８０％以上破壊し、北部山岳地帯に[N]
 ;向けて脱出する。[P]
-
+Outline: Destroy over 80% of the enemy's transport trucks and escape toward the mountainous northern area.
 ;作戦の進行状況は、［状況確認］で[N]
 ;知る事ができる。[P]
-
-;
+You can see the operation's progress with "check status."
 
 
 ;作戦名：オーバーキル作戦[N]
 ;プラン：Ｂ[N]
 ;作戦目的：敵輸送部隊の壊滅[P]
-
+Operation name: Operation Overkill
+Plan: B
+Operation objective: Destroy the enemy's transport units
 ;概要：敵輸送部隊のトラックを[N]
 ;８０％以上破壊し、北部山岳地帯に[N]
 ;向けて脱出する。[P]
-
+Outline: Destroy over 80% of the enemy's transport trucks and escape toward the mountainous northern area.
 ;作戦の進行状況は、［状況確認］で[N]
 ;知る事ができる。[P]
-
-;
+You can see the operation's progress with "check status."
 
 
 ;作戦名：マウンテンハイク作戦[N]
 ;作戦目的：敵防御陣の撃破および高[N]
 ;地の占拠[P]
-
+Operation name: Operation Mountain Hike
+Operation objective: Crush the enemy's defensive encampment and occupy the high ground.
 ;概要：作戦実行部隊は、エリア北西[N]
 ;部の高地に築かれた敵防御部隊を撃[N]
 ;破し、[P]
-
+Outline: Units carrying out the operation will crush the enemy forces established in the northwest of the operational area,
 ;この高地を３０分にわたって占拠[N]
 ;敵を牽制し、のち南西の山脈のエリ[N]
 ;ア南端から脱出する。[P]
-
+deter the occupying enemy by holding this high ground for 30 minutes, and finally escape via the southern tip of the southwestern mountain range.
 ;作戦の進行状況は、［状況確認］で[N]
 ;知る事ができる。[P]
-
-;
+You can see the operation's progress with "check status."
 
 
 ;作戦名：スピアーヘッド作戦[N]
