@@ -1955,124 +1955,125 @@ You can see the operation's progress with "check status."
 ;作戦名：スピアーヘッド作戦[N]
 ;プラン：Ａ[N]
 ;作戦目的：カオルン橋の爆破の阻止[P]
-
+Operation name: Operation Spearhead
+Plan : A
+Operation objective: Prevent the demolition of Kowloon Bridge
 ;概要：現在侵攻中のグランドスピア[N]
 ;ー作戦において、カオルン橋の確保[N]
 ;は必須事項だが、[P]
-
+Outline: Regarding the ongoing Operation Grand Spear, our securing Kowloon Bridge is essential, and in response to this, the enemy is about to blow it up.
 ;これに対し、敵はこの橋梁の爆破を[N]
 ;行おうとしている。我々は、橋梁上[N]
 ;で活動する全ての敵部隊を排除し、[P]
-
+We are to eliminate all enemy forces active on the bridge and defend it with our lives until friendly units arrive.
 ;友軍到着時までカオルン橋を死守す[N]
 ;る。敵が橋梁を爆破するには、４箇[N]
 ;所に爆弾を設置する必要がある。[P]
-
+To blow up the bridge, the enemy must install bombs at four locations.
 ;敵が設置した爆弾数は［状況確認］[N]
 ;によって確認することができる。[P]
-
-;
+You can confirm the number of bombs planted by the enemy by using "Situation Check."
 
 
 ;作戦名：スピアーヘッド作戦[N]
 ;プラン：Ｂ[N]
 ;作戦目的：カオルン橋の爆破の阻止[P]
-
+Operation name: Operation Spearhead
+Plan : B
+Operation objective: Prevent the demolition of Kowloon Bridge
 ;概要：現在侵攻中のグランドスピア[N]
 ;ー作戦において、カオルン橋の確保[N]
 ;は必須事項だが、[P]
-
+Outline: Regarding the ongoing Operation Grand Spear, our securing Kowloon Bridge is essential, and in response to this, the enemy is about to blow it up.
 ;これに対し、敵はこの橋梁の爆破を[N]
 ;行おうとしている。我々は、橋梁上[N]
 ;で活動する全ての敵部隊を排除し、[P]
-
+We are to eliminate all enemy forces active on the bridge and defend it with our lives until friendly units arrive.
 ;友軍到着時までカオルン橋を死守す[N]
 ;る。敵が橋梁を爆破するには、４箇[N]
-;所に爆弾を設置げuﾜ
-
-
-;る必要がある。[P]
-
+;所に爆弾を設置する必要がある。[P]
+To blow up the bridge, the enemy must install bombs at four locations.
 ;敵が設置した爆弾数は［状況確認］[N]
 ;によって確認することができる。[P]
-
-;
+You can confirm the number of bombs planted by the enemy by using "Situation Check."
 
 
 ;作戦名：アトミックバスター作戦[N]
 ;プラン：Ａ[N]
 ;作戦目的：敵輸送部隊の撃破[P]
-
+Operation name: Operation Atomic Buster
+Plan: A
+Operation objective: Crush the enemy transport units
 ;概要：敵ウラニウム輸送部隊はトレ[N]
 ;ーラー１０台によって構成されてい[N]
 ;る。この１０台のトレーラー全てを[P]
-
+Outline: The enemy uranium transport force consists of 10 trailers.
 ;撃破しエリア東端より脱出する。ト[N]
 ;レーラーの破壊台数は［状況確認］[N]
 ;で知ることができる。[P]
-
-;
+Destroy all 10 trailers and escape from the eastern edge of the area. You can check the number of trailers destroyed during the operation by using "Situation Check."
 
 
 ;作戦名：アトミックバスター作戦[N]
 ;プラン：Ｂ[N]
 ;作戦目的：敵輸送部隊の撃破[P]
-
+Operation name: Operation Atomic Buster
+Plan: B
+Operation objective: Crush the enemy transport units
 ;概要：敵ウラニウム輸送部隊はトレ[N]
 ;ーラー１０台によって構成されてい[N]
 ;る。この１０台のトレーラー全てを[P]
-
+Outline: The enemy uranium transport force consists of 10 trailers.
 ;撃破しエリア東端より脱出する。ト[N]
 ;レーラーの破壊台数は［状況確認］[N]
 ;で知ることができる。[P]
-
-;
+Destroy all 10 trailers and escape from the eastern edge of the area. You can check the number of trailers destroyed during the operation by using "Situation Check."
 
 
 ;作戦名：パワードールズ[N]
 ;作戦目的：敵冷凍睡眠覚醒施設の破[N]
 ;壊工作[P]
-
+Operation name : Power DoLLS
+Operation objective: Sabotage the enemy's cryo-sleep awaking facility
 ;概要：各部隊は上陸後、宇宙港南部[N]
 ;に４箇所ある覚醒施設に向かい、こ[N]
 ;の破壊を行う。[P]
-
+Outline: After landing, each unit will head to the awakening facilities located in four sites in the southern half of the spaceport and proceed to demolish them.
 ;破壊すべき施設は凹型をしており[N]
 ;その窪みには数個の排気口がある[N]
 ;この排気口の横で破壊工作を行う[P]
-
-;
+The facilities to be demolished have a concave shape, and there are several exhaust ports in the recess. The demolition is to be carried out next to these exhaust ports.
 
 
 ;作戦名：ラストモーメント[N]
 ;作戦目的：原子力発電所破壊阻止[P]
-
+Operation name: Last Moment
+Operation objective: Prevent demolition of the nuclear power plant
 ;概要：地球軍の残党が原発のメルト[N]
 ;ダウンを進めている事が発覚した[P]
-
+Outline: It has been discovered that remnants of the Earth forces are working to cause a meltdown at a nuclear power plant.
 ;残党共は原発内に爆弾を仕掛け、施[N]
 ;設もろとも吹き飛ぶ覚悟だ。[P]
-
+These remnants have planted bombs inside the plant, determined to blow up the entire facility.
 ;我々は施設内をくまなく捜索し、発[N]
 ;見された爆薬を、一つ残らず排除す[N]
 ;る。[P]
-
+We will search the facility thoroughly and eliminate every single explosive found.
 ;設置された爆弾は［爆弾排除］によ[N]
 ;って排除する事ができる。[P]
-
-;
+Planted bombs can be eliminated using "bomb disposal". [P]
 
 
 ;作戦名：トレーニング[N]
 ;作戦目的：全ての敵の破壊[P]
-
+Operation name: Training
+Operation objective: Destroy all the enemies
 ;概要：ポイントＤ－５７より侵入し[N]
 ;てくる敵部隊を全機破壊しろ。[P]
-
+Outline: Demolish all enemy troops invading from point D-57.
 ;敵部隊は１個小隊に満たない為、比[N]
 ;較的簡単な作戦となるだろう。[P]
-
-;
+The enemy forces consist of fewer than one platoon, so it should be a comparatively simple operation.
 
 
 ;リーダーより各員へ、降下地点まで[N]
@@ -2094,19 +2095,18 @@ All Silver Fox aircraft, entering the operation area now. Starting drop countdow
 
 ;リーダーより各員へ、降下地点まで[N]
 ;２０分。[P]
-
+To all crew, from leader. 20 minutes to drop site.[P]
 ;作戦エリア上空はクリア、付近に敵[N]
 ;機なし。[P]
-
+Operational area airspace clear. No enemy aircraft in the vicinity.[P]
 ;メテオリーダーよりシルバーフォッ[N]
 ;クス、護衛はここまでだ。幸運を祈[N]
 ;る。[P]
-
+Meteor leader to Silver Fox. Escort ends here. Good luck.
 ;シルバーフォックス各機、これより[N]
 ;作戦エリアに突入する。降下カウン[N]
 ;トダウン開始。[P]
-
-;
+All Silver Fox units, now charging into operation area. Drop countdown start.
 
 
 ;こちらメテオリーダー、目標空域に[N]
