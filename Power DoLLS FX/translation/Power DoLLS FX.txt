@@ -2339,160 +2339,146 @@ GO! GO! GO!
 
 
 ;目標まであと１０分、各機降下用意[P]
-
+Ten minutes remaining until target. All units prepare for drop.
 ;フォックスバード！　敵機確認、機[N]
 ;影６。[P]
-
+Fox Bird! Enemy aircraft confirmed. Six of them.
 ;迎撃に向かう。[P]
-
+We'll head to intercept.
 ;６機相手か‥きついな。[P]
-
+Six bogeys... It'll be tough.
 ;フォックスリーダー、こっちはどう[N]
 ;する？[P]
-
+Fox Leader, what should we do?
 ;回り道してる暇はない、強行する。[P]
-
+There's no time for a detour. We force our way through.
 ;了解。[P]
-
+Roger.
 ;ターゲットロックオン！[P]
-
+Target lock on!
 ;いけ！[P]
-
+Go!
 ;全弾命中！　悪者は退治した。[P]
-
+All shots hit! The bad guys were eliminated.
 ;メテオよりフォックスバード。敵機[N]
 ;全機撃破、とりあえずは安全だ。[P]
-
+Meteor to Fox Bird. Enemy aircraft destroyed. You're safe for now.
 ;シルバーフォックス各機、これより[N]
 ;作戦エリアに突入する。[P]
-
+All Silver Fox units, now charging into operation area.
 ;降下カウントダウン開始。[P]
-
-;
+Drop countdown, start.
 
 
 ;やっと到着だ。総員ハイキングはこ[N]
 ;こまで、いよいよお弁当の時間だ。[P]
-
-;
+We've finally arrived. Our hike is over. It's time for lunch!
 
 
 ;シルバーフォックス、こちらメテオ[N]
 ;リーダー。待たせたな。[P]
-
+Silver Fox, this is Meteor Leader. 
 ;メテオ編隊はこれより支援待機にう[N]
 ;つる。空軍の連中もどんどんやって[N]
 ;くる、遠慮なく指示をくれ。[P]
-
+Meteor formation will now move to support standby. The Air Force is also arriving in droves, so please don't hesitate to provide instructions.
 ;シルバーフォックス了解、敵の戦闘[N]
 ;機はどうなってる？[P]
-
+Silver Fox, roger. What's the status of the enemy fighters?
 ;後方の飛行基地は、第１特務の連中[N]
 ;がおさえた。当面は心配ない。[N]
 ;攻撃指示をよろしく頼む。[P]
-
-;
+The rear airbase has been secured by the 1st Special Operations Unit. It's all clear for now. Please give the attack orders.
 
 
 ;シルバーフォックス、こちらメテオ[N]
 ;リーダー。燃料が限界だ、メテオは[N]
 ;そろそろ失礼する。[P]
-
+Silver Fox, this is Meteor Leader. Our fuel is running low. We'll be taking our leave now.
 ;無事で戻ってきてくれ、健闘を祈る[P]
-
-;
+Come back safely. We wish you good luck.
 
 
 ;メテオリーダーより各機、これより[N]
-;上空援�ﾆa
-
-
-;にあたる。[P]
-
+;上空援にあたる。[P]
+Meteor Leader to all units. We will now provide air support.
 ;帰投予定は０７２０時。[P]
-
+Expected return time is 0720 hours.
 ;エンジェル各機、エンジェルウィン[N]
 ;グはこれより降下エリアに突入する[P]
-
+Angel Wing charging into drop zone. Anti-aircraft fire looks severe,
 ;対空砲火が厳しそうだ、覚悟してお[N]
 ;け。[P]
-
+so be prepared.
 ;シュガーボウル降下地点到着。[P]
-
+Arrived at the Sugar Bowl drop site.
 ;シュガーを降下させる。[P]
-
+Dropping the sugar.
 ;シルバーフォックス各機、降下目標[N]
 ;に到着した。[P]
-
+All Silver Fox units, arrived at the drop target.
 ;降下を開始する。[P]
-
+Initiate landing.
 ;チェックボックス降下ポイント到着[P]
-
+Checkbox arrived at drop point.
 ;降下カウントダウン開始！[P]
-
+Countdown, start!
 ;こちらキャンディーバッグ、降下予[N]
 ;定地点到達。[P]
-
+This is Candy Bag. We've reached the planned drop site.
 ;キャンディ降下後、キャンディーバ[N]
 ;ッグは帰投する。[P]
-
-;
+After dropping the candy, Candy Bag will return to base.
 
 
 ;メテオより各機、時間だ。[P]
-
+Meteor to all units. It's time.
 ;メテオは帰投する、お先に失礼[P]
-
+Meteor is returning to base. Eagle formation reporting for duty!
 ;イーグル編隊参上！　これより上空[N]
 ;援護にあたる。[P]
-
+We will now provide air cover.
 ;帰投予定は０７４０時。[P]
-
-;
+Expected return time is 0740 hours.
 
 
 ;イーグル編隊より各機、そろそろガ[N]
 ;ス欠だ。[P]
-
+All Eagle Formation units, we are running low on fuel.
 ;イーグルはこれで引き揚げる、グッ[N]
 ;ドラック！[P]
-
+Eagle are withdrawing now. Good luck!
 ;シープドッグリーダーより各機、や[N]
 ;っと出番だ。これより上空援護にあ[N]
 ;たる。[P]
-
+Sheepdog Leader to all units. It's finally our turn. We will now provide air cover.
 ;帰投予定は０８００時。[P]
-
-;
+Expected return time is 0800 hours.
 
 
 ;こちらシープドッグ、タイムリミッ[N]
 ;トだ。[P]
-
+This is Sheepdog. Time's up.
 ;シープドッグは帰還する。無事で帰[N]
 ;ってこい、健闘を祈る。[P]
-
+Sheepdog is returning. Come back safely, and we wish you the best of luck.
 ;こちらシュガー、緊急事態だ。撤退[N]
 ;中の敵部隊が、すぐ南で防御陣を築[N]
 ;き始めた。[P]
-
+This is Sugar. Emergency. Enemy forces retreating have just begun to set up a defensive position to the south.
 ;このポイントはちょっとヤバイ、シ[N]
 ;ュガーは敵を避けて設営地点を移動[N]
 ;させる。[P]
-
-;
-
+This point is a bit dicey, so we're avoiding the enemy and moving to the staging area.
 
 ;こちらシュガー、とりあえずなんと[N]
 ;かなりそうだ。砲撃の用意はできて[N]
 ;いる。[P]
-
+This is Sugar. It looks like we'll manage for now. Bombardment preparations are complete.
 ;ライトニングスよりスピアーヘッド[N]
 ;爆弾の出前だ。注文はいつでもいい[N]
 ;ぞ。[P]
-
-;
-
+We've got spearhead bombs from Lightnings. Give the order any time.
 
 ;ライトニングスよりスピアーヘッド[N]
 ;侵攻部隊の先鋒から爆撃要請が出て[N]
@@ -2504,8 +2490,6 @@ GO! GO! GO!
 
 ;コントロールはスピアーヘッドの判[N]
 ;断にまかせるそうだ。[P]
-
-;
 
 
 ;ライトニングリーダーよりスピアー[N]
