@@ -2111,268 +2111,231 @@ All Silver Fox units, now charging into operation area. Drop countdown start.
 
 ;こちらメテオリーダー、目標空域に[N]
 ;到達。[P]
-
+This is Meteor Leader, target airspace reached.
 ;１１５５時より現空域で指示を待つ[P]
-
+Waiting for instructions in the current airspace from 11:55 hours.
 ;こちらシュガーボウルリーダー、降[N]
 ;下予定地点に到達。シュガー部隊の[N]
 ;降下を開始する。[P]
-
+This is Sugar Bowl Leader,
 ;降下完了、シュガー部隊は１１５５[N]
 ;時より砲撃可能だ。[P]
-
+Planned drop site reached. Sugar units, initiate landing.
 ;グッドラック。[P]
-
+Good luck.
 ;シルバーフォックス各機、これより[N]
 ;作戦エリアに突入する。[P]
-
+All Silver Fox units, now charging into operation area.
 ;目標エリアの敵状態は不明、降下は[N]
 ;ゼロインフォメーション。[P]
-
+Enemy status in the target area is unknown. Descent is zero information.
 ;覚悟を決めろ！　降下カウントダウ[N]
 ;ン開始。[P]
-
-;
+Prepare yourselves! Drop countdown start.
 
 
 ;チェックメイト各機、これより作戦[N]
 ;エリアに突入する。５分後より砲撃[N]
 ;支援が可能。[P]
-
+All Checkmate units, now charging into operation area. Artillery support will be available in 5 minutes.
 ;こちらメテオリーダー、タイムリミ[N]
 ;ットだ。メテオ中隊は帰投する。[P]
-
+This is Meteor Leader. That's time limit. Meteor squadron returning to base.
 ;こちらイーグルリーダー、すこしば[N]
 ;かり遅刻した。５分後には作戦空域[N]
 ;に到達する。[P]
-
-;
+This is Eagle Leader. Running just a little late. We'll reach operation airspace in five minutes.
 
 
 ;こちらイーグルリーダー、タイムリ[N]
 ;ミットだ。イーグル編隊は帰投する[P]
-
+This is Eagle Leader, that's time limit. Eagle formation returning to base
 ;
 
 
 ;燃料基地こちら燃料集積基地、敵部[N]
 ;隊が迫ってきている。これ以上ここ[N]
 ;を保てない！[P]
+This is Fuel Base. Enemy forces are closing in on the fuel storage facility. We can't hold out here any longer!
 
-;�I｣ｵ�
 
-
-;れわれは後１０分でここを放棄[N]
+;われわれは後１０分でここを放棄[N]
 ;後退する！[P]
-
-;
+We will abandon this location and retreat in 10 minutes!
 
 
 ;こちら燃料集積基地、後続部隊が到[N]
 ;着した。この戦線は護りきれるぞ！[P]
-
+This is the fuel depot. Reinforcements have arrived. We can hold this battlefront!
 ;ＤｏＬＬＳリーダー、作戦は成功[N]
 ;だ！[P]
-
-;
+DoLLS Leader, the operation is a success!
 
 
 ;こちら燃料集積基地、後続部隊が到[N]
 ;着した。敵先鋒は援軍と交戦状態に[N]
 ;あるが、もはや危機的状況は脱した[P]
-
+This is the fuel depot. Reinforcements have arrived. The enemy vanguard is engaged in combat with reinforcements, but the crisis has now been averted.
 ;ＤｏＬＬＳリーダー、きわどかった[N]
 ;が作戦は成功だ。[P]
-
-;
+DoLLS Leader, it was a close call, but the operation was a success.
 
 
 ;こちら燃料集積基地、我々は基地を[N]
 ;放棄した。繰り返す、燃料集積基地[N]
 ;は放棄された。[P]
-
+This is Fuel Depot, we've abandoned base. Repeat, the fuel depot has been abandoned.
 ;今回の作戦は失敗だ。各自撤収！[P]
-
-;
+The current operation is a failure. All units withdraw!
 
 
 ;シルバーフォックス各機、本艦は射[N]
 ;出ポイントに到達。[P]
-
+All Silver Fox units. Mother ship has reached the firing point.
 ;現在深度５０、射出深度まであと２[N]
 ;分。[P]
-
+Current depth 50. Two minutes until firing depth.
 ;各機は作戦の最終確認を行い、カー[N]
 ;ゴバードに搭乗してください。繰り[N]
 ;返します、[P]
-
+All craft please complete final operational checks and board the Cargo Bird.
 ;各機は速やかに射出準備にあたって[N]
 ;ください。[P]
-
+I repeat, all craft please prepare for launch.
 ;さて秘密兵器の出来はどうかな。総[N]
 ;員搭乗！[P]
-
+Now, let's see how our secret weapon turned out.
 ;射出深度到達、カウントダウン開始[N]
 ;１０秒前・９・８・７[P]
-
+All hands on board! Launch depth reached. Begin countdown. Ten seconds. 9. 8. 7.
 ;・６・５・４・３・２・１[P]
-
+6. 5. 4. 3. 2. 1.
 ;いくぞ！[P]
-
+Here we go!
 ;射出成功！　ブースター点火！[P]
-
+Firing success! Booster ignition!
 ;ブレイクポイント！　降下開始！[P]
-
-;
+Breakpoint! Drop start!
 
 
 ;ワイラー中佐を発見！[P]
-
+Lieutenant Colonel Wyler located![P]
 ;ワイラー中佐の回収を確認！[N]
 ;速やかに撤収してください。[P]
-
-;
+Lieutenant Colonel Wyler's recovery confirmed! Please withdraw immediately.
 
 
 ;回収予定時刻だ、浮上してシルバー[N]
 ;フォックスを待つぞ。[N]
 ;各員浮上用意！[P]
-
+It's the scheduled recovery time. Surfacing and waiting for Silver Fox. Everyone prepare to surface!
 ;アクエリアスよりシルバーフォック[N]
 ;ス、送迎バスの到着だぞ。[P]
-
-;
+Aquarius to Silver Fox. The shuttle bus is arriving.
 
 
 ;了解、中佐の奪還は成功した。引き[N]
 ;上げよう。[P]
-
+Roger. Recovery of the lieutenant colonel successful. Let's withdraw.
 ;
 
 
 ;こちらシルバーフォックス、待って[N]
 ;くれ、トラブルだ。ワイラー中佐の[N]
 ;回収がまだ終わっていない。[P]
-
+This is Silver Fox. Wait, there's trouble. Lieutenant Colonel Wyler's recover is still not complete.
 ;なんだって！[P]
-
+What did you say?!
 ;中佐をまだ発見できていないんだ[N]
 ;もう少し待てないか？[P]
-
+We still haven't located the lieutenant colonel. Won't you wait a little longer?
 ;しかし、アクエリアスを危険にさら[N]
 ;すわけにはいかないぞ。[P]
-
+But, we can't put the Aquarius at risk.
 ;見捨てるつもりか！[P]
-
+Do you plan to abandon them!
 ;できるだけことはする、急いでくれ[P]
-
-;
+I'll do what I can. Please hurry!
 
 
 ;シルバーフォックス、予定時刻だ[N]
 ;状況は？[P]
-
+Silver Fox, it's the scheduled time. What's your status?
 ;だめだ中佐がまだ見つかっていない[N]
 ;待ってくれ。[P]
-
+It's no good. We still haven't found the lieutenant colonel. Please wait.
 ;あと１０分、それ以上は無理だ。[P]
-
-;
+Another ten minutes. That's all I can do.
 
 
 ;シルバーフォックス、既に浮上から[N]
 ;２０分過ぎた。これ以上は待てない[N]
 ;ぞ。さっさと来てくれ！[P]
-
+Silver Fox, it's already been twenty minutes since surfacing. We can't wait any longer. Come quickly!
 ;わかってる！　しかし‥‥[P]
-
-;
+We know! But...
 
 
 ;シルバーフォックス、ロスタイムは[N]
 ;尽きた。残念だがここまでだ。[P]
-
+Silver Fox, your extra time is out. Sorry, but this is it.
 ;了解、行ってくれ。[P]
-
+Roger. Please get out of here.
 ;悪く思わないでくれ、シルバーフォ[N]
 ;ックス。健闘を祈っている。以上[N]
 ;通信終わり。[P]
-
+Nothing personal, Silver Fox. We wish you the best of luck.
 ;アクエリアスより本部、シルバーフ[N]
 ;ォックスは中佐の回収任務に失敗。[P]
-
+Aquarius to HQ. Silver Fox has failed the mission to recover the lieutenant colonel.
 ;作戦は失敗した。[N]
 ;繰り返す、作戦は失敗した・・・[P]
-
-;
+Operation failed. I repeat, operation failed...
 
 
 ;らシルバーフォックス、いま回[N]
 ;収地点に向かっている。[P]
-
+Silver Fox, currently on our way to the recovery site.
 ;了解、あまり余裕はないぞ急げ。[P]
-
-;
+Roger. There isn't much time. Hurry!
 
 
 ;シルバーフォックス、予定時刻だ[N]
 ;状況は？[P]
-
+Silver fox, it's the scheduled time. What's your status?
 ;あと少しで全員たどり着ける、待[N]
 ;てないか？[P]
-
+We'll all reach you soon. Can you wait?
 ;あと１０分、それ以上は無理だ。[P]
-
-;
+Another ten minutes. That's all I can do.
 
 
 ;シルバーフォックス、既に浮上から[N]
 ;２０分過ぎた。これ以上は待てない[N]
 ;ぞ。さっさと来てくれ！[P]
-
+Silver Fox, it's already been twenty minutes since surfacing. We can't wait any longer. Come quickly!
 ;クッ、もう少しだっていうのに。[P]
-
-;
-
-
-;シルバーフォックス、ロスタイムは[N]
-;尽きた。残念だがここまでだ。[P]
-
-;了解、行ってくれ。[P]
-
-;悪く思わないでくれ、シルバーフォ[N]
-;ックス。健闘を祈っている。以上[N]
-;通信終わり。[P]
-
-;アクエリアスより本部、シルバーフ[N]
-;ォックスは中佐の回収任務に失敗。[P]
-
-;作戦は失敗した。[N]
-;繰り返す、作戦は失敗した・・・[P]
-
-;
+Grr-, we were so close.
 
 
 ;シルバーフォックスよりアクエリア[N]
 ;ス、待たせたな。[N]
 ;これより撤収する。[P]
-
-;
+Silver Fox to Aquarius, sorry to keep you waiting. We're withdrawing now.
 
 
 ;シルバーフォックス各機、まもなく[N]
 ;降下開始ポイント。現在高度３５０[N]
 ;００。[P]
-
+All Silver Fox units, we'll soon be at the drop point. Current altitude 35,000.
 ;降下ポイント、カウントダウン！[N]
 ;５・４・３！[P]
-
+Drop point, countdown! 5. 4. 3!
 ;敵機確認！　機影６、接近中！　降[N]
 ;下開始！　急いで！[P]
-
+Enemy aircraft confirmed! Six aircraft approaching! Begin drop! Hurry!
 ;ＧＯ！　ＧＯ！　ＧＯ！[P]
-
-;
+GO! GO! GO!
 
 
 ;目標まであと１０分、各機降下用意[P]
