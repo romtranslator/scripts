@@ -2483,59 +2483,53 @@ We've got spearhead bombs from Lightnings. Give the order any time.
 ;ライトニングスよりスピアーヘッド[N]
 ;侵攻部隊の先鋒から爆撃要請が出て[N]
 ;いる。[P]
-
+There's been a bombing request from Lightnings, through the spearhead attack unit's vanguard.
 ;どうも潰走中の敵部隊が踏みとどま[N]
 ;っているらしい。命令はそちらへの[N]
 ;支援が優先する。[P]
-
+It appears the routed enemy forces are holding their ground. Our orders are to prioritise supporting them over there.
 ;コントロールはスピアーヘッドの判[N]
 ;断にまかせるそうだ。[P]
-
+Apparently, control will be at Spearhead's discretion.
 
 ;ライトニングリーダーよりスピアー[N]
 ;ヘッド。潰走していた敵は片付いた[P]
-
+Lightning Leader to Spearhead.
 ;まもなく侵攻部隊がそちらに到着す[N]
 ;るだろう。[P]
-
+The routed enemy has been cleaned up. Attack units should be arriving there shortly.
 ;残念ながらこっちは弾切れだ、また[N]
 ;のご利用をお待ちしてる。ライトニ[N]
 ;ングリーダー以上。[P]
-
-;
+I'm afraid we're out of ammo over here. Until next time. Lightning Leader out.
 
 
 ;スピアーヘッド、こちらフレイル１[N]
 ;橋はまだかかってるか？[P]
-
+Spearhead, is our Freire 1 bridge still standing?
 ;ああ、見る限りロンドン橋にはなっ[N]
 ;てないようだ。[P]
-
+Yeah, as far as I can tell, it doesn't look like London Bridge.
 ;・・・了解、どうやら作戦は成功の[N]
 ;ようだな。スピアーヘッド、あとは[N]
 ;我々に任せてもらおう。[P]
-
-;
+... Roger. It seems the operation was a success. Spearhead, leave the rest to us.
 
 
 ;シルバーフォックス各機、本艦は目[N]
 ;標の射程内に到達。まもなく射出深[N]
 ;度に浮上する。[P]
-
+All Silver Fox units, the mother ship has reached target range. We will soon surface to launch depth.
 ;今回は出迎えなしだ、本艦は射出後[N]
 ;帰還する。現在深度２０、射出カウ[N]
-;ント�U醍
-
-
-;ウン。[P]
-
+;ントダウン。[P]
+There will be no escort this time. The mother ship will return after launch. Current depth 20, firing countdown.
 ;お手柔らかに頼むぞ。[P]
-
+Please go easy on us.
 ;５・４・３・２・１、発射！[P]
-
+5. 4. 3. 2. 1, fire!
 ;ブースター点火！　グッドラック[P]
-
-;
+Booster ignition! Good luck!
 
 
 ;降下部隊各機、降下５分前。[P]
@@ -2718,7 +2712,7 @@ Seems like fun, doesn't it?[P]
 Of course it does. These kinds of operations are rare as hen's teeth.[P]
 ;ハイハイ、焦ってダムに落[N]
 ;ちないようにね。[P]
-Okay, okay. Make sure you don't fall into the dam in your excitement.[P]
+Okay, okay. Make sure you don't fall into the dam in your excitement, okay?[P]
 ;あの、ＴＸ４８が３個ほど[N]
 ;で、ダム全体の破壊が行え[N]
 ;るんでしょうか？[P]
@@ -2731,101 +2725,95 @@ They'll be fine. Structurally, dams are very elaborate, so[P]
 ;非常にもろい、要は確実に[N]
 ;設置出来るかだ。[P]
 they're vulnerable to unexpected fractures. The trick is whether they can be securely installed.[P]
-;
 
 
 ;ウルフキング、ウルフキン[N]
 ;グ。[P]
-
+Wolf King, Wolf King.
 ;Ｔｈｉｓ　ｉｓ　ｌｉｔｔ[N]
 ;ｌｅ３　ａｎｓｗｅｒ　ｐ[N]
 ;ｌｅａｓｅ．[P]
-
+This is Little 3, please respond.
 ;リトル３、リトル３。こち[N]
 ;らウルフキング。[P]
-
+Little 3, Little 3. This is Wolf King.
 ;ウルフキング、作戦は成功[N]
 ;した。ダム決壊を確認、こ[N]
 ;れより帰還する。[P]
-
+Wolf King, the operation was successful. Dam collapse confirmed, returning now.
 ;リトル３、了解した。ポイ[N]
 ;ントアルファまで迎えに行[N]
 ;かせます、合流して下さい。[P]
-
+Little 3, understood. I'll have someone pick you up at Point Alpha, please meet up there.
 ;ラジャー。[P]
-
+Roger.
 ;ふう、やっと終わったわ。[P]
-
+Whew, finally finished.
 ;どう、楽しかった？[P]
-
+So, was it fun?
 ;ええ、じっくり堪能したわ。[N]
 ;作戦も案外楽だったしね。[P]
-
+Yes, I thoroughly enjoyed it. The operation was surprisingly easy too.
 ;ジュリア大尉ったら、撤退[N]
 ;そっちのけで見てるんです[N]
 ;もの。[P]
-
+Darn it all, Captain Julia. She's there gawking instead of retreating.
 ;あんまりよそ見してると、[N]
 ;やられるわよ。[P]
-
-;
+They're going to get her if she doesn't pay attention.
 
 
 ;たった２時間でいいんです[N]
 ;か？[P]
-
+Are just two hours really enough?
 ;そう、たった２時間、敵の[N]
 ;侵入を阻止すればいいの。[P]
-
+Yes, just 2 hours ought to be enough to thwart the enemy's invasion.
 ;でも敵兵力は思った以上に[N]
 ;強大よ。気を抜いていると[N]
 ;やられるわ。[P]
-
+But the enemy forces are much stronger than we thought. They'll defeat us if we let our guard down.
 ;空からの侵入、２時間の阻[N]
-;止、そして撤退でｰ唱
-
-
-;すか。作[N]
+;止、そして撤退ですか。作[N]
 ;戦的には簡単ですね。[P]
-
+Infiltrate from the air, hold them off for two hours, and then retreat? That sounds pretty simple from an operational standpoint, doesn't it?
 ;過去の作戦で丸一日敵さん[N]
 ;と、にらめっこしてた思い[N]
 ;出があったから、[P]
-
+I remember past missions where we spent a whole day in a staring contest with the enemy,
 ;それに比べれば楽なものね。[P]
-
+so compared to that, this operation should be a breeze.
 ;今回は砲撃支援、航空支援[N]
 ;がある。これ以上の進行を[N]
 ;許すな！[P]
-
-;
+This time, we have artillery and air support. Don't allow them to advance any further!
 
 
 ;作戦終了、装備確認、撤収！[P]
-
+Operation complete, equipment confirmed, withdrawal!
 ;さあて、作戦も無事終わっ[N]
 ;た事だし、今夜はパーッと[N]
 ;いきたいわね。[P]
-
+Hmm, now that we have successfully completed the operation, I want to party tonight!
 ;今回の作戦は案外楽でした[N]
 ;けど、降下中の突風が、か[N]
 ;なり危なかったですね。[P]
-
+The operation was surprisingly easy, but the wind gusts during the drop were pretty dangerous, don't you think?
 ;いきなりだったものね。[P]
-
+They came out of nowhere, didn't they?
 ;流される、流される。危う[N]
 ;く敵のど真ん中へ落ちる所[N]
 ;だったわ。[P]
-
+Sail away, sail away. I almost fell right into the middle of enemy territory.
 ;あら、時にはスリルもいい[N]
 ;ものよ。たまには味わって[N]
 ;きたら良かったのに。[P]
-
+Oh, sometimes a little thrill is good, don't you think? You should try it sometimes.
 ;結構よ！[P]
-
+I'll pass!
 ;大丈夫、後でいい思い出に[N]
 ;なるから。[P]
-
+Don't worry, it'll become a positive memory later.
 ;思い出は思い出でも、私自[N]
 ;身が思い出になってしまう[N]
 ;じゃない。[P]
