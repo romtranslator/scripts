@@ -2794,12 +2794,11 @@ Don't worry, it'll become a positive memory later.
 ;思い出は思い出でも、私自[N]
 ;身が思い出になってしまう[N]
 ;じゃない。[P]
-
+Memories are memories, but I myself won't become just a memory, will I?
 ;まあ、ステキ。[P]
-
+My, my, how wonderful.
 ;ファ～ン！[P]
-
-;
+Fannn!
 
 
 ;お腹減ったわ、ごはんまだ[N]
@@ -2957,156 +2956,146 @@ Um, if there's a way to relax and have a fight to the death, I'd like to know ab
 
 ;ライブよ、ライブ。がんば[N]
 ;ってねアリス。[P]
-
+It's a live performance, live! Good luck, Alice.
 ;任せて下さい、素晴らしい[N]
 ;曲を聞かせますから。[P]
-
+Leave it to me, I'll let you hear some wonderful music.
 ;ライザとアニタ、そしてア[N]
 ;リスのセッションか。[P]
-
+A session with Liza, Anita, and Alice, huh?
 ;昔からやってたけど、ここ[N]
 ;まで人気が出るとはね。[P]
-
+We've been doing this a long time, but I never thought we'd get this popular, you know?
 ;特にアリス中尉なんて、後[N]
 ;輩の人気が凄いんですよ。[P]
-
+Lieutenant Alice, in particular, is incredibly popular with her juniors.
 ;立てば立ち役、座れば小猫、[N]
 ;歩く姿は百合の花なんて言[N]
 ;われて。[P]
-
+They say, “The rose is the flower and handmaiden of love; the lily, her fair associate, is the emblem of beauty and purity.”
 ;それをいうなら、立てば芍[N]
 ;薬、座れば牡丹、歩く姿は[N]
 ;百合の花でしょう。[P]
-
+Doesn't Alice mean“noble and kind"?
 ;一体誰に教わったの、そん[N]
 ;な事。[P]
-
+Says whom? 
 ;えっ‥‥いえ、ちょっと。[P]
-
-;
+I mean, um... Never mind.
 
 
 ;勝ったわ！[P]
-
+I won!
 ;何がです？[P]
-
+What did you win?
 ;カケよ。[P]
-
+The bet.
 ;またやってたんですか？[N]
 ;ファン大尉と？[P]
-
+You made another bet? With Captain Fan?
 ;そう、前回の悔しさを全部[N]
 ;ぶつけてやったわ。撃墜数[N]
 ;のしつけて返してやった。[P]
-
+Yes, I channeled all my frustration from last time. I got back at her kill count.
 ;ファン大尉もかわいそうに[N]
-;‥¨ｭｰ)
-
-
-;わざと負けたのね。[P]
-
+わざと負けたのね。[P]
+Poor Captain Fan lost on purpose, didn't she?
 ;違うわ、実力よ！[P]
-
+No, it was my skills!
 ;で、ファン大尉は何カケた[N]
 ;んです？[P]
-
+So, what was the bet with Captain Fan?
 ;聞いて驚きなさい、一ヶ月[N]
 ;分のデザートよ！[P]
-
+Prepare to be amazed! A month's supply of dessert!
 ;‥‥‥‥‥‥。[P]
-
+...
 ;なによ、その反応は。[P]
-
+What's that reaction for?
 ;ジュリア大尉‥‥かわいい。[P]
-
+That's cute, Captain Julia.
 ;セルマー！[P]
-
-;
+Selma!
 
 
 ;たった今、上層部で決定し[N]
 ;た。敵宇宙港施設内へ総攻[N]
 ;撃をかける！[P]
-
+The top brass has just decided to launch a full-scale attack on the enemy spaceport facility!
 ;作戦開始は今より４８時間[N]
 ;後。[P]
-
+The operation will begin in 48 hours.
 ;ミーティングが終わったら、[N]
 ;急いで装備確認に入ってく[N]
 ;れ。[P]
-
-;この戦ﾜ�
-
-
-;争の雌雄を決する戦[N]
+As soon as the meeting is over, please hurry with the equipment check.
+;この戦争の雌雄を決する戦[N]
 ;いだ。気をしめてかかれ！[P]
-
+This battle will decide the fate of the war. Stay focused and give it your all!
 ;いきなりですね。[P]
-
+That was sudden.
 ;ああ、これでも上は、かな[N]
 ;りもめたのだがな。[P]
-
+Yes, there was quite a bit of disagreement at the top.
 ;その為、諸君には今回無制[N]
 ;限の武器弾薬が支給される。[P]
-
+Therefore, you ladies will be supplied with unlimited weapons and ammunition this time.
 ;やったわ！　撃ちたい放題。[P]
-
+Yay! I can shoot as much as I want.
 ;ジュリアは撃ちまくる事で、[N]
 ;ストレス解消してるから。[P]
-
+Julia relieves stress by shooting a lot.
 ;最後に全部解消しないとね。[P]
-
+We need to resolve everything by the end.
 ;嬉しそうだな、ついでにも[N]
 ;う一ついい事を教えてやろ[N]
 ;う。[P]
-
+You seem pleased, so let me tell you some more good news.
 ;現在開発中の機動歩兵用シ[N]
 ;ールドスーツを、今回使用[N]
 ;する事が決定した。[P]
-
+It has been decided that we will use the mobile infantry shield suit currently under development.
 ;これで海底より敵施設に侵[N]
 ;入する。[P]
-
+This will allow us to infiltrate the enemy facility from the seabed.
 ;平泳ぎとまではいかないが、[N]
 ;ローダーで泳げるぞ、ジュ[N]
 ;リア。[P]
-
-;
+It's not exactly the breaststroke, but you'll be able to swim with the loader, Julia.
 
 
 ;終わったんですか？[P]
-
+Is it over?
 ;終わったみたいね。[P]
-
+It looks like it.
 ;長かった戦争もこれで終わ[N]
 ;りだ。この戦いは私達の勝[N]
 ;利で幕を閉じるんだよ。[P]
-
+This long war is finally over. The battle comes to an end with our victory.
 ;リトル３、リトル３。[P]
-
+Little 3, Little 3.
 ;Ｔｈｉｓ　ｉｓ　ｗｏｌｆ[N]
 ;ｋｉｎｇ　ａｎｓｗｅｒ　[N]
 ;ｐｌｅａｓｅ．[P]
-
+This is Wolf King. Please answer.
 ;こちらリトル３。[N]
 ;ウルフキング、どうぞ。[P]
-
+This is Little 3. Go ahead, Wolf King.
 ;リトル３、作戦終了おめで[N]
 ;とうございます。[P]
-
+Congratulations on completing the operation, Little 3!
 ;本部より最高の賛美を送っ[N]
 ;てやれとの事です。[P]
-
+Headquarters sends you our highest praise.
 ;サンキュー　ウルフキング。[N]
 ;ただいまより帰還する、[N]
 ;花束持って迎えに来てくれ。[P]
-
+Thank you, Wolf King. We're returning now, You'd better greet us with a bouquet of flowers.
 ;ＯＫ　リトル３。今夜は朝[N]
 ;まで飲み明かしましょう。[P]
-
+Okay, Little 3. Let's drink until morning tonight.
 ;作戦終了、装備確認、撤収！[P]
-
-;
+Operation complete. Equipment confirmed. Withdrawal!
 
 
 ;　　　　　　－ＣＡＳＴ－　　　　　　
