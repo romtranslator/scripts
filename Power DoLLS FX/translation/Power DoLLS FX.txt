@@ -2519,11 +2519,11 @@ Yeah, as far as I can tell, it doesn't look like London Bridge.
 ;シルバーフォックス各機、本艦は目[N]
 ;標の射程内に到達。まもなく射出深[N]
 ;度に浮上する。[P]
-All Silver Fox units, the mother ship has reached target range. We will soon surface to launch depth.
+All Silver Fox units, mother ship has reached target range. We will soon surface to firing depth.
 ;今回は出迎えなしだ、本艦は射出後[N]
 ;帰還する。現在深度２０、射出カウ[N]
 ;ントダウン。[P]
-There will be no escort this time. The mother ship will return after launch. Current depth 20, firing countdown.
+There will be no escort this time. Mother ship will return after launch. Current depth 20, firing countdown.
 ;お手柔らかに頼むぞ。[P]
 Please go easy on us.
 ;５・４・３・２・１、発射！[P]
@@ -2533,167 +2533,144 @@ Booster ignition! Good luck!
 
 
 ;降下部隊各機、降下５分前。[P]
-
+All paratroop units, 5 minutes until drop.
 ;最終チェックを急げ。[P]
-
+Hurry with final checks.
 ;降下ポイント到達。[P]
-
+Drop point reached.
 ;５・４・３・２・１、降下開始！[P]
-
+5. 4. 3. 2. 1, drop start!
 ;グッドラック！[P]
-
-;
+Good luck!
 
 
 ;シルバーフォックス各機、本艦は目[N]
 ;標の射程内に到達。まもなく射出深[N]
 ;度に浮上。[P]
-
+All Silver Fox units, mother ship has reached target range. We will soon surface to firing depth.
 ;現在深度２０、射出カウントダウン[N]
 ;５・４・３・２・１、発射！[P]
-
+Current depth 20, firing countdown. 5. 4. 3. 2. 1, fire!
 ;ブースター点火！　グッドラック[P]
-
+Booster ignition! Good luck!
 ;ブレイクポイント、降下開始！[P]
-
-;
+Break point, drop start!
 
 
 ;さて出番だ。シルバーフォックス各[N]
 ;機、上陸開始！[P]
-
-;
-
+Now it's our turn. All Silver Fox units, begin landing!
 
 ;メテオリーダーよりシルバーフォッ[N]
 ;クス、聞こえてる？[P]
-
+Meteor Leader to Silver Fox, can you hear me?
 ;援軍の登場だよ、空軍機も連れてき[N]
 ;た。とりあえずは上空の掃除をやっ[N]
 ;てのけるわ。[P]
-
-;
+Reinforcements have arrived, we've brought air force units too. For now, we'll clear the skies.
 
 
 ;シルバーフォックス、上は片付いた[N]
 ;これより支援にあたる。[P]
-
-;
-
+Silver Fox, it's clear above. We'll provide support from here.
 
 ;全目標破壊完了。さあ、やることは[N]
 ;やったぞ。[P]
-
+All targets destroyed. All right, we've done what we needed to.
 ;メテオリーダーよりシルバーフォッ[N]
 ;クス、司令部より緊急命令。[P]
-
+Meteor Leader to Silver Fox, urgent orders from headquarters.
 ;ただ今、オムニ独立政府と地球軍は[N]
 ;停戦を宣言。[P]
-
+Just now, the Omni Independent Government and the Earth Forces have declared a ceasefire.
 ;繰り返す、我々は地球派遣軍と停戦[N]
 ;した。[P]
-
+I repeat, we've declared a ceasefire with the Earth Expeditionary Forces.
 ;シルバーフォックスおよび、上空の[N]
 ;各機は、速やかに戦闘行為を中止せ[N]
 ;よ。[P]
-
+Silver Fox and all units in the air are to immediately cease combat operations.
 ;以上・・・みんな・・・戦争が終わ[N]
 ;ったわ・・・[P]
+It's done... Everyone... The war is over...
 
-;
-
-
-;１つ目の爆薬排除劣ﾇ
-
-
-;完了。爆薬の数が[N]
+;１つ目の爆薬排除劣完了。爆薬の数が[N]
 ;発覚した、爆薬は全部で６つ。[P]
-
+First explosive removed. The number of explosives has been determined. There are a total of six.
 ;全て１７：００ジャストに爆破する[N]
 ;ようセットされている。[P]
-
+All are set to detonate at exactly 1700 hours.
 ;一つでも爆破するとアウトだ、何と[N]
 ;しても見つけだせ。[P]
-
-;
+If even one explodes, it's game over. Locate them at any cost.
 
 
 ;これで３つ。残り半分だ、急げ！[P]
-
-;
+That's three. We're halfway there, hurry!
 
 
 ;残り一つ！[P]
-
-;
+Only one left!
 
 
 ;あと３０分だ、まだ見つからないの[N]
 ;か！[P]
-
-;
+We have 30 minutes left. You still haven't found them?!
 
 
 ;１５分を切った！　敵にかまうな[N]
 ;捜索に集中しろ！[P]
-
-;
+Less than 15 minutes left! Don't worry about the enemy, focus on the search!
 
 
 ;残り５分！[N]
 ;まだだ、まだ諦めるな！[P]
-
-;
+Five minutes left! There's still time. Don't give up!
 
 
 ;トレーニングとはいえ、敵は実物を[N]
 ;想定して設置してある。慎重に行動[N]
 ;しろ。[P]
-
-;
+Even though it's training, the enemy is equipped to simulate the real thing. Proceed with caution.
 
 
 ;敵もグレネードを装備している場合[N]
 ;がある、味方同士の間隔は最低でも[N]
 ;２ユニット分空けろ。[P]
-
-;
+The enemy may also be equipped with grenades, so maintain a distance of at least two unit lengths between allies.
 
 
 ;敵の横に隣接すれば、スタンナック[N]
 ;ルを使用した白兵戦を行う事が出来[N]
 ;る。[P]
-
+If you get next to the enemy, you can perform close-quarters combat using the stun knuckles.
 ;破壊力は大だが、その分自分も危険[N]
 ;が伴う。使用する場合は慎重に決定[N]
 ;しろ。[P]
-
-;
+They cause major damage, but they also put you in danger. Carefully consider when to use them.
 
 
 ;作戦によっては戦闘中に、味方の支[N]
 ;援機の応援を頼む事ができる。[P]
-
+Depending on the operation, you can request support from allied aircraft during combat.
 ;だが、これには時間と爆弾搭載数に[N]
 ;よる制限があり、いつでも行えるも[N]
 ;のではない。[P]
-
+But such support is limited by the time and number of equipped bombs and cannot be done at any time.
 ;状況確認を行いつつ使用しろ。[P]
-
-;
+Use it during the status check.
 
 
 ;リーダーより各員へ、降下地点まで[N]
 ;２０分。[P]
-
+To all crew, from leader. 20 minutes to drop site.
 ;作戦エリア上空はクリア、付近に敵[N]
 ;機なし。[P]
-
+Operational area airspace clear. No enemy aircraft in the vicinity.
 ;シルバーフォックス各機、これより[N]
 ;作戦エリアに突入する。降下カウン[N]
 ;トダウン開始。[P]
-
-;
+All Silver Fox units, now charging into operation area. Drop countdown start.
 
 
 ;アテンション！[P]
@@ -2827,163 +2804,155 @@ Don't worry, it'll become a positive memory later.
 
 ;お腹減ったわ、ごはんまだ[N]
 ;？[P]
-
+I'm hungry, is food ready yet?
 ;あ、もうちょっと待って下[N]
 ;さいね。[P]
-
+Oh, please wait a little longer, okay?
 ;久しぶりだな、セルマの手[N]
 ;料理食べるのも。[P]
-
+It's been a while since I've had Selma's home cooking.
 ;それ以前にまともな料理食[N]
 ;べるのも久しぶりですよね。[P]
-
+Beyond that, it's been a while since we've had a proper meal, hasn't it?
 ;最近レーション続きでした[N]
 ;から。[P]
-
+We've been eating nothing but rations lately. 
 ;あまり美味しくないのに、[N]
 ;作戦中はあればかりですか[N]
 ;ら。[P]
-
+They're not very tasty, but that's all we get during operations.
 ;まだ食べれるだけいいわよ。[N]
 ;私がやった作戦なんて、[P]
-
+At least we still have food.
 ;装備コンテナ積んだ輸送機[N]
 ;が落とされて、食べる物さ[N]
 ;えなかったんだから。[P]
-
+At least we still have food. During one operation, we lost the container loaded with equipment during transport, leaving us with nothing to eat.
 ;おまちどうさま、お皿出て[N]
 ;ます？[P]
-
-;ええ�O
-
-
-;、ＯＫよ。[P]
-
-;
+Sorry to keep you waiting. Are the plates ready?
+;ええ、ＯＫよ。[P]
+Yep, they're a-okay.
 
 
 ;疲れたわー、七面鳥狩りっ[N]
 ;て聞いてたのに。[P]
-
+I'm so tired. I thought we were going turkey hunting.
 ;敵兵力があそこまで集まっ[N]
 ;てるなんて、とんだ計算違[N]
 ;いでしたわね。[P]
-
+Such a large assembly of troops indicates that we grossly miscalculated the enemy's forces.
 ;おかげで輸送部隊を破壊す[N]
 ;るのに、とんだ手間がかか[N]
 ;ったわ。あー腹が立つ。[P]
-
+As a result, we were able to destroy the transport units, but it was quite a hassle. Agh, it's pissing me off.
 ;何怒ってるの、彼氏にでも[N]
 ;振られた？[P]
-
+What's she so angry about? Did her boyfriend dump you?
 ;違うんですよ、カケに負け[N]
 ;たんですって。[P]
-
+No. She lost a bet.
 ;カケ？　なんの？[P]
-
+A bet? On what?
 ;ファン大尉と、輸送部隊の[N]
 ;破壊数をカケてたんです。[P]
-
+I was betting against Captain Fan on the number of transport units destroyed.
 ;はあ？[P]
-
+Huh?
 ;それでボロボロに負けて、[N]
 ;こんな調子なんです。[P]
-
+So I got completely crushed, and this is the result.
 ;呆れた、で、一体何をカケ[N]
 ;てたの？[P]
-
+I'm surprised. So, what was the bet?
 ;それがですね、１週間分の[N]
 ;デザートなんですって。[P]
-
-;
+Well... It was a week's worth of desserts.
 
 
 ;今回の作戦って、もしかし[N]
 ;て自力侵入、自力脱出です[N]
 ;か？[P]
-
+For this operation, will we be infiltrating and escaping on our own?
 ;いや、侵入は徒歩になるが、[N]
 ;脱出はコルベット山系に潜[N]
 ;伏して救出を待つ事になる。[P]
-
+No, the infiltration will be on foot, but the escape will involve hiding in the Corvette Mountains and waiting for rescue.
 ;時間のかかる作戦になりそ[N]
 ;うですね。[P]
-
+This looks like it's going to be a time-consuming operation.
 ;ああ、数日かけて敵地に潜[N]
 ;り込んで３０分で脱出。ま[N]
 ;るでハイキングだ。[P]
-
+Yeah, we'll spend several days sneaking into enemy territory and thirty minutes escaping. It's just like a hike.
 ;とりわけ３０分はお弁当の[N]
 ;時間？[P]
-
+Is that thirty minutes supposed to be our lunch break?
 ;あまり嬉しくない、お弁当[N]
 ;ね。[P]
-
-;
+It's not much of a lunch, is it?
 
 
 ;はー疲れた、ハイキングな[N]
 ;んて生易しいものじゃなか[N]
 ;ったわね。[P]
-
+Man, I'm exhausted. Hiking wasn't exactly a walk in the park.
 ;嬉しくないお弁当に、楽し[N]
 ;くない距離。挙げ句、面白[N]
 ;くない負傷者まで。[P]
-
+An unappetizing lunch, an unpleasant distance, and to top it all off, an uninteresting injured person.
 ;そう、そのセルマの状態は[N]
 ;どうなってるんですか？[P]
-
+Oh yeah, what's up with the Selma situation?
 ;今、メディカルルームで治[N]
 ;療受けてるけど大丈夫よ。[P]
-
+She's getting treated in the medical room right now, but she'll be fine.
 ;モルヒネがきれて、痛そう[N]
 ;だったけどね。[P]
-
+Her morphine had worn off and it looked like she was in pain.
 ;それでも今回は負傷ですん[N]
 ;だが、戦局はどんどん激し[N]
 ;くなっている。[P]
-
+Even so, she got off with just an injury this time, but the fighting is getting fiercer and fiercer.
 ;いつうちのメンバーから死[N]
 ;傷者が出ても、おかしくな[N]
 ;い。気を抜くなよ。[P]
-
+It wouldn't be surprising if one of our members were killed or injured at any moment. Don't let your guard down.
 ;冗談ですませていられるう[N]
 ;ちが、華ですか。[P]
-
+So basically, life is a bitch and then you die?
 ;替えの要員はいないんだか[N]
 ;らね。[P]
-
-;
+It's not like we have any replacements, after all.
 
 
 ;今回は橋梁の爆破阻止です[N]
 ;か。[P]
-
+So this time, we're stopping a bridge from being blown up?
 ;いつもと逆の立場ね。[P]
-
+That's the opposite of our usual role.
 ;３つある橋梁の内、最もヤ[N]
 ;ハルに近い、カオルン橋東[N]
 ;部に降下し、橋を占拠。[P]
-
+We'll drop in east of Kowloon Bridge, the closest of the three bridges to Yahar, and occupy it.
 ;本隊到着までの間、架橋の[N]
 ;爆破阻止だ。邪魔する輩は[N]
 ;排除して頂戴。[P]
-
+We're to prevent the bridge from being blown up until the main force arrives. Eliminate anyone who gets in the way.
 ;今回、爆弾の出前はありま[N]
 ;すか？[P]
-
+Do we have bomb delivery service this time?
 ;この地域の制空権は我が軍[N]
 ;が掌握してるから、[P]
-
+Our forces control the airspace in this region, so we might be the ones delivering,
 ;出前する事はあっても、さ[N]
 ;れる事はないわ。安心して[N]
 ;作戦に励んでね。[P]
-
+but we won't be the ones receiving deliveries. You can relax and focus on the operation.
 ;あの、安心して出来る殺し[N]
 ;合いがあるなら、教えて欲[N]
 ;しいんですけど・・・。[P]
-
-;
+Um, if there's a way to relax and have a fight to the death, I'd like to know about it...
 
 
 ;ライブよ、ライブ。がんば[N]
