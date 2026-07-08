@@ -264,7 +264,7 @@ Engage
 Abort
 
 ;セ－ブします
-Save
+Saving
 
 ;セ－ブしました
 Saved
@@ -420,7 +420,7 @@ To further complicate things, the lieutenant colonel possesses knowledge of the 
 ;線に反撃を開始する。[P]
 Our forces initiated Operation Rewind four days ago. Through rapid retreats and skillful provocation, the enemy front is progressing like an avalanche, and the troops' morale is beginning to wane.
 
-We are preparing to launch a counterattack against this disordered front line.
+We are preparing to launch a counterattack against this disorganized front line.
 
 ;敵が戦線の再編にとりかかった。こ[N]
 ;れは事前の予測であるが、コルベッ[N]
@@ -510,17 +510,17 @@ The installation action will be performed twice at each install location.[P]
 ;作戦目的：敵縦侵部隊の２時間にわ[N]
 ;たる阻止[P]
 Operation name: Niagara Drop.
-Operational objective: Block enemy invading forces for two hours.
+Operational objective: Thwart invading enemy forces for two hours.
 ;概要：敵縦侵部隊が我が軍の戦線深[N]
 ;くに侵入することを阻止する。[P]
-Outline: Prevent enemy invading forces from penetrating deep into our front lines.
+Outline: Prevent invading enemy forces from penetrating deep beyond our front line.
 ;２時間後には、後方の友軍が戦線を[N]
 ;再構築する為、[P]
-In two hours, friendly forces in the rear will rebuild their lines. 
+Friendly forces from the rear will rebuild our line in two hours. 
 ;この２時間の間に南西に進軍する敵[N]
 ;部隊が１０ユニットを越えないよう[N]
 ;にしなければならない。[P]
-Therefore, the number of enemy units advancing southwest must not exceed 10 during this time.
+Therefore, the number of enemies advancing southwest must not exceed ten units during this time.
 ;なお現在の侵攻状況は［状況確認］[N]
 ;によって知る事ができる。[P]
 The current invasion status can be checked via "Status Check."
@@ -529,10 +529,10 @@ The current invasion status can be checked via "Status Check."
 ;作戦名：キッドナップ作戦[N]
 ;作戦目的：ワイラー中佐の回収[P]
 Operation name : Operation Kidnap.
-Operational objective: Recovery of Lieutenant Colonel Wyler.
+Operational objective: Recover Lieutenant Colonel Wyler.
 ;概要：作戦エリア北西部の捕虜収容[N]
 ;所から、ワイラー中佐を奪還する[P]
-Outline: Recover Lieutenant Colonel Wyler from the POW camp in the northwest of the operation area.
+Outline: Recover Lieutenant Colonel Wyler from the POW camp in the northwest of the operational area.
 ;部隊回収のため、南部湾岸に潜水艦[N]
 ;「アクエリアス」が浮上する。[P]
 The submarine "Aquarius" will surface off the southern coast to recover our units.
@@ -579,7 +579,7 @@ Outline: Units carrying out this operation will destroy the enemy forces station
 ;この高地を３０分にわたって占拠[N]
 ;敵を牽制し、のち南西の山脈のエリ[N]
 ;ア南端から脱出する。[P]
-divert the enemy for 30 minutes while occupying this high ground, and escape via the southern edge of the southwestern mountain range.
+divert the enemy for thirty minutes while occupying this high ground, and escape via the southern edge of the southwestern mountain range.
 ;作戦の進行状況は、［状況確認］で[N]
 ;知る事ができる。[P]
 You can check the operation's progress under "Status Check."
@@ -697,15 +697,15 @@ The enemy's immediate target appears to be our fuel storage facility at H6-22.
 ;現在、予備兵力をＨ５－２１に向け[N]
 ;ているが、予想交戦地域はＨ５－２[N]
 ;２と見られ、燃料集積基地は[P]
-Reserve forces are currently on their way to H5-21, but H5-22 is considered the anticipated battle zone, and our fuel storage facility
+Reserve forces are currently on their way to H5-21, but H5-22 is considered the anticipated battle zone, and our fuel depot
 ;危険にさらされる可能性が大きい。[N]
 ;我々は、Ｈ５－２１に降下展開し、[N]
 ;敵地上軍の侵攻を少なくとも[P]
-is likely to be in jeopardy. We will deploy and drop into H5-21, where we will hold off the enemy ground forces' attack until at least 13:50.
+is likely to be in jeopardy. We will deploy and drop into H5-21, where we will hold off the enemy ground forces' attack until at least 1350 hours.
 ;１３５０時まで阻止する。燃料集積[N]
 ;基地は、防衛部隊として消耗した対[N]
 ;空中隊３個と、[P]
-The fuel storage facility is protected by three depleted antiaircraft squadrons and one artillery battery,
+The fuel depot is protected by three depleted antiaircraft squadrons and one artillery battery,
 ;１個砲兵中隊によって護られている[N]
 ;が、この戦力で対応できるのは、よ[N]
 ;くて敵２個中隊、[P]
@@ -835,28 +835,27 @@ All frontline units must prepare a defensive retreat as quickly as possible.[P]
 ;幸い、Ｈ６－２１には第２１師団傘[N]
 ;下の砲兵中隊が展開している為、我[N]
 ;らはこれらの支援を受けることが[P]
-Fortunately, since an artillery battery affiliated with the 21st division is deployed at H6-21, we'll be able to receive their support.
+Fortunately, since an artillery battery affiliated with the 21st division is deployed at H6-21, we're able to receive their support.
 ;できる。航空兵力は、ＴＦＷ１４４[N]
 ;より１個飛行中隊が、我々の直衛に[N]
 ;あたる。[P]
-As for air power, one flight squadron from TFW14 will be assigned as our escort.
+As for air power, one flight squadron from TFW144 will be assigned as our escort.
 ;支援爆撃は１１５５時より要請可能[N]
 ;となる。支援部隊の弾薬の総量から[N]
 ;みて、１０回ほどの爆撃が可能だ。[P]
-Support bombing can be requested starting at 11:55.
-Judging by our support units' total ammunition, they should be able to make around ten bombing runs.
+Support bombing can be requested starting at 1155 hours. Judging by our support units' total ammunition, they should be able to make around ten bombing runs.
 
 
 ;今回の作戦地域は、敵戦線に深く入[N]
 ;っているため、我が軍の支援は不可[N]
 ;能となっている。[P]
-Our forces can no longer provide support because the current area of operations lies deep within the enemy front.
+Our forces cannot provide support because the current area of operations lies deep beyond the enemy front.
 
 
 ;今回の作戦エリアは敵戦線深部であ[N]
 ;り、また敵制空権下でもあるため[N]
 ;一切の支援は不可能だ。[P]
-Our forces cannot provide support since the current operational area lies deep within the enemy front; not to mention, we are under enemy air superiority. 
+Our forces cannot provide support since the current operational area lies deep beyond the enemy front. Not to mention, we are under enemy air supremacy. 
 
 
 ;今回の作戦は隠密性が重要である。[N]
@@ -941,75 +940,75 @@ The missile submarine "Aquarius" will launch the under-construction Cargo Bird, 
 ;作戦を実行の末、回収はＢ５－１３[N]
 ;南部の三角州に１４５０時より１０[N]
 ;分間のみ「アクエリアス」が[P]
-Regarding recovery, after the operation, "Aquarius" will surface in the southern delta at B5-13 at 14:50 and wait for us for just ten minutes.
+Regarding recovery, after the operation, "Aquarius" will surface in the southern delta at B5-13 at 1450 hours and await us for just ten minutes.
 ;浮上して、我々を待つことになって[N]
 ;いる。もしこの時間に間に合わなか[N]
 ;った場合、「アクエリアス」は[P]
-If we miss this opportunity, "Aquarius" will abandon recovery and return to base.
+If we miss this window of opportunity, "Aquarius" will abandon recovery and return to base.
 ;回収を断念して帰投する。中佐が乗[N]
 ;船できなかった場合、作戦は失敗と[N]
 ;みなされる。[P]
 If the lieutenant colonel cannot board, the operation will be deemed a failure.
 ;作戦失敗時には、我々の回収作業も[N]
 ;行われる予定はない。[P]
-If we fail the operation, there are no preparations to recover us.
+If we fail this operation, there are no plans in place to recover us.
 
 
 ;作戦を実行の末、回収はＢ５－１３[N]
 ;南部の三角州に１５００時より１０[N]
 ;分間のみ「アクエリアス」が[P]
-Regarding recovery, after the operation, "Aquarius" will surface in the southern delta at B5-13 at 15:00 and wait for us for just ten minutes.
+Regarding recovery, after the operation, "Aquarius" will surface in the southern delta at B5-13 at 1500 hours and await us for just ten minutes.
 ;浮上して、我々を待つことになって[N]
 ;いる。もしこの時間に間に合わなか[N]
 ;った場合、「アクエリアス」は[P]
-If we miss this opportunity, "Aquarius" will abandon recovery and return to base.
+If we miss this window of opportunity, "Aquarius" will abandon recovery and return to base.
 ;回収を断念して帰投する。中佐が乗[N]
 ;船できなかった場合、作戦は失敗と[N]
 ;みなされる。[P]
 If the lieutenant colonel cannot board, the operation will be deemed a failure.
 ;作戦失敗時には、我々の回収作業も[N]
 ;行われる予定はない。[P]
-If we fail the operation, there are no preparations to recover us.
+If we fail this operation, there are no plans in place to recover us.
 
 
 ;作戦を実行の末、回収はＢ５－１３[N]
 ;南部の三角州に１５１０時より１０[N]
 ;分間のみ「アクエリアス」が[P]
-Regarding recovery, after the operation, "Aquarius" will surface in the southern delta at B5-13 at 15:10 and wait for us for just ten minutes.
+Regarding recovery, after the operation, "Aquarius" will surface in the southern delta at B5-13 at 1510 hours and await us for just ten minutes.
 ;浮上して、我々を待つことになって[N]
 ;いる。もしこの時間に間に合わなか[N]
 ;った場合、「アクエリアス」は[P]
-If we miss this opportunity, "Aquarius" will abandon recovery and return to base.
+If we miss this window of opportunity, "Aquarius" will abandon recovery and return to base.
 ;回収を断念して帰投する。中佐が乗[N]
 ;船できなかった場合、作戦は失敗と[N]
 ;みなされる。[P]
 If the lieutenant colonel cannot board, the operation will be deemed a failure.
 ;作戦失敗時には、我々の回収作業も[N]
 ;行われる予定はない。[P]
-If we fail the operation, there are no preparations to recover us.
+If we fail the operation, there are no plans in place to recover us.
 
 
 ;作戦を実行の末、回収はＢ５－１３[N]
 ;南部の三角州に１５２０時より１０[N]
 ;分間のみ「アクエリアス」が[P]
-Regarding recovery, after the operation, "Aquarius" will surface in the southern delta at B5-13 at 15:20 and wait for us for just ten minutes.
+Regarding recovery, after the operation, "Aquarius" will surface in the southern delta at B5-13 at 1520 hours and await us for just ten minutes.
 ;浮上して、我々を待つことになって[N]
 ;いる。もしこの時間に間に合わなか[N]
 ;った場合、「アクエリアス」は[P]
-If we miss this opportunity, "Aquarius" will abandon recovery and return to base.
+If we miss this window of opportunity, "Aquarius" will abandon recovery and return to base.
 ;回収を断念して帰投する。中佐が乗[N]
 ;船できなかった場合、作戦は失敗と[N]
 ;みなされる。[P]
 If the lieutenant colonel cannot board, the operation will be deemed a failure.
 ;作戦失敗時には、我々の回収作業も[N]
 ;行われる予定はない。[P]
-If we fail the operation, there are no preparations to recover us.
+If we fail the operation, there are no plans in place to recover us.
 
 
 ;プランＡは、Ｃ５５６輸送機によっ[N]
 ;て敵制空権掌握圏外ぎりぎりまで接[N]
 ;近し、高度３５０００ｍより[P]
-Plan A is to approach just short of the enemy's air superiority range via the C556 transport and perform a high-altitude drop from 35,000 m, individually gliding into the target area.
+Plan A is to approach just short of the enemy's air supremacy range via the C556 transport and perform a high-altitude drop from 35,000 m, individually gliding into the target area.
 ;高高度降下を行い、目標エリアまで[N]
 ;各自滑空して侵入する。この方法は[N]
 ;比較的安全であるが、降下地点は[P]
@@ -1026,7 +1025,7 @@ There is no one to pick us up, so we'll be returning on foot.
 ;プランＢでは敵制空権下に、ＡＣ１[N]
 ;５強襲機で強襲降下を行う。このエ[N]
 ;リアは敵制空権下のため、敵戦闘機[P]
-Plan B is to conduct an assault drop with AC15 attack aircraft under enemy air superiority.
+Plan B is to conduct an assault drop with AC15 attack aircraft under enemy air supremacy.
 ;による迎撃が予想される。これに対[N]
 ;抗するため、航空護衛部隊は対空装[N]
 ;備で、強襲降下部隊の護衛にあたる[P]
@@ -1048,7 +1047,7 @@ The current operation will be conducted as part of Operation Grand Spear.
 ;作戦の概要はグランドスピアーにそ[N]
 ;って行われる。橋梁を確保する降下[N]
 ;部隊は同時に該当エリアに向かい[P]
-The details of the operation will be determined at our discretion, but it will adhere to the outline of Operation Grand Spear.
+The details of the operation will be determined at our discretion, but will adhere to the outline of Operation Grand Spear.
 ;橋梁東部より侵入し、橋梁の東端へ[N]
 ;降下する。橋梁上の敵部隊を排除し[N]
 ;た後、設置された爆弾を排除する。[P]
@@ -1450,7 +1449,7 @@ Installed at location two.
 Installed at location three.
 
 ;現在？ユニットが侵入しています。
-? unit is currently invading.
+? units are currently invading.
 
 ;ワイラー中佐、未救出！
 Lieutenant Colonel Wyler hasn't been recovered!
@@ -1678,11 +1677,11 @@ to change tactics, while our forces' battlefront solidified once more.
 ;諸君の抵抗により、敵部隊はこの地[N]
 ;点の侵攻を断念するにいたった。現[N]
 ;在、我が軍は潰走する敵部隊を[P]
-Ladies, your resistance has led to the enemy forces abandoning their assault on this location.
+Ladies, our resistance has led to the enemy forces abandoning their assault on this location.
 ;追撃中であり、いずれこの戦線は[N]
 ;以前の位置まで回復することになる[N]
 ;だろう。[P]
-Currently, our forces are in pursuit of the routed enemy. Our battlefront should recover to its previous position before long.
+Currently, our forces are in pursuit of the routed enemy. Our battlefront should return to its previous position before long.
 
 
 ;諸君の努力によって、リワインド作[N]
@@ -1703,7 +1702,7 @@ The frontline troops, who relied on large-scale supply trains to continue fighti
 ;補給部隊の壊滅と届くことのない補[N]
 ;給の報せに士気が崩壊し、各所で潰[N]
 ;走を始めた。[P]
-lost morale and started to rout in various locations when they learned of their destruction and a shortage of supplies.
+lost morale and started to rout in various locations when they learned of their destruction and the shortage of supplies.
 ;リワインド作戦は、当初の目標を大[N]
 ;きく上回る成功を収めようとしてい[N]
 ;る。[P]
@@ -1713,7 +1712,7 @@ Operation Rewind is on track to achieve a level of success that far exceeds its 
 ;敵上層部は、今回の攻撃によってホ[N]
 ;ーガン渓谷の放棄を決定、大幅な戦[N]
 ;線の後退を開始している。[P]
-Thanks to this attack, the enemies' top brass have decided to abandon the current attack on Hogan Canyon and have begun a large-scale battlefront retreat.
+Thanks to this attack, the enemy's top brass have decided to abandon their current attack on Hogan Canyon and have begun a large-scale battlefront retreat.
 ;第１特務部隊の航空基地占拠作戦と[N]
 ;ともに、我が軍の機動歩兵部隊の優[N]
 ;秀さを証明できたことは、[P]
@@ -2089,8 +2088,7 @@ This is Meteor Leader. Meteor formation has reached the supporting standby airsp
 ;シルバーフォックス各機、これより[N]
 ;作戦エリアに突入する。降下カウン[N]
 ;トダウン開始。[P]
-All Silver Fox aircraft, entering the operation area now. Starting drop countdown.[P]
-;
+All Silver Fox aircraft, entering the operation area now. Drop countdown start.[P]
 
 
 ;リーダーより各員へ、降下地点まで[N]
@@ -2111,9 +2109,9 @@ All Silver Fox units, now charging into operation area. Drop countdown start.
 
 ;こちらメテオリーダー、目標空域に[N]
 ;到達。[P]
-This is Meteor Leader, target airspace reached.
+This is Meteor Leader. Target airspace reached.
 ;１１５５時より現空域で指示を待つ[P]
-Waiting for instructions in the current airspace from 11:55 hours.
+Waiting for instructions in the current airspace from 1155 hours.
 ;こちらシュガーボウルリーダー、降[N]
 ;下予定地点に到達。シュガー部隊の[N]
 ;降下を開始する。[P]
@@ -2140,11 +2138,11 @@ Prepare yourselves! Drop countdown start.
 All Checkmate units, now charging into operation area. Artillery support will be available in 5 minutes.
 ;こちらメテオリーダー、タイムリミ[N]
 ;ットだ。メテオ中隊は帰投する。[P]
-This is Meteor Leader. That's time limit. Meteor squadron returning to base.
+This is Meteor Leader. That's time. Meteor squadron returning to base.
 ;こちらイーグルリーダー、すこしば[N]
 ;かり遅刻した。５分後には作戦空域[N]
 ;に到達する。[P]
-This is Eagle Leader. Running just a little late. We'll reach operation airspace in five minutes.
+This is Eagle Leader. Running just a little late. We'll reach operational airspace in five minutes.
 
 
 ;こちらイーグルリーダー、タイムリ[N]
@@ -2166,7 +2164,7 @@ We will abandon this location and retreat in 10 minutes!
 
 ;こちら燃料集積基地、後続部隊が到[N]
 ;着した。この戦線は護りきれるぞ！[P]
-This is the fuel depot. Reinforcements have arrived. We can hold this battlefront!
+This is Fuel Depot. Reinforcements have arrived. We can hold this battlefront!
 ;ＤｏＬＬＳリーダー、作戦は成功[N]
 ;だ！[P]
 DoLLS Leader, the operation is a success!
@@ -2175,7 +2173,7 @@ DoLLS Leader, the operation is a success!
 ;こちら燃料集積基地、後続部隊が到[N]
 ;着した。敵先鋒は援軍と交戦状態に[N]
 ;あるが、もはや危機的状況は脱した[P]
-This is the fuel depot. Reinforcements have arrived. The enemy vanguard is engaged in combat with reinforcements, but the crisis has now been averted.
+This is Fuel Depot. Reinforcements have arrived. The enemy vanguard is engaged in combat with reinforcements, but the crisis has now been averted.
 ;ＤｏＬＬＳリーダー、きわどかった[N]
 ;が作戦は成功だ。[P]
 DoLLS Leader, it was a close call, but the operation was a success.
@@ -2198,10 +2196,10 @@ Current depth 50. Two minutes until firing depth.
 ;各機は作戦の最終確認を行い、カー[N]
 ;ゴバードに搭乗してください。繰り[N]
 ;返します、[P]
-All craft please complete final operational checks and board the Cargo Bird.
+All units please complete final operational checks and board the Cargo Bird.
 ;各機は速やかに射出準備にあたって[N]
 ;ください。[P]
-I repeat, all craft please prepare for launch.
+I repeat, all units please prepare for launch.
 ;さて秘密兵器の出来はどうかな。総[N]
 ;員搭乗！[P]
 Now, let's see how our secret weapon turned out.
@@ -2339,7 +2337,7 @@ GO! GO! GO!
 
 
 ;目標まであと１０分、各機降下用意[P]
-Ten minutes remaining until target. All units prepare for drop.
+Ten minutes remaining to target. All units prepare for drop.
 ;フォックスバード！　敵機確認、機[N]
 ;影６。[P]
 Fox Bird! Enemy aircraft confirmed. Six of them.
@@ -2381,7 +2379,7 @@ Silver Fox, this is Meteor Leader.
 ;メテオ編隊はこれより支援待機にう[N]
 ;つる。空軍の連中もどんどんやって[N]
 ;くる、遠慮なく指示をくれ。[P]
-Meteor formation will now move to support standby. The Air Force is also arriving in droves, so please don't hesitate to provide instructions.
+Meteor formation will now move to standby support. The Air Force is also arriving in droves, so please don't hesitate to provide instructions.
 ;シルバーフォックス了解、敵の戦闘[N]
 ;機はどうなってる？[P]
 Silver Fox, roger. What's the status of the enemy fighters?
@@ -2717,15 +2715,15 @@ Little 3, Little 3. This is Wolf King.
 ;ウルフキング、作戦は成功[N]
 ;した。ダム決壊を確認、こ[N]
 ;れより帰還する。[P]
-Wolf King, the operation was successful. Dam collapse confirmed, returning now.
+Wolf King, the operation was successful. Dam collapse confirmed. Returning now.
 ;リトル３、了解した。ポイ[N]
 ;ントアルファまで迎えに行[N]
 ;かせます、合流して下さい。[P]
-Little 3, understood. I'll have someone pick you up at Point Alpha, please meet up there.
+Little 3, understood. I'll have someone pick you up at Point Alpha. Please meet them there.
 ;ラジャー。[P]
 Roger.
 ;ふう、やっと終わったわ。[P]
-Whew, finally finished.
+Whew, we're finally finished.
 ;どう、楽しかった？[P]
 So, was it fun?
 ;ええ、じっくり堪能したわ。[N]
@@ -2734,15 +2732,15 @@ Yes, I thoroughly enjoyed it. The operation was surprisingly easy too.
 ;ジュリア大尉ったら、撤退[N]
 ;そっちのけで見てるんです[N]
 ;もの。[P]
-Darn it all, Captain Julia. She's there gawking instead of retreating.
+Darn it all, Captain Julia. Less gawking and more retreating.
 ;あんまりよそ見してると、[N]
 ;やられるわよ。[P]
-They're going to get her if she doesn't pay attention.
+They're going to get you if you don't pay attention.
 
 
 ;たった２時間でいいんです[N]
 ;か？[P]
-Are just two hours really enough?
+Are only two hours really enough?
 ;そう、たった２時間、敵の[N]
 ;侵入を阻止すればいいの。[P]
 Yes, just 2 hours ought to be enough to thwart the enemy's invasion.
@@ -2763,15 +2761,15 @@ so compared to that, this operation should be a breeze.
 ;今回は砲撃支援、航空支援[N]
 ;がある。これ以上の進行を[N]
 ;許すな！[P]
-This time, we have artillery and air support. Don't allow them to advance any further!
+This time, we have artillery and air support. We won't allow them to advance any further!
 
 
 ;作戦終了、装備確認、撤収！[P]
-Operation complete, equipment confirmed, withdrawal!
+Operation complete. Equipment confirmed. Withdraw!
 ;さあて、作戦も無事終わっ[N]
 ;た事だし、今夜はパーッと[N]
 ;いきたいわね。[P]
-Hmm, now that we have successfully completed the operation, I want to party tonight!
+Well, now that we have successfully completed the operation, I want to party tonight!
 ;今回の作戦は案外楽でした[N]
 ;けど、降下中の突風が、か[N]
 ;なり危なかったですね。[P]
@@ -2785,7 +2783,7 @@ Sail away, sail away. I almost fell right into the middle of enemy territory.
 ;あら、時にはスリルもいい[N]
 ;ものよ。たまには味わって[N]
 ;きたら良かったのに。[P]
-Oh, sometimes a little thrill is good, don't you think? You should try it sometimes.
+Oh, but a little thrill is good now and then, don't you think? You should try it sometime.
 ;結構よ！[P]
 I'll pass!
 ;大丈夫、後でいい思い出に[N]
@@ -2794,9 +2792,9 @@ Don't worry, it'll become a positive memory later.
 ;思い出は思い出でも、私自[N]
 ;身が思い出になってしまう[N]
 ;じゃない。[P]
-Memories are memories, but I myself won't become just a memory, will I?
+Memories are memories, but I myself would become a memory, wouldn't I?
 ;まあ、ステキ。[P]
-My, my, how wonderful.
+That would be wonderful.
 ;ファ～ン！[P]
 Fannn!
 
@@ -2806,7 +2804,7 @@ Fannn!
 I'm hungry, is food ready yet?
 ;あ、もうちょっと待って下[N]
 ;さいね。[P]
-Oh, please wait a little longer, okay?
+Oh, please wait just a little longer, okay?
 ;久しぶりだな、セルマの手[N]
 ;料理食べるのも。[P]
 It's been a while since I've had Selma's home cooking.
@@ -2844,10 +2842,10 @@ Such a large assembly of troops indicates that we grossly miscalculated the enem
 ;おかげで輸送部隊を破壊す[N]
 ;るのに、とんだ手間がかか[N]
 ;ったわ。あー腹が立つ。[P]
-As a result, we were able to destroy the transport units, but it was quite a hassle. Agh, it's pissing me off.
+As a result, we were able to destroy the transport units, but it was such a hassle. Agh, it's pisses me off.
 ;何怒ってるの、彼氏にでも[N]
 ;振られた？[P]
-What's she so angry about? Did her boyfriend dump you?
+What are you so angry about? Did your boyfriend dump you?
 ;違うんですよ、カケに負け[N]
 ;たんですって。[P]
 No. She lost a bet.
@@ -2855,18 +2853,18 @@ No. She lost a bet.
 A bet? On what?
 ;ファン大尉と、輸送部隊の[N]
 ;破壊数をカケてたんです。[P]
-I was betting against Captain Fan on the number of transport units destroyed.
+She was betting against Captain Fan on the number of transport units destroyed.
 ;はあ？[P]
 Huh?
 ;それでボロボロに負けて、[N]
 ;こんな調子なんです。[P]
-So I got completely crushed, and this is the result.
+So she got completely crushed, and this is the result.
 ;呆れた、で、一体何をカケ[N]
 ;てたの？[P]
 I'm surprised. So, what was the bet?
 ;それがですね、１週間分の[N]
 ;デザートなんですって。[P]
-Well... It was a week's worth of desserts.
+Get this. It was a week's worth of desserts.
 
 
 ;今回の作戦って、もしかし[N]
@@ -2883,7 +2881,7 @@ This looks like it's going to be a time-consuming operation.
 ;ああ、数日かけて敵地に潜[N]
 ;り込んで３０分で脱出。ま[N]
 ;るでハイキングだ。[P]
-Yeah, we'll spend several days sneaking into enemy territory and thirty minutes escaping. It's just like a hike.
+Yeah, we'll spend several days sneaking into enemy territory and thirty minutes escaping. It's just like a hike in the woods.
 ;とりわけ３０分はお弁当の[N]
 ;時間？[P]
 Is that thirty minutes supposed to be our lunch break?
@@ -2908,7 +2906,7 @@ Oh yeah, what's up with the Selma situation?
 She's getting treated in the medical room right now, but she'll be fine.
 ;モルヒネがきれて、痛そう[N]
 ;だったけどね。[P]
-Her morphine had worn off and it looked like she was in pain.
+Her morphine had worn off and it looked like she was in pain though.
 ;それでも今回は負傷ですん[N]
 ;だが、戦局はどんどん激し[N]
 ;くなっている。[P]
@@ -2922,7 +2920,7 @@ It wouldn't be surprising if one of our members were killed or injured at any mo
 So basically, life is a bitch and then you die?
 ;替えの要員はいないんだか[N]
 ;らね。[P]
-It's not like we have any replacements, after all.
+And it's not like there's anyone to replace us.
 
 
 ;今回は橋梁の爆破阻止です[N]
@@ -2937,7 +2935,7 @@ We'll drop in east of Kowloon Bridge, the closest of the three bridges to Yahar,
 ;本隊到着までの間、架橋の[N]
 ;爆破阻止だ。邪魔する輩は[N]
 ;排除して頂戴。[P]
-We're to prevent the bridge from being blown up until the main force arrives. Eliminate anyone who gets in the way.
+We are to prevent the bridge from being blown up until the main force arrives. Eliminate anyone who gets in the way.
 ;今回、爆弾の出前はありま[N]
 ;すか？[P]
 Do we have bomb delivery service this time?
@@ -3212,3 +3210,34 @@ Recording Studio
 
 ;　　　制作　　　工画堂スタジオ　　　
 Produced by: Kogado Studio
+
+
+救出、ですか？
+
+そうだ、敵収容所からワイラー中佐の救出に向かう。緊急に隠密行動を行う為、今回はミサイル潜水艦アクエリアスより、 カーゴバードにより射出する。
+
+カーゴバード！あれを使うんですか！？確かまだ開発中の筈では？
+
+既に実用段階の80%をクリアしている為、運用面での問題はない。信頼性は少し落ちるが、事は急を要する。
+
+ワイラー中佐は、5日後に発動するリワインド作戦の内容を知っているのよ。
+
+あら、運がわるい...
+
+降下、救出後はアクエリアスに帰還し、脱出してもらうが、アクエリアスの浮上時間は非常に短い。もし間にあわなかった場合、エリア北西部より自力脱出する。しかしこの場合、生存確率はないものと思え。生き残りたかったら意地でもアクエリアスに戻ってこい!
+
+
+上層部より作戦指令だ、 手元の資料を見ろ。
+
+補給部隊の80%撃破、要するにトラックですか。前回の作戦に比べれば楽ですね。
+
+まあ、人数もいるしね。
+
+数は未確認だが、当然番犬どもがうろついているはずだ。 上手くなだめてくれ。
+
+敵兵力が不明なのが恐いわね。わかってれば装備も整えれるんだけど。
+
+上手く行けば七面鳥狩りになりますね。
+
+作戦終了後は、北部山岳地帯に脱出するが迎えはない。歩いて帰ってこい。
+
