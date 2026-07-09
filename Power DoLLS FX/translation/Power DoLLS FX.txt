@@ -1048,6 +1048,24 @@ The current operation will be conducted as part of Operation Grand Spear.
 ;って行われる。橋梁を確保する降下[N]
 ;部隊は同時に該当エリアに向かい[P]
 The details of the operation will be determined at our discretion, but will adhere to the outline of Operation Grand Spear.
+西部より侵入し、橋梁の両端に降下する。橋梁の爆破は撤退中の部隊が通過するまで行われないと
+We will infiltrate from the west and drop troops onto both ends of the bridge. It is believed that the bridge will not be detonated until the retreating troops have passed, but this is not certain.
+考えられるが、確実とはいえない。最新の情報では、橋梁に爆弾は設置されていないが、
+According to our latest intel, no bombs have been planted on the bridge yet, but this is only a matter of time.
+これも時間の問題だ。爆弾が4箇所以上設置されると、橋の爆破には充分な量である。
+If bombs are planted in four or more locations, it will be enough to detonate the bridge.
+橋梁上で活動中の敵は、速やかに排除し爆弾の設置を阻止しろ。
+Eliminate any enemy activity on the bridge immediately to prevent bomb installation.
+
+
+;今回の作戦は、グランドスピアー作[N]
+;戦の一環として行われる。作戦の実[N]
+;行内容は我々の判断で行うが、[P]
+The current operation will be conducted as part of Operation Grand Spear.
+;作戦の概要はグランドスピアーにそ[N]
+;って行われる。橋梁を確保する降下[N]
+;部隊は同時に該当エリアに向かい[P]
+The details of the operation will be determined at our discretion, but will adhere to the outline of Operation Grand Spear.
 ;橋梁東部より侵入し、橋梁の東端へ[N]
 ;降下する。橋梁上の敵部隊を排除し[N]
 ;た後、設置された爆弾を排除する。[P]
@@ -1727,11 +1745,11 @@ Thanks to you ladies' success, our attack forces were able to pass over the Kowl
 ;しかし、グランドスピアー作戦は残[N]
 ;念ながら成功とは言えない結果に終[N]
 ;わろうとしている。[P]
-However, I'm afraid Operation Grand Spear is ending in a result we can't call a success.
+However, I'm afraid Operation Grand Spear is ending in a result I hesitate to call successful.
 ;しかしそれでも我々は、敵がより防[N]
 ;御的にならざるをえない状況を生み[N]
 ;だしたといえるだろう。[P]
-What I can say is that we have created a situation where the enemy has no choice but to become more defensive.
+What I can say is that we have created a situation where the enemy has no choice but to be on the defensive.
 
 
 ;諸君、作戦ご苦労だった。[N]
@@ -2404,10 +2422,10 @@ Meteor Leader to all units. We will now provide air support.
 Expected return time is 0720 hours.
 ;エンジェル各機、エンジェルウィン[N]
 ;グはこれより降下エリアに突入する[P]
-Angel Wing charging into drop zone. Anti-aircraft fire looks severe,
+Angel Wing charging into drop zone.
 ;対空砲火が厳しそうだ、覚悟してお[N]
 ;け。[P]
-so be prepared.
+Anti-aircraft fire looks heavy, so be prepared.
 ;シュガーボウル降下地点到着。[P]
 Arrived at the Sugar Bowl drop site.
 ;シュガーを降下させる。[P]
@@ -2463,11 +2481,11 @@ Sheepdog is returning. Come back safely, and we wish you the best of luck.
 ;こちらシュガー、緊急事態だ。撤退[N]
 ;中の敵部隊が、すぐ南で防御陣を築[N]
 ;き始めた。[P]
-This is Sugar. Emergency. Enemy forces retreating have just begun to set up a defensive position to the south.
+This is Sugar. Emergency. Retreating enemy forces have just begun setting up a defensive position to the south.
 ;このポイントはちょっとヤバイ、シ[N]
 ;ュガーは敵を避けて設営地点を移動[N]
 ;させる。[P]
-This point is a bit dicey, so we're avoiding the enemy and moving to the staging area.
+This location is a bit dicey, so we'll be dodging the enemy and moving to the staging area.
 
 ;こちらシュガー、とりあえずなんと[N]
 ;かなりそうだ。砲撃の用意はできて[N]
@@ -2481,14 +2499,14 @@ We've got spearhead bombs from Lightnings. Give the order any time.
 ;ライトニングスよりスピアーヘッド[N]
 ;侵攻部隊の先鋒から爆撃要請が出て[N]
 ;いる。[P]
-There's been a bombing request from Lightnings, through the spearhead attack unit's vanguard.
+We've received a bombing request from Lightnings via the Spearhead attack unit's vanguard.
 ;どうも潰走中の敵部隊が踏みとどま[N]
 ;っているらしい。命令はそちらへの[N]
 ;支援が優先する。[P]
 It appears the routed enemy forces are holding their ground. Our orders are to prioritise supporting them over there.
 ;コントロールはスピアーヘッドの判[N]
 ;断にまかせるそうだ。[P]
-Apparently, control will be at Spearhead's discretion.
+Seems control is at Spearhead's discretion.
 
 ;ライトニングリーダーよりスピアー[N]
 ;ヘッド。潰走していた敵は片付いた[P]
@@ -2507,7 +2525,7 @@ I'm afraid we're out of ammo over here. Until next time. Lightning Leader out.
 Spearhead, is our Freire 1 bridge still standing?
 ;ああ、見る限りロンドン橋にはなっ[N]
 ;てないようだ。[P]
-Yeah, as far as I can tell, it doesn't look like London Bridge.
+Yeah, as far as I can tell, it doesn't look like London Bridge to me.
 ;・・・了解、どうやら作戦は成功の[N]
 ;ようだな。スピアーヘッド、あとは[N]
 ;我々に任せてもらおう。[P]
@@ -2954,7 +2972,7 @@ Um, if there's a way to relax and have a fight to the death, I'd like to know ab
 
 ;ライブよ、ライブ。がんば[N]
 ;ってねアリス。[P]
-It's a live performance, live! Good luck, Alice.
+It's live! A live show! Good luck, Alice.
 ;任せて下さい、素晴らしい[N]
 ;曲を聞かせますから。[P]
 Leave it to me, I'll let you hear some wonderful music.
@@ -2963,23 +2981,23 @@ Leave it to me, I'll let you hear some wonderful music.
 A session with Liza, Anita, and Alice, huh?
 ;昔からやってたけど、ここ[N]
 ;まで人気が出るとはね。[P]
-We've been doing this a long time, but I never thought we'd get this popular, you know?
+We've been doing this for a long time, but I never thought we'd get this popular, you know?
 ;特にアリス中尉なんて、後[N]
 ;輩の人気が凄いんですよ。[P]
 Lieutenant Alice, in particular, is incredibly popular with her juniors.
 ;立てば立ち役、座れば小猫、[N]
 ;歩く姿は百合の花なんて言[N]
 ;われて。[P]
-They say, “The rose is the flower and handmaiden of love; the lily, her fair associate, is the emblem of beauty and purity.”
+They say, "The rose is the flower and handmaiden of love; the lily, her fair associate, is the emblem of beauty and purity."
 ;それをいうなら、立てば芍[N]
 ;薬、座れば牡丹、歩く姿は[N]
 ;百合の花でしょう。[P]
-Doesn't Alice mean“noble and kind"?
+Who in the world says that?
 ;一体誰に教わったの、そん[N]
 ;な事。[P]
-Says whom? 
+Doesn't Alice mean"noble and kind"?
 ;えっ‥‥いえ、ちょっと。[P]
-I mean, um... Never mind.
+I mean, um... Just forget about it.
 
 
 ;勝ったわ！[P]
@@ -3240,4 +3258,10 @@ Produced by: Kogado Studio
 上手く行けば七面鳥狩りになりますね。
 
 作戦終了後は、北部山岳地帯に脱出するが迎えはない。歩いて帰ってこい。
+
+
+今回、諸君の輸送のため、AMC11とAMC207からそれぞれ輸送機が割り当てられる。
+
+また、不定期ながら航空支援の予定もある。
+
 
