@@ -626,9 +626,9 @@ Operation objective: Crush the enemy's uranium transport units.
 ;概要：敵ウラニウム輸送部隊はトレ[N]
 ;ーラー１０台によって構成されてい[N]
 ;る。この１０台のトレーラー全てを[P]
-Outline: The enemy uranium transport force consists of 10 trailers.
+Outline: The enemy uranium transport force consists of ten trailers.
 ;撃破し、エリア東端苓G�
-Destroy all 10 trailers and escape from the eastern edge of the area.
+Destroy all ten trailers and escape from the eastern edge of the area.
 ;より脱出する。[N]
 ;作戦中のトレーラーの破壊台数は、[N]
 ;［状況確認］で知ることができる。[P]
@@ -1078,15 +1078,12 @@ If there are bombs in four locations on the bridge, that's enough to destroy it.
 
 ;このプランは、海軍の潜水艦「アク[N]
 ;エリアス」とカーゴバードシステム[N]
-;を使_丕
-
-
-;用して奇襲を行う。[P]
-This plan involves performing a surprise attack using the naval submarine "Aquarius" and the Cargo Bird system.
+;を使用して奇襲を行う。[P]
+According to this plan, we'll perform a surprise attack using the naval submarine "Aquarius" and the Cargo Bird system.
 ;我々は「アクエリアス」によってカ[N]
 ;ーゴバードの射出ポイントまで輸送[N]
 ;される。その後、敵輸送部隊が[P]
-We will be transported by the USS Aquarius to the Cargo Bird launch point.
+We will be transported by "Aquarius" to the Cargo Bird launch point.
 ;このエリアを通過するタイミングに[N]
 ;あわせカーゴバードで射出される。[N]
 ;カーゴバードの速度から考えて、[P]
@@ -1097,17 +1094,17 @@ Afterwards, Cargo Bird will eject in sync with the timing of the enemy transport
 Considering Cargo Bird's speed, it will be impossible for the enemy to predict this surprise attack,
 ;目的達成後は、速やかにエリア東端[N]
 ;から脱出する。[P]
-and it should also be hard to evade.
+and it should also be hard for them to evade.
 
 
 ;このプランでは、高高度降下を行っ[N]
 ;て、現地に侵入する。降下を完了し[N]
 ;た部隊は、エリア東部の森林に[P]
-In this plan, we'll perform a high-altitude drop and infiltrate the site.
+According to this plan, we'll perform a high-altitude drop and infiltrate the site.
 ;潜伏し、移動部隊の到着を待つ。敵[N]
 ;は充分に警戒しているので、移動部[N]
 ;隊が現地を通過する瞬間まで、[P]
-The units, having completed their drop, will hide in the eastern forest area and await the arrival of the mobile units.
+The units, having completed their drop, will hide in the eastern forested area and await the arrival of the mobile units.
 ;我々の存在を知られてはならない。[N]
 ;もし、こちらの行動に気付けば、敵[N]
 ;は脱兎の如く逃げ出すだろう。[P]
@@ -3012,18 +3009,18 @@ You made another bet? With Captain Fan?
 ;そう、前回の悔しさを全部[N]
 ;ぶつけてやったわ。撃墜数[N]
 ;のしつけて返してやった。[P]
-Yes, I channeled all my frustration from last time. I got back at her kill count.
+Yes, I channeled all my frustration from last time and got back at her with my kill count.
 ;ファン大尉もかわいそうに[N]
 わざと負けたのね。[P]
-Poor Captain Fan lost on purpose, didn't she?
+Poor Captain Fan. She lost on purpose, didn't she?
 ;違うわ、実力よ！[P]
 No, it was my skills!
 ;で、ファン大尉は何カケた[N]
 ;んです？[P]
-So, what was the bet with Captain Fan?
+So, what was your bet with Captain Fan?
 ;聞いて驚きなさい、一ヶ月[N]
 ;分のデザートよ！[P]
-Prepare to be amazed! A month's supply of dessert!
+Prepare to be amazed! A month's supply of desserts!
 ;‥‥‥‥‥‥。[P]
 ...
 ;なによ、その反応は。[P]
@@ -3111,7 +3108,7 @@ Thank you, Wolf King. We're returning now, You'd better greet us with a bouquet 
 ;まで飲み明かしましょう。[P]
 Okay, Little 3. Let's drink until morning tonight.
 ;作戦終了、装備確認、撤収！[P]
-Operation complete. Equipment confirmed. Withdrawal!
+Operation complete. Equipment confirmed. Withdraw!
 
 
 ;　　　　　　－ＣＡＳＴ－　　　　　　
@@ -3263,5 +3260,35 @@ Produced by: Kogado Studio
 今回、諸君の輸送のため、AMC11とAMC207からそれぞれ輸送機が割り当てられる。
 
 また、不定期ながら航空支援の予定もある。
+
+
+出力が1ギガワットの原子力発電所!?一体何様のつもりでしょう、こんな物造るなんて。
+
+どうやら兵器の生産が主らしい、なんとしても防がな「いとな。
+
+そう、そう前回使用したカーゴバードがいよいよ完成したの。今回、これを使用して緊急展開を行うわ。
+
+カーゴバードですか。開発プロジェクトでも一度乗りましたけど、あまり気持ちのいい物じゃないんですよね。ミサイルに縛り付けられて、飛ばされてるみたいで。まぁ、そのかわり、性能は折り紙つきですけど。
+
+カーゴバードって事は、アクエリアスからの射出後、また時間内に帰還するんですか?
+
+いや、今回目的達成後は、各自エリア東端から脱出する手筈になっている。時間に追われる心配はないが、今回出前はなしだ。
+
+
+残念な知らせが入った。前回の作戦で撃破したウラニウム輸送隊が、全て囮だったそうだ。
+
+な...全部ですか!?
+
+そうだ。
+
+あれだけ苦労したのに、何の役にも立たなかったんですか。
+
+冗談きついわ。
+
+地球軍は別ルートで輸送したウラニウムを使って、発電所を稼働し始めたようだ。今回、この原子力発電所を本格稼働の前に叩く!侵入はカーゴバードにより奇襲をかけるが、任務終了後は泳ぎだ。
+
+泳ぎ?ローダーで、ですか?
+
+ジュリアは、ローダに浮き輪でも付けるのか?各自、ローダーを放棄し、泳いで待機中のアクエリアスまでたどり着け。放棄したローダーは、機密保持の為爆破しろ。くれぐれも溺れるなよ。
 
 
