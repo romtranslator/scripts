@@ -652,7 +652,7 @@ Operation objective: Sabotage the enemy's cryogenic sleep awakening facilities
 ;概要：各部隊は上陸後、宇宙港南部[N]
 ;に４箇所ある覚醒施設に向かい、こ[N]
 ;の破壊を行う。[P]
-Outline: After landing, each unit will head to the awakening facilities located in four sites in the southern half of the spaceport and proceed to demolish them.
+Outline: After landing, each unit will head to the awakening facilities located at four sites in the southern half of the spaceport and proceed to demolish them.
 ;破壊すべき施設は凹型をしており、[N]
 ;その窪みには数個の排気口がある。[N]
 ;この排気口の横で破壊工作を行う。[P]
@@ -1761,7 +1761,7 @@ By the current operation, the enemy has effectively lost their full industrial p
 ;これで敵軍の兵器への不安はなくな[N]
 ;った。しかも、敵は工業を支える電[N]
 ;力を得ることも[P]
-Now, we no longer have to worry about the enemy forces' weapons. Not only that, but they've has lost access to the electricity that sustains their industry.
+With this, we no longer have to worry about the enemy forces' weapons. Not only that, but they have lost access to the electricity sustaining their industry.
 ;出来なくなったのである。地球軍の[N]
 ;士気はすでに底を尽いていることだ[N]
 ;ろう。[P]
@@ -1780,7 +1780,7 @@ I wonder how long this conflict will continue.
 ;よくやってくれた、諸君等の努力に[N]
 ;よって覚醒施設を失った地球軍は[N]
 ;もはや今後１年間に到着する人口を[P]
-Well done! Thanks to your ladies' efforts, the Earth forces have lost their awakening facility and no longer have the means to awaken the population arriving in the next year.
+Well done! Thanks to you ladies' efforts, the Earth forces have lost their awakening facility and no longer have the means to awaken the population arriving in the next year.
 ;覚醒させる手段を失った。地球政府[N]
 ;のハミルトン提督は、オムニ政府の[N]
 ;提案した停戦要求に応じ、[P]
@@ -2572,7 +2572,7 @@ Break point, drop start!
 
 ;さて出番だ。シルバーフォックス各[N]
 ;機、上陸開始！[P]
-Now it's our turn. All Silver Fox units, begin landing!
+Now it's our turn. All Silver Fox units, commence landing!
 
 ;メテオリーダーよりシルバーフォッ[N]
 ;クス、聞こえてる？[P]
@@ -3041,15 +3041,15 @@ The operation will begin in 48 hours.
 ;ミーティングが終わったら、[N]
 ;急いで装備確認に入ってく[N]
 ;れ。[P]
-As soon as the meeting is over, please hurry with the equipment check.
+Please hurry with your equipment checks as soon as this meeting is over.
 ;この戦争の雌雄を決する戦[N]
 ;いだ。気をしめてかかれ！[P]
 This battle will decide the fate of the war. Stay focused and give it your all!
 ;いきなりですね。[P]
-That was sudden.
+This sure is sudden.
 ;ああ、これでも上は、かな[N]
 ;りもめたのだがな。[P]
-Yes, there was quite a bit of disagreement at the top.
+Yes, there was quite a bit of debate at the top.
 ;その為、諸君には今回無制[N]
 ;限の武器弾薬が支給される。[P]
 Therefore, you ladies will be supplied with unlimited weapons and ammunition this time.
@@ -3057,9 +3057,9 @@ Therefore, you ladies will be supplied with unlimited weapons and ammunition thi
 Yay! I can shoot as much as I want.
 ;ジュリアは撃ちまくる事で、[N]
 ;ストレス解消してるから。[P]
-Julia relieves stress by shooting a lot.
+You relieve stress by shooting a lot.
 ;最後に全部解消しないとね。[P]
-We need to resolve everything by the end.
+We need you to let it all out by the end, okay?
 ;嬉しそうだな、ついでにも[N]
 ;う一ついい事を教えてやろ[N]
 ;う。[P]
@@ -3067,24 +3067,24 @@ You seem pleased, so let me tell you some more good news.
 ;現在開発中の機動歩兵用シ[N]
 ;ールドスーツを、今回使用[N]
 ;する事が決定した。[P]
-It has been decided that we will use the mobile infantry shield suit currently under development.
+It has been decided that we will use the mobile infantry shield suits currently under development.
 ;これで海底より敵施設に侵[N]
 ;入する。[P]
-This will allow us to infiltrate the enemy facility from the seabed.
+This will allow us to infiltrate the enemy facility from the sea floor.
 ;平泳ぎとまではいかないが、[N]
 ;ローダーで泳げるぞ、ジュ[N]
 ;リア。[P]
-It's not exactly the breaststroke, but you'll be able to swim with the loader, Julia.
+It's not exactly the breaststroke, Julia, but you'll be able to swim with the loader.
 
 
 ;終わったんですか？[P]
-Is it over?
+It's over?
 ;終わったみたいね。[P]
 It looks like it.
 ;長かった戦争もこれで終わ[N]
 ;りだ。この戦いは私達の勝[N]
 ;利で幕を閉じるんだよ。[P]
-This long war is finally over. The battle comes to an end with our victory.
+This long war is finally over. The battle has come to an end with our victory.
 ;リトル３、リトル３。[P]
 Little 3, Little 3.
 ;Ｔｈｉｓ　ｉｓ　ｗｏｌｆ[N]
@@ -3290,5 +3290,114 @@ Produced by: Kogado Studio
 泳ぎ?ローダーで、ですか?
 
 ジュリアは、ローダに浮き輪でも付けるのか?各自、ローダーを放棄し、泳いで待機中のアクエリアスまでたどり着け。放棄したローダーは、機密保持の為爆破しろ。くれぐれも溺れるなよ。
+
+
+作戦名:オムニシンドローム作戦
+作戦目的:敵原子力発電所の制御施設の破壊
+
+概要:敵原子力発電所内にある4つの凹型建造物の凹の窪みの中に、それぞれ1つずつTX48高性能爆薬を設置する。
+
+爆弾の設置には1ヶ所につき10分を要する。
+
+設置完了後、海岸まで移動、乗機を破壊した後、海中に脱出する。
+
+なお、今回のミッションより以下の兵器が配備された。
+
+DSG11 サブマシンガン
+
+M71 グレネードランチ
+
+
+えっ、男!? セルマに?
+
+しーっ!まだ本当かどうかわかんないのよ。何度か話してるのを目撃されてるし、最近妙に浮かれてるのよ。それで、そうなんじゃないかって。
+
+そう、とうとうセルマにも男が出来たの。男には全然興味ないって顔しながら、やるじゃない。
+
+だから、まだ決まったわけじゃないって。
+
+相手は誰ですか?
+
+第一特務のシリア・グローダよ。
+
+第一って、あの市街・要塞の攻略を主にしてるローダー部隊ですよね?
+
+そう、ちょっと前の作戦で少し第一特務がかんでたでしょ?そこで知り合ったみたい。
+
+うまくやったわね。これでうちの部隊で男がいるのは2人目ね。
+
+えっ、もう一人誰かいました?
+
+あれ、アリス知らなかったの?ハーディ中佐よ。相手の名前は知らないけど、いるらしいわよ。
+
+
+我々は、敵の揚陸拠点であるアトランタ宇宙港に上陸し、ここにある冷凍睡眠覚醒施設の破壊工作を行う。
+
+現在この施設は休閑期にあり、内部覚醒中の人口は0だが、それも移民船が到着するまでのことだ。
+
+移民船の到着とともに、毎週20万地球市民が、ここで新たな人生を歩み始めることになる。
+
+もちろんその中には地球軍兵士も含まれるのだが・・・・。我々の目的は彼ら同胞の命を奪う事ではない。
+
+市民の搬入が始まる前に、この作戦は完了させなければならない。
+
+今回の作戦は、今までの対処療法的な軍事行動ではない。
+
+この作戦の成功はこの戦いの流れを大きく変えることになるだろう。
+
+
+現在アトランタ宇宙港は厳戒態勢下にあり、航空機はおろか弾道弾によ攻撃も許さない状況だ。
+
+そこで今回は現在開発中の機動歩兵用シールドスーツを使用する。
+
+このスーツを使用することで、装甲機動歩兵は、深度20メートルまでの水中を20ノットで航行することが可能になる。
+
+薄暮の海中ならば充分に敵の目を欺けるだろう。
+
+破壊工作の対象となる覚醒施設は、アトランタ宇宙港南部に4箇所存在する。
+
+この建造物地上部は凹型をしており、凹型の窪みにあたる部分に数個の円形の熱交換機の排気口がある。
+
+各排気ロの横には、1つずつ1次側低温管が配管されているコントロールボックスが存在する。
+
+オムニの全ての覚醒施設に言えることだが、この1次側低温配管の安全装置を故意に破壊した場合、覚醒施設全体の安全装置が稼動して、施設を低温密封するようになっている。
+
+これは、常に20万の命を扱う施設ゆえの絶対安全措置だ。
+
+低温密封された施設は、数年間に渡って使用不能となる。
+
+破壊工作部隊は宇宙港の4つの覚醒施設にある計12箇所の安全装置を破壊し、施設を使用不能にする。
+
+安全装置は[装置破壊]によって破壊する事ができる。
+
+今回の作戦では、脱出、救出は想定されていない。
+
+自らの任務を果たすことだけを考えてくれ。
+
+
+まもなくだな、これが本当の最後だ全員生きて帰れよ。
+
+大丈夫ですよ。みんな生きて帰れます、きっと。生還率が高いのが、わたし達の特長ですもの。それに...戦場の女神、DoLLSには、敗北の文字は似合いませんから。
+
+女神ねぇ? 随分と大きくでたもんだな。
+
+あら、私はそうは思いませんけど?
+
+私も同感ね。だからこそ、女神の名に恥じないためにも...ねぇ、ヤオ少佐?
+
+そう、この戦いには、なんとしても勝ち残ってみせる!気合い入れていくよ! みんな!
+
+
+諸君らの活躍によりメルトダウンの危機は回避された。これで、我々の戦いは終わりを告げたのだ。
+
+しかし、今もなお地球からは数十万の人々と兵士が、この星へ向け送られ続けている。
+
+我々のこの戦いが、第一次オムニ独立戦争と呼ばれるまでには、多くの月日を必要とはしないだろ
+
+この戦いにおいて諸君らDoLLSは、それぞれの任務に果敢に挑戦し多くの困難な目的を達成して、オムニの勝利に少なからぬ影響を与えた。
+
+諸君らが勝ち得たこの星の平和が、一日も長く続く事を、今はただ祈ろう。
+
+DoLLSに栄光あれ!そして、この星に安らぎあれ...
 
 
