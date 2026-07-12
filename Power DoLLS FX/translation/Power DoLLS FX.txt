@@ -1138,7 +1138,7 @@ where we'll be picked up by the "Aquarius."
 
 ;は［装置破壊］によって破壊する[N]
 ;事ができる。[P]
- can be destroyed with "device demolition."
+ can be destroyed using "device demolition."
 ;今回の作戦では、脱出、救出は想定[N]
 ;されていない。自らの任務を果たす[N]
 ;ことだけを考えてくれ。[P]
@@ -3228,176 +3228,181 @@ Produced by: Kogado Studio
 
 
 救出、ですか？
-
+A rescue?
 そうだ、敵収容所からワイラー中佐の救出に向かう。緊急に隠密行動を行う為、今回はミサイル潜水艦アクエリアスより、 カーゴバードにより射出する。
-
+Yes, we're heading to rescue Lieutenant Colonel Wyler from the enemy camp. To ensure a covert operation, this time we're going to fire Cargo Bird from the missile submarine Aquarius.
 カーゴバード！あれを使うんですか！？確かまだ開発中の筈では？
-
+Cargo Bird! We'll be using it?! I thought it was still under development.
 既に実用段階の80%をクリアしている為、運用面での問題はない。信頼性は少し落ちるが、事は急を要する。
-
+It's eighty percent ready for practical use, so it's operationally sound. Its reliability is a bit low, but the situation is urgent.
 ワイラー中佐は、5日後に発動するリワインド作戦の内容を知っているのよ。
-
+Lieutenant Colonel Wyler knows the details of Operation Rewind, which will be launched in five days.
 あら、運がわるい...
-
+My, that's unfortunate luck...
 降下、救出後はアクエリアスに帰還し、脱出してもらうが、アクエリアスの浮上時間は非常に短い。もし間にあわなかった場合、エリア北西部より自力脱出する。しかしこの場合、生存確率はないものと思え。生き残りたかったら意地でもアクエリアスに戻ってこい!
-
+After drop and rescue, we'll return to the Aquarius and escape, but the Aquarius's surfacing window is very short. If you don't make it in time, you'll have to escape on your own from the northwest of the area. However, in this situation, please assume that survival is not possible. If you want to survive, you must return to Aquarius no matter what!
 
 上層部より作戦指令だ、 手元の資料を見ろ。
-
+We have operational orders from high command. Look at the documents in front of you.
 補給部隊の80%撃破、要するにトラックですか。前回の作戦に比べれば楽ですね。
-
+Destroy 80% of the supply units. Basically, trucks, right? That's easier than the last operation.
 まあ、人数もいるしね。
-
+Well, there are quite a few personnel.
 数は未確認だが、当然番犬どもがうろついているはずだ。 上手くなだめてくれ。
-
+The exact number is unconfirmed, but there are bound to be watchdogs roaming around. Please try to defang them.
 敵兵力が不明なのが恐いわね。わかってれば装備も整えれるんだけど。
-
+The scary part is that we don't know the enemy's strength. If we knew, we could prepare our equipment properly.
 上手く行けば七面鳥狩りになりますね。
-
+If all goes well, it'll be a turkey hunt.
 作戦終了後は、北部山岳地帯に脱出するが迎えはない。歩いて帰ってこい。
-
+After the operation is complete, you will escape to the northern mountainous region, but there will be no one to meet you. You must walk back.
 
 今回、諸君の輸送のため、AMC11とAMC207からそれぞれ輸送機が割り当てられる。
-
+For your ladies' transport, this time, transport planes will be assigned from AMC11 to AMC207, respectively.
 また、不定期ながら航空支援の予定もある。
-
+Additionally, there are plans for intermittent air support.
 
 出力が1ギガワットの原子力発電所!?一体何様のつもりでしょう、こんな物造るなんて。
-
-どうやら兵器の生産が主らしい、なんとしても防がな「いとな。
-
+A nuclear power plant with an output of 1 gigawatt!? Who do they think they are, building something like this?
+どうやら兵器の生産が主らしい、なんとしても防がないとな。
+Apparently, its main purpose is weapons production, so we must stop it at all costs.
 そう、そう前回使用したカーゴバードがいよいよ完成したの。今回、これを使用して緊急展開を行うわ。
-
+Oh yes, the Cargo Bird we used last time is finally complete. We'll be utilizing it for this emergency deployment.
 カーゴバードですか。開発プロジェクトでも一度乗りましたけど、あまり気持ちのいい物じゃないんですよね。ミサイルに縛り付けられて、飛ばされてるみたいで。まぁ、そのかわり、性能は折り紙つきですけど。
-
+Cargo Bird? I rode in it once during the development project, but it wasn't a very pleasant experience. It's like being tied to a missile and being fired. Though on the other hand its performance is assured.
 カーゴバードって事は、アクエリアスからの射出後、また時間内に帰還するんですか?
-
+So, since we're using Cargo Bird, does that mean we have to return within a time limit after being fired from Aquarius?
 いや、今回目的達成後は、各自エリア東端から脱出する手筈になっている。時間に追われる心配はないが、今回出前はなしだ。
-
+No, after achieving our objective this time, we're each supposed to escape from the eastern edge of the area. You don't have to worry about time constraints, and there won't be any delivery service this time.
 
 残念な知らせが入った。前回の作戦で撃破したウラニウム輸送隊が、全て囮だったそうだ。
-
+We've received some unfortunate news. It seems the uranium transport convoy we destroyed in the last operation was all a decoy.
 な...全部ですか!?
-
+All of them?!
 そうだ。
-
+Yes.
 あれだけ苦労したのに、何の役にも立たなかったんですか。
-
+After all that hard work, it was completely pointless?
 冗談きついわ。
-
+What a nasty joke that is.
 地球軍は別ルートで輸送したウラニウムを使って、発電所を稼働し始めたようだ。今回、この原子力発電所を本格稼働の前に叩く!侵入はカーゴバードにより奇襲をかけるが、任務終了後は泳ぎだ。
-
+The Earth forces appear to have started operating a power plant using uranium transported via a different route. This time, we'll strike this nuclear power plant before it becomes fully operational! We'll launch a surprise attack using Cargo Bird, but after the mission is complete, we'll swim.
 泳ぎ?ローダーで、ですか?
-
+Swim? In a loader?
 ジュリアは、ローダに浮き輪でも付けるのか?各自、ローダーを放棄し、泳いで待機中のアクエリアスまでたどり着け。放棄したローダーは、機密保持の為爆破しろ。くれぐれも溺れるなよ。
-
+Are you going to put a life preserver on it? Everyone, abandon your loaders and swim to the waiting Aquarius. Detonate the abandoned loaders for security reasons. And whatever you do, don't drown.
 
 作戦名:オムニシンドローム作戦
 作戦目的:敵原子力発電所の制御施設の破壊
-
+Operation name: Operation Omni Syndrome
+Operation Objective: Destruction of the enemy's nuclear power plant's control facilities
 概要:敵原子力発電所内にある4つの凹型建造物の凹の窪みの中に、それぞれ1つずつTX48高性能爆薬を設置する。
-
+Outline: Install one TX48 high-explosive in each of the recesses of the four concave structures within the enemy nuclear power plant.
 爆弾の設置には1ヶ所につき10分を要する。
-
+Each bomb takes 10 minutes to plant.
 設置完了後、海岸まで移動、乗機を破壊した後、海中に脱出する。
-
+After planting, proceed to the coast, destroy your craft, and then escape into the sea.
 なお、今回のミッションより以下の兵器が配備された。
-
+Additionally, from the current mission on, the following weapons will be deployed:
 DSG11 サブマシンガン
-
+DSG11 Submachine Gun
 M71 グレネードランチ
-
+M71 Grenade Launcher
 
 えっ、男!? セルマに?
-
+Huh, a guy?! With Selma?
 しーっ!まだ本当かどうかわかんないのよ。何度か話してるのを目撃されてるし、最近妙に浮かれてるのよ。それで、そうなんじゃないかって。
-
+Shh! We don't know if it's true yet. People have seen them talking a few times, and she's been acting strangely giddy lately. So, we're thinking that might be it.
 そう、とうとうセルマにも男が出来たの。男には全然興味ないって顔しながら、やるじゃない。
-
+Yeah, Selma finally has a boyfriend. She acts like she’s not interested in guys at all, but she's doing pretty well, isn't she?
 だから、まだ決まったわけじゃないって。
-
+I told you, it's not definite yet.
 相手は誰ですか?
-
+Who is it?
 第一特務のシリア・グローダよ。
-
+It's Syria Groda from the First Special Operations Unit.
 第一って、あの市街・要塞の攻略を主にしてるローダー部隊ですよね?
-
+The First? You mean that loader unit that mainly handles the capture of cities and fortresses, right?
 そう、ちょっと前の作戦で少し第一特務がかんでたでしょ?そこで知り合ったみたい。
-
+Yeah, the First Special Operations Unit had a small role in that operation a while back, right? It seems that's where they met.
 うまくやったわね。これでうちの部隊で男がいるのは2人目ね。
-
+Nice going. That brings our unit's number of boyfriends to two.
 えっ、もう一人誰かいました?
-
+Huh? There was someone else?
 あれ、アリス知らなかったの?ハーディ中佐よ。相手の名前は知らないけど、いるらしいわよ。
+Oh, you didn't know, Alice? Lieutenant Colonel Hardy. I don't know his name, but apparently she has a partner.
 
 
 我々は、敵の揚陸拠点であるアトランタ宇宙港に上陸し、ここにある冷凍睡眠覚醒施設の破壊工作を行う。
-
+We will land at Atlanta Spaceport, the enemy's landing base, and sabotage the cryo-sleep awakening facility located there.
 現在この施設は休閑期にあり、内部覚醒中の人口は0だが、それも移民船が到着するまでのことだ。
-
+Currently, the facility is inactive, and there are no people being awoken inside, but that will only last until the migrant ships arrive.
 移民船の到着とともに、毎週20万地球市民が、ここで新たな人生を歩み始めることになる。
-
+With the arrival of the migrant ships, 200,000 Earth citizens will begin their new lives here each week.
 もちろんその中には地球軍兵士も含まれるのだが・・・・。我々の目的は彼ら同胞の命を奪う事ではない。
-
+Of course, the influx will include soldiers of the Earth's military... But our purpose is not to take the lives of our brethren.
 市民の搬入が始まる前に、この作戦は完了させなければならない。
-
+This operation must be completed before the civilian transport begins.
 今回の作戦は、今までの対処療法的な軍事行動ではない。
-
+This operation is not a reactive military action like previous ones.
 この作戦の成功はこの戦いの流れを大きく変えることになるだろう。
+The success of this operation may significantly alter the course of this battle.
 
 
 現在アトランタ宇宙港は厳戒態勢下にあり、航空機はおろか弾道弾によ攻撃も許さない状況だ。
-
+The Atlanta Spaceport is currently high alert, preventing attacks by aircraft or even ballistic missiles.
 そこで今回は現在開発中の機動歩兵用シールドスーツを使用する。
-
+Therefore, this time we will be using the mobile infantry shield suits currently under development.
 このスーツを使用することで、装甲機動歩兵は、深度20メートルまでの水中を20ノットで航行することが可能になる。
-
+This suit allows armored infantry to navigate underwater at a speed of 20 knots up to a depth of 20 meters.
 薄暮の海中ならば充分に敵の目を欺けるだろう。
-
+In the twilight depths of the sea, this will be more than enough to deceive the enemy.
 破壊工作の対象となる覚醒施設は、アトランタ宇宙港南部に4箇所存在する。
-
+We've targeted four awakening facilities for sabotage located south of the Atlanta Spaceport.
 この建造物地上部は凹型をしており、凹型の窪みにあたる部分に数個の円形の熱交換機の排気口がある。
-
-各排気ロの横には、1つずつ1次側低温管が配管されているコントロールボックスが存在する。
-
+The above-ground sections of these structures are concave, with several circular heat exchanger exhaust vents located in the recessed areas.
+各排気ロの横には、１つずつ１次側低温管が配管されているコントロールボックスが存在する。
+Next to each exhaust vent, there is a control box with a primary cryogenic pipe installed.
 オムニの全ての覚醒施設に言えることだが、この1次側低温配管の安全装置を故意に破壊した場合、覚醒施設全体の安全装置が稼動して、施設を低温密封するようになっている。
-
+As is the case with all Omni awakening facilities, if the safety device for this primary cryogenic pipe is intentionally destroyed, the safety system for the entire awakening facility will activate, hermetically sealing the facility at a low temperature.
 これは、常に20万の命を扱う施設ゆえの絶対安全措置だ。
-
+This is an absolute safety measure necessary for a facility that continually handles 200,000 lives.
 低温密封された施設は、数年間に渡って使用不能となる。
-
+When a facility is sealed at low temperature, it becomes unusable for several years.
 破壊工作部隊は宇宙港の4つの覚醒施設にある計12箇所の安全装置を破壊し、施設を使用不能にする。
-
+The sabotage units will destroy a total of twelve safety devices in the four awakening facilities at the spaceport, rendering the facilities unusable.
 安全装置は[装置破壊]によって破壊する事ができる。
-
+Safety devices can be destroyed using "device demolition."
 今回の作戦では、脱出、救出は想定されていない。
-
+Escape and rescue are not anticipated in this operation.
 自らの任務を果たすことだけを考えてくれ。
+Focus solely on fulfilling your own mission.
 
 
 まもなくだな、これが本当の最後だ全員生きて帰れよ。
-
+It's almost time. This is truly the end. Everybody, make it back alive.
 大丈夫ですよ。みんな生きて帰れます、きっと。生還率が高いのが、わたし達の特長ですもの。それに...戦場の女神、DoLLSには、敗北の文字は似合いませんから。
-
+It'll be all right. Everyone will make it back. I'm sure of it. A high survival rate is our defining characteristic. Besides... As goddesses of the battlefield, we don't know the word defeat.
 女神ねぇ? 随分と大きくでたもんだな。
-
+Goddesses? That's a bold claim.
 あら、私はそうは思いませんけど?
-
+Oh, you don't think it suits me?
 私も同感ね。だからこそ、女神の名に恥じないためにも...ねぇ、ヤオ少佐?
-
+I agree. That's precisely why we aren't going to disgrace the name "goddess"... Isn't that right, Major Yao?
 そう、この戦いには、なんとしても勝ち残ってみせる!気合い入れていくよ! みんな!
+That's right. We'll win this battle no matter what! Let's give it our all! Everyone!
 
 
 諸君らの活躍によりメルトダウンの危機は回避された。これで、我々の戦いは終わりを告げたのだ。
-
+Thanks to your efforts, the risk of a meltdown has been averted. Our war is now over.
 しかし、今もなお地球からは数十万の人々と兵士が、この星へ向け送られ続けている。
-
+However, hundreds of thousands of people and soldiers continue to be sent from Earth to this planet.
 我々のこの戦いが、第一次オムニ独立戦争と呼ばれるまでには、多くの月日を必要とはしないだろ
-
+It won't take long before this war of ours is known as the First Omni War of Independence.
 この戦いにおいて諸君らDoLLSは、それぞれの任務に果敢に挑戦し多くの困難な目的を達成して、オムニの勝利に少なからぬ影響を与えた。
-
+In this war, you DoLLS members bravely tackled your respective missions, achieved many difficult objectives, and significantly contributed to Omni's victory.
 諸君らが勝ち得たこの星の平和が、一日も長く続く事を、今はただ祈ろう。
-
+Let us now simply pray that the peace we have won for this planet will last as long as possible.
 DoLLSに栄光あれ!そして、この星に安らぎあれ...
-
+Glory to DoLLS! And may peace prevail on this world...
 
