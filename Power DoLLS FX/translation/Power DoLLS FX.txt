@@ -3117,83 +3117,292 @@ Operation complete. Equipment confirmed. Withdraw!
 ;　ハーディ　ニューランド　　　　　　
 Hardy Newland
 
+高乃 麗
+Rei Takano
+
 ;　ヤオ　フェイルン　　　　　　　　　
 Yao Feilun
+
+冬馬 由美
+Yumi Touma
 
 ;　ファン　クァンメイ　　　　　　　　
 Fan Kuangmei
 
+根谷 美智子
+Michiko Neya
+
 ;　ジュリア　レイバーグ　　　　　　　
 Julia Reiberg
+
+山崎 和佳奈
+Wakana Yamazaki
 
 ;　アリス　ノックス　　　　　　　　　
 Alice Knox
 
+高田 由美
+Yumi Takada
+
 ;　セルマ　シェーレ　　　　　　　　　
 Selma Sheele
+
+西原 久美子
+Kumiko Nishihara
+
+作戦本部
+Operations HQ
+
+嶋村 薫
+Kaoru Shimamura
 
 ;　アクエリアス　オペレータ　　　　　
 Aquarius Operator
 
+桜塚 みる
+Miru Sakurazuka
+
 ;　支援機パイロット　　　　　　　　　
 Support Pilot
+
+小笠原 美和
+Miwa Ogasawara
 
 ;　　　　　－ＳＴＡＦＦ－　　　　　　
 - STAFF -
 
+エグゼクティブプロデューサー
+Executive Producer
+
+鬼羅あきら
+Akira Kira
+
 ;　プロデューサー　　　　　　　　　　
 Producer
 
+永井 知彦
+Tomohiko Nagai
+
+ディレクター
+Director
+
+神長 零二
+Reiji Kaminaga
+
+制作進行
+Production Manager
+
+松浦 幸治
+Koji Matsuura
+
+企画進行
+Planning Manager
+
+高見 靖国
+Yasunori Takami
+
+プログラマー
+Programmers
+
+森沢イサミ
+Isami Morisawa
+
+兼田 亮
+Ryo Kaneda
+
+小俣 李庵
+Rian Omata
+
+CG
+
+
+影原 知由
+Tomoyuki Kagehara
+
+沙亭 杏
+An Satei
+
+高橋 勇記
+Yuki Takahashi
+
+音楽
+Music
+
+斎藤 博人
+Hiroto Saito
+
+音響制作
+Sound Production
+
+仏蘭 太郎
+Furan Taro
+
 ;　スペシャルサンクス　　　　　　　　
 Special Thanks
+
+巧野玉夫
+Takuno Tamao
 
 ;　　　　－ＮＥＣ　ＳＴＡＦＦ－　　　
 - NEC STAFF -
 
-;　スーパーバイザー　　　　　　　　　
+エグゼクティブプロデューサー
+Executive Producer
+
+安田 清明
+Kiyoaki Yasuda
+
+スーパーバイザー
 Supervisor
 
-;　プロモーション　　　　　　　　　　
+竹内政夫
+Masao Takeuchi
+
+ディレクター
+Directors
+
+杉山暢
+Nobu Sugiyama
+橋本 博忠
+Hirotada Hashimoto
+
+プロモーション
 Promotion
 
-;　マーケティング　　　　　　　　　　
+粕谷康伸
+Yasuyuki Kasuya
+近藤 信之 
+Nobuyuki Kondo
+桑原 秀夫
+Hideo Kuwahara
+秋葉 恵美
+Emi Akiba
+
+マーケティング
 Marketing
+
+利岡 雅包
+Masakazu Toshioka
+原子 勝彦
+Katsuhiko Genshi
+立花 芳行
+Yoshiyuki Tachibana
+柳田 亨
+Toru Yanagida
+松江 一郎
+Ichiro Matsue
+三上 貴也
+Takaya Mikami
+菅沼 恒次
+Tsuneji Suganuma
+佐藤 千都世
+Chizuyo Sato
 
 ;　ＮＥＣパーソナルシステム（株）　　
 NEC Personal Systems Co., Ltd.
 
-;　　　　　　　　曽根　和洋
+若園 丈児
+Joji Wakazono
+中田 光彦
+Mitsuhiko Nakata
+益子 祐司
+Yuji Masuko
+高野 隆志
+Takashi Takano
+鎖是 武
+Takeshi Kusari
+曽根 和洋
 Kazuhiro Sone
+香林 秀和
+Hidekazu Korin
+菊池 弘和
+Hirokazu Kikuchi
+池尻 正巳
+Masami Ikejiri
+竹之內 義輝
+Yoshiteru Takenouchi
+松尾 有紀
+Yuki Matsuo
+
 
 ;　スペシャルサンクス　　　　　　　　
 Special Thanks
 
+高垣 信宏
+Nobuhiro Takagaki
+
+飯坂 焦
+Sho Iisaka
+
+深川 悟郎
+Goro Fukagawa
+
+藤原 美雅子
+Miyako Fujiwara
+
+峰岸 早苗
+Sanae Minegishi
+
+
 ;　－ＡＮＩＭＡＴＩＯＮ　ＳＴＡＦＦ－
 - ANIMATION STAFF -
 
-;　スーパーバイザー　　　　　　　　　
+監督
+Director
+
+富永 恒雄
+Tsuneo Tominaga
+
+スーパーバイザー
 Supervisor
 
-;　キャラクターデザイン　　　　　　　
-Character Designs
+柿沼 秀樹
+Hideki Kakinuma
 
-;　メカデザイン　　　　　　　　　　　
-Mecha Designs
+キャラクターデザイン
+Character Design
+
+谷口守康
+Moriyasu Taniguchi
+
+メカデザイン
+Mecha Design
+
+福地 仁
+Jin Fukuchi
+那倉 政幸
+Masayuki Nakura
+
+作画監督
+Animation Directors
+
+谷口 守康
+Moriyasu Taniguchi
+山崎知明
+Tomoaki Yamazaki
+
+美術監督
+Art Director
+
+松宮 正純
+Masazumi Matsumiya
+
+音楽
+Music
+
+斎藤 博人
+Hiroto Saito
 
 ;　オープニング　　　　　　　　　　　
 Opening
 
-;　　　　作曲・編曲　　　　斎藤　博人
-Composer/Arranger: Hiroto Saito
-
-;　　　　作詞　　　　ス[N]
-;ﾂ`�
-Lyricist: Su
-
-;エナガ　ヤスコ
-Enaga Yasuko
-
-;　　　　歌　　　　　　　　　高乃　麗
+「消龙江虹」
+“Fading Rainbow Over the River”
+作曲・編曲  斎藤 博人
+作詞 スエナガ ヤスコ
+歌  高乃 麗
+Composition & Arrangement: Hiroto Saito
+Lyrics: Yasuko Suenaga
 Vocals: Rei Takano
 
 ;　エンディング　　　　　　　　　　　
@@ -3211,17 +3420,69 @@ Lyrics: Yasuko Suenaga
 ;　　　　歌　　　　　　　　　高乃　麗
 Vocals: Rei Takano
 
-;　　　　　　　　　（テクノサウンド）
+音響監督
+Sound Director
+
+三間 雅文
+Masafumi Mima
+
+録音
+Recording
+
+山田 富二男
+Fujio Yamada
+(テクノサウンド)
 (Techno Sound)
 
-;　　　　　　　　　（テクノサウンド）
+効果
+Sound Effects
+
+スワラプロ
+Swara Pro
+
+音響助手
+Sound Assistant
+
+高寺 雄
+Yu Takadera
+(テクノサウンド)
 (Techno Sound)
+
 
 ;　録音スタジオ　　　　　　　　　　　
 Recording Studio
 
+アオイスタジオ
+Aoi Studio
+
+音響制作
+Sound Production
+
+テクノサウンド
+Techno Sound
+
+編集
+Editing
+
+岡安編集室
+Okayasu Editing Room
+
+制作
+Production
+
+ARTMIC
+
+
 ;　－ＳＰＥＣＩＡＬ　ＴＨＡＮＫＳ－　
 - SPECIAL THANKS -
+
+艶蔵
+Enzou
+雅
+Miyabi
+牛 富良野
+Furano Ushi
+
 
 ;　　　制作　　　工画堂スタジオ　　　
 Produced by: Kogado Studio
