@@ -1,0 +1,2182 @@
+Ah! Megami-sama (PC-FX)
+Track 03, C03000
+Bilingual Translation Draft
+
+;『　猫実工業大学・・　』
+;『  Nekomi Institute of Technology  』
+
+
+;『　二輪自動車部　部室　』
+;『  Motorcycle Club, Clubroom  』
+
+
+;よ～し、いいフケ具合だ。
+;All right, she's revving nicely.
+
+
+;田ちゃん、フレームのほうはどうだい？
+;Den-chan, how's the frame coming along?
+
+
+;森里・・・っ！！
+;Morisato!
+
+
+;もっと力を入れろ・・・っ！！
+;Put some muscle into it!
+
+
+;かんべんしてくださいよ、先輩。
+;Give me a break, will you?
+
+
+;ボルト締める位、機械でやりましょうよ。
+;Can't we at least use a machine to tighten the bolts?
+
+
+;なにを言っとる。
+;What are you talking about?
+
+
+;我が自動車部はボルト一本でも、
+;In our Motor Club, every last bolt is tightened...
+
+
+;男の熱いハートで締めるものだ！
+;with the burning passion of a man's heart!
+
+
+;もうヘトヘトですよ。
+;I'm already exhausted.
+
+
+;休ませてくださいよ～・・・・・・・・。
+;Please, just let me rest.
+
+
+;つ、ついに、見つけたぞ・・・・・・・・。
+;At last, I've found it.
+
+
+;苦節、３か月。長い、長い道のりだった・・・。
+;Three arduous months. It's been a long, long road...
+
+
+;しかあしっ！
+;But now!
+
+
+;これさえ手に入れば、
+;Once this is in my hands...
+
+
+;憎っくき女神共も・・・・・・・・、
+;those accursed goddesses will...
+
+
+;フッ、フハハ・・・・・・・・、
+;Heh. Hahahaha...
+
+
+;ハ・・・・・・ッハッハッ・・・・・・・・。
+;Ha... Hahahahaha!
+
+
+;締めろ、森里・・・っ！！
+;Keep tightening, Morisato!
+
+
+;・・・・・・・・・・・・・・・・トホホ。
+;This is hopeless...
+
+
+;なんでオレばっかり・・・・・・・・。
+;Why am I the only one doing all the work?
+
+
+;その後は買いだしだ・・・っ！！
+;You're going shopping for supplies afterward!
+
+
+;つ、疲れた・・・・・・・・。
+;I'm exhausted...
+
+
+;助けて、ベルダンディー・・・・・・・・。
+;Help me, Belldandy...
+
+
+;これだ、この石さえ手に入れば！
+;This is it! Once this stone is mine...
+
+
+;待っていろ、ベルダンディー・・・・・・・・。
+;Just you wait, Belldandy...
+
+
+;ワ・・・ッハッハッハ！！！
+;Wahahahaha!
+
+
+;　『　他力本願寺　』
+;  『  Tarikihongan Temple  』
+
+
+;・・・・・・・・・・・・・・・・クシュ！
+;Achoo!
+
+
+;あら、風邪かい？
+;Oh, are you coming down with a cold?
+
+
+;ヘンねぇ・・・・・・・・。
+;That's strange...
+
+
+;・・・・・・・・・・・・・・・・・・・・・・・・・・。
+;...
+
+
+;・・・・・・・・・・・・・・・・・・・・・・・・。
+;...
+
+
+;・・・・・・・・・・・・・・・・・・・・。
+;...
+
+
+;・・・・・・・・・・・・・・・・。
+;...
+
+
+;・・・・・・・・・・・・・・。
+;...
+
+
+;・・・・・・・・・・。
+;...
+
+
+;・・・・・・・・。
+;...
+
+
+;・・・・・・・・ん、ここは・・・・・・・・・・・・、
+;Huh? Where am I...?
+
+
+;一体、どこだ・・・・・・・・？
+;Where in the world is this?
+
+
+;真っ暗で、何も見えない・・・・・・・・。
+;It's pitch-black. I can't see a thing.
+
+
+;オレは、どうしちゃったんだあぁ！？
+;What happened to me?!
+
+
+;螢一さん・・・・・・・・、
+;Keiichi...
+
+
+;螢一さん・・・・・・・・・・・・。
+;Keiichi...
+
+
+;ん、その声はベルダンディーか？
+;Huh? Belldandy, is that you?
+
+
+;どこにいるんだ、どこに・・・・・・。
+;Where are you? Where...?
+
+
+;ここですよ、螢一さん・・・・・・。
+;I'm right here, Keiichi...
+
+
+;・・・・・・・・・・・・・・・・・・・・。
+;...
+
+
+;・・・・・・・・・・・・・・。
+;...
+
+
+;・・・・・・・・へ？
+;Huh...?
+
+
+;わああぁ・・・・・・・・・・っ！！！
+;Waaaaah!
+
+
+;な、なんて格好してるんだ！？
+;W-What are you wearing?!
+
+
+;早く、何か着てくれ、早くっ！
+;Hurry, put something on! Hurry!
+
+
+;そんな、螢一さん。
+;Oh, Keiichi...
+
+
+;私のことが嫌いなんですか・・・・・・・・？
+;Don't you like me...?
+
+
+;そ、そうじゃなくて・・・・・・、
+;N-No, that's not it...
+
+
+;なんていうか、物事には順序というか、
+;It's just, there's a proper order to these things...
+
+
+;いや、順序は踏みたいと思ってるんだけど
+;I mean, I do want us to take those steps, but...
+
+
+;ああっ、何言ってるんだ、オレはっ！
+;Ah! What am I saying?!
+
+
+;フフッ、ヘンな螢一さん。
+;Hee hee. You're so funny, Keiichi.
+
+
+;そう？　ハハハ・・・・・・って、
+;I am? Hahaha... Wait!
+
+
+;ち、近づいちゃダメだって！
+;D-Don't come any closer!
+
+
+;オレ、そんなに理性の強いほう
+;I don't exactly have
+
+
+;じゃないし・・・・・・ね。
+;that much self-control...
+
+
+;フフッ・・・・・・。
+;Hee hee...
+
+
+;違う。何か違うぞ。
+;No. Something's wrong here.
+
+
+;ベルダンディーは、こんな娘じゃない。
+;Belldandy isn't like this.
+
+
+;ウルドに惚れ薬でも飲まされたのか？
+;Did Urd slip her a love potion or something?
+
+
+;それとも、マーラーの罠か？
+;Or is this one of Marller's traps?
+
+
+;・・・・・・・・・・・・・・・・。
+;...
+
+
+;・・・・・・・・・・。
+;...
+
+
+;そ、そうか！　これは夢なんだ。
+;O-Of course! This is a dream.
+
+
+;それもオレの（欲望まる出しだもんな）。
+;My dream, at that. (My desires are written all over it.)
+
+
+;そうか、なんだよ、脅かしてくれるぜ。
+;That's all it is? Man, that had me scared.
+
+
+;そうとわかったら、何でもアリだぜ。
+;Now that I know, anything goes!
+
+
+;いつもウルドやスクルドに邪魔されて、
+;Urd and Skuld are always getting in our way,
+
+
+;何の進展もないままだからな。
+;so we've never made any progress.
+
+
+;この際・・・・・・。
+;This is my chance...
+
+
+;肩なんか抱いちゃったりして・・・・・・・・。
+;Maybe I could put my arm around her...
+
+
+;とはいえ、夢でヘンなことしてもなぁ。
+;Then again, doing anything weird in a dream would be...
+
+
+;よし、この際だから、彼女を引き寄せて
+;All right. Since I have the chance, I'll pull her
+
+
+;しまおう・・・・・・・・。
+;close to me...
+
+
+;・・・・・・・・・・・・・・そ～っと、ね。
+;Nice and easy...
+
+
+;・・・・・・・・・・・・・・・・・・・・そ～っと。
+;Slowly...
+
+
+;・・・・・・・・やった！
+;I did it!
+
+
+;ベルダンディー・・・・・・。
+;Belldandy...
+
+
+;螢一さん・・・・・・。
+;Keiichi...
+
+
+;オレたち、ずっと一緒だったよな。
+;We've always been together, haven't we?
+
+
+;なんたって、神様に叶えてもらった
+;After all, God granted me
+
+
+;“お願い”だもんな。
+;that "wish."
+
+
+;キミにとっては、不幸なお願いだったかも
+;Though maybe that wish only brought you
+
+
+;しれないけど・・・・・・。
+;misfortune...
+
+
+;そんなことありません。
+;That's not true.
+
+
+;確かに最初は“お願い”が神様に
+;It's true that I came here at first because God
+
+
+;受理されたからですけど、
+;accepted your "wish."
+
+
+;私は・・・・・・・・、私は、それだけで
+;But I... That's not the only reason
+
+
+;ここにいるんじゃないもの。
+;I'm still here.
+
+
+;私は螢一さんのことが・・・・・・。
+;Keiichi, I...
+
+
+;ベルダンディー・・・・・・。
+;Belldandy...
+
+
+;こっちを見て・・・・・・・・。
+;Look at me...
+
+
+;私を抱きしめて下さい・・・・・・。
+;Please hold me...
+
+
+;おおっ！
+;Whoa!
+
+
+;このトレンディドラマのようなセリフ！
+;What a line! It's right out of a trendy drama!
+
+
+;いくら夢でも感動もんだよなぁ。
+;Even for a dream, this is moving stuff.
+
+
+;どうしました？
+;Is something wrong?
+
+
+;ん、いや・・・・・・・・、
+;Huh? No...
+
+
+;なんでも・・・・・・・・な・・・・・・・・い・・・・・・。
+;It's noth... ing...
+
+
+;・・・・・・・・・・・・・・あっ・・・・・・。
+;Ah...
+
+
+;いかん、いかん。
+;No, no.
+
+
+;いくら夢の中でも、こんなこと・・・・・・・・。
+;Even in a dream, I can't do this...
+
+
+;彼女をぼうとくすることになる。
+;It would be a desecration of her.
+
+
+;彼女は、
+;She's...
+
+
+;彼女は、女神なんだから・・・・・・・・。
+;She's a goddess, after all...
+
+
+;螢一さん、
+;Keiichi...
+
+
+;何をためらってるんです？
+;why are you hesitating?
+
+
+;ダメだよ、ベルダンディー。
+;We can't, Belldandy.
+
+
+;ど、どうしてです。
+;W-Why not?
+
+
+;私が女神だからですか？
+;Is it because I'm a goddess?
+
+
+;そうじゃない。
+;That's not it.
+
+
+;そうじゃないけど・・・・・・。
+;It isn't, but...
+
+
+;確かに私はあなたの“お願い”が、
+;It's true that I'm here because God
+
+
+;神様に受理されたからここにいます。
+;accepted your "wish."
+
+
+;でも、それは最初だけで・・・・・・・・、
+;But that was only why I came at first...
+
+
+;私は、本当は、
+;The truth is...
+
+
+;あなたのことを・・・・・・。
+;I...
+
+
+;ベ、ベルダンディー・・・・・・・・。
+;B-Belldandy...
+
+
+;胸が身体にあたって・・・・・・・・、
+;Her breasts are pressing against me...
+
+
+;き、気持ちいい・・・・・・・・。
+;I-It feels so good...
+
+
+;ダメだ、理性が抑えられない・・・・・・・・。
+;It's no use. I can't restrain myself...
+
+
+;ああ、もうダメだ。
+;I can't take it anymore.
+
+
+;身体が吸い寄せられてゆく・・・・・・・・。
+;My body is being drawn to hers...
+
+
+;もういいや、
+;Oh, who cares?
+
+
+;このままどうにでもなれっ！
+;Whatever happens, happens!
+
+
+;あれ、なにか音が聞こえなかった？
+;Huh? Didn't you hear something?
+
+
+;さあ、聞こえませんでしたけど？
+;No, I didn't hear anything.
+
+
+;そうか、なら続きを・・・・・・。
+;Oh. Then let's continue...
+
+
+;ええ・・・・・・。
+;Yes...
+
+
+;・・・・・・・・なんだよ、うるさいな。
+;What is that? It's so loud.
+
+
+;いいとこなんだから、静かにしてろよ。
+;I'm right at the best part. Quiet down!
+
+
+;この音はどこで鳴ってるんだ？
+;Where is that sound coming from?
+
+
+;こ、この音は・・・・・・。
+;Th-That sound...
+
+
+;まだですか、螢一さん・・・・・・。
+;Are you ready yet, Keiichi...?
+
+
+;この音は、目覚ましの音だ。
+;That's my alarm clock.
+
+
+;ああっ！
+;Ah!
+
+
+;気づいてしまったのね。
+;You've realized the truth.
+
+
+;もうここにはいられません。
+;I can't remain here any longer.
+
+
+;さようなら、螢一さん・・・・・・。
+;Goodbye, Keiichi...
+
+
+;えっ！？　あっ、ちょっと待って！
+;What?! Hey, wait!
+
+
+;さようなら～。
+;Goodbyyyye!
+
+
+;嘘、消えてっちゃうよ。
+;No! She's disappearing!
+
+
+;ち、ちくしょ・・・・っ！！
+;D-Damn it!
+
+
+;まだ何もやってないのに・・・・っ！！
+;I didn't even get to do anything!
+
+
+;バカヤロ・・・・・・・・・・・・・・・
+;You stupid...
+
+
+;・・・・・・・・・・・・・っ！！
+;alarm clock!
+
+
+;・・・・・・・・・・・・・・・・・・・・・・・・・・。
+;...
+
+
+;・・・・・・・・・・・・・・・・・・・・。
+;...
+
+
+;・・・・・・・・・・・・・・。
+;...
+
+
+;・・・・・・・・はっ！
+;Huh?!
+
+
+;うるさい音だぜ！
+;What an awful racket!
+
+
+;・・・・・・・・・・・・・・・・。
+;...
+
+
+;・・・・・・ベルダンディー・・・・・・？
+;Belldandy...?
+
+
+;・・・・・・・・螢一～ィ？
+;Keiichiii?
+
+
+;いいことしたいんなら、
+;If you want to fool around,
+
+
+;夢の中のベルダンディーじゃなくて、
+;forget the Belldandy in your dreams
+
+
+;現実のベルダンディーにしなさいよ。
+;and try it with the real one.
+
+
+;・・・・・・？？？・・・・・・。
+;...???...
+
+
+;ばぁ！
+;Boo!
+
+
+;んだあぁ・・・・・・っ！！
+;Gyaaaah!
+
+
+;・・・・・・・・ウ、ウルドォォォ！？
+;U-Urrrrd?!
+
+
+;あんたねぇ、前々から性格
+;You know, I've suspected for a while
+
+
+;暗いんじゃないかと思ってたけど、
+;that you have a dark side,
+
+
+;これじゃ、ドロ沼だよ。
+;but this is downright sordid.
+
+
+;ほっといてくれ！
+;Leave me alone!
+
+
+;なんなら、
+;If you'd like,
+
+
+;わたしが相手になってあげようか？
+;I could take her place.
+
+
+;いいえ、いいです。結構です。
+;No. No, thank you.
+
+
+;本当にいいんですってば。
+;I mean it. I'm fine.
+
+
+;そこまで露骨に断るんじゃないのっ！！
+;You don't have to turn me down so bluntly!
+
+
+;その性格は、ちょっとお仕置きしないと、
+;It looks like that attitude of yours won't improve
+
+
+;直らないようね・・・・・・。
+;without a little punishment...
+
+
+;ダメ、やめて・・・・・・。
+;No, stop...
+
+
+;女みたいな声をだすんじゃな・・いっ！！
+;Don't whimper like a little girl!
+
+
+;雷光召喚・・・っ！！！
+;Lightning, I summon thee!
+
+
+;うわああぁ・・・・・・・・・っ！！！
+;Waaaaaah!
+
+
+;や、止めろウルド。ううっ。
+;S-Stop, Urd! Ugh...
+
+
+;・・・・・・・・・・はっ！
+;Huh?!
+
+
+;・・・の証拠物件を押収し、現在は
+;...has seized the evidence and is currently
+
+
+;関係者の事情聴取を行っている
+;questioning the persons involved,
+
+
+;模様です。では次のニュースです。
+;according to reports. Now for our next story.
+
+
+;こ、ここは・・・・・・・・オレの部屋か？
+;Th-This is... my room?
+
+
+;ゆ、夢だったのか・・・・・・・・。
+;I-It was a dream...
+
+
+;ゲッ、パソコンつけっぱなしで、
+;Ack! I fell asleep
+
+
+;寝てしまった・・・・・・まあ、いいか。
+;with my computer on. Oh well.
+
+
+;ついでだ、猫実ＢＢＳにアクセスして
+;Since it's already on, I might as well log on
+
+
+;みるか。
+;to the Nekomi BBS.
+
+
+;うう、痛ててっ・・・・・・筋肉痛か・・・・。
+;Oww... My muscles are killing me.
+
+
+;ここんとこ連日、マシンの整備で
+;They've been working me to the bone every day
+
+
+;こき使われているからなあ。
+;getting the machine ready.
+
+
+;ん、ああ、もう土曜日の夕方だあ。
+;Huh? It's already Saturday evening.
+
+
+;せっかくの週末が・・・・・・むなしい。
+;What a waste of a weekend...
+
+
+;大学対抗戦が終わるまではこの調子
+;I guess it'll be like this until
+
+
+;だろうなあ。
+;the collegiate competition is over.
+
+
+;なんであんなにアツくなるんだ、先輩は？
+;Why do the upperclassmen get so fired up about it?
+
+
+;ったく・・・・・・。
+;Honestly...
+
+
+;・・・・・・・・ん、
+;Huh?
+
+
+;パソコンにメールが来てる。
+;I've got an email.
+
+
+;誰からだろ？
+;Who could it be from?
+
+
+;ハイ、螢一。スクルドだよ。
+;Hi, Keiichi. It's Skuld.
+
+
+;今、私がどこにいるかわかる？
+;Can you guess where I am right now?
+
+
+;そりゃ、わかんないわよね。
+;Of course you can't.
+
+
+;へへっ。
+;Hehe.
+
+
+;実は私、スウェーデンにいるの。
+;I'm actually in Sweden!
+
+
+;この国で開催される
+;I really wanted to see
+
+
+;『サイエンス＆エレクトロニクス・ショー』
+;the Science & Electronics Show
+
+
+;が見たかったのよね。
+;they're holding here.
+
+
+;だから少しの間、留守にするから。
+;So I'll be away for a little while.
+
+
+;ショーが終わるのは来週だからって、
+;Tell Big Sis Belldandy
+
+
+;ベルダンディーお姉様に、
+;that the show won't be over
+
+
+;伝えておいてね。
+;until next week, okay?
+
+
+;　　　　　　　　　　　　　ＳＫＵＬＤ
+;                              SKULD
+
+
+;Ｐ．Ｓ．
+;P.S.
+
+
+;わたしがいない間に、お姉様にちょっかい
+;If you try anything with Big Sis
+
+
+;出したら許さないんだからね！
+;while I'm gone, you'll be sorry!
+
+
+;・・・・・・ス、スウェーデンだって！？
+;S-Sweden?!
+
+
+;おいおい、大丈夫なのかよ・・・・・・・・。
+;Is she going to be all right over there...?
+
+
+;しょうがないな、スクルドは。
+;That Skuld. What are we going to do with her?
+
+
+;ベルダンディーには・・・・・・。
+;As for Belldandy...
+
+
+;早めに教えておいたほうがいいな。
+;I'd better tell her right away.
+
+
+;後で教えておけばいいか。
+;I can tell her later.
+
+
+;その他の書き込みはないな・・・・・・。
+;There aren't any other messages.
+
+
+;また後で入り直すか。
+;I'll log back on later.
+
+
+;　　　　さようなら　Ｋ１　さん。
+;          Goodbye, K-ichi.
+
+
+;　　　また遊びに来てくださいね！
+;        Please visit us again!
+
+
+;　　　　　　　猫実☆ＢＢＳ
+;                 NEKOMI BBS
+
+
+;　　　（１２３）－４５６－７８９０
+;        (123)-456-7890
+
+
+;本日の御利用時間は００：０２分です。
+;Your connection time today was 00:02.
+
+
+;ふ～～～。
+;Phew...
+
+
+;いてて・・・・・・・・、
+;Oww...
+
+
+;駄目だ。何もする気が起きん。
+;It's no use. I don't feel like doing anything.
+
+
+;もうちょい横になってよっと。
+;I think I'll lie down a little longer.
+
+
+;・・・・・・・・・・・・・・・・・・・・・・
+;...
+
+
+;・・・・・・・・・・・・・・・・・・・・・・
+;...
+
+
+;・・・・・・・・平和だねェ・・・・・・・・。
+;It's so peaceful...
+
+
+;でも、まだ先輩たちのシゴきは続く
+;But the upperclassmen are bound to keep working me
+
+
+;だろうし、束の間の平和かも・・・・・・はぁ。
+;to the bone. This peace may not last long... Sigh.
+
+
+;どこかへ行きたい。
+;I wish I could go somewhere.
+
+
+;お～～～い、けいいち～～～。
+;Heeey, Keiichiii!
+
+
+;・・・・・・・・。
+;...
+
+
+;螢一、外はいい天気だよ。
+;Keiichi, it's beautiful outside.
+
+
+;いい若いモンが、昼間っからゴロゴロ
+;A healthy young man shouldn't be lying around
+
+
+;してるんじゃないの！
+;in the middle of the day!
+
+
+;ホラ、起きなさいよ。
+;Come on, get up.
+
+
+;パーッとどこか遊びにでもいこうぜ！
+;Let's go out somewhere and have some fun!
+
+
+;そんなこと言ったって・・・・・・。
+;That's easy for you to say...
+
+
+;オレは疲れてるんだからさぁ・・・・・・。
+;I'm exhausted...
+
+
+;わたしは退屈してるの！
+;Well, I'm bored!
+
+
+;いいから起きなさい！！
+;Just get up already!
+
+
+;・・・・・・無茶言わないでくれよお。
+;Don't be so unreasonable...
+
+
+;もうちょっと、優しいというか、いたわり
+;Would it hurt you to show me a little kindness,
+
+
+;の気持ちがあってもいいと思うけど？
+;or at least some sympathy?
+
+
+;一応、女神なんでしょ・・・・・・。
+;You are a goddess, aren't you...?
+
+
+;ふ～ん、女神だったらなんだって？
+;Oh? And what should a goddess be like?
+
+
+;えっ、あ、その・・・・・・。
+;Uh, well...
+
+
+;起きます、起きます、起きます！
+;I'm getting up! I'm getting up!
+
+
+;やっぱ寝る！何がなんでも寝る！
+;I'm going back to sleep! Nothing can stop me!
+
+
+;・・・・・・なるほど。
+;I see...
+
+
+;そこまで言うってことは、覚悟ができてる
+;If you're willing to go that far, I take it
+
+
+;と思っていいのね？
+;you're prepared for the consequences?
+
+
+;覚悟って・・・・・・。
+;Consequences...?
+
+
+;ち、ちょっと待って。
+;W-Wait a minute.
+
+
+;その手から出てるのは・・・・・・！？
+;What's that coming out of your hand?!
+
+
+;・・・・・・これを受けたらシャキッと目が
+;Once this hits you, you'll wake up
+
+
+;覚めるわよ。
+;bright-eyed and bushy-tailed.
+
+
+;わたしが保証してあげる
+;I guarantee it.
+
+
+;ちょっ・・・・・・タイム、タイム！
+;W-Wait! Time out!
+
+
+;今さら遅いっ！　そういうのはこの前の
+;Too late! You should've done that
+
+
+;コマンド選択でしなさ・・・いっ！！
+;during the last choice segment!
+
+
+;きゃ・・・・！
+;Eek!
+
+
+;ふふっ・・・・・・な～～～～んてね。
+;Hee hee... Gotcha!
+
+
+;冗談よ、冗談。
+;I'm only kidding.
+
+
+;・・・・・・はあ、はあ、はあ、まったく、
+;Pant... Pant... Honestly...
+
+
+;脅かすなよ、ほんとに。
+;Don't scare me like that!
+
+
+;螢一の脅えた顔って、かわいい。
+;You're so cute when you're frightened, Keiichi.
+
+
+;あ、いや、やめて！
+;Hey! No, stop!
+
+
+;きゃははははは、へんな顔～～～。
+;Ahahahahaha! What a funny face!
+
+
+;つ、疲れる・・・・・・。
+;This is exhausting...
+
+
+;この人の相手すんの、ほんと疲れる。
+;Dealing with her really wears me out.
+
+
+;あ～～～、面白い。
+;Ahhh, that was fun.
+
+
+;・・・・・・・・あれ？
+;Huh...?
+
+
+;わたし何しに来たんだっけ？
+;Why did I come in here again?
+
+
+;・・・・・・・・ま、いっか。
+;Oh, well.
+
+
+;じゃね、螢一。　お邪魔さま～～～。
+;See you, Keiichi. Sorry to intruuude!
+
+
+;・・・・・・・・・・・・・・・・。
+;...
+
+
+;・・・・・・なるほど。
+;I see...
+
+
+;そこまで言うってことは、覚悟ができてる
+;If you're willing to go that far, I take it
+
+
+;と思っていいのね？
+;you're prepared for the consequences?
+
+
+;覚悟って・・・・・・。
+;Consequences...?
+
+
+;ち、ちょっと待って。
+;W-Wait a minute.
+
+
+;その手から出てるのは・・・・・・！？
+;What's that coming out of your hand?!
+
+
+;おい、これはまさに・・・・・・。
+;Hey, this is just like...
+
+
+;・・・・・・これを受けたらシャキッと目が
+;Once this hits you, you'll wake up
+
+
+;覚めるわよ。
+;bright-eyed and bushy-tailed.
+
+
+;わたしが保証してあげる
+;I guarantee it.
+
+
+;ちょっ・・・・・・タイム、タイム！
+;W-Wait! Time out!
+
+
+;正夢ってヤツかあぁ！？
+;Was that dream a prophecy?!
+
+
+;今さら遅いっ！　そういうのはこの前の
+;Too late! You should've done that
+
+
+;コマンドで選択しなさ・・・いっ！！
+;during the last choice segment!
+
+
+;ぎゃ・・・・・・・・・・っ！
+;Gyaaah!
+
+
+;ふふっ・・・・・・な～～～～んてね。
+;Hee hee... Gotcha!
+
+
+;冗談よ、冗談。
+;I'm only kidding.
+
+
+;・・・・・・はあ、はあ、はあ、まったく、
+;Pant... Pant... Honestly...
+
+
+;脅かすなよ、ほんとに。
+;Don't scare me like that!
+
+
+;螢一の脅えた顔って、かわいい。
+;You're so cute when you're frightened, Keiichi.
+
+
+;あ、いや、やめて！
+;Hey! No, stop!
+
+
+;きゃははははは、へんな顔～～～。
+;Ahahahahaha! What a funny face!
+
+
+;つ、疲れる・・・・・・。
+;This is exhausting...
+
+
+;この人の相手すんの、ほんと疲れる。
+;Dealing with her really wears me out.
+
+
+;あ～～～、面白い。
+;Ahhh, that was fun.
+
+
+;・・・・・・・・あれ？
+;Huh...?
+
+
+;わたし何しに来たんだっけ？
+;Why did I come in here again?
+
+
+;・・・・・・ま、いっか。
+;Oh, well.
+
+
+;じゃあね、螢一。
+;See you, Keiichi.
+
+
+;お邪魔さま～～～。
+;Sorry to intruuude!
+
+
+;・・・・・・・・・・・・。
+;...
+
+
+;う～・・・・・・・・。
+;Ugh...
+
+
+;ウルドのヤツ～。
+;Darn that Urd...
+
+
+;よけい筋肉痛に拍車がかかっちゃった
+;Now my aching muscles hurt
+
+
+;じゃないかよ・・・・。
+;even worse...
+
+
+;ヤッホー、螢ちゃん。
+;Hey there, Kei!
+
+
+;・・・・・・・・・・・・・・・・。
+;...
+
+
+;何してんの？　ヨガかなんか？
+;What are you doing? Yoga or something?
+
+
+;めぐみか・・・・・・・・。
+;Oh, it's you, Megumi...
+
+
+;ヨガに見えるか？　これが・・・・・・。
+;Does this look like yoga to you...?
+
+
+;あ、そうだ。
+;Oh, right.
+
+
+;おまえ、ベルダンディー知らない？
+;Do you know where Belldandy is?
+
+
+;スクルドからのメッセージが
+;I've got a message for her
+
+
+;あるんだけど・・・・・・・・？
+;from Skuld.
+
+
+;ああ、ベルダンディーなら買い物だよ。
+;Oh, Belldandy went shopping.
+
+
+;ここに来る途中、商店街で会ったんだ。
+;I ran into her in the shopping district on my way here.
+
+
+;へへっ・・・・・・。
+;Hehe...
+
+
+;なんだよ、その意味ありげな笑い方は？
+;What's with that knowing laugh?
+
+
+;螢ちゃん、明日の日曜日暇でしょ？
+;You're free tomorrow, right, Kei?
+
+
+;何だよ、突然。
+;Where did that come from?
+
+
+;まあ、別に何の予定も入ってない
+;Well, I don't have anything
+
+
+;けどな・・・・・・。
+;planned...
+
+
+;だったら、明日は彼女とデートにでも
+;Then why don't you take her out
+
+
+;行ってくれば？
+;on a date tomorrow?
+
+
+;ベルダンディーにも聞いてみたけど、
+;I already asked Belldandy,
+
+
+;特に予定はないって言ってたよ。
+;and she said she doesn't have any plans.
+
+
+;お前、いつの間に・・・・・・。
+;When did you...?
+
+
+;だから、さっき。
+;Just now, like I said.
+
+
+;それに、螢ちゃんも暇だろうから、って
+;And when I said you were probably free too,
+
+
+;言ったらニコニコしてたし・・・・・・。
+;she was all smiles...
+
+
+;ふふっ、兄思いの優しい妹でしょ？
+;Hehe. Aren't I a sweet, thoughtful little sister?
+
+
+;・・・・・・・・余計なお世話だよ。
+;Mind your own business.
+
+
+;へえ、ベルダンディーが・・・・・・・・。
+;Really? Belldandy was...?
+
+
+;何よ、せっかく螢ちゃんの為と思って
+;Hey! I only brought it up
+
+
+;言ってあげたのに！
+;because I was thinking of you!
+
+
+;別に、お前に面倒見てもらわなくても
+;I don't need you looking after me.
+
+
+;デートぐらい自分で何とかできるさ。
+;I can arrange a date on my own.
+
+
+;誘えるの？
+;Can you actually ask her?
+
+
+;うっ。
+;Urk.
+
+
+;おお、もちろん。
+;O-Of course.
+
+
+;・・・・・・・・・・・・・・・・・・・・・・・・
+;...
+
+
+;なんだよ、その疑わしそうな目は？
+;What's with that skeptical look?
+
+
+;ん、ならいいの。　確かにわたしの
+;Fine, then. I suppose I really was
+
+
+;おせっかいが過ぎたみたい。
+;being too meddlesome.
+
+
+;じゃあ、螢ちゃんがどうやって
+;In that case, let's see
+
+
+;ベルダンディーを誘うのか、お手並
+;just how skillfully you manage
+
+
+;拝見させて貰うわ。
+;to ask Belldandy out.
+
+
+;よーし、見ていなさい！
+;All right, just you watch!
+
+
+;ちょっと待て、めぐみ！
+;Wait a minute, Megumi!
+
+
+;・・・・・・・・・・・・・・・・・・・・・・・・・・
+;...
+
+
+;わたしがでしゃばって、うれしいでしょ？
+;You're glad I butted in, aren't you?
+
+
+;わたしがいてよかったでしょ？
+;Aren't you glad I'm here?
+
+
+;・・・・・・・・う・・・・・・・・まあ、ね。
+;Well... yeah.
+
+
+;全く、意地ばっかり張って。
+;Honestly, you're so stubborn.
+
+
+;ほ～んと、子供みたいなんだから。
+;You're just like a little boy.
+
+
+;そう言うなって。
+;Oh, give it a rest.
+
+
+;へへっ、でも、そんな素直な所が
+;Hehe. Still, that honest side of you
+
+
+;螢ちゃんの良い所ね。
+;is one of your good points, Kei.
+
+
+;じゃあ、ベルダンディーにはうまく話して
+;I'll put in a good word
+
+
+;おくから。
+;with Belldandy, then.
+
+
+;期待してていいよ！
+;You can count on me!
+
+
+;・・・・・・・・うん。
+;Okay...
+
+
+;フフフン。
+;Hmm-hmm-hmm!
+
+
+;お、ウルド、テレビは面白い？
+;Hey, Urd. Anything good on TV?
+
+
+;え？　ええ。　まあね。
+;Huh? Oh, sure. I guess.
+
+
+;そう。　それは良かったねぇ。
+;Really? Glad to hear it.
+
+
+;ウフ、ウフフフ・・・・・・。
+;Hee hee... Hee hee hee...
+
+
+;何よ、気持ち悪いくらいご機嫌じゃない。
+;What's with you? You're in an unnervingly good mood.
+
+
+;何かイイことでもあったの？
+;Did something good happen?
+
+
+;うん？　まあね。　ヘヘっ・・・・・・。
+;Hmm? You could say that. Hehe...
+
+
+;・・・・・・。
+;...
+
+
+;こいつ、恐い・・・・・・・・。
+;She scares me...
+
+
+;お、ずいぶん強気だね、螢ちゃん。
+;Oh, you're awfully confident, Kei.
+
+
+;フフン。
+;Hmph.
+
+
+;ここらで、兄としての威厳を保って
+;I need to preserve some dignity
+
+
+;おかなきゃな・・・・・・・・。
+;as her big brother...
+
+
+;わかったわ。
+;All right.
+
+
+;今日は退散するけど、なにか協力して
+;I'll back off for today, but let me know
+
+
+;欲しいことがあったら言ってね。
+;if there's anything you want my help with.
+
+
+;サンキュー。
+;Thanks.
+
+
+;・・・・・・・・・・・・・・・・・・。
+;...
+
+
+;で、本当にいいの？
+;So, are you sure about this?
+
+
+;いいのっ！
+;I'm sure!
+
+
+;とは・・・・・・・・言ったものの・・・・・・。
+;That's what I said, but...
+
+
+;はいはい。
+;Sure, sure.
+
+
+;後で泣きついて来ても、知らない
+;Don't come crying to me later,
+
+
+;からね～～～～だ。
+;because I won't help you!
+
+
+;・・・・・・・・・・・・・・・・・・・・・・・・。
+;...
+
+
+;どう、うれしい？
+;So, are you happy?
+
+
+;へへっ・・・・・・。
+;Hehe...
+
+
+;でもヘンよね。　一緒に暮らしてるのに
+;It is strange, though. You live together,
+
+
+;デートに誘えないなんて・・・・・・・・？
+;but you can't even ask her on a date?
+
+
+;ギクッ！
+;Urk!
+
+
+;ま、まあ、気にするな。
+;W-Well, don't worry about it.
+
+
+;いつも一緒にいるから、今さらデート
+;We're always together, so going on a date now
+
+
+;なんて形式ばったこと出来ないんだよ。
+;would feel too formal. That's all.
+
+
+;大嘘。
+;Liar.
+
+
+;へ～、まるで“経験者は語る”だね。
+;Oh, spoken like a man of experience.
+
+
+;まあ、私に任せといてよ。
+;Anyway, leave it to me.
+
+
+;デートプランもわたしが作って
+;I'll even put together
+
+
+;あげるから。
+;a date plan for you.
+
+
+;よし、任かした！
+;Great, I'm counting on you!
+
+
+;え～、お前がデートのプランを作るのォ？
+;Wait, you're planning the date?
+
+
+;なによ、文句あるワケ？
+;What? Do you have a problem with that?
+
+
+;お前が作ると、
+;If you plan it,
+
+
+;自分の趣味で固めたデートコースに
+;won't the whole itinerary revolve
+
+
+;なっちゃうんじゃないか？
+;around your own hobbies?
+
+
+;え～、そんなことないよ。　彼女だって、
+;Oh, come on. I'm sure she'd enjoy it
+
+
+;ＹＡＭＡＮＯやＭＩＫＯＮのショールーム
+;if you took her to the YAMANO and MIKON
+
+
+;とか連れてけば、喜ぶと思うけど？
+;showrooms, don't you think?
+
+
+;それはお前だけでしょー！
+;You're the only one who'd enjoy that!
+
+
+;そ～かな～。
+;You think so?
+
+
+;そうだよ。
+;I know so.
+
+
+;まあいいわ。
+;Fine.
+
+
+;じゃあ、ベルダンディーには私から
+;I'll speak to Belldandy
+
+
+;話をしておくから、
+;myself, then.
+
+
+;螢ちゃんはＴＶでも観ながら
+;You can watch TV or something
+
+
+;待っててね。
+;while you wait, Kei.
+
+
+;ああ、頼む。
+;Okay, please do.
+
+
+;任せてよ。
+;Leave it to me.
+
+
+;思わず二人が盛り上がっちゃうような
+;I'll plan a date so wonderful
+
+
+;デートプランを作ってあげるって！
+;you two won't be able to contain yourselves!
+
+
+;うん。
+;Okay.
+
+
+;やっぱり、持つべきモノは優しい妹だな。
+;There's nothing like having a sweet little sister.
+
+
+;ただいま～。
+;I'm home!
+
+
+;帰ってきた。
+;She's back.
+
+
+;ほら螢ちゃん、玄関へ行こ？
+;Come on, Kei. Let's go meet her.
+
+
+;う、うん。
+;O-Okay.
+
+
+;なに緊張してるの？
+;Why are you so nervous?
+
+
+;い、いや、別に・・・・・・。
+;I-I'm not...
+
+
+;お帰りなさい、ベルダンディー。
+;Welcome home, Belldandy.
+
+
+;あら、めぐみさん。
+;Oh, Megumi.
+
+
+;いらしてたんですか？
+;I didn't know you were here.
+
+
+;ただいま、螢一さん。
+;I'm home, Keiichi.
+
+
+;あ、ああ、おかへりなさい。
+;O-Oh, w-welcome h-home.
+
+
+;声が裏返ってるよ、螢ちゃん。
+;Your voice is cracking, Kei.
+
+
+;しっかりしてよ、もう・・・・・・・・。
+;Pull yourself together...
+
+
+;ほら自分で言うんでしょ？
+;Come on. You're going to ask her yourself, right?
+
+
+;ベ、ベルダンディー、あのさ・・・・・・。
+;B-Belldandy, listen...
+
+
+;はい？
+;Yes?
+
+
+;あの・・・・・・・・どこ行ってたの？
+;Um... Where did you go?
+
+
+;だああああ・・・・・・・・。
+;Aaargh...
+
+
+;えっ？　あの・・・・・・お酢が切れたので、
+;Oh? Well, we ran out of vinegar,
+
+
+;買い物に行ってたんですが、それが？
+;so I went shopping. Why do you ask?
+
+
+;ああ、いや、別に・・・・・・。
+;Oh, no reason...
+
+
+;螢ちゃん、初めて告白する中学生じゃ
+;Kei, you're not a middle schooler
+
+
+;ないんだから！
+;confessing his love for the first time!
+
+
+;わ、わかってるって。
+;I-I know that!
+
+
+;あ、あの・・・・・・。
+;U-Um...
+
+
+;そう言えば、
+;Oh, right.
+
+
+;スクルドは来週には帰ってくるって。
+;Skuld says she'll be back next week.
+
+
+;パソコンにメールが送られてた。
+;She sent an email to the computer.
+
+
+;だああああああぁぁ・・・・・っ
+;Aaaaaaargh!
+
+
+;そうなんですか。
+;Is that so?
+
+
+;あの娘、向こうで何か迷惑でもかけて
+;I hope she isn't causing anyone
+
+
+;なければいいんですけど・・・・・・。
+;any trouble over there...
+
+
+;スクルドなら大丈夫だよ。
+;Skuld will be fine.
+
+
+;結構あれでしっかりしてるし・・・・・・・・
+;She's surprisingly capable...
+
+
+;ハハハ・・・・・・。
+;Hahaha...
+
+
+;螢ちゃ～ん。　もしかして、わざと
+;Keeei? You're not doing this
+
+
+;やったりしてる～！？
+;on purpose, are you?!
+
+
+;ち、違うよ・・・・・・・・。
+;O-Of course not...
+
+
+;・・・・・・・・？
+;...?
+
+
+;ベ、ベルダンディー！
+;B-Belldandy!
+
+
+;は、はい・・・・・・。
+;Y-Yes...?
+
+
+;あの・・・・・・・・、その・・・・・・・・。
+;Um... Well...
+
+
+;明日の日曜、どこか行かないか・・・・・・・・？
+;Would you like to go somewhere tomorrow...?
+
+
+;オレと・・・・・・・・？
+;With me...?
+
+
+;螢一さんと・・・・・・？
+;With you...?
+
+
+;一緒に・・・・・・。
+;Together...
+
+
+;一緒に・・・・・・・・？
+;Together...?
+
+
+;あーもう、じれったいっ！！！
+;Oh, this is excruciating!
+
+
+;あのね、ベルダンディー、螢ちゃんがね、
+;Listen, Belldandy. Kei wants to know
+
+
+;明日デートしないかって。
+;if you'll go on a date with him tomorrow.
+
+
+;め、めぐみっ！
+;M-Megumi!
+
+
+;バ、バカ、なに言ってんだよ！
+;Y-You idiot! What are you saying?!
+
+
+;ハハハ・・・・・・・・、実はそうなんだ。
+;Hahaha... Though she is right.
+
+
+;バカとは何よ、バカとは？
+;Who are you calling an idiot?
+
+
+;デートしたいんでしょ？　ハッキリ言えば
+;You want to go on a date, don't you?
+
+
+;いいじゃない！
+;Then just come out and say it!
+
+
+;全く、男らしくないんだから！
+;Honestly, where's your backbone?
+
+
+;何だと、このっ！！
+;What did you say, you little...?!
+
+
+;何よ、何だっていうの！？
+;What? You want to make something of it?!
+
+
+;いいわよ、相手になりましょうか！！
+;Fine! I'll take you on!
+
+
+;・・・・・・。
+;...
+
+
+;よ～し、上等だ！
+;All right, bring it on!
+
+
+;覚悟しろよ、めぐみっ！！
+;Prepare yourself, Megumi!
+
+
+;子供の頃のわたしじゃないんだから、
+;I'm not the little girl I used to be.
+
+
+;螢ちゃんなんか怖くも何ともないわ！
+;You don't scare me one bit, Kei!
+
+
+;こいつっ・・・・・・・・！！
+;Why, you...!
+
+
+;言わせておけば！！
+;I've had enough of your mouth!
+
+
+;うれしいです。
+;I'd be delighted.
+
+
+;えっ？
+;Huh?
+
+
+;はっ？
+;What?
+
+
+;明日は日曜ですもの、思いっきり
+;Tomorrow is Sunday, after all.
+
+
+;楽しみましょう、螢一さん。
+;Let's enjoy ourselves, Keiichi.
+
+
+;・・・・・・・・・・・・・・はい。
+;Yes...
+
+
+;・・・・・・・・フフッ。
+;Hee hee...
+
+
+;良かったね、螢ちゃん。
+;Good for you, Kei.
+
+
+;うん・・・・・・・・。
+;Yeah...
+
+
+;でもいいの？　なんかドサクサっぽく
+;But are you sure? The invitation got lost
+
+
+;なっちゃったけど・・・・・・。
+;in all that commotion...
+
+
+;ええ。　もちろん喜んで。
+;Yes. I'd be very happy to go.
+
+
+;ハ、ハハハ・・・・・・。
+;H-Hahaha...
+
+
+;や、やったああああ・・・・・・・・。
+;I-I did it!
+
+
+;あ、そうそう、丁度良かった！
+;Oh, yes! This is perfect!
+
+
+;？　なに？
+;Hmm? What is it?
+
+
+;もしよければ、明日はこのお芝居を
+;If you don't mind, I'd like to see
+
+
+;見に行きたいのですが・・・・・・・・？
+;this play tomorrow...
+
+
+;へー、これって今、ＴＶとかで宣伝してる
+;Oh, aren't these tickets for the play
+
+
+;芝居のチケットじゃない？
+;they've been advertising on TV?
+
+
+;何でも、すごく手に入りにくいって
+;I hear they're extremely
+
+
+;話だけど。
+;hard to get.
+
+
+;偶然、頂いたんです。
+;Someone happened to give them to me.
+
+
+;へ～。
+;Wow.
+
+
+;さすが、幸運の女神様。
+;Just what I'd expect from the goddess of good fortune.
+
+
+;こりゃ明日が楽しみだな。
+;Now I'm really looking forward to tomorrow.
+
+
+;私も・・・・・・。
+;So am I...
+
+
+;・・・・・・・・・・・・・・。
+;...
+
+
+;なんか、ものすご～く、疲れた・・・・。
+;Somehow, I feel completely exhausted...
