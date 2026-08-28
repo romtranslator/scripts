@@ -1,0 +1,8107 @@
+
+Block 00  ROM 0x003206-0x003395
+あっ！たからばこ！[BR]
+Oh! A treasure chest![BR]
+
+あけて　みるね！[PAGE]
+I'll open it![PAGE]
+
+
+[FF 23][FF 24]あらっ　ついてますわ！　あけて　みますわね！[PAGE]
+Oh, how fortunate! I'll open it.[PAGE]
+
+
+[FF 23][FF 24]いいもの　みつけた！[BR]
+I found something good![BR]
+
+あけちゃおっと！[PAGE]
+I'll open it![PAGE]
+
+
+[FF 23][FF 24]あれっ！まえに　とった　はずなのに！　ラッキー！[PAGE]
+Huh? I thought we took this before! Lucky![PAGE]
+
+
+[FF 23][FF 24]まあ！　またはいって[BR]
+My! There's something inside again.[BR]
+
+ますわ。ついてますわね！[PAGE]
+How fortunate![PAGE]
+
+
+[FF 23][FF 24]ああっ！またはいってる！なんて　ついているの！[PAGE]
+Oh! There's something inside again! What luck![PAGE]
+
+
+[FF 23][FF 24]アいテムがかがやく！[BR]
+The item shines![BR]
+
+これが　まぼろしの[FF 1C]<95>や2つめのひかりかがやく　プラス1アイテムを、[PAGE]
+Now you've acquired
+the elusive second radiant plus 1
+item!
+
+
+
+[FF 22]てにいれた！[FF 1C]<95>や3つめ　をみつけた！[BR]
+The third one was found!
+
+
+あとはんぶん、がんばれ！[FF 1C]<95>や4つめだ！[BR]
+Do your best on the remaining half!
+It's the fourth one!
+
+
+あと2つ、もうすぐだ！[FF 1C]<95>やついに、5つめだ！[BR]
+Only two left. Almost there!
+Finally, the fifth one!
+
+
+あと1つでぜんぶだ！[FF 1C]<95>やついに、プラス1アイテムをぜんぶみつけた！[PAGE]
+One more and that will be all!
+At last, you've found all the plus 1 items!
+
+
+
+[FF 09]マジックナイトになるひもちかづいたんだ！
+The day you become a magic knight is also closer!
+
+
+Block 01  ROM 0x003684-0x0036A8
+<02>いっっっえおかてにいれた！！[PAGE]
+<02>[unresolved item] acquired![PAGE]
+
+
+[FF 23][FF 24]つかいますか？<7F>はい　　いいえ
+[FF 23][FF 24]Use it?<7F>Yes    No
+
+Block 02  ROM 0x003850-0x003929
+<02>マジックサーベル<03>を[BR]
+<02>magic saber<03>[BR]
+
+[FF 0D]<FB>ら<02>マジックブック<03>を[BR]
+[FF 0D]<FB>ら<02>magic book<03>[BR]
+
+[FF 0D]<FB>ら<02>マジックスカーフ<03>を[BR]
+[FF 0D]<FB>ら<02>magic scarf<03>[BR]
+
+[FF 0D]<FB>ら<02>マジックコンパス<03>を[BR]
+[FF 0D]<FB>ら<02>magic compass<03>[BR]
+
+[FF 0D]<FB>ら<02>マジックブラシ<03>を[BR]
+[FF 0D]<FB>ら<02>magic brush<03>[BR]
+
+[FF 0D]<FB>ら<02>マジックリップ<03>を[BR]
+[FF 0D]<FB>ら<02>magic lipstick<03>[BR]
+
+[FF 0D]<FB>ら<02>じゅもんしょ<03>を[BR]
+[FF 0D]<FB>ら<02>spell book<03>[BR]
+
+[FF 0D]<FB>ら<02>メガネ<03>を[BR]
+[FF 0D]<FB>ら<02>glasses<03>[BR]
+
+[FF 0D]<FB>ら<02>つぼ<03>を[BR]
+[FF 0D]<FB>ら<02>pot<03>[BR]
+
+[FF 0D]<FB>ら<02>やくそう<03>を[BR]
+[FF 0D]<FB>ら<02>healing herb<03>[BR]
+
+[FF 0D]<FB>ら<02>うたのほん<03>を[BR]
+[FF 0D]<FB>ら<02>songbook<03>[BR]
+
+[FF 0D]<FB>ら<02>パレット<03>を[BR]
+[FF 0D]<FB>ら<02>palette<03>[BR]
+
+[FF 0D]<FB>ら<02>とぶくすり<03>を
+[FF 0D]<FB>ら<02>flight medicine<03>
+
+Block 03  ROM 0x003C09-0x003EAD
+わかれみちが　あります[PAGE]
+The road forks here.[PAGE]
+
+
+[FF 22]どっちに　いく？[BR]
+[FF 22]Which way will you go?[BR]
+
+[FF 22]<7F>ひだり　　みぎ[FF 18]<02><80>ョちッ<3D>んィんイん[FF 10]ち<C8>。[FF 23][FF 24][FF 10]ち<C8><02>[FF 23][FF 24][FF 0D]ソんろち<C0>つハん<DF>て<E4><C1><C9>ミん4ん<B0>んおおきな　わかれみちだ！どっちに　いこう？[PAGE]
+[FF 22]<7F>Left    Right[FF 18]<02><80>ョちッ<3D>んィんイん[FF 10]ち<C8>。[FF 23][FF 24][FF 10]ち<C8><02>[FF 23][FF 24][FF 0D]ソんろち<C0>つハん<DF>て<E4><C1><C9>ミん4ん<B0>んIt's a big fork in the road! Which way should we go?[PAGE]
+
+
+[FF 23][FF 0D]<CE>んじゅうじろ　ですわ[BR]
+[FF 23][FF 0D]<CE>んIt is a crossroads.[BR]
+
+どちらに　いきましょう？[PAGE]
+Which way shall we go?[PAGE]
+
+
+[FF 23][FF 0D]<CE>んおおきな　わかれみちよ。どっちに　いく？[PAGE]
+[FF 23][FF 0D]<CE>んIt's a big fork in the road. Which way are we going?[PAGE]
+
+
+[FF 23][FF 0D]<CE>んろた<C0><FE>かる<07>つせ<3D>て<E4><C1><C9>ろそ<C0>つ<E7>ん<DF>て<E4><C1><C9><EB>ん、<3D><7F>このまますすむ[BR]
+[FF 23][FF 0D]<CE>んろた<C0><FE>かる<07>つせ<3D>て<E4><C1><C9>ろそ<C0>つ<E7>ん<DF>て<E4><C1><C9><EB>ん、<3D><7F>Keep going[BR]
+
+　むらにいく[FF 19]<02>　ュ<80>ョ<3D>ん<7F>このまますすむ[BR]
+ Go to the village[FF 19]<02>　ュ<80>ョ<3D>ん<7F>Keep going[BR]
+
+　もりにいく[FF 19]<02>　ュ<80>ョ<3D>ん<7F>このまますすむ[BR]
+ Go to the forest[FF 19]<02>　ュ<80>ョ<3D>ん<7F>Keep going[BR]
+
+　ちがう　ばしょにいく[FF 19]<02>　ュ<80>ョヲ<3D>ェ<3D>エ<3D>[FF 10]ち<C8>　[FF 23][FF 24][FF 23][FF 0D]コ<3D>ろそ<C0>つナ<3D><DF>て<E4><C1><C9>ヒ<3D>A<3D><C9><3D>わかれみちが　あります　おくは　むら[PAGE]
+ Go somewhere else[FF 19]<02>　ュ<80>ョヲ<3D>ェ<3D>エ<3D>[FF 10]ち<C8>　[FF 23][FF 24][FF 23][FF 0D]コ<3D>ろそ<C0>つナ<3D><DF>て<E4><C1><C9>ヒ<3D>A<3D><C9><3D>The road forks here. The village is farther away,[PAGE]
+
+
+[FF 22]てまえは　やまに[FF 22]つづいています[PAGE]
+[FF 22]and the nearer path[FF 22]leads to the mountain.[PAGE]
+
+
+[FF 23][FF 0D]<FC><3D>わかれみちが　あります　おくは　やま[PAGE]
+[FF 23][FF 0D]<FC><3D>The road forks here. The mountain is farther away,[PAGE]
+
+
+[FF 22]てまえは　もりに[FF 22]つづいています[PAGE]
+[FF 22]and the nearer path[FF 22]leads to the forest.[PAGE]
+
+
+[FF 23][FF 0D]<FC><3D>わかれみちが　あります　おくは　もり[PAGE]
+[FF 23][FF 0D]<FC><3D>The road forks here. The forest is farther away,[PAGE]
+
+
+[FF 22]てまえは　むらに[FF 22]つづいています[PAGE]
+[FF 22]and the nearer path[FF 22]leads to the village.[PAGE]
+
+
+[FF 23][FF 0D]<FC><3D>ろち<C0>つ<07><3E><DF>て<E4><C1><C9>ゅ<3E>ち<3E>や<3E>どこに　いこうか？[PAGE]
+[FF 23][FF 0D]<FC><3D>ろち<C0>つ<07><3E><DF>て<E4><C1><C9>ゅ<3E>ち<3E>や<3E>Where should we go?[PAGE]
+
+
+[FF 23][FF 0D]ャ<3E>どこに　いきます？[PAGE]
+[FF 23][FF 0D]ャ<3E>Where shall we go?[PAGE]
+
+
+[FF 23][FF 0D]ャ<3E>どこに　いくの？[PAGE]
+[FF 23][FF 0D]ャ<3E>Where are we going?[PAGE]
+
+
+[FF 23][FF 0D]ャ<3E>ろそ<C0>つク<3E><DF>て<E4><C1><C9>セ<3E>ユ<3E><84><3E><7F>むらへいく[BR]
+[FF 23][FF 0D]ャ<3E>ろそ<C0>つク<3E><DF>て<E4><C1><C9>セ<3E>ユ<3E><84><3E><7F>Go to the village[BR]
+
+　やまにいく[FF 19]<02>　ュ<80>ョF<3E><7F>やまへいく[BR]
+ Go to the mountain[FF 19]<02>　ュ<80>ョF<3E><7F>Go to the mountain[BR]
+
+　もりにいく[FF 19]<02>　ュ<80>ョF<3E><7F>もりへいく[BR]
+ Go to the forest[FF 19]<02>　ュ<80>ョF<3E><7F>Go to the forest[BR]
+
+　むらにいく[FF 19]<02>　ュ<80>ョF<3E>J<3E>S<3E>[FF 10]ち<C8>。[FF 23][FF 24][FF 10]ち<C8><02>
+ Go to the village[FF 19]<02>　ュ<80>ョF<3E>J<3E>S<3E>[FF 10]ち<C8>。[FF 23][FF 24][FF 10]ち<C8><02>
+
+Block 04  ROM 0x005AC8-0x005D84
+　　　エスクード[BR]
+      Escudo[BR]
+
+せんとうくんれんUP[FF 00]　　まほうのうでわ[BR]
+Combat training UP[FF 00]    magic bracelet[BR]
+
+まほうくんれんUP[FF 00]　　せいなるオーブ[BR]
+Magic training UP[FF 00]    holy orb[BR]
+
+いのりUP[FF 00]　　けんじゃのじてん　　　べんきょうUP[FF 00]　　びじょのぞう[BR]
+Prayer UP[FF 00]    sage's encyclopedia      Study UP[FF 00]    statue of a beautiful woman[BR]
+
+げいじゅつUP[FF 00]　　ゆうわくのドレス　　　みりょくUP[FF 00]　　マジックサーベル[BR]
+Art UP[FF 00]    alluring dress      Charm UP[FF 00]    magic saber[BR]
+
+けんぎほじょアイテム[FF 00]　　マジックブック[BR]
+Swordplay support item[FF 00]    magic book[BR]
+
+まほうほじょアイテム[FF 00]　　マジックスカーフ[BR]
+Magic support item[FF 00]    magic scarf[BR]
+
+きひんほじょアイテム[FF 00]　　マジックコンパス[BR]
+Grace support item[FF 00]    magic compass[BR]
+
+ちのうほじょアイテム[FF 00]　　マジックブラシ[BR]
+Intelligence support item[FF 00]    magic brush[BR]
+
+げいじゅつほじょアイテム[FF 00]　　マジックリップ[BR]
+Art support item[FF 00]    magic lipstick[BR]
+
+みりょくほじょアイテム[FF 00]　ゲートキー[BR]
+Charm support item[FF 00] gate key[BR]
+
+あるもんが　ひらきます[FF 00]　じゅもんしょ[BR]
+Opens a certain gate[FF 00] spell book[BR]
+
+だれかが　さがしています[FF 00]　メガネ[BR]
+Someone is looking for it[FF 00] glasses[BR]
+
+だれかが　さがしています[FF 00][FF 0D]リト[FF 0D]ントろ<EF><C2>け<03>ろ<F0><C2><3D>つ<81>ト<DF>て<E4><C1><C9>2トHト<BA>トつぼ[BR]
+Someone is looking for them[FF 00][FF 0D]リト[FF 0D]ントろ<EF><C2>け<03>ろ<F0><C2><3D>つ<81>ト<DF>て<E4><C1><C9>2トHト<BA>トpot[BR]
+
+えきたいをもちはこべます[FF 00]つぼ<7D>オイルいり<7E>[BR]
+Can carry liquids[FF 00]pot <7D>filled with oil<7E>[BR]
+
+オイルがはいっています。[FF 00]つぼ<7D>みずいり<7E>[BR]
+Contains oil.[FF 00]pot <7D>filled with water<7E>[BR]
+
+みずがはいっています。[FF 00]やくそう[BR]
+Contains water.[FF 00]healing herb[BR]
+
+びょうきによくききます。[FF 00]うたのほん[BR]
+Very effective against illness.[FF 00]songbook[BR]
+
+うたがのっています。[FF 00]パレット[BR]
+Contains songs.[FF 00]palette[BR]
+
+やまでえがかけます。[FF 00][FF 0D]ちナつむナろ<F4><C2><3D>の<03>つッナて<E4><C1><C9>ふうけいが[BR]
+Lets you paint on the mountain.[FF 00][FF 0D]ちナつむナろ<F4><C2><3D>の<03>つッナて<E4><C1><C9>landscape[BR]
+
+すばらしいえです。[FF 00]ふうけいが[BR]
+A splendid painting.[FF 00]landscape[BR]
+
+あまりうまくありません。[FF 00]とぶくすり[BR]
+Not painted very well.[FF 00]flight medicine[BR]
+
+くうちゅうをあるけます。[FF 00]ぷう[FF 00]ぷうぷう
+Lets you walk through the air.[FF 00]Puu[FF 00]Puu-puu
+
+Block 05  ROM 0x005EC3-0x006380
+　　セーブしますか？[BR]
+    Save?[BR]
+
+<7F>はい　　いいえ[FF 18]<02><80>ョ　ッ<E2>ニ<F5>ニ<E6>ニ[FF 09]　セーブをやめます[FF 00][FF 01]どっちにする？[FF 01][FF 07]<7F>セーブ1　　セーブ2[FF 08][FF 18]<02><80>ョァッそヌてヌョヌ[FF 01][FF 01][FF 07][FF 0D]<E6>す[FF 13]<B3>　セーブ1に[FF 01]　セーブしました[FF 08][FF 00][FF 01][FF 01][FF 07][FF 0D]<EE>す[FF 13]<B3>　セーブ2に[FF 01]　セーブしました[FF 08][FF 00]<7F>ほうしん[BR]
+<7F>Yes    No[FF 18]<02><80>ョ　ッ<E2>ニ<F5>ニ<E6>ニ[FF 09] Stop saving[FF 00][FF 01]Which one?[FF 01][FF 07]<7F>Save 1    Save 2[FF 08][FF 18]<02><80>ョァッそヌてヌョヌ[FF 01][FF 01][FF 07][FF 0D]<E6>す[FF 13]<B3> Saved to Save 1[FF 01][FF 08][FF 00][FF 01][FF 01][FF 07][FF 0D]<EE>す[FF 13]<B3> Saved to Save 2[FF 01][FF 08][FF 00]<7F>Training Policy[BR]
+
+　ひいきキャラせんたく[FF 19]<02>　ュ<80>ョ2ヌ6ヌめネ[FF 01][FF 01]<7F>やさしく　　ふつう　　[FF 01]　きびしく[FF 29]<03><02><80>ョァッ　ュ<B0>ヌ<B6>ヌ<DF>ヌ<F8>ヌ[FF 09][FF 10]つ<C0>　からだにやさしくそだて　ますが、こうかは？です。[FF 00][FF 09][FF 10]つ<C0>。バランスよくそだてます。[FF 00][FF 09][FF 10]つ<C0><02>こうかはあがりますが、[BR]
+ Favorite Character[FF 19]<02>　ュ<80>ョ2ヌ6ヌめネ[FF 01][FF 01]<7F>Gentle    Normal    [FF 01] Strict[FF 29]<03><02><80>ョァッ　ュ<B0>ヌ<B6>ヌ<DF>ヌ<F8>ヌ[FF 09][FF 10]つ<C0> This approach is easy on the body, but its results are modest.[FF 00][FF 09][FF 10]つ<C0>。This approach offers balanced training.[FF 00][FF 09][FF 10]つ<C0><02>Training is more effective, but[BR]
+
+たいりょく・きりょくの[BR]
+stamina and energy[BR]
+
+[PAGE]
+[PAGE]
+
+
+[FF 01]へりもはげしいです。[FF 00][FF 01][FF 01]だれをひいきしますか？　[FF 01]<7F>ひかる　　うみ　　ふう[FF 18]<03>　ュKュちョトネハネOノ<FC>ネ[FF 09][FF 0D]<7F>ネ[FF 10]ち<C0>　ひかるをひいきします[PAGE]
+[FF 01]will fall sharply.[FF 00][FF 01][FF 01]Whom will you favor? [FF 01]<7F>Hikaru    Umi    Fuu[FF 18]<03>　ュKュちョトネハネOノ<FC>ネ[FF 09][FF 0D]<7F>ネ[FF 10]ち<C0> Favor Hikaru[PAGE]
+
+
+[FF 09][FF 0D]Nネろッ<C2><FE>、<C0>つ7ネて<E4><C1><C9>ひかるは[BR]
+[FF 09][FF 0D]Nネろッ<C2><FE>、<C0>つ7ネて<E4><C1><C9>Hikaru has not[BR]
+
+しっそうしていません。[PAGE]
+run away.[PAGE]
+
+
+[FF 1C]めネろッ<C2>ョつ<B2>ネ<DF>て<E4><C1><CD><EE>た<C9><C0>ネ<DA>ネ<E8>ネ<DA>ネ<DA>ネ<C0>ネ<E8>ネどうし[Player]！[BR]
+[FF 1C]めネろッ<C2>ョつ<B2>ネ<DF>て<E4><C1><CD><EE>た<C9><C0>ネ<DA>ネ<E8>ネ<DA>ネ<DA>ネ<C0>ネ<E8>ネGuru [Player]![BR]
+
+きょうもがんばる！[FF 00]なんか、やるきしないな。[FF 00]ちょうしわるいよ。[BR]
+I'll do my best today too![FF 00]I just don't feel motivated.[FF 00]I don't feel so good.[BR]
+
+ぐっすん。[FF 00][FF 09][FF 0D]けノ[FF 10]ち<C0>。ふうをひいきします[PAGE]
+Sniff...[FF 00][FF 09][FF 0D]けノ[FF 10]ち<C0>。 Favor Fuu[PAGE]
+
+
+[FF 09][FF 0D]わノろタ<C2><FE>、<C0>つにノて<E4><C1><C9>ふうは[BR]
+[FF 09][FF 0D]わノろタ<C2><FE>、<C0>つにノて<E4><C1><C9>Fuu has not[BR]
+
+しっそうしていません。[PAGE]
+run away.[PAGE]
+
+
+[FF 1C]めネろタ<C2>ョつイノ<DF>て<E4><C1><CD><F9>た<C9>タノヨノ4ノヨノヨノタノ4ノさあ、1にちのはじまり　ですわ！[FF 00]なぜ、こんなことしないといけないのですか？[FF 00]もうだめですわ。[BR]
+[FF 1C]めネろタ<C2>ョつイノ<DF>て<E4><C1><CD><F9>た<C9>タノヨノ4ノヨノヨノタノ4ノNow then, a new day begins![FF 00]Why must I do such a thing?[FF 00]I cannot go on.[BR]
+
+[Player]さん、たすけて？[FF 00][FF 09][FF 0D]<C0>ノ[FF 10]ち<C0><02>うみをひいきします[PAGE]
+[Player], will you help me?[FF 00][FF 09][FF 0D]<C0>ノ[FF 10]ち<C0><02> Favor Umi[PAGE]
+
+
+[FF 09][FF 0D]<E3>ノろミ<C2><FE>、<C0>つ<CD>ノて<E4><C1><C9>うみは[BR]
+[FF 09][FF 0D]<E3>ノろミ<C2><FE>、<C0>つ<CD>ノて<E4><C1><C9>Umi has not[BR]
+
+しっそうしていません。[PAGE]
+run away.[PAGE]
+
+
+[FF 1C]めネろミ<C2>ョつ<F2>ノ<DF>て<E4><C1><CD>、ち<C9>　ハしハよハしハしハ　ハよハ[Player]！　わたしの[BR]
+[FF 1C]めネろミ<C2>ョつ<F2>ノ<DF>て<E4><C1><CD>、ち<C9>　ハしハよハしハしハ　ハよハ[Player]! You want to see[BR]
+
+かつやくみたいでしょう！[FF 00]まあ　なんとかがんばってみるけど・・[FF 00]ひっく、ひっく。[Player][BR]
+me in action, don't you?[FF 00]Well, I'll try my best somehow...[FF 00]Sob, sob. [Player],[BR]
+
+きょうもしゅぎょうなの？[FF 00]ハハ<93>ハNハ<B1>ハ<C0>ハ<D1>ハをヒョヒせんとうくんれんしますか　　<7F>はい　　いいえ[FF 18]<02><C0>ョァッ<81>ハ0ハ7ハ[FF 10]ヤ<C0>。[FF 1B][FF 10]ヤ<C0>　[FF 1B]まほうくんれんしますか　[FF 1C]ヨハおえかきしますか[BR]
+are we training again today?[FF 00]ハハ<93>ハNハ<B1>ハ<C0>ハ<D1>ハをヒョヒBegin combat training?    <7F>Yes    No[FF 18]<02><C0>ョァッ<81>ハ0ハ7ハ[FF 10]ヤ<C0>。[FF 1B][FF 10]ヤ<C0>　[FF 1B]Begin magic training? [FF 1C]ヨハPaint?[BR]
+
+[FF 1C]ヨハダンスしますか[BR]
+[FF 1C]ヨハDance?[BR]
+
+[FF 1C]ヨハべんきょうしますか[BR]
+[FF 1C]ヨハStudy?[BR]
+
+[FF 1C]ヨハ<D7>ハ<E9>ハ<F7>ハしぜんかんさつしますか　[FF 1C]ヨハおいのりしますか[BR]
+[FF 1C]ヨハ<D7>ハ<E9>ハ<F7>ハObserve nature? [FF 1C]ヨハPray?[BR]
+
+[FF 1C]ヨハうたをうたいますか[BR]
+[FF 1C]ヨハSing?[BR]
+
+[FF 1C]ヨハ[FF 0D]せヒぼうけんにでますか[BR]
+[FF 1C]ヨハ[FF 0D]せヒGo on an adventure?[BR]
+
+[FF 1C]ヨハろ<77><C0>R<C8>つはヒて<E4><C1><C9>ぼうけんは、3にんで[BR]
+[FF 1C]ヨハろ<77><C0>R<C8>つはヒて<E4><C1><C9>The three should go[BR]
+
+いきましょう。[FF 10]ヤ<C0>　[FF 00]おやすみしますか[BR]
+on adventures together.[FF 10]ヤ<C0>　[FF 00]Rest?[BR]
+
+[FF 1C]ヨハ[FF 0D]<7E>フ[FF 09][FF 10]ち<C0>　[FF 0D]<EE>たどうし[Player]！きょうの[BR]
+[FF 1C]ヨハ[FF 0D]<7E>フ[FF 09][FF 10]ち<C0>　[FF 0D]<EE>たGuru [Player]! Today's[BR]
+
+しゅぎょうのせいかは、
+training results are...
+
+Block 06  ROM 0x006440-0x0064D0
+[Hikaru]: ひかるさん、[BR]
+[Hikaru]: Hikaru has not[BR]
+
+もどってきませんね。[PAGE]
+returned yet.[PAGE]
+
+
+[FF 09][FF 0D]カちのんきにかまえてるばあいじゃないわよ！[PAGE]
+[FF 09][FF 0D]カちThis is no time to sit around![PAGE]
+
+
+[FF 09][FF 1C]<90>ヒろエ<C2>Rちをろッ<C2><FE>、<C0><3E>ゃも[FF FF]<3E>、つ<7D>H<DF>いミ<79>。ゃ<02><CD><F8><07>つ5ヒて<E4><C1><C9>[FF 0D]<E6>ヘ[FF 10]ち<C0>。[FF 0D]<E4>フきょうのせいかですか？[BR]
+[FF 09][FF 1C]<90>ヒろエ<C2>Rちをろッ<C2><FE>、<C0><3E>ゃも[FF FF]<3E>、つ<7D>H<DF>いミ<79>。ゃ<02><CD><F8><07>つ5ヒて<E4><C1><C9>[FF 0D]<E6>ヘ[FF 10]ち<C0>。[FF 0D]<E4>フToday's results?[BR]
+
+[FF 02]っそうですわね<0A>・・・
+[FF 02]っLet me see<0A>...
+
+Block 07  ROM 0x006599-0x006646
+ゅソちまったく、ふうったら、　どこにいってるのかしら？[PAGE]
+ゅソちHonestly, where could Fuu have gone?[PAGE]
+
+
+[FF 09][FF 0D]っちだいじょうぶだよ[BR]
+[FF 09][FF 0D]っちShe'll be fine.[BR]
+
+すぐもどってくるよ。[PAGE]
+She'll be back soon.[PAGE]
+
+
+[FF 09][FF 1C]<E0>フろト<C2>Rちをろタ<C2><FE>、<C0><3E>ゃも[FF FF]<3E>、つ<7D>H<DF>いミ<7A>。ゃ<02><CD><F8><07>つ<DA>フて<E4><C1><C9>[FF 0D]ソマ[FF 10]ち<C0><02>[FF 0D]イホ[Player]！　きょうは、[BR]
+[FF 09][FF 1C]<E0>フろト<C2>Rちをろタ<C2><FE>、<C0><3E>ゃも[FF FF]<3E>、つ<7D>H<DF>いミ<7A>。ゃ<02><CD><F8><07>つ<DA>フて<E4><C1><C9>[FF 0D]ソマ[FF 10]ち<C0><02>[FF 0D]イホ[Player]! Today,[BR]
+
+このくらいがんばったわ！[PAGE]
+I worked this hard![PAGE]
+
+
+[FF 09][FF 0D]コホ[PAGE]
+[FF 09][FF 0D]コホ[PAGE]
+
+
+[FF 09][FF 0D]Nホ
+[FF 09][FF 0D]Nホ
+
+Block 08  ROM 0x006702-0x007615
+[Cat-ear Hikaru]: うみちゃん、うみちゃん、はやくもどってきてよ！[PAGE]
+[Cat-ear Hikaru]: Umi! Umi! Please come back soon![PAGE]
+
+
+[FF 09][FF 0D]やちそうですわ！　[Player]に[BR]
+[FF 09][FF 0D]やちThat is it! Let us ask [Player][BR]
+
+さがしてもらいましょう！[PAGE]
+to look for her![PAGE]
+
+
+[FF 01]えっ？だめ？[PAGE]
+[FF 01]Huh? No?[PAGE]
+
+
+[FF 09][FF 1C]ュホろヤ<C2>Rちをろミ<C2><FE>、<C0><3E>ゃも[FF FF]<3E>、つ<7D>H<DF>い<E8><79>。ゃ<02><CD><F8><07>つァホて<E4><C1><C9>ろヨ<C0>ん<FE><02>の<0A>もヨ<C0>ひラ<C0>て<E4><C1><C9>Zもヨ<C0>つFマて<E4><C1><C9>[PAGE]
+[FF 09][FF 1C]ュホろヤ<C2>Rちをろミ<C2><FE>、<C0><3E>ゃも[FF FF]<3E>、つ<7D>H<DF>い<E8><79>。ゃ<02><CD><F8><07>つァホて<E4><C1><C9>ろヨ<C0>ん<FE><02>の<0A>もヨ<C0>ひラ<C0>て<E4><C1><C9>Zもヨ<C0>つFマて<E4><C1><C9>[PAGE]
+
+
+[FF 09][FF 0D]4マ<B3>マ<DE>マ<08>ミゆミトミ<84>ミWミ<DF>ミ<B7>マ<CA>マたいりょくが[FF 1E]UP！[BR]
+[FF 09][FF 0D]4マ<B3>マ<DE>マ<08>ミゆミトミ<84>ミWミ<DF>ミ<B7>マ<CA>マstamina is [FF 1E]UP![BR]
+
+[FF 0D]<7E>マたいりょくが[FF 1E]DOWN[BR]
+[FF 0D]<7E>マstamina is [FF 1E]DOWN[BR]
+
+[FF 0D]<7E>マ<E2>マ<F4>マきりょくが[FF 1E]UP！[BR]
+[FF 0D]<7E>マ<E2>マ<F4>マenergy is [FF 1E]UP![BR]
+
+[FF 0D]<7E>マきりょくが[FF 1E]DOWN！[BR]
+[FF 0D]<7E>マenergy is [FF 1E]DOWN![BR]
+
+[FF 0D]<7E>マゃミたミけんぎが[FF 1E]UP！[BR]
+[FF 0D]<7E>マゃミたミswordplay is [FF 1E]UP![BR]
+
+[FF 0D]<7E>マけんぎが[FF 1E]DOWN！[BR]
+[FF 0D]<7E>マswordplay is [FF 1E]DOWN![BR]
+
+[FF 0D]<7E>マるミアミまほうが[FF 1E]UP！[BR]
+[FF 0D]<7E>マるミアミmagic is [FF 1E]UP![BR]
+
+[FF 0D]<7E>マまほうが[FF 1E]DOWN！[BR]
+[FF 0D]<7E>マmagic is [FF 1E]DOWN![BR]
+
+[FF 0D]<7E>マネミルミきひんが[FF 1E]UP！[BR]
+[FF 0D]<7E>マネミルミgrace is [FF 1E]UP![BR]
+
+[FF 0D]<7E>マきひんが[FF 1E]DOWN！[BR]
+[FF 0D]<7E>マgrace is [FF 1E]DOWN![BR]
+
+[FF 0D]<7E>マ3ミDミちのうが[FF 1E]UP！[BR]
+[FF 0D]<7E>マ3ミDミintelligence is [FF 1E]UP![BR]
+
+[FF 0D]<7E>マちのうが[FF 1E]DOWN！[BR]
+[FF 0D]<7E>マintelligence is [FF 1E]DOWN![BR]
+
+[FF 0D]<7E>マ<B0>ミ<C7>ミげいじゅつが[FF 1E]UP！[BR]
+[FF 0D]<7E>マ<B0>ミ<C7>ミart is [FF 1E]UP![BR]
+
+[FF 0D]<7E>マげいじゅつが[FF 1E]DOWN[BR]
+[FF 0D]<7E>マart is [FF 1E]DOWN[BR]
+
+[FF 0D]<7E>マ<E3>ミ<F5>ミみりょくが[FF 1E]UP！[BR]
+[FF 0D]<7E>マ<E3>ミ<F5>ミcharm is [FF 1E]UP![BR]
+
+[FF 0D]<7E>マみりょくが[FF 1E]DOWN！[BR]
+[FF 0D]<7E>マcharm is [FF 1E]DOWN![BR]
+
+[FF 0D]<7E>マJムかムふムキムNム<78>ム[FF 0D]<EE>た[Player]！　もう、や！[PAGE]
+[FF 0D]<7E>マJムかムふムキムNム<78>ム[FF 0D]<EE>た[Player]! I've had enough![PAGE]
+
+
+[FF 09][FF 1C]<90>ヒ[FF 0D]<EE>たぐすっ、・・・[BR]
+[FF 09][FF 1C]<90>ヒ[FF 0D]<EE>たSniff...[BR]
+
+なんでもないよ、[Player][PAGE]
+It's nothing, [Player].[PAGE]
+
+
+[FF 09][FF 1C]<90>ヒ[FF 0D]<EE>たわたし、すごくいま[BR]
+[FF 09][FF 1C]<90>ヒ[FF 0D]<EE>たMy heart is really[BR]
+
+どきどきしてるんだ！[PAGE]
+pounding right now![PAGE]
+
+
+[FF 09][FF 1C]<90>ヒ[FF 0D]<EE>たさあ、あしたもこの[BR]
+[FF 09][FF 1C]<90>ヒ[FF 0D]<EE>たAll right, tomorrow I'll[BR]
+
+ちょうしでがんばる！[PAGE]
+keep up this pace![PAGE]
+
+
+[FF 09][FF 1C]<90>ヒ[FF 1C]<90>ヒ[FF 10]ち<C0>　[Hikaru]: ひかるさんがいませんわ。こまりましたわね。[PAGE]
+[FF 09][FF 1C]<90>ヒ[FF 1C]<90>ヒ[FF 10]ち<C0>　[Hikaru]: Hikaru is gone. This is troubling.[PAGE]
+
+
+[FF 09][Umi]: おなかがすいたら[BR]
+[FF 09][Umi]: She'll come back[BR]
+
+もどってくるわよ。[PAGE]
+when she gets hungry.[PAGE]
+
+
+[FF 09][FF 1C]<90>ヒAメ<F6>ムはメキメEメレメ[FF 0D]<F9>たごめんなさい。きょうは、[Player]と、おはなしする[PAGE]
+[FF 09][FF 1C]<90>ヒAメ<F6>ムはメキメEメレメ[FF 0D]<F9>たI am sorry. Today, I do not feel like speaking with [Player].[PAGE]
+
+
+[FF 01]きになれなくて・・・[PAGE]
+[FF 01]...[PAGE]
+
+
+[FF 09][FF 1C]<E0>フ[FF 0D]<F9>たきょうは、なぜだかとてもかなしいんです。[PAGE]
+[FF 09][FF 1C]<E0>フ[FF 0D]<F9>たFor some reason, I feel terribly sad today.[PAGE]
+
+
+[FF 09][FF 1C]<E0>フ[FF 0D]<F9>た・・・・・・・。　えっ？なにか、いいましたか？[PAGE]
+[FF 09][FF 1C]<E0>フ[FF 0D]<F9>た...Hm? Did you say something?[PAGE]
+
+
+[FF 09][FF 1C]<E0>フ[FF 0D]<F9>たわたくし、いま[BR]
+[FF 09][FF 1C]<E0>フ[FF 0D]<F9>たI am feeling[BR]
+
+ぜっこうちょうですわ！[PAGE]
+absolutely splendid![PAGE]
+
+
+[FF 09][FF 1C]<E0>フ[FF 1C]<E0>フ[FF 10]ち<C0>。[FF 0D]ソちふうがいないわ！[BR]
+[FF 09][FF 1C]<E0>フ[FF 1C]<E0>フ[FF 10]ち<C0>。[FF 0D]ソちFuu is gone![BR]
+
+いちだいじよ！[PAGE]
+This is serious![PAGE]
+
+
+[FF 09][FF 0D]けちどうしちゃったのかなあ？[PAGE]
+[FF 09][FF 0D]けちI wonder what happened to her.[PAGE]
+
+
+[FF 09][FF 1C]<E0>フリモ<E4>メ<09>モはモワモカモ[FF 0D]、ちいいかげん、もうやんなっちゃうわ！ねえ、[Player][PAGE]
+[FF 09][FF 1C]<E0>フリモ<E4>メ<09>モはモワモカモ[FF 0D]、ちI've had enough of this! Hey, [Player]![PAGE]
+
+
+[FF 09][FF 1C]ュホ[FF 0D]、ちえーん、もうとうきょうにかえりたいよー。[PAGE]
+[FF 09][FF 1C]ュホ[FF 0D]、ちWaaah! I want to go back to Tokyo![PAGE]
+
+
+[FF 09][FF 1C]ュホ[FF 0D]、ちうふっ、うふふっ、[BR]
+[FF 09][FF 1C]ュホ[FF 0D]、ちTee-hee, tee-hee.[BR]
+
+やーね、なんでもないのよ[PAGE]
+Oh, it's nothing.[PAGE]
+
+
+[FF 09][FF 1C]ュホ[FF 0D]、ちほーほっ。いまのわたしにこわいものはないわ！[PAGE]
+[FF 09][FF 1C]ュホ[FF 0D]、ちOhoho! Nothing frightens me now![PAGE]
+
+
+[FF 09][FF 1C]ュホ[FF 1C]ュホ[FF 10]ち<C0><02>[Cat-ear Hikaru]: うみちゃんがいないよ！　どうしよう、どうしよう。[PAGE]
+[FF 09][FF 1C]ュホ[FF 1C]ュホ[FF 10]ち<C0><02>[Cat-ear Hikaru]: Umi is gone! What do we do? What do we do?[PAGE]
+
+
+[FF 09][Fuu]: だいじょうぶですわ。うみさんしっかりものですから[PAGE]
+[FF 09][Fuu]: She will be fine. Umi is quite dependable.[PAGE]
+
+
+[FF 09][FF 1C]ュホIヤMヤォユ<E9>ユIヤIヤIヤIヤ<E9>モにヤフヤ<DE>ヨSヨ<C2>ヨ[FF 09]ひかるはきぶんがよくなり[COLOR RED]ぷんぷんが[COLOR DEFAULT]なおった。[FF 0D]<8F>ヨ[PAGE]
+[FF 09][FF 1C]ュホIヤMヤォユ<E9>ユIヤIヤIヤIヤ<E9>モにヤフヤ<DE>ヨSヨ<C2>ヨ[FF 09]Hikaru feels better, and her [COLOR RED]anger[COLOR DEFAULT] subsides.[FF 0D]<8F>ヨ[PAGE]
+
+
+[FF 09][FF 1C]<90>ヒ[FF 09]ひかるは、[BR]
+[FF 09][FF 1C]<90>ヒ[FF 09]Hikaru cheers up[BR]
+
+すこしたのしくなり、[BR]
+a little, and[BR]
+
+[PAGE]
+[PAGE]
+
+
+[FF 01][COLOR STYLE_09]ぐっすんが[COLOR DEFAULT]なおった[FF 0D]<8F>ヨ[PAGE]
+[FF 01]her [COLOR STYLE_09]tearfulness[COLOR DEFAULT] passes.[FF 0D]<8F>ヨ[PAGE]
+
+
+[FF 09][FF 1C]<90>ヒ[FF 09]ひかるはねつがさめて、　[COLOR RED]ドキドキが[COLOR DEFAULT]なおった。[FF 0D]<8F>ヨ[PAGE]
+[FF 09][FF 1C]<90>ヒ[FF 09]Hikaru cools down, and her [COLOR RED]fluster[COLOR DEFAULT] passes.[FF 0D]<8F>ヨ[PAGE]
+
+
+[FF 09][FF 1C]<90>ヒ[FF 1C]<90>ヒひかるは[COLOR STYLE_04]ぷんぷんで[COLOR DEFAULT]す。　[PAGE]
+[FF 09][FF 1C]<90>ヒ[FF 1C]<90>ヒHikaru is [COLOR STYLE_04]angry[COLOR DEFAULT].[PAGE]
+
+
+どうしますか？[BR]
+What will you do?[BR]
+
+[FF 01]<7F>しかる　　なだめる[FF 18]<02>　ュKュ<E6>ヤ<EA>ヤさユ[FF 09]ごめん。おこったりして。[FF 0D]ーヨ[PAGE]
+[FF 01]<7F>Scold    Soothe[FF 18]<02>　ュKュ<E6>ヤ<EA>ヤさユ[FF 09]Sorry I got mad.[FF 0D]ーヨ[PAGE]
+
+
+[FF 09]ひかるはきげんがなおった[PAGE]
+[FF 09]Hikaru's mood improves.[PAGE]
+
+
+[FF 09][FF 1C]<90>ヒ[FF 09]ぷん、ほんとうのこころでいってくれないとだめだ。[PAGE]
+[FF 09][FF 1C]<90>ヒ[FF 09]Hmph! You have to mean it when you say that.[PAGE]
+
+
+[FF 09][FF 1C]<90>ヒひかるは[COLOR STYLE_09]ぐっすんで[COLOR DEFAULT]す。　[PAGE]
+[FF 09][FF 1C]<90>ヒHikaru is [COLOR STYLE_09]tearful[COLOR DEFAULT].[PAGE]
+
+
+どうしますか？[BR]
+What will you do?[BR]
+
+[FF 01]<7F>しかる　　はげます[FF 18]<02>　ュKュ0ユ4ユTユ[FF 09]ぐすっ、いいよ。[Player][BR]
+[FF 01]<7F>Scold    Encourage[FF 18]<02>　ュKュ0ユ4ユTユ[FF 09]Sniff... It's okay, [Player].[BR]
+
+くすんくすん。[PAGE]
+Sniff, sniff.[PAGE]
+
+
+[FF 09][FF 1C]<90>ヒ[FF 09]うん、がんばらなくちゃ。ないてるばあいじゃない。[FF 0D]ーヨ[PAGE]
+[FF 09][FF 1C]<90>ヒ[FF 09]Yeah, I have to keep going. This is no time to cry.[FF 0D]ーヨ[PAGE]
+
+
+[FF 09]ひかるはげんきになった。[PAGE]
+[FF 09]Hikaru cheers up.[PAGE]
+
+
+[FF 09][FF 1C]<90>ヒひかるは[COLOR RED]ドキドキで[COLOR DEFAULT]す。　[PAGE]
+[FF 09][FF 1C]<90>ヒHikaru is [COLOR RED]flustered[COLOR DEFAULT].[PAGE]
+
+
+どうしますか？[BR]
+What will you do?[BR]
+
+[FF 01]<7F>おこる　　ひやかす[FF 18]<02>　ュKュふヨみヨヲヨ[FF 09]やだー！[PAGE]
+[FF 01]<7F>Get angry    Tease[FF 18]<02>　ュKュふヨみヨヲヨ[FF 09]No way![PAGE]
+
+
+[FF 09][FF 1C]<90>ヒ[FF 09]えっ、そ、そんなこと[FF 02]あ・[FF 02]あ・[FF 02]あ[FF 0D]ーヨさて、あしたもがんばる！[PAGE]
+[FF 09][FF 1C]<90>ヒ[FF 09]Huh? Wh-What are you saying?[FF 02]A-[FF 02]A-[FF 02]Ah![FF 0D]ーヨAnyway, I'll do my best tomorrow too![PAGE]
+
+
+[FF 09]ひかるはわれにかえった。[PAGE]
+[FF 09]Hikaru comes to her senses.[PAGE]
+
+
+[FF 09][FF 1C]<90>ヒろッ<C2>もイ<C2>Zもッ<C2>もウ<C2><CD><EE>た<3E>ゃも[FF FF]ろッ<C2>つ<7D>H<DF>いミ<79>。ゃ<02><CD><F8><07><C9>ひかるはふつうにもどった[FF 0D]<8F>ヨ[PAGE]
+[FF 09][FF 1C]<90>ヒろッ<C2>もイ<C2>Zもッ<C2>もウ<C2><CD><EE>た<3E>ゃも[FF FF]ろッ<C2>つ<7D>H<DF>いミ<79>。ゃ<02><CD><F8><07><C9>Hikaru returns to normal.[FF 0D]<8F>ヨ[PAGE]
+
+
+[FF 09][FF 1C]<90>ヒひかるはけががなおった。[FF 0D]<8F>ヨ[PAGE]
+[FF 09][FF 1C]<90>ヒHikaru's injury heals.[FF 0D]<8F>ヨ[PAGE]
+
+
+[FF 09][FF 1C]<90>ヒ[Cat-ear Hikaru]: [FF 0D]<92>ヨごめん。[Player]、[BR]
+[FF 09][FF 1C]<90>ヒ[Cat-ear Hikaru]: [FF 0D]<92>ヨSorry, [Player].[BR]
+
+みんな、しんぱいかけたね[PAGE]
+I made everyone worry.[PAGE]
+
+
+[FF 09][FF 0D]カちもう！ほんっとにしんぱいしたんだからね。[BR]
+[FF 09][FF 0D]カちHonestly! We were really worried about you.[BR]
+
+[PAGE]
+[PAGE]
+
+
+[FF 01]でも、よかったぶじで。[PAGE]
+[FF 01]Still, I am glad you are safe.[PAGE]
+
+
+[FF 09][FF 1C]<90>ヒナラかリ<BC>リツルナラナラナラナラノラHラ<DB>ラムレゆレカレ[FF 1C]<E0>フ[FF 09]ふうは、きぶんがよくなり[COLOR RED]ぷんぷんが[COLOR DEFAULT]なおった。[FF 0D]しレ[PAGE]
+[FF 09][FF 1C]<90>ヒナラかリ<BC>リツルナラナラナラナラノラHラ<DB>ラムレゆレカレ[FF 1C]<E0>フ[FF 09]Fuu feels better, and her [COLOR RED]anger[COLOR DEFAULT] subsides.[FF 0D]しレ[PAGE]
+
+
+[FF 09][FF 1C]<E0>フ[FF 09]ふうは、[BR]
+[FF 09][FF 1C]<E0>フ[FF 09]Fuu cheers up[BR]
+
+すこしたのしくなり、[BR]
+a little, and[BR]
+
+[PAGE]
+[PAGE]
+
+
+[FF 01][COLOR STYLE_09]ぐっすんが[COLOR DEFAULT]なおった[FF 0D]しレ[PAGE]
+[FF 01]her [COLOR STYLE_09]tearfulness[COLOR DEFAULT] passes.[FF 0D]しレ[PAGE]
+
+
+[FF 09][FF 1C]<E0>フ[FF 09]ふうはねつがさめて、[BR]
+[FF 09][FF 1C]<E0>フ[FF 09]Fuu cools down, and[BR]
+
+[COLOR RED]ドキドキが[COLOR DEFAULT]なおった。[FF 0D]しレ[PAGE]
+her [COLOR RED]fluster[COLOR DEFAULT] passes.[FF 0D]しレ[PAGE]
+
+
+[FF 09][FF 1C]<E0>フふうは[COLOR STYLE_04]ぷんぷんで[COLOR DEFAULT]す。[PAGE]
+[FF 09][FF 1C]<E0>フFuu is [COLOR STYLE_04]angry[COLOR DEFAULT].[PAGE]
+
+
+[BR]
+[BR]
+
+どうしますか？[BR]
+What will you do?[BR]
+
+[FF 01]<7F>しかる　　なだめる[FF 18]<02>　ュKュチリナリ<7E>リ[FF 09]ぷんぷん、わたくし、[BR]
+[FF 01]<7F>Scold    Soothe[FF 18]<02>　ュKュチリナリ<7E>リ[FF 09]Hmph! I want[BR]
+
+しりませんわ。[PAGE]
+nothing to do with you.[PAGE]
+
+
+[FF 09][FF 1C]<E0>フ[FF 09]すみません。ちょっと[BR]
+[FF 09][FF 1C]<E0>フ[FF 09]I am sorry. That was[BR]
+
+おとなげなかったですわ。[PAGE]
+rather childish of me.[PAGE]
+
+
+[FF 09][FF 0D]ょレふうはきげんがなおった。[PAGE]
+[FF 09][FF 0D]ょレFuu's mood improves.[PAGE]
+
+
+[FF 09][FF 1C]<E0>フふうは[COLOR STYLE_09]ぐっすんで[COLOR DEFAULT]す。[BR]
+[FF 09][FF 1C]<E0>フFuu is [COLOR STYLE_09]tearful[COLOR DEFAULT].[BR]
+
+[PAGE]
+[PAGE]
+
+
+どうしますか？[BR]
+What will you do?[BR]
+
+[FF 01]<7F>しかる　　はげます[FF 18]<02>　ュKュ<FD>リ。ルはル[FF 09]ひっく、ひっく。わたくしどうすればいいんでしょう[PAGE]
+[FF 01]<7F>Scold    Encourage[FF 18]<02>　ュKュ<FD>リ。ルはル[FF 09]Sob, sob. What am I to do?[PAGE]
+
+
+[FF 09][FF 1C]<E0>フ[FF 09]わたくし、ないてなんて　いませんわ。[FF 0D]ょレ[PAGE]
+[FF 09][FF 1C]<E0>フ[FF 09]I am not crying.[FF 0D]ょレ[PAGE]
+
+
+[FF 09]ふうはげんきになった。[PAGE]
+[FF 09]Fuu cheers up.[PAGE]
+
+
+[FF 09][FF 1C]<E0>フふうは[COLOR RED]ドキドキで[COLOR DEFAULT]す。[BR]
+[FF 09][FF 1C]<E0>フFuu is [COLOR RED]flustered[COLOR DEFAULT].[BR]
+
+[PAGE]
+[PAGE]
+
+
+どうしますか？[FF 01]<7F>おこる　　ひやかす[FF 18]<02>　ュKュEルIル<D3>ル[FF 09]はっ、[Player]、わたくし[BR]
+What will you do?[FF 01]<7F>Get angry    Tease[FF 18]<02>　ュKュEルIル<D3>ル[FF 09]Ah! [Player], I have[BR]
+
+めがさめましたわ。[FF 0D]ょレ[PAGE]
+come to my senses.[FF 0D]ょレ[PAGE]
+
+
+[FF 09]ふうはわれにかえった。[PAGE]
+[FF 09]Fuu comes to her senses.[PAGE]
+
+
+[FF 09][FF 1C]<E0>フ[FF 09][COLOR RED]ポッ[COLOR DEFAULT]、そんなこと[FF 02]あ・[FF 02]あ・[FF 02]あ[BR]
+[FF 09][FF 1C]<E0>フ[FF 09][COLOR RED]Blush[COLOR DEFAULT]... How could you say[FF 02]s-[FF 02]s-[FF 02]such[BR]
+
+いやですわ。[COLOR RED]ポッ[COLOR DEFAULT][PAGE]
+a thing? [COLOR RED]Blush[COLOR DEFAULT][PAGE]
+
+
+[FF 09][FF 1C]<E0>フろタ<C2>もツ<C2>Zもタ<C2>もテ<C2><CD><F9>た<3E>ゃも[FF FF]ろタ<C2>つ<7D>H<DF>いミ<7A>。ゃ<02><CD><F8><07><C9>[FF 0D]しレふうはふつうにもどった。[PAGE]
+[FF 09][FF 1C]<E0>フろタ<C2>もツ<C2>Zもタ<C2>もテ<C2><CD><F9>た<3E>ゃも[FF FF]ろタ<C2>つ<7D>H<DF>いミ<7A>。ゃ<02><CD><F8><07><C9>[FF 0D]しレFuu returns to normal.[PAGE]
+
+
+[FF 09][FF 1C]<E0>フ[FF 0D]しレふうはけががなおった。[PAGE]
+[FF 09][FF 1C]<E0>フ[FF 0D]しレFuu's injury heals.[PAGE]
+
+
+[FF 09][FF 1C]<E0>フ[Hikaru]: [FF 0D]そレわたくしったら、みなさんにごめいわくかけて[BR]
+[FF 09][FF 1C]<E0>フ[Hikaru]: [FF 0D]そレI caused everyone[BR]
+
+[PAGE]
+[PAGE]
+
+
+[FF 01]すみませんでした。[PAGE]
+[FF 01]such trouble. I am sorry.[PAGE]
+
+
+[FF 09][FF 0D]っちふうちゃーん。ぶじでよかった。　[Player]！[PAGE]
+[FF 09][FF 0D]っちFuu! I'm so glad you're safe, [Player]![PAGE]
+
+
+[FF 09][FF 1C]<E0>フ<DF>レ<E3>レ5ロはワ<DF>レ<DF>レ<DF>レ<DF>レフンKン<DF>ン<FC>ワ<C7>ワ<E1>ワ[FF 1C]ュホうみは[COLOR STYLE_04]ぷんぷんで[COLOR DEFAULT]す。[BR]
+[FF 09][FF 1C]<E0>フ<DF>レ<E3>レ5ロはワ<DF>レ<DF>レ<DF>レ<DF>レフンKン<DF>ン<FC>ワ<C7>ワ<E1>ワ[FF 1C]ュホUmi is [COLOR STYLE_04]angry[COLOR DEFAULT].[BR]
+
+[PAGE]
+[PAGE]
+
+
+どうしますか？[BR]
+What will you do?[BR]
+
+[FF 01]<7F>しかる　　なだめる[FF 18]<02>　ュKュねロふロコロ[FF 09]ふーんだ、わたし[Player][BR]
+[FF 01]<7F>Scold    Soothe[FF 18]<02>　ュKュねロふロコロ[FF 09]Hmph! I'm not [Player]'s[BR]
+
+のめしつかいじゃないもん[PAGE]
+servant![PAGE]
+
+
+[FF 09][FF 1C]ュホ[FF 09][FF 0D]こ！わかったわ。[Player]に[BR]
+[FF 09][FF 1C]ュホ[FF 09][FF 0D]こ！All right, [Player]. Sorry I[BR]
+
+あたってごめんね[PAGE]
+took it out on you.[PAGE]
+
+
+[FF 09]うみはきげんがなおった。[PAGE]
+[FF 09]Umi's mood improves.[PAGE]
+
+
+[FF 09][FF 1C]ュホうみは[COLOR STYLE_09]ぐっすんで[COLOR DEFAULT]す。[BR]
+[FF 09][FF 1C]ュホUmi is [COLOR STYLE_09]tearful[COLOR DEFAULT].[BR]
+
+[PAGE]
+[PAGE]
+
+
+どうしますか？[BR]
+What will you do?[BR]
+
+[FF 01]<7F>しかる　　はげます[FF 18]<02>　ュKュ<CB>ロ<CF>ロ<FD>ロ[FF 09]わかった、がんばるわ！[FF 0D]こ！[PAGE]
+[FF 01]<7F>Scold    Encourage[FF 18]<02>　ュKュ<CB>ロ<CF>ロ<FD>ロ[FF 09]All right, I'll do my best![FF 0D]こ！[PAGE]
+
+
+[FF 09]うみはげんきになった。[PAGE]
+[FF 09]Umi cheers up.[PAGE]
+
+
+[FF 09][FF 1C]ュホ[FF 09]えーん、えーん、えーん　えーーん<7D>[COLOR STYLE_04]うそなき[COLOR DEFAULT]<7E>[PAGE]
+[FF 09][FF 1C]ュホ[FF 09]Waaah, waaah, waaah! Waaaaah! <7D>[COLOR STYLE_04]fake crying[COLOR DEFAULT]<7E>[PAGE]
+
+
+[FF 09][FF 1C]ュホうみは[COLOR RED]ドキドキで[COLOR DEFAULT]す。[BR]
+[FF 09][FF 1C]ュホUmi is [COLOR RED]flustered[COLOR DEFAULT].[BR]
+
+[PAGE]
+[PAGE]
+
+
+どうしますか？[BR]
+What will you do?[BR]
+
+[FF 01]<7F>おこる　　ひやかす[FF 18]<02>　ュKュモワラワ<95>ワ[FF 09]ひとのこいじをじゃまするものは、うまにけられるわ[PAGE]
+[FF 01]<7F>Get angry    Tease[FF 18]<02>　ュKュモワラワ<95>ワ[FF 09]Meddle in someone else's love life and you'll get kicked by a horse![PAGE]
+
+
+[FF 09][FF 1C]ュホ[FF 09][FF 0D]こ！なにいってるの。わたし　しっかりしてるわ。[PAGE]
+[FF 09][FF 1C]ュホ[FF 09][FF 0D]こ！What are you talking about? I have myself together.[PAGE]
+
+
+[FF 09]うみはわれにかえった。[PAGE]
+[FF 09]Umi comes to her senses.[PAGE]
+
+
+[FF 09][FF 1C]ュホ[FF 0D]ぬ！うみはふつうにもどった。[PAGE]
+[FF 09][FF 1C]ュホ[FF 0D]ぬ！Umi returns to normal.[PAGE]
+
+
+[FF 09][FF 1C]ュホ[FF 0D]ぬ！うみはけががなおった。[PAGE]
+[FF 09][FF 1C]ュホ[FF 0D]ぬ！Umi's injury heals.[PAGE]
+
+
+[FF 09][FF 1C]ュホ[Umi]: [FF 0D]は！もどってきたわ！[BR]
+[FF 09][FF 1C]ュホ[Umi]: [FF 0D]は！I'm back![BR]
+
+[PAGE]
+[PAGE]
+
+
+みんな、しんぱいかけちゃ[FF 01]ったわね。ごめんね。[PAGE]
+I made everyone worry.[FF 01]I'm sorry.[PAGE]
+
+
+[FF 09][Hikaru]: うみさんはばかですわ！　[PAGE]
+[FF 09][Hikaru]: Umi, you are a fool![PAGE]
+
+
+こんなにみんなにしんぱい[FF 01]させて！[PAGE]
+You made everyone worry[FF 01]so terribly![PAGE]
+
+
+[FF 09][FF 1C]ュホ[FF 09]うみは、きぶんがよくなり[COLOR RED]ぷんぷんが[COLOR DEFAULT]なおった。[FF 0D]ぬ！[PAGE]
+[FF 09][FF 1C]ュホ[FF 09]Umi feels better, and her [COLOR RED]anger[COLOR DEFAULT] subsides.[FF 0D]ぬ！[PAGE]
+
+
+[FF 09][FF 1C]ュホ[FF 09]うみは、[BR]
+[FF 09][FF 1C]ュホ[FF 09]Umi cheers up[BR]
+
+すこしたのしくなり、[BR]
+a little, and[BR]
+
+[PAGE]
+[PAGE]
+
+
+[FF 01][COLOR STYLE_09]ぐっすんが[COLOR DEFAULT]なおった。[FF 0D]ぬ！[PAGE]
+[FF 01]her [COLOR STYLE_09]tearfulness[COLOR DEFAULT] passes.[FF 0D]ぬ！[PAGE]
+
+
+[FF 09][FF 1C]ュホ[FF 09]うみはねつがさめて、[BR]
+[FF 09][FF 1C]ュホ[FF 09]Umi cools down, and[BR]
+
+[COLOR RED]ドキドキが[COLOR DEFAULT]なおった。[FF 0D]ぬ！[PAGE]
+her [COLOR RED]fluster[COLOR DEFAULT] passes.[FF 0D]ぬ！[PAGE]
+
+
+[FF 09]
+[FF 09]
+
+Block 09  ROM 0x009104-0x0094A2
+[Clef]: ヒカル・ウミ・フウよ。　[PAGE]
+[Clef]: Hikaru, Umi, Fuu![PAGE]
+
+
+
+[FF 09]かわりはてたセフィーロの[BR]
+Have you seen what has become of[BR]
+
+
+すがたをみたか？[PAGE]
+Cephiro?[PAGE]
+
+
+
+[FF 09]エメロードひめという[BR]
+It's lost its pillar,[BR]
+
+
+はしらをうしなったいま、[PAGE]
+Princess Emeraude,[PAGE]
+
+
+
+[FF 01]ほうかいすんぜんだ。[PAGE]
+and now stands on the verge of collapse.[PAGE]
+
+
+
+[FF 09]さらに、そのはしらを[BR]
+Furthermore, other countries have[BR]
+
+
+もくてきに、ほかのくにが[PAGE]
+made that pillar their objective.[PAGE]
+
+
+
+[FF 01]せまっているのだ。[BR]
+They're closing in.[BR]
+
+
+[FF 01]そのくにとは・・・[PAGE]
+Those nations are...[PAGE]
+
+
+
+[FF 09][FF 10]ヌ<CF>。　　オートザム[FF 0D]<80>カ[FF 09]　　チゼータ[FF 0D]8カ[FF 09]　　ファーレン[FF 0D]Dカ[FF 09]これらのくにのぐんから　セフィーロをまもり、つぎ[PAGE]
+Autozam, Chizeta, and Fahren.[PAGE]
+Protect Cephiro from the armies of these countries,
+
+
+
+[FF 01]のはしらをさがす・・[BR]
+and search for the next pillar.[BR]
+
+
+[FF 01]それがわれわれのしめいだ[PAGE]
+That's our mission.[PAGE]
+
+
+
+[FF 09]ヒカル・ウミ・フウよ！[PAGE]
+Hikaru, Umi, Fuu![PAGE]
+
+
+
+[FF 09]もういちど、おまえたちをきたえなおすことにした。[PAGE]
+I've decided to retrain you.[PAGE]
+
+
+
+[FF 01]だが、わたしもいそがしい[FF 01]そこで、わたしのでし・・[PAGE]
+However, I'm busy as well.[BR]
+Therefore, it is to my apprentice,[PAGE]
+
+
+
+[FF 01]それもいちばんでしに[BR]
+my very best apprentice, in fact,[BR]
+
+
+[FF 01]まかせることにした。[PAGE]
+that I've chosen to entrust you.[PAGE]
+
+
+
+[FF 09]なまえは・・・[FF 00][Clef]: そうだ、しょうかいしよう[PAGE]
+Their name is...[PAGE]
+[Clef]: That's right, allow me to introduce...[PAGE]
+
+
+
+[FF 09]わたしのいちばんでし、　どうし[Player]よ！[BR]
+My finest apprentice, Guru [Player]![BR]
+
+
+[PAGE]
+
+
+[FF 01]このげんきのいいのが[BR]
+This energetic girl is[BR]
+
+
+[FF 01]ヒカルだ。[PAGE]
+Hikaru.[PAGE]
+
+
+
+[FF 09][FF 0D]っちよろしく！[Player]！[BR]
+[Hikaru]: Nice to meet you, [Player]![BR]
+
+
+[PAGE]
+
+
+クレフのいちばんでし[BR]
+Clef's finest apprentice?[BR]
+
+
+[FF 01]なんてすごいね！[PAGE]
+That's amazing![PAGE]
+
+
+
+[FF 09][Clef]: かみのながいのがウミだ。[PAGE]
+[Clef]: The girl with the long hair is Umi.[PAGE]
+
+
+
+[FF 09][Umi]: おてやわらかにね！[BR]
+[Umi]: Go easy on me,[BR]
+
+
+[Player]！[PAGE]
+[Player]![PAGE]
+
+
+
+[FF 09][Clef]: めがねをかけているのが　フウだ。[PAGE]
+[Clef]: The girl with the glasses is Fuu.[PAGE]
+
+
+
+[FF 09][Fuu]: よろしくおねがいしますわ[Player]さん！[PAGE]
+[Fuu]: It is a pleasure to meet you, [Player].[PAGE]
+
+
+
+[FF 09][Clef]: それでは、たのむぞ！[BR]
+[Clef]: I leave them in your hands,[BR]
+
+
+[Player]！[FF 1A]<07>[PAGE]
+[Player]![PAGE]
+
+
+
+[FF 01]3にんのいくせいきかんは[FF 01]セフィーロじかんで[FF 1A]<03>[PAGE]
+The training period for the three of you,[BR]
+measured in Cephiro time, is...[PAGE]
+
+
+
+[FF 01]50にちだ！[PAGE]
+50 days![PAGE]
+
+
+
+[FF 09]それまでに3にんの[BR]
+By then, you must raise the abilities[BR]
+
+
+のうりょくをUPするのだ[PAGE]
+of all three.[PAGE]
+
+
+
+[FF 09]それから、ヒカル・ウミ・フウよ、あまり[Player]を[PAGE]
+Also, Hikaru, Umi, and Fuu,[PAGE]
+
+
+
+[FF 01]こまらせるんじゃないぞ！[FF 00]
+do not cause [Player] too much trouble![PAGE]
+・・・このものがたりは、3にんのしょうじょたちがふたたび、セフィーロに　しょうかんされたことからはじまります・・・　　　セフィーロのかわりはてたすがたにおどろく3にん。そして　クレフにさいかいし、しょうげきのじじつをしらされるのでした。
+This story begins when the three girls are summoned to Cephiro once again.
+
+The young ladies are astounded by Cephiro's transformation. Then, upon reuniting with Clef, they're informed of a shocking truth.
+
+
+Block 10  ROM 0x00984B-0x009D5C
+[Clef]: どうし[Player]！[BR]
+[Clef]: Guru [Player]![BR]
+
+
+[PAGE]
+
+
+やくそくの50にち[BR]
+The promised 50 days[BR]
+
+
+[FF 01]がすぎた。[PAGE]
+have passed.[PAGE]
+
+
+
+[FF 09]ヒカル・ウミ・フウを[BR]
+Have you done a splendid job raising[BR]
+
+
+みごとそだててくれたか？[PAGE]
+Hikaru, Umi, and Fuu?[PAGE]
+
+
+
+[FF 09]もう、セフィーロはながくはもたん。[FF 02]ん[FF 0D]<B1>タ[FF 1B]<CD>タ<0A><C9>[Clef]: たこくのぐんがついに[BR]
+Cephiro won't last much longer.[PAGE]
+[Clef]: The foreign armies have finally[BR]
+
+
+しんぐんをかいししたのだ[PAGE]
+begun their advance.[PAGE]
+
+
+
+[FF 09]おまえたちも、たこくの　ものたちにあっただろう？[PAGE]
+You've met people from the other countries as well, haven't you?[PAGE]
+
+
+
+[FF 09][FF 10]ヌ<CF>。[FF 0D]<DE>つ[Eagle]: 　オートザムのイーグル[FF 0D]4ワ[FF 09][FF 0D]さて[Tatra]: 　チゼータの[BR]
+
+　タトラ・タータ[FF 0D]Aワ[FF 09][FF 0D]まて[Lady Aska]: 　ファーレンのアスカ[FF 0D]Vワ[FF 09][FF 0D]るて[Clef]: このとおり、セフィーロはききなのだ。[PAGE]
+Eagle of Autozam,[BR]
+Tatra and Tarta of Chizeta,[BR]
+and Aska of Fahren.[PAGE]
+[Clef]: As you can see, Cephiro is in danger.[PAGE]
+
+
+
+[FF 09][Player]よ！[BR]
+[Player]![BR]
+
+
+[PAGE]
+
+
+いまこそ、おまえのどうし[FF 01]としてのちからを[BR]
+Now, allow me to witness your power[BR]
+
+
+[PAGE]
+
+
+[FF 01]みせてもらおう。[FF 00]
+as a guru.[PAGE]
+こうして、きびしくも　　たのしい50にちの　　　しゅぎょうをおえた　　　ひかる・うみ・ふうの　　3にん。　　　　　　　　はたして、3にんは　　　どのようなみちを　　　　えらんだのでしょうか？　そしてセフィーロは？　[FF E0]
+Thus, Hikaru, Umi, and Fuu complete 50 days of strict yet enjoyable training.
+
+What path will the three choose? And what will become of Cephiro?
+なんと、3にんとも　　　ぶじ、マジックナイトに　せいちょうしました。　　きびしさとあいじょうの　たまものです。　　　　　そのご、3にんはなかまとセフィーロのききを　　　すくうべく、たたかいの　なかにみをとうじる　　　のでした。　　　　　　　・・・おめでとう・・・　3にんのマジックナイト！そしてそだててくれた　　あなたに、かんしゃ　　　いたします・・・・　　[FF E0]
+Amazingly, all three successfully grow into Magic Knights. This is the fruit of your strictness and affection.
+
+Afterward, the three throw themselves into battle alongside their companions in order to save Cephiro from danger.
+
+Congratulations, Magic Knights! And we offer our gratitude to you, who raised them.
+しゅぎょうのおかげで、　マジックナイトにそだてることができました。　　　しかし、3にんともとは　いきませんでした。　　　そのご、みんなはなかまにたすけられながらも、　　セフィーロのために　　　せいいっぱい　　　　　　がんばりました。　　　　あなたにそだててもらったひかる・うみ・ふう。　　3にんは、あなたの　　　あいじょうときびしさに　かんしゃしています・・[FF E0]
+Thanks to your training, you succeeded in raising Magic Knights. However, not all three made it.
+
+Afterward, with the help of their companions, everyone does their utmost for Cephiro.
+
+Hikaru, Umi, and Fuu, the three young ladies you raised, are grateful for your affection and strictness.
+3にんは、しゅぎょうの　せいかも　あらわれず　　ふつうのおんなのこに　　もどってしまいました。　3にんは、セフィーロを　すくうにはちからぶそく　だったのか、とうきょう　にかえって　にちじょう　せいかつにもどりました　　　　　　　　　　　　　しかし、3にんは　あなたとすごした50にちを　　たのしいおもいでとして　わすれないでしょう。　　・・・ありがとう・・・[FF E0]
+With no results to show for their training, the three return to being ordinary girls.
+
+Perhaps they lack the strength to save Cephiro. They return to Tokyo and resume their everyday lives.
+
+However, they'll never forget the 50 days they spent with you, treasured as a joyful memory.
+
+Thank you.
+ひかる・うみ・ふうは　　いっしょうけんめい　　　しゅぎょうしましたが、　マジックナイトになるにはもういっぽでした。　　　そのごみんなは、なかまとともに、それぞれの　　　やくわりをセフィーロで　はたすことができました。　　　　　　　　　　　　3にんとあなたの50にちのおもいでは、いつまでもセフィーロでかたりつがれました。　　　　　　　　いつまでも・・・
+Hikaru, Umi, and Fuu train with all their might, but fall one step short of becoming Magic Knights.
+
+Afterward, they join their companions and each fulfill their role in Cephiro.
+
+The tale of the 50 days you shared with the three is passed down in Cephiro forever... And ever.
+　　
+
+Block 11  ROM 0x009EEB-0x00B054
+ゅ<DD>たひかるは、なんと[BR]
+Hikaru has, remarkably,[BR]
+
+[PAGE]
+
+
+マジックナイトに[BR]
+grown into a Magic Knight.[BR]
+
+[FF 01]せいちょうしました。[PAGE]
+[PAGE]
+
+
+[FF 09][FF 0D]っちやるぞ！[BR]
+I'll do it![BR]
+
+わたしはマジックナイト！[PAGE]
+I'm a Magic Knight![PAGE]
+
+
+[FF 01]セフィーロのききは、[BR]
+I'll save Cephiro[BR]
+
+[FF 01]わたしがすくう！[PAGE]
+from danger![PAGE]
+
+
+[FF 09][FF 0D]るて[Clef]: まっていたぞ。[BR]
+[Clef]: I've been waiting for you,[BR]
+
+マジックナイトよ！[BR]
+Magic Knight![BR]
+
+[PAGE]
+
+
+[FF 01]ほらっ、ましんもヒカルを[FF 01]まっているぞ！[PAGE]
+Look, the Rune-God is waiting for you too, Hikaru![PAGE]
+
+
+[FF 09][FF 0D]<DD>たマジックナイトとして[BR]
+The day when she pilots[BR]
+
+ましんをあやつり、[BR]
+the Rune-God as a Magic Knight[BR]
+
+[PAGE]
+
+
+[FF 01]だいかつやくするひも[BR]
+and performs great deeds[BR]
+
+[FF 01]まもなくです。[FF 00][FF 0D]<DD>たひかるは、なんと[BR]
+will soon be here.[FF 00]
+Hikaru has, remarkably,[BR]
+
+[PAGE]
+
+
+けんとうし　に[BR]
+grown into a gladiator.[BR]
+
+[FF 01]せいちょうしました。[PAGE]
+[PAGE]
+
+
+[FF 09][FF 0D]っちいくよ！　セフィーロの　ために　たたかう！[BR]
+Let's go! I'll fight for Cephiro![BR]
+
+[PAGE]
+
+
+[FF 01]けんの　うでなら、[BR]
+When it comes to swordsmanship,[BR]
+
+[FF 01]まかせといて！[PAGE]
+leave it to me![PAGE]
+
+
+[FF 09][FF 0D]<DD>たひかるは、そのうでっぷしのつよさから、[BR]
+Thanks to her physical strength,[BR]
+
+[PAGE]
+
+
+[FF 01]けんのたつじんとして[BR]
+Hikaru wins renown[BR]
+
+[FF 01]なをはせました。[FF 00][FF 0D]<DD>たひかるは、なんと[BR]
+as a master swordswoman.[FF 00]
+Hikaru has, remarkably,[BR]
+
+[PAGE]
+
+
+まそうし　に[BR]
+grown into a sorceress.[BR]
+
+[PAGE]
+
+
+[FF 01]せいちょうしました。[PAGE]
+[PAGE]
+
+
+[FF 09][FF 0D]っちハイパーほのおのやー！　ハイパーあかいせんこう！[PAGE]
+Hyper Flame Arrow! Hyper Red Lightning![PAGE]
+
+
+[FF 01]まほうのことなら[BR]
+When it comes to magic,[BR]
+
+[FF 01]まかせといて！[PAGE]
+leave it to me![PAGE]
+
+
+[FF 09][FF 0D]<DD>たひかるは　ずばぬけた[BR]
+With her exceptional[BR]
+
+まほうのちからで[BR]
+magical power,[BR]
+
+[PAGE]
+
+
+[FF 01]せまりくるてきを[BR]
+Hikaru continues to defeat[BR]
+
+[FF 01]たおしつづけました。[FF 00][FF 0D]<DD>たひかるは、なんと[BR]
+every approaching enemy.[FF 00]
+Hikaru has, remarkably,[BR]
+
+[PAGE]
+
+
+たんてい　に[BR]
+grown into a detective.[BR]
+
+[FF 01]せいちょうしました。[PAGE]
+[PAGE]
+
+
+[FF 09][FF 0D]っちあっ！これは・・・[BR]
+Oh! This could be...[BR]
+
+[PAGE]
+
+
+でんせつのたからもの[BR]
+the legendary treasure.[BR]
+
+[FF 01]かもしれない。[PAGE]
+[PAGE]
+
+
+[FF 09]もっと、しらべなくては。[PAGE]
+I have to investigate further.[PAGE]
+
+
+[FF 09][FF 0D]<DD>たひかるは、セフィーロの　かくしょに　そんざいする[PAGE]
+Hikaru works as a detective, investigating the treasures[PAGE]
+
+
+[FF 01]たからをしらべるたんてい[FF 01]としてかつやくしました。[FF 00][FF 0D]<DD>たひかるは、なんと[BR]
+hidden throughout Cephiro.[FF 00]
+Hikaru has, remarkably,[BR]
+
+[PAGE]
+
+
+ぎんゆうしじん　に[BR]
+grown into a minstrel.[BR]
+
+[FF 01]せいちょうしました。[PAGE]
+[PAGE]
+
+
+[FF 09][FF 0D]っちララララー[BR]
+La la la la![BR]
+
+やまはー　ララ[BR]
+The mountains, la la,[BR]
+
+[PAGE]
+
+
+[FF 01]たかくー　ララ[BR]
+are high, la la,[BR]
+
+[FF 01]ララランラン[PAGE]
+la la la la la![PAGE]
+
+
+[FF 09][FF 0D]<DD>たひかるは、セフィーロの　ひとびとのために[BR]
+For the people of Cephiro,[BR]
+
+[PAGE]
+
+
+[FF 01]きょうも　うたうのです。[PAGE]
+Hikaru sings again today.[PAGE]
+
+
+[FF 09][FF 0D]っちラララー[BR]
+La la la![BR]
+
+うみはー　ララ[BR]
+The sea, la la,[BR]
+
+[PAGE]
+
+
+[FF 01]ふかくー　ララ[BR]
+is deep, la la,[BR]
+
+[PAGE]
+
+
+[FF 01]ララランラン[FF 00][FF 0D]<DD>たひかるは、なんと[BR]
+la la la la la![FF 00]
+Hikaru has, remarkably,[BR]
+
+[PAGE]
+
+
+しょうかんし　に[BR]
+grown into a summoner.[BR]
+
+[FF 01]せいちょうしました。[PAGE]
+[PAGE]
+
+
+[FF 09][FF 0D]っちいでよ！[BR]
+Come forth![BR]
+
+せいじゅうグリフォン！　[PAGE]
+Sacred Beast Griffin![PAGE]
+
+
+[FF 01]わあ！かわいいコ。[BR]
+Wow! You're so cute.[BR]
+
+[FF 01]ともだちだよね。[PAGE]
+We're friends, right?[PAGE]
+
+
+[FF 09]さあ、いっしょに[BR]
+Come on, let's do our best[BR]
+
+がんばろう！[PAGE]
+together![PAGE]
+
+
+[FF 09][FF 0D]<DD>たひかるは　せいじゅうを　よびだし、きょうも[BR]
+Hikaru summons a sacred beast[BR]
+
+[PAGE]
+
+
+[FF 01]セフィーロのそらを[BR]
+and soars across the skies[BR]
+
+[FF 01]かけるのでした。[FF 00][FF 0D]<DD>たひかるは、なんと[BR]
+of Cephiro again today.[FF 00]
+Hikaru has, remarkably,[BR]
+
+[PAGE]
+
+
+のうみん　に[BR]
+grown into a farmer.[BR]
+
+[FF 01]せいちょうしました。[PAGE]
+[PAGE]
+
+
+[FF 09][FF 0D]っちやったー！[BR]
+All right![BR]
+
+きょうは、ほうさくだー。[PAGE]
+We have a bumper crop today![PAGE]
+
+
+[FF 09]ちょっと、たべちゃおっ。[BR]
+I'll just have a little taste.[BR]
+
+[PAGE]
+
+
+おいしー！[PAGE]
+Delicious![PAGE]
+
+
+[FF 09][FF 0D]<DD>たひかるは、セフィーロの　ゆたかなだいちから[BR]
+Hikaru lives happily on[BR]
+
+[PAGE]
+
+
+[FF 01]あたえられるめぐみで[BR]
+the bounty bestowed by[BR]
+
+[FF 01]しあわせにくらします。[FF 00][FF 0D]<DD>たひかるは、なんと[BR]
+Cephiro's fertile soil.[FF 00]
+Hikaru has, remarkably,[BR]
+
+[PAGE]
+
+
+ふつうのおんなのこに[BR]
+returned to being[BR]
+
+[FF 01]もどってしまいました。[PAGE]
+an ordinary girl.[PAGE]
+
+
+[FF 09][FF 0D]っちセフィーロのことは[BR]
+I'll forget about Cephiro[BR]
+
+わすれて、とうきょうに　[PAGE]
+and go back to Tokyo.[PAGE]
+
+
+[FF 01]かえろう。[PAGE]
+
+
+[FF 09]けんどうのけいこ[BR]
+I have to practice kendo.[BR]
+
+しなくちゃ。[PAGE]
+[PAGE]
+
+
+[FF 01]おにいちゃんたち、[BR]
+My brothers,[BR]
+
+[FF 01]まっててね。[PAGE]
+wait for me![PAGE]
+
+
+[FF 09][FF 0D]<DD>たひかるには、セフィーロをすくうちからはなく、[BR]
+Hikaru lacks the power to save Cephiro,[BR]
+
+[PAGE]
+
+
+[FF 01]とうきょうにもどるしか　[FF 01]ありませんでした。[FF 00][FF 0D]<DD>たうみは、なんと[BR]
+so she has no choice but to return to Tokyo.[FF 00]
+Umi has, remarkably,[BR]
+
+[PAGE]
+
+
+マジックナイトに[BR]
+grown into a Magic Knight.[BR]
+
+[FF 01]せいちょうしました。[PAGE]
+[PAGE]
+
+
+[FF 09][Umi]: やるわよ！[BR]
+[Umi]: I'll do it![BR]
+
+わたしはマジックナイト！[PAGE]
+I'm a Magic Knight![PAGE]
+
+
+[FF 01]セフィーロのききは、[BR]
+I'll save Cephiro[BR]
+
+[FF 01]わたしがすくう！[PAGE]
+from danger![PAGE]
+
+
+[FF 09][FF 0D]るて[Clef]: まっていたぞ。[BR]
+[Clef]: I've been waiting for you,[BR]
+
+マジックナイトよ！[BR]
+Magic Knight![BR]
+
+[PAGE]
+
+
+[FF 01]ほらっ、ましんもウミを　[FF 01]まっているぞ！[PAGE]
+Look, the Rune-God is waiting for you too, Umi![PAGE]
+
+
+[FF 09][FF 0D]<DD>たマジックナイトとして[BR]
+The day when she pilots[BR]
+
+ましんをあやつり、[BR]
+the Rune-God as a Magic Knight[BR]
+
+[PAGE]
+
+
+[FF 01]だいかつやくするひも[BR]
+and performs great deeds[BR]
+
+[FF 01]まもなくです。[FF 00][FF 0D]<DD>たうみは、なんと[BR]
+will soon be here.[FF 00]
+Umi has, remarkably,[BR]
+
+[PAGE]
+
+
+けんとうし　に[BR]
+grown into a gladiator.[BR]
+
+[PAGE]
+
+
+[FF 01]せいちょうしました。[PAGE]
+[PAGE]
+
+
+[FF 09][Umi]: いくわよ！　わたしの[BR]
+[Umi]: Here I come! Is there[BR]
+
+けんを　うけとめられる　[PAGE]
+an enemy who can withstand[PAGE]
+
+
+[FF 01]てきはいるかしら？[BR]
+my sword?[BR]
+
+[FF 01]いくわよー！[PAGE]
+Here I come![PAGE]
+
+
+[FF 09][FF 0D]<DD>たうみのけんのうでは[BR]
+Umi's swordsmanship is[BR]
+
+すさまじく、セフィーロ　[PAGE]
+so formidable that even enemies[PAGE]
+
+
+[FF 01]をおそうてきも、うみの　[FF 01]けんには　おそれを[BR]
+attacking Cephiro are said[BR]
+
+[PAGE]
+
+
+[FF 01]なしたそうです・・・[FF 00][FF 0D]<DD>たうみは、なんと[BR]
+to fear her blade.[FF 00]
+Umi has, remarkably,[BR]
+
+[PAGE]
+
+
+まそうし　に[BR]
+grown into a sorceress.[BR]
+
+[FF 01]せいちょうしました。[PAGE]
+[PAGE]
+
+
+[FF 09][Umi]: ハイパーみずのりゅう！　ハイパーこおりのや！　[PAGE]
+[Umi]: Hyper Water Dragon! Hyper Ice Arrow![PAGE]
+
+
+[FF 01]わたしのまほうの[BR]
+Does anyone else want to[BR]
+
+[FF 01]えじきになりたいひとは　[PAGE]
+fall prey to my magic?[PAGE]
+
+
+[FF 01]まだいるかしら？[PAGE]
+
+
+[FF 09][FF 0D]<DD>たうみは　ずばぬけた[BR]
+With her exceptional[BR]
+
+まほうのちからで[BR]
+magical power,[BR]
+
+[PAGE]
+
+
+[FF 01]セフィーロにせまるてきを[FF 01]つぎつぎと　やっつけた　[PAGE]
+Umi is said to have dispatched enemy after enemy[PAGE]
+
+
+[FF 01]そうです・・・[FF 00][FF 0D]<DD>たうみは、なんと[BR]
+closing in on Cephiro.[FF 00]
+Umi has, remarkably,[BR]
+
+[PAGE]
+
+
+そうし<7D>ファル<7E>に[BR]
+grown into a master smith.[BR]
+
+[FF 01]せいちょうしました。[PAGE]
+[PAGE]
+
+
+[FF 09][Umi]: さあ、ちょっとまってね。すばらしいぶきとぼうぐが[PAGE]
+[Umi]: Just wait a moment. A magnificent weapon and suit of armor[PAGE]
+
+
+[FF 01]いまできるから。[PAGE]
+will be ready soon.[PAGE]
+
+
+[FF 09]さあ、つくるわよー[PAGE]
+All right, let's get to work![PAGE]
+
+
+[FF 09][FF 0D]<DD>たうみは、セフィーロで[BR]
+In Cephiro, Umi continues[BR]
+
+つねにあたらしいものを　[PAGE]
+to create new things.[PAGE]
+
+
+[FF 01]つくりつづけています。[PAGE]
+
+
+[FF 09]そのうでまえは、いまや　プレセアとならんでいます[FF 00][FF 0D]<DD>たうみは、なんと[BR]
+Her skill now rivals Presea's.[FF 00]
+Umi has, remarkably,[BR]
+
+[PAGE]
+
+
+おどりこ　に[BR]
+grown into a dancer.[BR]
+
+[FF 01]せいちょうしました。[PAGE]
+[PAGE]
+
+
+[FF 09][Umi]: さあ、おどるのよー！[BR]
+[Umi]: Come on, let's dance![BR]
+
+みんな！　それー、[BR]
+Everyone! Here we go,[BR]
+
+[PAGE]
+
+
+[FF 01]ズンチャズンチャ。[PAGE]
+boom-cha, boom-cha.[PAGE]
+
+
+[FF 09][FF 0D]<FC>つ[Caldina]: ほお、ウミ。[BR]
+[Caldina]: Hey, Umi.[BR]
+
+のってるやんけ、[BR]
+You're really getting into it.[BR]
+
+[PAGE]
+
+
+[FF 01]うちもおどるでー[BR]
+I'll dance too![BR]
+
+[FF 01]ズンチャズンチャ。[PAGE]
+Boom-cha, boom-cha.[PAGE]
+
+
+[FF 09][Umi]: みて、みてー[BR]
+[Umi]: Look, look![BR]
+
+わたしのステップ！[BR]
+Check out my steps![BR]
+
+[PAGE]
+
+
+[FF 01]すてきでしょ？[PAGE]
+Aren't they wonderful?[PAGE]
+
+
+[FF 09][FF 0D]<DD>たうみは、きょうも[BR]
+Umi continues dancing[BR]
+
+おどりつづけます。[BR]
+again today.[BR]
+
+[PAGE]
+
+
+[FF 01]セフィーロのひとびとも[FF 01]うみのダンスをみて[BR]
+The people of Cephiro are also[BR]
+
+[PAGE]
+
+
+[FF 01]ゆうきづけられました。[FF 00][FF 0D]<DD>たうみは、なんと[BR]
+inspired by Umi's dancing.[FF 00]
+Umi has, remarkably,[BR]
+
+[PAGE]
+
+
+ピエロに[BR]
+grown into a clown.[BR]
+
+[FF 01]せいちょうしました。[PAGE]
+[PAGE]
+
+
+[FF 09][Umi]: さあ、つぎなるだしものは・・・・[BR]
+[Umi]: And now, for my next act...[BR]
+
+[PAGE]
+
+
+[FF 01]きゃー！　モコナ、[BR]
+Eek! Mokona,[BR]
+
+[FF 01]びっくりさせないでよー。[PAGE]
+don't scare me![PAGE]
+
+
+[FF 09][FF 0D]<DD>たもちまえのあかるさと[BR]
+With her natural cheerfulness[BR]
+
+きちょうなげいふうで、　[PAGE]
+and distinctive performing style,[PAGE]
+
+
+[FF 01]たちまち　みんなの[BR]
+she quickly becomes[BR]
+
+[FF 01]にんきものになりました。[FF 00][FF 0D]<DD>たうみは、なんと[BR]
+everyone's favorite.[FF 00]
+Umi has, remarkably,[BR]
+
+[PAGE]
+
+
+およめさんに[BR]
+become a bride.[BR]
+
+[FF 01]なりました。[PAGE]
+[PAGE]
+
+
+[FF 09][Umi]: あなた、このひがくるのをまっていたわ。[BR]
+[Umi]: Darling, I've been waiting for this day.[BR]
+
+[PAGE]
+
+
+[FF 01]ウェディングドレスが[BR]
+I'm so happy I get to wear[BR]
+
+[FF 01]きられて　しあわせだわ。　[PAGE]
+a wedding dress.[PAGE]
+
+
+[FF 01]しんこんりょこうは、[BR]
+Where shall we go[BR]
+
+[FF 01]どこにいく？　あ・な・た[PAGE]
+for our honeymoon, darling?[PAGE]
+
+
+[FF 09][FF 0D]<DD>たうみは、セフィーロのききをどうにか、だっしたあと[PAGE]
+After somehow bringing Cephiro through its crisis,[PAGE]
+
+
+[FF 01]しあわせな　けっこんを　[FF 01]したそうです。[FF 00][FF 0D]<DD>たうみは、なんと[BR]
+Umi is said to have found marital bliss.[FF 00]
+Umi has, remarkably,[BR]
+
+[PAGE]
+
+
+ふつうのおんなのこに[BR]
+returned to being[BR]
+
+[FF 01]もどってしまいました。[PAGE]
+an ordinary girl.[PAGE]
+
+
+[FF 09][Umi]: セフィーロのことは[BR]
+[Umi]: Let's forget about Cephiro[BR]
+
+わすれて、とうきょうに　[PAGE]
+and return to Tokyo.[PAGE]
+
+
+[FF 01]かえりましょう。[PAGE]
+
+
+[FF 09]フェンシングのたいかいもちかいし・・・[PAGE]
+The fencing tournament is coming up too.[PAGE]
+
+
+[FF 09][FF 0D]<DD>たうみには、セフィーロを　すくうちからはなく、[BR]
+Umi lacks the power to save Cephiro,[BR]
+
+[PAGE]
+
+
+[FF 01]とうきょうにもどるしか　[FF 01]ありませんでした。[FF 00][FF 0D]<DD>たふうは、なんと[BR]
+so she has no choice but to return to Tokyo.[FF 00]
+Fuu has, remarkably,[BR]
+
+[PAGE]
+
+
+マジックナイトに[BR]
+grown into a Magic Knight.[BR]
+
+[FF 01]せいちょうしました。[PAGE]
+[PAGE]
+
+
+[FF 09][Fuu]: いきますよ！[BR]
+[Fuu]: Here I go![BR]
+
+わたしはマジックナイト！[PAGE]
+I'm a Magic Knight![PAGE]
+
+
+[FF 01]セフィーロのききは、[BR]
+I'll save Cephiro[BR]
+
+[FF 01]わたしがすくいますわ！[PAGE]
+from danger![PAGE]
+
+
+[FF 09][FF 0D]るて[Clef]: まっていたぞ。[BR]
+[Clef]: I've been waiting for you,[BR]
+
+マジックナイトよ！[BR]
+Magic Knight![BR]
+
+[PAGE]
+
+
+[FF 01]ほらっ、ましんもフウを　[FF 01]まっているぞ！[PAGE]
+Look, the Rune-God is waiting for you too, Fuu![PAGE]
+
+
+[FF 09][FF 0D]<DD>たマジックナイトとして[BR]
+The day when she pilots[BR]
+
+ましんをあやつり、[BR]
+the Rune-God as a Magic Knight[BR]
+
+[PAGE]
+
+
+[FF 01]だいかつやくするひも[BR]
+and performs great deeds[BR]
+
+[FF 01]まもなくです。[FF 00][FF 0D]<DD>たふうは、なんと[BR]
+will soon be here.[FF 00]
+Fuu has, remarkably,[BR]
+
+[PAGE]
+
+
+せんし　に[BR]
+grown into a warrior.[BR]
+
+[PAGE]
+
+
+[FF 01]せいちょうしました。[PAGE]
+[PAGE]
+
+
+[FF 09][Fuu]: このくにをまもるために、わたしもこのゆみで　　[PAGE]
+[Fuu]: To protect this country, I too will take up my bow[PAGE]
+
+
+[FF 01]たたかいますわ。[PAGE]
+and fight.[PAGE]
+
+
+[FF 09][FF 0D]<DD>たやさしいこころとは[BR]
+In contrast to her gentle heart,[BR]
+
+うらはらに、ふうのやは　[PAGE]
+Fuu's arrows gleam brightly[PAGE]
+
+
+[FF 01]きょうもきらめくのです。[FF 00][FF 0D]<DD>たふうは、なんと[BR]
+again today.[FF 00]
+Fuu has, remarkably,[BR]
+
+[PAGE]
+
+
+まそうし　に[BR]
+grown into a sorceress.[BR]
+
+[FF 01]せいちょうしました。[PAGE]
+[PAGE]
+
+
+[FF 09][Fuu]: ハイパーいやしのかぜ！　ハイパーみどりのしっぷう[PAGE]
+[Fuu]: Hyper Winds of Healing! Hyper Green Gale![PAGE]
+
+
+[FF 01]みなさん！　かいふくなら[FF 01]まかせてください！[PAGE]
+Everyone! When it comes to healing, leave it to me![PAGE]
+
+
+[FF 09][FF 0D]<DD>たふうは　ずばぬけた[BR]
+With her exceptional[BR]
+
+まほうのちからで[BR]
+magical power,[BR]
+
+[PAGE]
+
+
+[FF 01]みんなのけがを[BR]
+Fuu continues to heal[BR]
+
+[FF 01]なおしつづけました。[FF 00][FF 0D]<DD>たふうは、なんと[BR]
+everyone's injuries.[FF 00]
+Fuu has, remarkably,[BR]
+
+[PAGE]
+
+
+しんかん　に[BR]
+grown into a priestess.[BR]
+
+[FF 01]せいちょうしました。[PAGE]
+[PAGE]
+
+
+[FF 09][Fuu]: いのるのです・・[BR]
+[Fuu]: We must pray...[BR]
+
+セフィーロのために[BR]
+For Cephiro,[BR]
+
+[PAGE]
+
+
+[FF 01]いのるのです・・[BR]
+we must pray...[BR]
+
+[FF 01]セフィーロのあんていは　[PAGE]
+Cephiro's stability[PAGE]
+
+
+[FF 01]わたしたちに　かかって　[FF 01]いるのです。[PAGE]
+depends upon us.[PAGE]
+
+
+[FF 09][FF 0D]<DD>たふうは　クレフのでしと　なり　セフィーロのために[PAGE]
+Fuu becomes Clef's apprentice and, for Cephiro's sake,[PAGE]
+
+
+[FF 01]きょうもいのるのでした。[FF 00][FF 0D]<DD>たふうは、なんと[BR]
+prays again today.[FF 00]
+Fuu has, remarkably,[BR]
+
+[PAGE]
+
+
+がか　に[BR]
+grown into a painter.[BR]
+
+[FF 01]せいちょうしました。[PAGE]
+[PAGE]
+
+
+[FF 09][Fuu]: よくスケッチできましたわあらっ？　ちょうちょが！[PAGE]
+[Fuu]: This sketch turned out well. Oh? A butterfly![PAGE]
+
+
+[FF 01]きれいですわ。[PAGE]
+How beautiful.[PAGE]
+
+
+[FF 09][FF 0D]<DD>たふうのえがく　えは[BR]
+The pictures Fuu paints[BR]
+
+いきいきとしていて、[BR]
+are so lifelike that[BR]
+
+[PAGE]
+
+
+[FF 01]ときおり、ふしぎなことが[FF 01]おこるのでした。[FF 00][FF 0D]<DD>たふうは、なんと[BR]
+strange things sometimes happen.[FF 00]
+Fuu has, remarkably,[BR]
+
+[PAGE]
+
+
+ぼうけんか　に[BR]
+grown into an adventurer.[BR]
+
+[FF 01]せいちょうしました。[PAGE]
+[PAGE]
+
+
+[FF 09][Fuu]: どう？　このさきは？[BR]
+[Fuu]: Well? What lies ahead?[BR]
+
+けわしいみちを　きりひら[PAGE]
+An adventurer must forge a path[PAGE]
+
+
+[FF 01]いてこそ、ぼうけんか[BR]
+through even the most[BR]
+
+[FF 01]ですわ。いきます！[PAGE]
+treacherous terrain. Here I go![PAGE]
+
+
+[FF 09][FF 0D]<DD>たふうは、ロマンをもとめてきょうも、こうやを[BR]
+In search of romance, Fuu journeys[BR]
+
+[PAGE]
+
+
+[FF 01]たびするのでした。[FF 00][FF 0D]<DD>たふうは、なんと[BR]
+across the wilderness again today.[FF 00]
+Fuu has, remarkably,[BR]
+
+[PAGE]
+
+
+かんごふ　に[BR]
+grown into a nurse.[BR]
+
+[FF 01]せいちょうしました。[PAGE]
+[PAGE]
+
+
+[FF 09][Fuu]: また、けがにんですか？　[PAGE]
+[Fuu]: Another injured person?[PAGE]
+
+
+ちょっとまっててください[FF 01]いま、いきますわ。[PAGE]
+Please wait a moment. I'm coming![PAGE]
+
+
+[FF 09]キャー！あぶない！[BR]
+Eek! Look out![BR]
+
+[Hikaru]: ごめんなさい。[PAGE]
+[Hikaru]: I'm sorry.[PAGE]
+
+
+[FF 09][FF 0D]<DD>たふうはしんまいかんごふ。[PAGE]
+Fuu is a novice nurse.[PAGE]
+
+
+しっぱいしながらも、[BR]
+Despite her mistakes,[BR]
+
+[FF 01]がんばっています。[BR]
+she's doing her best.[BR]
+
+[PAGE]
+
+
+[FF 01]あなたも、けがしたら[BR]
+If you get hurt, perhaps[BR]
+
+[FF 01]ふうちゃんにかんびょう[PAGE]
+Fuu will nurse you[PAGE]
+
+
+[FF 01]してもらえるかも・・・[FF 00][FF 0D]<DD>たふうは、なんと[BR]
+back to health too...[FF 00]
+Fuu has, remarkably,[BR]
+
+[PAGE]
+
+
+ふつうのおんなのこに[BR]
+returned to being[BR]
+
+[FF 01]もどってしまいました。[PAGE]
+an ordinary girl.[PAGE]
+
+
+[FF 09][Fuu]: セフィーロのことは[BR]
+[Fuu]: Let's forget about Cephiro[BR]
+
+わすれて、とうきょうに　[PAGE]
+and return to Tokyo.[PAGE]
+
+
+[FF 01]かえりましょう。[PAGE]
+
+
+[FF 09]くうねえさまに[BR]
+I'm looking forward[BR]
+
+あうのもたのしみですわ。[PAGE]
+to seeing my sister Kuu too.[PAGE]
+
+
+[FF 09][FF 0D]<DD>たふうには、セフィーロを　すくうちからはなく、[BR]
+Fuu lacks the power to save Cephiro,[BR]
+
+[PAGE]
+
+
+[FF 01]とうきょうにもどるしか　[FF 01]ありませんでした。
+so she has no choice but to return to Tokyo.
+
+Block 12  ROM 0x00C254-0x00D183
+[Clef]: どうし[Player]よ！[BR]
+[Clef]: Guru [Player]![BR]
+
+そだてかたをおしえよう。[PAGE]
+Allow me to teach you how to raise them.[PAGE]
+
+
+[FF 09]きほんてきにはアイコンをせんたくし、3にんの[PAGE]
+Basically, select an icon and carry out[PAGE]
+
+
+[FF 01]いくせいメニューをこなし[FF 01]3にんの　のうりょくを[PAGE]
+the training activities to improve[PAGE]
+
+
+[FF 01]あげてゆくのだ。[PAGE]
+the three girls' abilities.[PAGE]
+
+
+[FF 09][FF 02]っ[FF 0D]おシまずこれだ。このアイコンは、いくせいほうしん・・[PAGE]
+First is this icon. It controls your training policy...[PAGE]
+
+
+[FF 01]すなわち、やさしくとか　[FF 01]きびしくしたりとか、また[PAGE]
+That is, whether to be kind or strict,[PAGE]
+
+
+[FF 01]3にんのうちだれをじゅう[FF 01]てんてきにそだてるか、　[PAGE]
+and which of the three you wish[PAGE]
+
+
+[FF 01]きめるところだ。[PAGE]
+to focus on raising.[PAGE]
+
+
+[FF 09][FF 02]っ[FF 10]サ<CF>S[FF 13]<C4>つぎはパラメータコマンドこれをおすと、パラメータ[PAGE]
+Next is the status command. Select it to open the status[PAGE]
+
+
+[FF 01]がめんにきりかわる。[PAGE]
+screen.[PAGE]
+
+
+[FF 09]ここでヒカル、ウミ、フウのじょうたいをチェック[PAGE]
+It is important to check Hikaru, Umi, and Fuu's condition here[PAGE]
+
+
+[FF 01]しながらそだてる[FF 01]ことがたいせつだ。[PAGE]
+as you raise them.[PAGE]
+
+
+[FF 09][FF 02]っ[FF 10]サ<CF><B8>[FF 13]<C4>このアイコンはアイテムをみるコマンドだ[PAGE]
+This icon is the command for viewing items.[PAGE]
+
+
+[FF 09][FF 02]っ[FF 10]サ<CF><C8>[FF 13]<C4>いちばんみぎにあるのは　セーブコマンドだ。[PAGE]
+The icon on the far right is the save command.[PAGE]
+
+
+[FF 01]いままでのいくせいけっか[FF 01]をきろくしたいときに[PAGE]
+Use it when you wish to record[PAGE]
+
+
+[FF 01]つかうといい。[PAGE]
+your training results so far.[PAGE]
+
+
+[FF 09][FF 02]っ[FF 0D]カシさいごにスケジュール[BR]
+Last is the schedule[BR]
+
+コマンドだ。きょうなにを[PAGE]
+command. Choose what training[PAGE]
+
+
+[FF 01]しゅぎょうするか、えらび[FF 01]3にんをいくせいする。　[PAGE]
+the three will do today.[PAGE]
+
+
+[FF 01]それによって3にんは　　[FF 01]せいちょうするのだ。[PAGE]
+That is how they grow.[PAGE]
+
+
+[FF 09][FF 02]っスケジュールのないようは・・・・・[PAGE]
+The available activities are...[PAGE]
+
+
+[FF 09][FF 0D]メシせんとうくんれん[PAGE]
+Combat Training[PAGE]
+
+
+[FF 09][FF 10]サ<CF>S[FF 13]<C4>まほうくんれん[PAGE]
+Magic Training[PAGE]
+
+
+[FF 09][FF 10]サ<CF><B8>[FF 13]<C4>おえかき[PAGE]
+Drawing[PAGE]
+
+
+[FF 09][FF 10]サ<CF><C8>[FF 13]<C4>ダンス[PAGE]
+Dancing[PAGE]
+
+
+[FF 09][FF 10]ク<CF>リ[FF 10]サ<CF>C[FF 13]<C4>べんきょう[PAGE]
+Studying[PAGE]
+
+
+[FF 09][FF 10]サ<CF>S[FF 13]<C4>おいのり[PAGE]
+Prayer[PAGE]
+
+
+[FF 09][FF 10]サ<CF><B8>[FF 13]<C4>ぼうけんにでる[PAGE]
+Go Adventuring[PAGE]
+
+
+[FF 09][FF 10]サ<CF><C8>[FF 13]<C4>おやすみ[PAGE]
+Rest[PAGE]
+
+
+[FF 09][FF 10]む<CF>　[FF 10]め<CF>　と、いうように3にんを　そだてるのだ！[Player]！[PAGE]
+Use these activities to raise those three, [Player]![PAGE]
+
+
+[FF 01]きかんは50にちだ。[PAGE]
+You have 50 days.[PAGE]
+
+
+[FF 09]それでは3にんをよろしくたのむ！[FF 00][Clef]: どうだ？ちょうしは？[BR]
+I'm entrusting them to you![FF 00]
+[Clef]: How are things going?[BR]
+
+きょうは[COLOR GREEN]プラス1アイテム[COLOR DEFAULT][PAGE]
+Today, I'll explain [COLOR GREEN]plus 1 items[COLOR DEFAULT].[PAGE]
+
+
+[FF 01]のせつめいをしよう。[PAGE]
+
+
+[FF 09]このままいくせいをつづけていくとかならずかべに　[PAGE]
+If you continue training like this, you will inevitably hit a wall.[PAGE]
+
+
+[FF 01]ぶつかる。すなわち・・・[FF 01]パラメータが80をこえる[PAGE]
+In other words, your stats cannot[PAGE]
+
+
+[FF 01]ことはできないのだ。[PAGE]
+exceed 80.[PAGE]
+
+
+[FF 09]これではマジックナイトになるのはむずかしい。[BR]
+That makes becoming Magic Knights difficult.[BR]
+
+[PAGE]
+
+
+[FF 01]100をめざすためには、[FF 01][COLOR GREEN]プラス1アイテム[COLOR DEFAULT]のこうか[PAGE]
+To aim for 100, you must train[PAGE]
+
+
+[FF 01]をえて、しゅぎょうしなけ[FF 01]ればならないのだ。[PAGE]
+under the effects of [COLOR GREEN]plus 1 items[COLOR DEFAULT].[PAGE]
+
+
+[FF 09][COLOR GREEN]プラス1アイテム[COLOR DEFAULT]とは・・6つあり、それぞれののう[PAGE]
+There are six [COLOR GREEN]plus 1 items[COLOR DEFAULT], each corresponding[PAGE]
+
+
+[FF 01]りょくにたいおうして、　[FF 01]そんざいするのだ。つまり[PAGE]
+to a different ability. Namely...[PAGE]
+
+
+[FF 09]けんぎは・・・[BR]
+For swordsmanship...[BR]
+
+　[COLOR GREEN]エスクード[COLOR DEFAULT][PAGE]
+  [COLOR GREEN]Escudo[COLOR DEFAULT].[PAGE]
+
+
+[FF 09]まほうは・・・[BR]
+For magic...[BR]
+
+　[COLOR GREEN]まほうのうでわ[COLOR DEFAULT][PAGE]
+  the [COLOR GREEN]Magic Bracelet[COLOR DEFAULT].[PAGE]
+
+
+[FF 09]きひんは・・・[BR]
+For grace...[BR]
+
+　[COLOR GREEN]せいなるオーブ[COLOR DEFAULT][PAGE]
+  the [COLOR GREEN]Holy Orb[COLOR DEFAULT].[PAGE]
+
+
+[FF 09]ちのうは・・・[BR]
+For intelligence...[BR]
+
+　[COLOR GREEN]けんじゃのじてん[COLOR DEFAULT][PAGE]
+  the [COLOR GREEN]Sage's Encyclopedia[COLOR DEFAULT].[PAGE]
+
+
+[FF 09]げいじゅつは・・・[BR]
+For artistry...[BR]
+
+　[COLOR GREEN]びじょのぞう[COLOR DEFAULT][PAGE]
+  the [COLOR GREEN]Statue of Beauty[COLOR DEFAULT].[PAGE]
+
+
+[FF 09]みりょくは・・・[BR]
+For charm...[BR]
+
+　[COLOR GREEN]ゆうわくのドレス[COLOR DEFAULT][PAGE]
+  the [COLOR GREEN]alluring dress[COLOR DEFAULT].[PAGE]
+
+
+[FF 01]いじょうごうけい6こだ。[PAGE]
+That makes six in total.[PAGE]
+
+
+[FF 09][FF 02]っえ？どこにあるかって？　うむ、ぼうけんにでると　[PAGE]
+What? Where are they? Hmm, you may find them while adventuring.[PAGE]
+
+
+[FF 01]どこかにあるかもしれん。[FF 01]むらだけでなく、もりや、[PAGE]
+They may be not only in villages, but also[PAGE]
+
+
+[FF 01]やまにあるかもしれん。[PAGE]
+in forests or mountains.[PAGE]
+
+
+[FF 09]とりあえず、[COLOR GREEN]プラス1アイテム[COLOR DEFAULT]をみつけることだ。[PAGE]
+For now, concentrate on finding the [COLOR GREEN]plus 1 items[COLOR DEFAULT].[PAGE]
+
+
+[FF 09]それではまたあおう！[FF 00][Clef]: どうだ？　[Player]よ。[BR]
+Until we meet again![FF 00]
+[Clef]: How are things going, [Player]?[BR]
+
+ちょうしは？　ところで　[PAGE]
+Incidentally,[PAGE]
+
+
+[FF 01]もりへのみちがひらけた。[FF 01]ぼうけんにでればもりへ[PAGE]
+the path to the forest has opened. If you go adventuring,[PAGE]
+
+
+[FF 01]いけるだろう。[BR]
+you should be able to reach it.[BR]
+
+[PAGE]
+
+
+[FF 01]もりには、またあたらしい[FF 01]はっけんがあるかもしれん[PAGE]
+New discoveries may await you in the forest.[PAGE]
+
+
+[FF 09]それでは、あと34にち！けんとうをいのる。[FF 00][Clef]: どうだ？　[Player]よ。[BR]
+You have 34 days left! I wish you success.[FF 00]
+[Clef]: How are things going, [Player]?[BR]
+
+ちょうしは？　ところで　[PAGE]
+Incidentally,[PAGE]
+
+
+[FF 01]こんどは、やまへのみちが[FF 01]ひらけた。[BR]
+the path to the mountains has now opened.[BR]
+
+[PAGE]
+
+
+[FF 01]ぼうけんにでれば、やまへ[FF 01]いけるだろう。[BR]
+If you go adventuring, you should be able to reach them.[BR]
+
+[PAGE]
+
+
+[FF 01]やまでは、ときどきゆきが[FF 01]ふるという。きをつけてな[PAGE]
+They say it sometimes snows in the mountains. Take care.[PAGE]
+
+
+[FF 09]それでは、あと28にち！けんとうをいのる。[FF 00][Caldina]: ひさしぶりやねー。どや？このちょうプリティーで　[PAGE]
+You have 28 days left! I wish you success.[FF 00]
+[Caldina]: Long time no see! So, what do you think of[PAGE]
+
+
+[FF 01]ナイスボディな[COLOR RED]カルディナ[COLOR DEFAULT][FF 01]さまのダンスは？[PAGE]
+the super-pretty, knockout [COLOR RED]Caldina's[COLOR DEFAULT] dancing?[PAGE]
+
+
+[FF 09]せや！　あんたらにも[BR]
+That's it! Why don't I[BR]
+
+おしえたろか？[PAGE]
+teach you girls too?[PAGE]
+
+
+[FF 09][FF 0D]けちどうしようか？[Player]？[PAGE]
+What should we do, [Player]?[PAGE]
+
+
+[FF 09]<7F>おしえてもらう[BR]
+<7F>Let her teach us[BR]
+
+　えんりょしとく[FF 19]<02>　ュ<80>ョ<BB>イ<BF>イ<EE>イ[FF 09][Caldina]: そかそか。ほな、うちと　いっしょにおどるんや！　[PAGE]
+  Politely decline[FF 19]<02>　ュ<80>ョ<BB>イ<BF>イ<EE>イ
+[Caldina]: That's the spirit! Now dance with me![PAGE]
+
+
+[FF 01]ほないくでー！[FF 00][FF 09][Caldina]: まあ、そういわんと・・　だまされたおもて、おど[PAGE]
+Here we go![FF 00]
+[Caldina]: Aw, don't say that. Just humor me and give dancing[PAGE]
+
+
+[FF 01]るのも　おもろいで。[FF 00][Umi]: きゃー、まわるのよー、　まわるのよー！[PAGE]
+a try. It's fun![FF 00]
+[Umi]: Eek, we're spinning! We're spinning![PAGE]
+
+
+[FF 09][Fuu]: さすがにカルディナさんのダンスはすごいですわ。[PAGE]
+[Fuu]: Caldina's dancing truly is remarkable.[PAGE]
+
+
+[FF 09][Caldina]: どや？　おもろいやろ？　うちもこんなにもえもえ　[PAGE]
+[Caldina]: Well? Fun, isn't it? It's been a long time since[PAGE]
+
+
+[FF 01]やったんはひさしぶりや[FF 01]そや！このドレスをきれば[PAGE]
+I've felt this fired up! I know! If you wear this dress,[PAGE]
+
+
+[FF 01]きょうみたいにもえるでー[FF 01]あんたらに、にあうやろ！[PAGE]
+you'll burn with passion like today! It'll look great on you![PAGE]
+
+
+[FF 09][FF 0D]っちありがとう。カルディナ！[PAGE]
+Thank you, Caldina![PAGE]
+
+
+[FF 09][COLOR GREEN]ゆうわくのドレス[COLOR DEFAULT]を[BR]
+Obtained the [COLOR GREEN]alluring dress[COLOR DEFAULT]![BR]
+
+[FF 13]Xてにいれた！！[FF 10]<E5><C2>。[FF 0D]<EB>セ[PAGE]
+[FF 13]X[FF 10]<E5><C2>。[FF 0D]<EB>セ[PAGE]
+
+
+[FF 01]またダンスをおぼえたので[PAGE]
+They also learned more about dancing.[PAGE]
+
+
+[FF 09][FF 0D]<F0>セひかるは・・・[BR]
+Hikaru's...[BR]
+
+　みりょくが　10UP！[PAGE]
+  Charm rises by 10![PAGE]
+
+
+[FF 09][Umi]: [FF 0D]　ソうみは・・・[BR]
+[Umi]: Umi's...[BR]
+
+　みりょくが　10UP！[PAGE]
+  Charm rises by 10![PAGE]
+
+
+[FF 09][Fuu]: [FF 0D]<F8>セふうは・・・[BR]
+[Fuu]: Fuu's...[BR]
+
+　みりょくが　10UP！[PAGE]
+  Charm rises by 10![PAGE]
+
+
+[FF 09][FF 0D]<DD>た[FF 02]っ[Caldina]: そや！　わすれとった。　4にちごに、なんと[BR]
+[Caldina]: Oh, right! I almost forgot. In four days,[BR]
+
+[PAGE]
+
+
+[FF 01][COLOR STYLE_09]ダンスパーティーが[COLOR DEFAULT]ある。[FF 01]このドレスきて、ダンスの[PAGE]
+there's going to be a [COLOR STYLE_09]dance party[COLOR DEFAULT]. Wear this dress[PAGE]
+
+
+[FF 01]れんしゅうしてや！[BR]
+and practice your dancing![BR]
+
+[FF 01]ほな、がんばりや！[FF 00][Lady Aska]: わらわはファーレンの[BR]
+Do your best![FF 00]
+[Lady Aska]: I am the princess[BR]
+
+おひめさまアスカじゃ！　[PAGE]
+of Fahren, Aska![PAGE]
+
+
+[FF 01]セフィーロのはしらには　[FF 01]わらわがなるのじゃ。[PAGE]
+I shall become Cephiro's pillar.[PAGE]
+
+
+[FF 09]おーほほほほ！[PAGE]
+Ohohohoho![PAGE]
+
+
+[FF 09][FF 0D]けちそんなはずはない！[BR]
+That will never happen![BR]
+
+[PAGE]
+
+
+ほかのくにのおひめさま[FF 01]なんて、みとめない！[PAGE]
+I won't accept a princess from another country![PAGE]
+
+
+[FF 09][FF 0D]カちそうよ！そうよ！[BR]
+That's right! That's right![BR]
+
+セフィーロはわたさないわ[PAGE]
+We won't hand Cephiro over![PAGE]
+
+
+[FF 09][Lady Aska]: わらわにむかって、そんなくちをきくとは・・・[BR]
+[Lady Aska]: How dare you speak to me that way...[BR]
+
+[PAGE]
+
+
+[FF 01]まあ、よい。[PAGE]
+No matter.[PAGE]
+
+
+[FF 09]ところでみみよりなはなしがあるのじゃが、わらわの[PAGE]
+I have some valuable information. If you can answer[PAGE]
+
+
+[FF 01]といにこたえられたら、　[FF 01]おしえてやるぞ。[PAGE]
+my question, I shall tell you.[PAGE]
+
+
+[FF 09]さて・・[BR]
+Now then...[BR]
+
+[PAGE]
+
+
+わらわはよく、かきものを[FF 01]するが、なにでかくか[BR]
+I often write. Can you guess[BR]
+
+[PAGE]
+
+
+[FF 01]あててみい！！[PAGE]
+what I use?[PAGE]
+
+
+[FF 09][FF 0D]やちやっぱり、ふでかしら？[PAGE]
+Surely it's a brush?[PAGE]
+
+
+[FF 09][FF 0D]カちちがうわ！　いがいに、　クレヨンかも？[PAGE]
+No! Maybe it's a crayon, surprisingly enough?[PAGE]
+
+
+[FF 09][FF 0D]けちどっちかなあ？[BR]
+Which one could it be,[BR]
+
+[Player]？[PAGE]
+[Player]?[PAGE]
+
+
+[FF 09][Lady Aska]: さて、どうじゃ？[BR]
+[Lady Aska]: Well, what is your answer?[BR]
+
+[PAGE]
+
+
+わらわのひっきようぐは？[FF 01]<7F>ふで　　　クレヨン[BR]
+What is my writing implement?[FF 01]<7F>Brush      Crayon[BR]
+
+[FF 18]<02>　ュKュ<DE>カ<E2>カワキ[FF 09][FF 13]Xそのとおりじゃ！[BR]
+[FF 18]<02>　ュKュ<DE>カ<E2>カワキ[FF 09][FF 13]XCorrect![BR]
+
+ではさらばじゃ！[BR]
+Now, farewell![BR]
+
+[PAGE]
+
+
+[FF 09]ん？みみよりなはなし？　うむ、なんと4にちごに[PAGE]
+Hmm? The valuable information? Ah, yes. In four days,[PAGE]
+
+
+[FF 01]ぶとうたいかいがひらかれ[FF 01]るらしいのじゃ。[PAGE]
+a martial arts tournament will apparently be held.[PAGE]
+
+
+[FF 09]けんとまほうをきたえて、たたかいにそなえるのじゃ[PAGE]
+Hone your swordsmanship and magic, and prepare for battle.[PAGE]
+
+
+[FF 09]さらばじゃ！おーほほほ！[FF 00][FF 09]ちがうのじゃ！[FF 13]<C3>[BR]
+Farewell! Ohohoho![FF 00]
+Wrong![FF 13]<C3>[BR]
+
+[PAGE]
+
+
+これでは、なにもおしえる[FF 01]わけにはいかんのう。[PAGE]
+Then I cannot tell you anything.[PAGE]
+
+
+[FF 09]わらわがセフィーロの[BR]
+The day when I become[BR]
+
+はしらになるひも、もう　[PAGE]
+Cephiro's pillar[PAGE]
+
+
+[FF 01]すぐじゃ！　おーほほほ！[FF 00][Ascot]: あ、あの・・・[PAGE]
+will soon be here! Ohohoho![FF 00]
+[Ascot]: Um, excuse me...[PAGE]
+
+
+[FF 09][Umi]: あら、アスコット！[BR]
+[Umi]: Oh, Ascot![BR]
+
+おおきくなったわね？[BR]
+You've gotten taller, haven't you?[BR]
+
+[PAGE]
+
+
+[FF 01]なあに？[PAGE]
+What is it?[PAGE]
+
+
+[FF 09][Ascot]: あの・・・[BR]
+[Ascot]: Um...[BR]
+
+[PAGE]
+
+
+あしたのダンスパーティー[FF 01]ウミがでるんだったら　[PAGE]
+If you're going to tomorrow's dance party, Umi,[PAGE]
+
+
+[FF 01]ぼくと・・・[PAGE]
+would you dance with me...?[PAGE]
+
+
+[FF 09][Umi]: わかったわ、でもわたしがでられるかわからないの。[PAGE]
+[Umi]: All right, but I don't know whether I'll be able to go.[PAGE]
+
+
+[FF 01]あえたらおどろうね。[BR]
+If we meet there, let's dance.[BR]
+
+[PAGE]
+
+
+[FF 09][Ascot]: ありがとう、ウミ！[BR]
+[Ascot]: Thank you, Umi![BR]
+
+ぜったいだよ！[FF 00][Tarta]: ぶとうたいかいで[BR]
+It's a promise![FF 00]
+[Tarta]: We met at the tournament.[BR]
+
+あったな。[BR]
+
+[PAGE]
+
+
+[FF 01]チゼータのタータだ。[BR]
+I'm Tarta of Chizeta.[BR]
+
+[PAGE]
+
+
+[FF 01]きょうは、おまえたちと　[FF 01]たたかうつもりだったが、[BR]
+I intended to fight you today,[BR]
+
+[PAGE]
+
+
+[FF 01]もういちど、そのきかいが[FF 01]できたので、やめておこう[PAGE]
+but another opportunity has arisen, so I'll hold off.[PAGE]
+
+
+[FF 09]3にちごに、セフィーロのしろで、まつりが[BR]
+In three days, a festival will be held[BR]
+
+[PAGE]
+
+
+[FF 01]ひらかれるそうだ。[PAGE]
+at Cephiro Castle.[PAGE]
+
+
+[FF 09]そこでの、ぶとうたいかいであおう！[PAGE]
+We'll meet at the martial arts tournament there![PAGE]
+
+
+[FF 09]ちなみにダンスパーティーもひらかれるそうだ。
+Apparently, there will also be a dance party.
+
+Block 13  ROM 0x0114C1-0x011CEB
+あっ！たからばこ！[BR]
+Oh! A treasure chest![BR]
+
+あけて　みるね！[PAGE]
+I'll open it![PAGE]
+
+
+[FF 23][FF 24]あらっ　ついてますわ！　あけて　みますわね！[PAGE]
+Oh, how fortunate! I'll open it.[PAGE]
+
+
+[FF 23][FF 24]いいもの　みつけた！[BR]
+I found something good![BR]
+
+あけちゃおっと！[PAGE]
+I'll open it![PAGE]
+
+
+[FF 23][FF 24]あれっ！まえに　とった　はずなのに！　ラッキー！[PAGE]
+Huh? I thought we took this before! Lucky![PAGE]
+
+
+[FF 23][FF 24]まあ！　またはいって[BR]
+My! There's something inside again.[BR]
+
+ますわ。ついてますわね！[PAGE]
+How fortunate![PAGE]
+
+
+[FF 23][FF 24]ああっ！またはいってる！なんて　ついているの！[PAGE]
+Oh! There's something inside again! What luck![PAGE]
+
+
+[FF 23][FF 24]アいテムがかがやく！[BR]
+The item shines![BR]
+
+これが　まぼろしの[FF 1C]クセ2つめのひかりかがやく　プラス1アイテムを、[PAGE]
+Now you've acquired[BR]
+the elusive second radiant plus 1[BR]
+item![PAGE]
+
+
+[FF 22]てにいれた！[FF 1C]クセ3つめ　をみつけた！[BR]
+The third one was found![BR]
+
+あとはんぶん、がんばれ！[FF 1C]クセ4つめだ！[BR]
+Do your best on the remaining half![BR]
+It's the fourth one![BR]
+
+あと2つ、もうすぐだ！[FF 1C]クセついに、5つめだ！[BR]
+Only two left. Almost there![BR]
+Finally, the fifth one![BR]
+
+あと1つでぜんぶだ！[FF 1C]クセついに、プラス1アイテムをぜんぶみつけた！[PAGE]
+One more and that will be all![BR]
+At last, you've found all the plus 1 items![PAGE]
+
+
+[FF 09]マジックナイトになるひもちかづいたんだ！[PAGE]
+The day you become a magic knight is also closer![PAGE]
+
+
+[FF 23][FF 24]ニセォタみツ<F7>テおぬしたちじゃな？[BR]
+So, you must be the girls[BR]
+
+クレフのもとで[PAGE]
+training under Clef?[PAGE]
+
+
+[FF 22]しゅぎょうを　している[FF 22]おんなのコ　というのは。[PAGE]
+
+
+[FF 23][FF 0D]いタうん！そうだよ。[PAGE]
+Yeah! That's us.[PAGE]
+
+
+[FF 23][FF 1C]<D6>セはい　そうですわ。[PAGE]
+Yes, we are.[PAGE]
+
+
+[FF 23][FF 1C]<D6>セそうよ！[BR]
+That's right![BR]
+
+クレフを　しっているのね[PAGE]
+You know Clef, then?[PAGE]
+
+
+[FF 23]どれどれ　わしが[BR]
+Well now, allow me[BR]
+
+この　もりについて[PAGE]
+to tell you about[PAGE]
+
+
+[FF 22]せつめい　しようかの。[PAGE]
+this forest.[PAGE]
+
+
+[FF 23]この　もりには[BR]
+Two legendary items[BR]
+
+でんせつの　どうぐが[PAGE]
+are hidden[PAGE]
+
+
+[FF 22]2こ　かくされておる。[PAGE]
+in this forest.[PAGE]
+
+
+[FF 23][FF 0D]てタ　　ふーん。[PAGE]
+Hmm.[PAGE]
+
+
+[FF 23][FF 1C]ハソ　そうなんですか。[PAGE]
+Is that so?[PAGE]
+
+
+[FF 23][FF 1C]ハソ　へ<0A>　そうなの。[PAGE]
+Oh? Really?[PAGE]
+
+
+[FF 23]マジックナイトに[BR]
+If you wish to become[BR]
+
+なるためには[BR]
+Magic Knights,[BR]
+
+[PAGE]
+
+
+[FF 22]ぜひ　ほしい[FF 22]どうぐ　じゃのう。[PAGE]
+you'll certainly want those items.[PAGE]
+
+
+[FF 23]ま　がんばって[BR]
+Well, do your best[BR]
+
+みつけるが　よい。[PAGE]
+to find them.[PAGE]
+
+
+[FF 23][FF 0D]やタうん！がんばる！[BR]
+Yeah! We'll do our best![BR]
+
+じゃあね！[PAGE]
+See you![PAGE]
+
+
+[FF 23][FF 24]ありがとうございました。では　しつれいします。[PAGE]
+Thank you very much. Please excuse us.[PAGE]
+
+
+[FF 23][FF 24]うん　ありがとう！[BR]
+Okay, thanks![BR]
+
+さよならー！！[PAGE]
+Goodbye![PAGE]
+
+
+[FF 23][FF 24]ろち<C0>つすタ<DF>て<E4><C1><C9>FセXセ<C0>セろち<C0>つほタ<DF>て<E4><C1><C9>ゆソゥソスソろち<C0>つ<3E>タ<DF>て<E4><C1><C9><B7>ソ<D2>ソ<F7>ソやあ　またきたのかい。[PAGE]
+Ah, you've come again.[PAGE]
+
+
+[FF 23]きょうは　もりの　コツをおしえようかの。[PAGE]
+Today, I'll teach you the secret to navigating the forest.[PAGE]
+
+
+[FF 23][FF 0D]ゅツうん！おしえてっ！[PAGE]
+Yeah! Tell us![PAGE]
+
+
+[FF 23][FF 1C]Qタはい！[BR]
+Yes![BR]
+
+おねがいしますわ。[PAGE]
+Please do.[PAGE]
+
+
+[FF 23][FF 1C]Qタおしえて　おしえて！[PAGE]
+Tell us! Tell us![PAGE]
+
+
+[FF 23]うむ。[BR]
+Very well.[BR]
+
+このもりは　のう[PAGE]
+You see, this forest[PAGE]
+
+
+[FF 22]かいぶつどもにとって　　[FF 22]とても　すみやすい[BR]
+is a very comfortable place[BR]
+
+[PAGE]
+
+
+[FF 22]ばしょなのじゃ。[PAGE]
+for monsters to live.[PAGE]
+
+
+[FF 23]だから　かいぶつに[BR]
+As a result, you'll encounter[BR]
+
+であうことが　おおくなり[PAGE]
+monsters more often,[PAGE]
+
+
+[FF 22]そのために　たたかいも　[FF 22]おおいのじゃ。[PAGE]
+and thus face more battles.[PAGE]
+
+
+[FF 23]よって　このもりを[BR]
+Therefore, to conquer[BR]
+
+せいはするには[PAGE]
+this forest,[PAGE]
+
+
+[FF 22]じゅうぶんな　ちからが　[FF 22]ひつようなのじゃ。[PAGE]
+you will need sufficient strength.[PAGE]
+
+
+[FF 23][FF 0D]そツわかった。[BR]
+Got it.[BR]
+
+とにかく　やれるとこまで[PAGE]
+We'll go as far as we can[PAGE]
+
+
+[FF 22]やってみよっ！　ねっ！[PAGE]
+and give it a try! Okay?[PAGE]
+
+
+[FF 23][FF 24]ごちゅうこく　ありがとうございます。[BR]
+Thank you for the warning.[BR]
+
+[PAGE]
+
+
+[FF 22]とにかく　いけるとこまで[FF 22]いってみましょうね！　　[PAGE]
+In any case, let's go as far as we can![PAGE]
+
+
+[FF 23][FF 24]うーん・・・[BR]
+Hmm...[BR]
+
+きびしそうね。[PAGE]
+It sounds difficult.[PAGE]
+
+
+[FF 22]よーし！[BR]
+All right![BR]
+
+[FF 22]できるとこまで[PAGE]
+Let's see how far[PAGE]
+
+
+[FF 22]やってみましょうよ！　　[PAGE]
+we can get![PAGE]
+
+
+[FF 23][FF 24]ろち<C0>つけツ<DF>て<E4><C1><C9>ラタ<80>タCタろち<C0>つはツ<DF>て<E4><C1><C9>ヒチ8チ<CF>チまたまた　きてくれたのかわしゃ　うれしいぞ。[PAGE]
+You've come to see me yet again. I'm delighted.[PAGE]
+
+
+[FF 23][FF 0D]<D5>テこんにちは。[BR]
+Hello![BR]
+
+また　なんか　おしえて！[PAGE]
+Teach us something else![PAGE]
+
+
+[FF 23][FF 1C]<BA>ツこんにちは。[BR]
+Hello.[BR]
+
+また　なにか　おしえて[BR]
+Would you please teach us[BR]
+
+[PAGE]
+
+
+[FF 22]いただけますか？[PAGE]
+something else?[PAGE]
+
+
+[FF 23][FF 1C]<BA>ツこんにちは。[BR]
+Hello.[BR]
+
+また　いろいろ[BR]
+Would you tell us[BR]
+
+[PAGE]
+
+
+[FF 22]おしえてくださる？[PAGE]
+some more?[PAGE]
+
+
+[FF 23]うーむ。そうじゃな・・・・・・・！[PAGE]
+Hmm. Let me see... Ah![PAGE]
+
+
+[FF 22]このさきを　ひだりに[FF 22]いったところに[PAGE]
+Farther ahead, along the path to the left,[PAGE]
+
+
+[FF 22]きずついた[FF 22]どうぶつが　いるのじゃが[PAGE]
+there is an injured animal.[PAGE]
+
+
+[FF 22]わしには　なおせんのじゃ[PAGE]
+But I cannot heal it.[PAGE]
+
+
+[FF 23]かいふくの　まほうが　　つかえて[PAGE]
+Is there perhaps someone who can use healing magic[PAGE]
+
+
+[FF 22][COLOR GREEN]きひん[COLOR DEFAULT]の　たかい[FF 22]ひとが　いないかのう？[PAGE]
+and possesses great [COLOR GREEN]grace[COLOR DEFAULT]?[PAGE]
+
+
+[FF 23][FF 0D]<E6>テふうん。[BR]
+Hmm.[BR]
+
+かいふく　できるのは・・[PAGE]
+The one who can heal it is...[PAGE]
+
+
+[FF 22]・・・・だよね？[PAGE]
+Right?[PAGE]
+
+
+[FF 23][FF 24]けがを　しているんですかいってみない　ことには[PAGE]
+It's injured? We won't know what to do[PAGE]
+
+
+[FF 22]わかりませんわね。[PAGE]
+until we go and see it.[PAGE]
+
+
+[FF 23][FF 24]ケガねえ・・・・[BR]
+An injury, huh...[BR]
+
+[PAGE]
+
+
+わたしは[FF 22]なおせないのよ。[PAGE]
+I can't heal it.[PAGE]
+
+
+[FF 23][FF 24]ろち<C0>つ<E0>テ<DF>て<E4><C1><C9>キツモツAツろち<C0>つ<F1>テ<DF>て<E4><C1><C9>ナテ0テ<B3>テおお！またまたまた[BR]
+Oh! You've come yet, yet,[BR]
+
+きてくれたのか！[PAGE]
+yet again![PAGE]
+
+
+[FF 22]きもちは　うれしいのだが[PAGE]
+I'm pleased by the thought,[PAGE]
+
+
+[FF 23]もう　おしえることが　　ないワイ。[PAGE]
+but I have nothing left to teach you.[PAGE]
+
+
+[FF 23][FF 24]おやおや　たびのかた[BR]
+Well now, travelers,[BR]
+
+つかれている　ようだね？[PAGE]
+you seem tired.[PAGE]
+
+
+[FF 23]やすんで　いきなさい。[FF 1C]<E5>ネまたいつでもきなさい。　じゃ　きをつけて！[FF 1C]<E5>ネ[FF 25]があらわれた[PAGE]
+Stay and rest.[PAGE]
+Come back anytime. Take care![PAGE]
+[FF 25] appeared![PAGE]
+
+
+[FF 23]だれが　たたかいますか？[PAGE]
+Who will fight?[PAGE]
+
+
+[FF 23][FF 24][FF 0D]<B1>トろち<C0>つ<BC>ト<DF>て<E4><C1><C9><C2>ト<D1>ト<E1>トいっくよー！！[PAGE]
+Here I go![PAGE]
+
+
+[FF 23][FF 0D]<F3>トいきますわよっ！[PAGE]
+Here I come![PAGE]
+
+
+[FF 23][FF 0D]<F3>トかくごしなさい！
+Prepare yourself!
+
+Block 14  ROM 0x011E10-0x011EB1
+にの　こうげき[PAGE]
+[UNRESOLVED ATTACKER]'s attack[PAGE]
+
+
+[FF 26][FF 0D]もニ[FF 27][FF 25]の　まほう[PAGE]
+[FF 26][FF 27][FF 25]'s magic[PAGE]
+
+
+[FF 26][FF 0D]れニ<3E>Y<CD><DE>、け・<3E><B2><CD><DE>、ろや<C8>も。<C1>つウニて<E4><C1><C9>[FF 27][FF 25]に[PAGE]
+[FF 26][FF 27][FF 25] takes[PAGE]
+
+
+[FF 26][FF 27][FF 1F]<09>のダメージをあたえた[PAGE]
+[FF 26][FF 27][FF 1F]<09> damage.[PAGE]
+
+
+[FF 26][FF 0D]<E4>ニ[FF 27][FF 25]の　まほう[PAGE]
+[FF 26][FF 27][FF 25]'s magic[PAGE]
+
+
+[FF 26][FF 27]きりょくが　たりない！！[PAGE]
+[FF 26][FF 27]Not enough spirit![PAGE]
+
+
+[FF 26][FF 0D]<F3>ト[FF 27][FF 25]の　こうげき[PAGE]
+[FF 26][FF 27][FF 25]'s attack[PAGE]
+
+
+[FF 26][FF 0D]<B9>ニ[FF 27][FF 25]の　まほう
+[FF 26][FF 27][FF 25]'s magic
+
+Block 15  ROM 0x011F20-0x011F9C
+のダメージをうけた[PAGE]
+Took damage.[PAGE]
+
+
+[FF 26][FF 0D]をヌ[FF 27][FF 25]は　みをかわした[PAGE]
+[FF 26][FF 27][FF 25] dodged the attack.[PAGE]
+
+
+[FF 26][FF 0D]<F3>ト[FF 27][FF 25]の　こうげき[PAGE]
+[FF 26][FF 27][FF 25]'s attack[PAGE]
+
+
+[FF 26][FF 0D]Oヌ[FF 27][FF 25]の　まほう[PAGE]
+[FF 26][FF 27][FF 25]'s magic[PAGE]
+
+
+[FF 26][FF 0D]Vヌ[FF 27][FF 25]に[PAGE]
+[FF 26][FF 27][FF 25] takes[PAGE]
+
+
+[FF 26][FF 27][FF 1F]<09>のダメージをあたえた[PAGE]
+[FF 26][FF 27][FF 1F]<09> damage.[PAGE]
+
+
+[FF 26][FF 0D]<BD>ヌ[FF 23][FF 25]を　たおした
+[FF 26][FF 23][FF 25] was defeated.
+
+Block 16  ROM 0x011FE6-0x012033
+の　こうげき[PAGE]
+[UNRESOLVED ATTACKER]'s attack[PAGE]
+
+
+[FF 26][FF 0D]わネ[FF 27][FF 25]の　まほう[PAGE]
+[FF 26][FF 27][FF 25]'s magic[PAGE]
+
+
+[FF 26][FF 0D]ゥネ[FF 27][FF 25]は[PAGE]
+[FF 26][FF 27][FF 25] takes[PAGE]
+
+
+[FF 26][FF 27][FF 1F]、のダメージをうけた[PAGE]
+[FF 26][FF 27][FF 1F] damage.[PAGE]
+
+
+[FF 26][FF 0D]シネ[FF 23][FF 25]は　まけた
+[FF 26][FF 23][FF 25] was defeated.
+
+Block 17  ROM 0x01208A-0x0139D0
+ヒョーーーッ！[FF 0D]Sネでなおしてくるんだな！[FF 0D]Sネ<3E>[FF 32]も<C8>つ<E5>ネて<E4><C1><C9><BA>ネ<D2>ネへヤウギャアァァァ！[BR]
+Hyaaah![FF 0D]SネCome back when you're ready![FF 0D]Sネ<3E>[FF 32]も<C8>つ<E5>ネて<E4><C1><C9><BA>ネ<D2>ネへヤUwaaaah![BR]
+
+グオォォォ！[FF 0D]<EB>ネクワッ！[BR]
+Groooar![FF 0D]<EB>ネGwah![BR]
+
+こりゃ、まいった！[FF 0D]<EB>ネ[PAGE]
+You got me![FF 0D]<EB>ネ[PAGE]
+
+
+[FF 23][FF 24]<3E>。もも<C8>つ<E5>ネて<E4><C1><C9>クゥーン　クゥーン[FF 1C]<E5>ネまあ！　たいへん[BR]
+Whimper... Whimper...[FF 1C]<E5>ネOh my! How terrible![BR]
+
+けがをしてますわ！[PAGE]
+It's injured![PAGE]
+
+
+[FF 22]いま　なおして[BR]
+I'll heal you[BR]
+
+[FF 22]さしあげますわ。[PAGE]
+right now.[PAGE]
+
+
+[FF 23]<02>いやしのかぜ！！<03>[FF 0D]ュノろケ<C2><FE>イる<07>つ<E5>ネて<E4><C1><C9>つテノて<E4><C1><C9>[PAGE]
+[FF 23]<02>Winds of Healing!!<03>[FF 0D]ュノろケ<C2><FE>イる<07>つ<E5>ネて<E4><C1><C9>つテノて<E4><C1><C9>[PAGE]
+
+
+[FF 23]プスッ！[PAGE]
+Pfft![PAGE]
+
+
+[FF 23]きりょくが　たりない！！[FF 1C]<E5>ネキューン　キューン[PAGE]
+Not enough spirit![FF 1C]<E5>ネWhimper... Whimper...[PAGE]
+
+
+[FF 23]もう　だいじょうぶ[BR]
+You're all right now.[BR]
+
+ですわよ。[PAGE]
+
+
+[FF 23]あれ？　このコ[BR]
+Oh? This little one[BR]
+
+なんか　くわえてますわ。[FF 1C]<E5>ネ<02>カギ<03>をてにいれた！[FF 1C]<E5>ネなんのカギでしょうか？　[PAGE]
+is holding something in its mouth.[FF 1C]<E5>ネObtained the <02>key<03>![FF 1C]<E5>ネWhat could this key open?[PAGE]
+
+
+[FF 22]とにかく　もって[BR]
+In any case, we should[BR]
+
+[FF 22]おきましょう。[BR]
+keep it with us.[BR]
+
+[PAGE]
+
+
+[FF 22]では　ありがたく[BR]
+Then we shall gratefully[BR]
+
+[FF 22]いただきますわ、[BR]
+accept it,[BR]
+
+[PAGE]
+
+
+[FF 22]どうぶつさん。[PAGE]
+little animal.[PAGE]
+
+
+[FF 23]これからは　きをつけて　くださいね！[FF 1C]<E5>ネまあ！このどうぶつさん　けがを　しているわ！[PAGE]
+Please be more careful from now on![FF 1C]<E5>ネOh my! This animal is injured![PAGE]
+
+
+[FF 23]だけど　ごめんなさい。　こわくて・・・[BR]
+But I'm sorry. I'm too frightened...[BR]
+
+[PAGE]
+
+
+[FF 22]そのようなこと[BR]
+I cannot do[BR]
+
+[FF 22]わたしには　できませんわ[FF 1C]<E5>ネキューン　キューン[FF 1C]<E5>ネ[FF 0D]Zハろち<C0>つ<BA>ハ<DF>て<E4><C1><C9><C0>ハ<E0>ハえヒげんきだねっ！[BR]
+such a thing.[FF 1C]<E5>ネWhimper... Whimper...[FF 1C]<E5>ネYou're looking well![BR]
+
+むちゃしちゃだめだよ！[FF 1C]<E5>ネよかったですわ！[BR]
+Don't be reckless![FF 1C]<E5>ネI'm so glad![BR]
+
+[PAGE]
+
+
+[FF 22]もう　すっかり[BR]
+You seem to have[BR]
+
+[FF 22]だいじょうぶそうですわね[FF 1C]<E5>ネげんきそうね！[BR]
+recovered completely.[FF 1C]<E5>ネYou look well![BR]
+
+[PAGE]
+
+
+2どと　ムチャしちゃ[BR]
+Don't ever do anything[BR]
+
+[FF 22]だめよ！[FF 1C]<E5>ネキャン　キャン！[FF 1C]<E5>ネ[FF 0D]イヒろち<C0>つスヒ<DF>て<E4><C1><C9>テヒメヒ<7D>ヒじゃあ　またねっ！[FF 1C]<E5>ネでは　おげんきで。[FF 1C]<E5>ネじゃあね！[FF 1C]<E5>ネおやっ？だれかいるのか？すまぬが　メガネを[BR]
+reckless again![FF 1C]<E5>ネYap! Yap![FF 1C]<E5>ネSee you again![FF 1C]<E5>ネTake care.[FF 1C]<E5>ネSee you![FF 1C]<E5>ネOh? Is someone there? I'm afraid I've lost my glasses,[BR]
+
+[PAGE]
+
+
+[FF 22]なくしてしまって[BR]
+so I cannot[BR]
+
+[FF 22]なにもみえんのじゃ。[PAGE]
+see anything.[PAGE]
+
+
+[FF 23]ん？　そなたらは[BR]
+Hmm? You must be the ones[BR]
+
+クレフのいっていた[BR]
+Clef told me about.[BR]
+
+[PAGE]
+
+
+[FF 22]ものたちじゃな？[PAGE]
+
+
+[FF 23]わしは　ここのもんを[BR]
+I guard the gate here,[BR]
+
+まもっておるのじゃが[BR]
+
+[PAGE]
+
+
+[FF 22]これでは　もんを[BR]
+but in this state,[BR]
+
+[FF 22]あけられない。[PAGE]
+I cannot open it.[PAGE]
+
+
+[FF 23]そうじゃ！[PAGE]
+I know![PAGE]
+
+
+[FF 23]メガネをみつけてくれたらそなたを　ゆうしゃとして[PAGE]
+If you find my glasses, I will recognize you as heroes[PAGE]
+
+
+[FF 22]このさきを　みぎにいける[FF 22]ようにしてやろう。[FF 1C]<E5>ネ[FF 0D]ラフろち<C0>つ<7A>フ<DF>て<E4><C1><C9><80>フKフ<D6>フそれはたいへんだね。[BR]
+and let you take the path to the right.[FF 1C]<E5>ネThat sounds awful.[BR]
+
+わかった。さがしとくね！[FF 1C]<E5>ネそれは　おこまりですね。わかりましたわ[BR]
+All right. We'll look for them![FF 1C]<E5>ネThat must be difficult. Very well.[BR]
+
+[PAGE]
+
+
+[FF 22]みつけたら　すぐに[BR]
+If we find them, we will[BR]
+
+[FF 22]おもちしますわ。[FF 1C]<E5>ネなんか　チョーシのいい　ことをいってるわね。[BR]
+bring them straight back.[FF 1C]<E5>ネThat story sounds awfully convenient.[BR]
+
+[PAGE]
+
+
+[FF 22]ま・いいわ！[BR]
+Well, fine![BR]
+
+[FF 22]さがしといてあげる！[FF 1C]<E5>ネおやっ！？[BR]
+We'll look for them![FF 1C]<E5>ネOh!?[BR]
+
+[PAGE]
+
+
+[FF 23]おぬしがもっているのは　わしの　メガネではないか[PAGE]
+Those are my glasses you're carrying![PAGE]
+
+
+[FF 22]なくして　こまっていた　[FF 22]ところじゃ[BR]
+I was in quite a bind after losing them.[BR]
+
+[PAGE]
+
+
+[FF 22]いやあ　よかった！[BR]
+What a relief![BR]
+
+[FF 22]はっはっは！[FF 1C]<E5>ネ[FF 0D]ルヘろち<C0>つ<7C>ヘ<DF>て<E4><C1><C9>ーヘ9ヘOヘいいんだよ！[FF 1C]<E5>ネおやくにたてて　うれしいですわ！[FF 1C]<E5>ネくろうして　みつけて[BR]
+Ha ha ha![FF 1C]<E5>ネNo problem![FF 1C]<E5>ネI'm pleased we could help.[FF 1C]<E5>ネWe went to a lot of trouble[BR]
+
+きたのよ。[FF 1C]<E5>ネおぬしらのことは[BR]
+to find them.[FF 1C]<E5>ネI know who you are.[BR]
+
+しっておるぞ。[BR]
+
+[PAGE]
+
+
+[FF 22]このさきの　とびらは[BR]
+I'll leave the gate ahead[BR]
+
+[FF 22]あけておく。[BR]
+open for you.[BR]
+
+[PAGE]
+
+
+[FF 22]みぎのみちにすすむがよい[PAGE]
+Take the path to the right.[PAGE]
+
+
+[FF 23]くじけるなよ！[FF 1C]<E5>ネ[FF 0D]えホろち<C0>つそホ<DF>て<E4><C1><C9>なホれホナホうんっ！[BR]
+Don't lose heart![FF 1C]<E5>ネRight![BR]
+
+くじけるもんかっ！[FF 1C]<E5>ネはいっ！[BR]
+We won't![FF 1C]<E5>ネYes![BR]
+
+[PAGE]
+
+
+[FF 22]せいいっぱい　やって[BR]
+We'll give it[BR]
+
+[FF 22]みますわ！！[FF 1C]<E5>ネうんっ！[BR]
+everything we have![FF 1C]<E5>ネRight![BR]
+
+[PAGE]
+
+
+[FF 22]いけるとこまで[BR]
+We'll go[BR]
+
+[FF 22]いっちゃうわよ！[FF 1C]<E5>ネいよお<0B>っ！[BR]
+as far as we can![FF 1C]<E5>ネHello there![BR]
+
+このまえは　たすかったぞ[PAGE]
+You were a great help last time![PAGE]
+
+
+[FF 22]またなくしたら　ふたたび[FF 22]さがしておくれ！[FF 1C]<E5>ネ[FF 0D]<BC>ホろち<C0>つ<C7>ホ<DF>て<E4><C1><C9><CD>ホ<D8>ホ<07>マうん！いいよ。[FF 1C]<E5>ネわかりましたわ。[BR]
+If I lose them again, please find them for me![FF 1C]<E5>ネSure![FF 1C]<E5>ネVery well.[BR]
+
+[PAGE]
+
+
+[FF 22]ですが　あまりなくさない[FF 22]でくださいね。[FF 1C]<E5>ネち、ちょっとお！[BR]
+But please try not to lose them too often.[FF 1C]<E5>ネH-Hold on![BR]
+
+このまえもさがしたわよー[FF 1C]<E5>ネほわっほわっは<07>！[BR]
+We looked for them last time too![FF 1C]<E5>ネHo ho ho![BR]
+
+わかった。きをつけると　[PAGE]
+Very well. I'll try[PAGE]
+
+
+[FF 22]しようかの。[BR]
+to be more careful.[BR]
+
+[FF 22]またな！！[FF 1C]<E5>ネあたふた　あたふた[BR]
+Farewell![FF 1C]<E5>ネOh, what to do! What to do![BR]
+
+こまった　こまった[BR]
+I'm in trouble, in trouble![BR]
+
+[PAGE]
+
+
+[FF 22]あたふた　あたふた！[FF 1C]<E5>ネ[FF 0D]<7D>マろち<C0>つ3マ<DF>て<E4><C1><C9>9マHマ<B0>マどうしたんだ？[FF 1C]<E5>ネどうなさったのですか？[FF 1C]<E5>ネどうしたの？[FF 1C]<E5>ネふむう・・？[BR]
+Oh, what to do! What to do![FF 1C]<E5>ネWhat's wrong?[FF 1C]<E5>ネWhat is the matter?[FF 1C]<E5>ネWhat's wrong?[FF 1C]<E5>ネHmm...[BR]
+
+[PAGE]
+
+
+[FF 22]あんたたちは　このさきに[FF 22]いくのだろう？[PAGE]
+You intend to go beyond here, don't you?[PAGE]
+
+
+[FF 23]だがな　みぎのみちは[BR]
+But the right-hand path[BR]
+
+じゅうだいなことに[BR]
+leads to something[BR]
+
+[PAGE]
+
+
+[FF 22]つながるので　それを[BR]
+of great importance. To protect it,[BR]
+
+[FF 22]まもるためにわたしのよう[PAGE]
+gatekeepers like me[PAGE]
+
+
+[FF 22]な　もんばんをおいている[FF 22]のだよ。[FF 1C]<E5>ネ[FF 0D]ッミろち<C0>つサミ<DF>て<E4><C1><C9>チミ<83>ミTミまた　もんばん？[BR]
+have been stationed here.[FF 1C]<E5>ネAnother gatekeeper?[BR]
+
+なんか　いやなよかんが　[PAGE]
+I have a bad feeling[PAGE]
+
+
+[FF 22]するぞ<0B>！？[FF 1C]<E5>ネあら！　なにか[BR]
+about this![FF 1C]<E5>ネOh! This story[BR]
+
+きいたことのあるような　[PAGE]
+sounds somewhat[PAGE]
+
+
+[FF 22]はなしですわ。[FF 1C]<E5>ネゲッ！！　また？[BR]
+familiar.[FF 1C]<E5>ネUgh! Again?[BR]
+
+もしかして　また[BR]
+Don't tell me you've[BR]
+
+[PAGE]
+
+
+[FF 22]さがしものなんじゃ・・・[FF 1C]<E5>ネおお！　いいカンだ！[BR]
+lost something too...[FF 1C]<E5>ネOh! Sharp instincts![BR]
+
+[PAGE]
+
+
+[FF 23]このさきの　もんは[BR]
+The gate ahead[BR]
+
+じゅもんで　あくのだが　[PAGE]
+opens with an incantation,[PAGE]
+
+
+[FF 22]じゅもんをかいた[BR]
+but I have lost[BR]
+
+[FF 22]<02>じゅもんしょ<03>を[BR]
+the <02>spellbook<03>[BR]
+
+[PAGE]
+
+
+[FF 22]なくしてしまったのだ。[FF 1C]<E5>ネ[FF 0D]ァムろち<C0>つウム<DF>て<E4><C1><C9>ケムヌムロムやっぱりだ！[FF 1C]<E5>ネ・・・さがしものですか。[FF 1C]<E5>ネもう！　きんこにでも[BR]
+containing it.[FF 1C]<E5>ネI knew it![FF 1C]<E5>ネSo you have lost something.[FF 1C]<E5>ネHonestly! Just keep it in a safe![BR]
+
+いれときなさいよ！[FF 1C]<E5>ネまあ　そういわんでくれ。・・というわけで[BR]
+[FF 1C]<E5>ネNow, don't be like that. In any case,[BR]
+
+[PAGE]
+
+
+[FF 22]みつけてくれたら[BR]
+if you find it,[BR]
+
+[FF 22]ここを　とおしてやろう。[PAGE]
+I will let you pass.[PAGE]
+
+
+[FF 22]<02>じゅもんしょ<03>だぞ！　[FF 22]わすれるなよ。[FF 1C]<E5>ネ[FF 0D]<EB>ムろち<C0>つ<F6>ム<DF>て<E4><C1><C9><FC>ムっメるメは<07>ーい。[BR]
+It's a <02>spellbook<03>! Don't forget.[FF 1C]<E5>ネAll right![BR]
+
+いってきまーす。[FF 1C]<E5>ネはい。こころがけて[BR]
+We'll be off![FF 1C]<E5>ネYes. We shall keep it in mind.[BR]
+
+おきますわ。[BR]
+
+[PAGE]
+
+
+[FF 22]では　いってきます。[FF 1C]<E5>ネハイハイッ。わかったわよさがしゃいいんでしょ！　[PAGE]
+Then we shall be going.[FF 1C]<E5>ネYes, yes, I understand. We just have to find it, right?[PAGE]
+
+
+[FF 22]じゃ　いってくるわね！！[FF 1C]<E5>ネあたふた　あたふた[BR]
+We'll be back![FF 1C]<E5>ネOh, what to do! What to do![BR]
+
+こまった　こまった[BR]
+
+[PAGE]
+
+
+[FF 22]あたふた　あたふた！[FF 1C]<E5>ネ[FF 0D]Aメろち<C0>つLメ<DF>て<E4><C1><C9>Rメ<B6>メ<C9>メどうしたんだ？[FF 1C]<E5>ネどうなさったのですか？[FF 1C]<E5>ネどうしたの？[FF 1C]<E5>ネそれがな・・・ん？[PAGE]
+Oh, what to do! What to do![FF 1C]<E5>ネWhat's wrong?[FF 1C]<E5>ネWhat is the matter?[FF 1C]<E5>ネWhat's wrong?[FF 1C]<E5>ネWell, you see... Hmm?[PAGE]
+
+
+[FF 23]おぬしらが　　もっているそのほんは・・・[BR]
+That book you're carrying...[BR]
+
+[PAGE]
+
+
+[FF 22]おお！　<02>じゅもんしょ<03>[FF 22]わたしがさがしていたもの[PAGE]
+Oh! The <02>spellbook<03>! That's what I was looking for![PAGE]
+
+
+[FF 22]じゃないか！[PAGE]
+
+
+[FF 23]では　おれいにこのさきのもんを　あけてやろう。　[PAGE]
+In return, I shall open the gate ahead.[PAGE]
+
+
+[FF 22]みぎのみちに　いくと[BR]
+Something good may await you[BR]
+
+[FF 22]いいことがあるやも。[FF 1C]<E5>ネいよう！このまえは[BR]
+along the right-hand path.[FF 1C]<E5>ネHello! Thank you[BR]
+
+せわになったな！[BR]
+for your help last time![BR]
+
+[PAGE]
+
+
+[FF 22]もう<02>じゅもんしょ<03>は　[FF 22]なくさんからな！！[FF 1C]<E5>ネほう！！あのふたりの[BR]
+I won't lose the <02>spellbook<03> again![FF 1C]<E5>ネOh! You found the items[BR]
+
+どうぐを　みつけたのか！[PAGE]
+belonging to those two![PAGE]
+
+
+[FF 22]いや　すごいな。[PAGE]
+That is impressive.[PAGE]
+
+
+[FF 23]あいつらは　おまえたちにマジックナイトの[PAGE]
+They tested whether you
+
+
+
+[FF 22]しかくがあるか　ためした[FF 22]のだ。[PAGE]
+have the qualifications of
+magic knights.
+
+
+
+[FF 23]そして　わしも　ためすとしようかな・・・[BR]
+I shall try testing you too then...
+
+
+[PAGE]
+
+
+[FF 22]かかってこい！！！[FF 1C]<E5>ネふふふ・・やるな。[BR]
+Bring it on! Heh-heh-heh... Not bad.
+
+
+いいだろう！[BR]
+Very well!
+
+
+[PAGE]
+
+
+[FF 22]ここを　とおるがいい。[PAGE]
+You may proceed.
+
+
+
+[FF 23]みぎにいけば[BR]
+if you head to
+
+
+おまえたちが　のぞむ[BR]
+You should gain
+
+
+[PAGE]
+
+
+[FF 22]たからが　てにはいる[BR]
+the treasure you desire.
+
+
+[FF 22]だろう。[BR]
+if you head to the right.[BR]
+
+[PAGE]
+
+
+[FF 22]ゆくがいい！！[FF 0D]<EB>ネみじゅくものめが！！[BR]
+Go forth![FF 0D]<EB>ネYou amateurs![BR]
+
+かおを　あらって[BR]
+Get outta here and come back[BR]
+
+[PAGE]
+
+
+[FF 22]でなおしてこい！！[BR]
+when you've got your act together![BR]
+
+[FF 22]みそこなったぞ！[FF 0D]<DA>ヤ<3E>。もし<C3><C3>Sネほう・・・！[BR]
+You've disappointed me![FF 0D]<DA>ヤ<3E>。もし<C3><C3>SネOh...![BR]
+
+[PAGE]
+
+
+[FF 22]しょうこりもなく[BR]
+You have returned again,[BR]
+
+[FF 22]またきたか！！[PAGE]
+undeterred![PAGE]
+
+
+[FF 23]ようし　あいてを[BR]
+Very well. I shall[BR]
+
+してやろう。[BR]
+face you once more.[BR]
+
+[PAGE]
+
+
+[FF 22]こい！！[FF 1C]<E5>ネィユDラフル<D4>レ<B1>ユ[ED]ラEルれロミヨ<E0>リねレ[FF FF]けラ[FF FF][FF FF]おーほほほ！　わたしが　ぶきを　つくらせたら　　[PAGE]
+Come![FF 1C]<E5>ネィユDラフル<D4>レ<B1>ユ[ED]ラEルれロミヨ<E0>リねレ[FF FF]けラ[FF FF][FF FF]Ohohoho! When it comes to making weapons,[PAGE]
+
+
+[FF 22]セフィーロいちの[BR]
+I'm Presea, the finest[BR]
+
+[FF 22]プレセアよ！！[PAGE]
+in all Cephiro![PAGE]
+
+
+[FF 23]あら！ひっさしぶりー！　こんな　もりのおくで　　[PAGE]
+Oh! Long time no see! Are you training this deep in the forest?[PAGE]
+
+
+[FF 22]しゅぎょうなの？[BR]
+
+[FF 22]たいへんね[FF 1C]<E5>ネ[FF 0D]<B5>ユろち<C0>つ<C0>ユ<DF>て<E4><C1><C9><C6>ユ<FA>ユもヨまあね！　だけどはやく　りっぱな　マジックナイト[PAGE]
+That must be tough.[FF 1C]<E5>ネWell, yes! But I want to become a splendid Magic Knight[PAGE]
+
+
+[FF 22]に　なりたいんだ！！[FF 1C]<E5>ネそんなこと　ありませんわセフィーロを　すくうため[PAGE]
+as soon as possible![FF 1C]<E5>ネNot at all. If it is to save Cephiro,[PAGE]
+
+
+[FF 22]なら　このようなことは　[FF 22]つらくありませんわ。[FF 1C]<E5>ネまあね！　だけど[BR]
+this is no hardship.[FF 1C]<E5>ネWell, yes! But because I want[BR]
+
+マジックナイトになりたい[PAGE]
+to become a Magic Knight,[PAGE]
+
+
+[FF 22]から　あんまりつらくは　[FF 22]ないの。[FF 1C]<E5>ネうるうる・・・[BR]
+it doesn't feel that difficult.[FF 1C]<E5>ネSniffle...[BR]
+
+なかせるわね。[PAGE]
+You're bringing tears to my eyes.[PAGE]
+
+
+[FF 23]わかったわ！わたしが[BR]
+All right! I'll give you[BR]
+
+できるかぎりの　ヒントを[PAGE]
+as many hints as[PAGE]
+
+
+[FF 22]あげる！[PAGE]
+I possibly can![PAGE]
+
+
+[FF 23]そうねえ・・まず[BR]
+Let's see... First of all,[BR]
+
+どうぐを　ほしがるひとが[PAGE]
+there are several people[PAGE]
+
+
+[FF 22]なんにんか　いるんだけど[FF 22]そうねえ・・・・[BR]
+who are looking for items. Hmm...[BR]
+
+[PAGE]
+
+
+[FF 22]ずーっと　ひだりにいくと[FF 22]いいかもね。[PAGE]
+You might try going all the way to the left.[PAGE]
+
+
+[FF 23]きょうは　こんなトコね！[FF 1C]<E5>ネ[FF 0D]すラろち<C0>つねラ<DF>て<E4><C1><C9>ほラャラリラひだりか！　わかった！　またくるね。[FF 1C]<E5>ネひだりですか。[BR]
+That's all for today![FF 1C]<E5>ネTo the left? Got it! We'll come again.[FF 1C]<E5>ネTo the left?[BR]
+
+わかりましたわ！[PAGE]
+Understood![PAGE]
+
+
+[FF 22]またおしえてくださいね。[FF 1C]<E5>ネひだりにいくと　いいコトあるのね！　わかった。　[PAGE]
+Please teach us more next time.[FF 1C]<E5>ネSomething nice awaits us to the left? Understood.[PAGE]
+
+
+[FF 22]またくるわね！[FF 1C]<E5>ネ[FF 0D]Hラろち<C0>つSラ<DF>て<E4><C1><C9>Yラ<BD>ラ<D7>ラやっほー！またきたよ！[FF 1C]<E5>ネこんにちわ！[BR]
+We'll come again![FF 1C]<E5>ネHi! We're back![FF 1C]<E5>ネHello![BR]
+
+また　おじゃましますわ。[FF 1C]<E5>ネやくそくどおり[BR]
+We have come to visit again.[FF 1C]<E5>ネAs promised,[BR]
+
+またきたわよ！[FF 1C]<E5>ネふふふっ　みんな[BR]
+we're back![FF 1C]<E5>ネHee hee! Everyone[BR]
+
+あいかわらずね！[PAGE]
+is just the same as ever![PAGE]
+
+
+[FF 23]じゃあ　リクエストに[BR]
+Then, by popular request,[BR]
+
+こたえて　ヒントの[BR]
+it's time[BR]
+
+[PAGE]
+
+
+[FF 22]じかんよーーっ！[PAGE]
+for another hint![PAGE]
+
+
+[FF 23]きずついた　どうぶつにはであったかしら？[PAGE]
+Have you encountered an injured animal?[PAGE]
+
+
+[FF 22]もし　であったら[BR]
+If you do,[BR]
+
+[FF 22]フウが　なおして[BR]
+have Fuu[BR]
+
+[PAGE]
+
+
+[FF 22]あげなさい。[PAGE]
+heal it.[PAGE]
+
+
+[FF 23]そのとき　フウの[BR]
+When she does, Fuu's[BR]
+
+<02>きひん<03>がたかくないと[PAGE]
+<02>grace<03> must be high,[PAGE]
+
+
+[FF 22]せいこうしないわ。[PAGE]
+or she won't succeed.[PAGE]
+
+
+[FF 23]やっぱり　マジックナイトには　おもいやりが[PAGE]
+After all, a Magic Knight must have compassion![PAGE]
+
+
+[FF 22]なくちゃね！[BR]
+
+[FF 22]じゃあ　きょうはここまで[FF 1C]<E5>ネ[FF 0D]<E4>リろち<C0>つ<EF>リ<DF>て<E4><C1><C9><F5>リけルアルふうちゃんの　きひんだねわかったよ！[PAGE]
+That's all for today.[FF 1C]<E5>ネFuu's grace, right? Understood![PAGE]
+
+
+[FF 22]じゃあね。[FF 1C]<E5>ネわたくしの　きひんんですねわかりましたわ。[PAGE]
+See you![FF 1C]<E5>ネMy grace, then. I understand.[PAGE]
+
+
+[FF 22]ありがとうございました。[FF 1C]<E5>ネふうのきひんね？[BR]
+Thank you very much.[FF 1C]<E5>ネFuu's grace, right?[BR]
+
+わかったわ。じゃあね！[FF 1C]<E5>ネあら　またきたの！[BR]
+Understood. See you![FF 1C]<E5>ネOh, you're back again![BR]
+
+そんなに　わたしに[PAGE]
+Did you miss me[PAGE]
+
+
+[FF 22]あいたいの？[BR]
+that much?[BR]
+
+[FF 22]いいわ！だいかんげいよ。[FF 1C]<E5>ネ[FF 0D]Iルろち<C0>つTル<DF>て<E4><C1><C9>Zル<D2>ル<FD>ルう・うん！[PAGE]
+Wonderful! You're very welcome here.[FF 1C]<E5>ネY-Yeah![PAGE]
+
+
+[FF 22]プレセアにあいに[BR]
+We came[BR]
+
+[FF 22]きたんだよ！[FF 1C]<E5>ネそ・そうですわ。[PAGE]
+to see you, Presea![FF 1C]<E5>ネT-That's right.[PAGE]
+
+
+[FF 22]プレセアさんにあいたくて[FF 22]きたんですわ。[FF 1C]<E5>ネそ・そりゃそうよ。[PAGE]
+We came because we wanted to see you.[FF 1C]<E5>ネO-Of course we did.[PAGE]
+
+
+[FF 22]プレセアに　あいたかった[FF 22]のよ。　ホントに。[FF 1C]<E5>ネふふふっ！わかってるわよヒントがほしいんでしょ！[PAGE]
+We wanted to see you, Presea. Really.[FF 1C]<E5>ネHee hee! I know. You want another hint, right?[PAGE]
+
+
+[FF 23]じゃあねえ・・・[BR]
+Let's see...[BR]
+
+この　せいれいのもりには[PAGE]
+In this Forest of Spirits,[PAGE]
+
+
+[FF 22]なんどでも　とれる[BR]
+there are treasure chests[BR]
+
+[FF 22]たからばこが　あるの。　[PAGE]
+that can be opened repeatedly.[PAGE]
+
+
+[FF 22]いちど　とっても[BR]
+Even after taking their contents,[BR]
+
+[FF 22]つぎにくると　また[BR]
+you'll find something inside again[BR]
+
+[PAGE]
+
+
+[FF 22]なかみがあると。[PAGE]
+the next time you visit.[PAGE]
+
+
+[FF 23]じゃあ　きょうはここまでがんばってね。[FF 1C]<E5>ネあなたたちは　すごいわねこんな　もりのおくまで　[PAGE]
+That's all for today. Do your best![FF 1C]<E5>ネYou girls are amazing, coming this deep into the forest[PAGE]
+
+
+[FF 22]なんかいも　やってくる　[FF 22]なんて！！[PAGE]
+so many times![PAGE]
+
+
+[FF 23]でも、[BR]
+But[BR]
+
+おしえられることが[PAGE]
+I've run out of things[PAGE]
+
+
+[FF 22]なくなっちゃった。[BR]
+to teach you.[BR]
+
+[FF 22]ごめんね。[FF 1C]<E5>ネ[FF 0D]<3D>ロろち<C0>つッロ<DF>て<E4><C1><C9>カロ<95>ロ<E0>ロそうなのか。[BR]
+Sorry.[FF 1C]<E5>ネI see.[BR]
+
+しょうがないね！[PAGE]
+Welp, them's the breaks![PAGE]
+
+
+[FF 23]じぶんたちの　ちからで　がんばろうよ！[PAGE]
+Let's do our best with our own strength![PAGE]
+
+
+[FF 22]ふうちゃん　うみちゃん！[FF 1C]<E5>ネそうなんですか・・。[BR]
+Fuu, Umi![FF 1C]<E5>ネI see...[BR]
+
+しかたがありませんわ。[PAGE]
+It cannot be helped.[PAGE]
+
+
+[FF 23]わたしたちの　ちからで　やりとげましょう！[PAGE]
+Let us see this through with our own strength![PAGE]
+
+
+[FF 22]ひかるさん　うみさん！[FF 1C]<E5>ネそうなんだ。[BR]
+Hikaru, Umi![FF 1C]<E5>ネI see.[BR]
+
+だいじょうぶよ！[PAGE]
+We'll be fine![PAGE]
+
+
+[FF 23]わたしたちだけで[BR]
+We'll manage somehow[BR]
+
+どうにかしましょう！ね！[PAGE]
+on our own! Right?[PAGE]
+
+
+[FF 22]ひかる！ふう！[FF 1C]<E5>ネケワマント<77>ひ<78>ク<79><09>ン<E8>ンD<77><C4><78><91><79>[FF FF]ヤ！<F5><77>[FF FF][FF FF][FF FF]<8F>！[FF FF][FF FF][FF FF]ア<77>よう！[BR]
+Hikaru! Fuu![FF 1C]<E5>ネケワマント<77>ひ<78>ク<79><09>ン<E8>ンD<77><C4><78><91><79>[FF FF]ヤ！<F5><77>[FF FF][FF FF][FF FF]<8F>！[FF FF][FF FF][FF FF]ア<77>Hello![BR]
+
+いいてんきじゃのう。[PAGE]
+Lovely weather, isn't it?[PAGE]
+
+
+[FF 22]さんぽには　ぜっこうの　[FF 22]ひじゃの！[PAGE]
+Perfect for a stroll![PAGE]
+
+
+[FF 23]・・・だけどな[BR]
+...Unfortunately,[BR]
+
+このさきの　とびらの[PAGE]
+the key to the gate ahead[PAGE]
+
+
+[FF 22]カギをなくしてしまって　[FF 22]ひだりのみちに[BR]
+has gone missing, so the path[FF 22]to the left[BR]
+
+[PAGE]
+
+
+[FF 22]すすめないのじゃ。[PAGE]
+is inaccessible.[PAGE]
+
+
+[FF 23]どうやら　カギは[BR]
+It seems the key[BR]
+
+ぬすまれたらしいんじゃが[PAGE]
+was stolen.[PAGE]
+
+
+[FF 22]みつけたら　もってきて　[FF 22]くれんかのう。[FF 1C]<E5>ネ[FF 0D]ゅンろち<C0>つけン<DF>て<E4><C1><C9>そンめンクンわかった！[BR]
+If you find it, would you bring[FF 22]it back to me?[FF 1C]<E5>ネ[FF 0D]ゅンろち<C0>つけン<DF>て<E4><C1><C9>そンめンクンGot it![BR]
+
+さがしとく！[FF 1C]<E5>ネわかりましたわ[BR]
+I'll look for it![FF 1C]<E5>ネUnderstood.[BR]
+
+さがせば　いいのですね！[FF 1C]<E5>ネわかったわ！[BR]
+We need only find it, correct?[FF 1C]<E5>ネAll right![BR]
+
+さがしてくるわね！[FF 1C]<E5>ネふうむ　まだカギは[BR]
+We'll go find it![FF 1C]<E5>ネHmm. You still haven't[BR]
+
+みつからないかのお・・・[PAGE]
+found the key...[PAGE]
+
+
+[FF 23]そういえば　まえに[BR]
+Come to think of it, earlier[BR]
+
+そのもんの　ちかくで[PAGE]
+near that gate,[PAGE]
+
+
+[FF 22]どうぶつが　なにやら[BR]
+I saw an animal[BR]
+
+[FF 22]あそんでいた　ようじゃの[PAGE]
+playing with something.[PAGE]
+
+
+[FF 22]あいつに　なにか[BR]
+I suspect it may know[BR]
+
+[FF 22]ありそうなんじゃが[FF 1C]<E5>ネ[FF 0D]<EC>ンろち<C0>つ<F7>ン<DF>て<E4><C1><C9><FD>ンお！ァ！どうぶつ？[BR]
+something about this.[FF 1C]<E5>ネ[FF 0D]<EC>ンろち<C0>つ<F7>ン<DF>て<E4><C1><C9><FD>ンOh! An animal?[BR]
+
+どんなやつ？[FF 1C]<E5>ネどうぶつですか？[BR]
+What did it look like?[FF 1C]<E5>ネAn animal?[BR]
+
+どのような　すがた[PAGE]
+What did it[PAGE]
+
+
+[FF 22]でしたか？[FF 1C]<E5>ネどうぶつですって！[BR]
+look like?[FF 1C]<E5>ネAn animal, you say![BR]
+
+[PAGE]
+
+
+で、どんなカッコウ[BR]
+So, what did it[BR]
+
+[FF 22]してた？[FF 1C]<E5>ネそうじゃな・・・[PAGE]
+look like?[FF 1C]<E5>ネLet me see...[PAGE]
+
+
+[FF 22]かわいらしい[FF 22]やつだったな。[FF 1C]<E5>ネ[FF 0D]<93>！ろち<C0>つI！<DF>て<E4><C1><C9>O！<DD>！に<77>わかった。[BR]
+It was a rather cute[FF 22]little creature.[FF 1C]<E5>ネ[FF 0D]<93>！ろち<C0>つI！<DF>て<E4><C1><C9>O！<DD>！に<77>Got it.[BR]
+
+そんなに　こわいやつじゃ[PAGE]
+Sounds like it isn't[PAGE]
+
+
+[FF 22]ないみたいだね。[BR]
+too scary.[BR]
+
+[FF 22]とにかく　さがしてみるよ[FF 1C]<E5>ネそうですか。[BR]
+We'll look for it anyway![FF 1C]<E5>ネI see.[BR]
+
+おそろしい　かいぶつで[PAGE]
+I am glad it is not[PAGE]
+
+
+[FF 22]なくて　よかったですわ。[FF 22]とにかく　さがして[BR]
+a fearsome monster.[FF 22]In any case, we shall[BR]
+
+[PAGE]
+
+
+[FF 22]みますわね。[FF 1C]<E5>ネそうなんだ。[BR]
+search for it.[FF 1C]<E5>ネI see.[BR]
+
+よかった！たたかいには[PAGE]
+That's a relief! It shouldn't[PAGE]
+
+
+[FF 22]ならないよね。[FF 1C]<E5>ネうむ。[BR]
+come to a fight, then.[FF 1C]<E5>ネIndeed.[BR]
+
+たのんだぞ。[FF 1C]<E5>ネどうじゃ。カギは[BR]
+I'm counting on you.[FF 1C]<E5>ネWell? Have you[BR]
+
+みつかったか？・・・・・[PAGE]
+found the key?...[PAGE]
+
+
+[FF 23]そのようすじゃ[BR]
+Judging by the look of things,[BR]
+
+まだのようじゃのう。[FF 1C]<E5>ネ[FF 0D]H<77>ろち<C0>つS<77><DF>て<E4><C1><C9>Y<77><BF><77><D9><77>うん。まだなんだ。[FF 1C]<E5>ネすみません。[BR]
+I suppose not.[FF 1C]<E5>ネ[FF 0D]H<77>ろち<C0>つS<77><DF>て<E4><C1><C9>Y<77><BF><77><D9><77>Yeah, not yet.[FF 1C]<E5>ネI'm sorry.[BR]
+
+まだ　みつかりませんわ。[FF 1C]<E5>ネごめんなさい。[BR]
+We have not found it yet.[FF 1C]<E5>ネSorry.[BR]
+
+まだ　みつからないわ。[FF 1C]<E5>ネそうか。[BR]
+We haven't found it yet.[FF 1C]<E5>ネI see.[BR]
+
+おぬしたちだけが[PAGE]
+You're my only[PAGE]
+
+
+[FF 22]たよりなんじゃ。[BR]
+hope.[BR]
+
+[FF 22]がんばってくれよ。[FF 1C]<E5>ネおお！おおお！！[BR]
+Do your best![FF 1C]<E5>ネOh! Ohhh!![BR]
+
+そのカギじゃ！[PAGE]
+That's the key![PAGE]
+
+
+[FF 23]よくやった。エライぞ！　さっそく　もんを[BR]
+Well done! Splendid! Let me[BR]
+
+[PAGE]
+
+
+[FF 22]あけるとしよう。[PAGE]
+open the gate at once.[PAGE]
+
+
+[FF 23]これで　おぬしたちは[BR]
+Now you can take[BR]
+
+ひだりの　みちに[PAGE]
+the path to the left[PAGE]
+
+
+[FF 22]すすめるぞ。[PAGE]
+and continue onward.[PAGE]
+
+
+[FF 23]いやあ　ほんとうに[BR]
+My, thank you[BR]
+
+ありがとう。[PAGE]
+so very much.[PAGE]
+
+
+[FF 22]がんばれよ！[FF 0D]<B8><78><3E>。もた<C3>つ<E5>ネて<E4><C1><C9>[FF 0D]<C8><78>ろち<C0>つ<D3><78><DF>て<E4><C1><C9><D9><78><FD><78>は<79>このさきに　なにが[BR]
+Good luck![FF 0D]<B8><78><3E>。もた<C3>つ<E5>ネて<E4><C1><C9>[FF 0D]<C8><78>ろち<C0>つ<D3><78><DF>て<E4><C1><C9><D9><78><FD><78>は<79>I wonder what's[BR]
+
+あるんだろう？[PAGE]
+up ahead.[PAGE]
+
+
+[FF 22]わくわく！！[FF 1C]<E5>ネこのさきに　なにか[BR]
+I can't wait!![FF 1C]<E5>ネI wonder if something[BR]
+
+あるのでしょうか。[PAGE]
+lies ahead.[PAGE]
+
+
+[FF 22]どきどきしますわね！[FF 1C]<E5>ネこのさき　なにか[BR]
+How exciting![FF 1C]<E5>ネThere must be something[BR]
+
+あるんでしょうね。[PAGE]
+up ahead.[PAGE]
+
+
+[FF 22]きたいしちゃおっと！[FF 1C]<E5>ネよう！[BR]
+I can't wait to see![FF 1C]<E5>ネHello![BR]
+
+あのときは　ありがとう。[PAGE]
+Thanks for your help before.[PAGE]
+
+
+[FF 22]おかげで　もんばんとして[FF 22]おこられずに　すんだぞ。[FF 1C]<E5>ネ[FF 0D]<95><79>ろち<C0>つK<79><DF>て<E4><C1><C9>Q<79><B3><79><C5><79>へえ！よかったね。[FF 1C]<E5>ネまあ、よかったですわね。[FF 1C]<E5>ネうふっ！よかったわね。
+Thanks to you, I avoided[FF 22]getting scolded for failing as gatekeeper.[FF 1C]<E5>ネ[FF 0D]<95><79>ろち<C0>つK<79><DF>て<E4><C1><C9>Q<79><B3><79><C5><79>Oh! That's great![FF 1C]<E5>ネMy, that is good to hear.[FF 1C]<E5>ネHee hee! That's wonderful.
+
+Block 18  ROM 0x0158E4-0x015ADB
+あっ！たからばこ！[BR]
+Oh! A treasure chest![BR]
+
+あけて　みるね！[PAGE]
+I'll open it![PAGE]
+
+
+[FF 23][FF 24]あらっ　ついてますわ！　あけて　みますわね！[PAGE]
+Oh, how fortunate! I'll open it.[PAGE]
+
+
+[FF 23][FF 24]いいもの　みつけた！[BR]
+I found something good![BR]
+
+あけちゃおっと！[PAGE]
+I'll open it![PAGE]
+
+
+[FF 23][FF 24]あれっ！まえに　とった　はずなのに！　ラッキー！[PAGE]
+Huh? I thought we took this before! Lucky![PAGE]
+
+
+[FF 23][FF 24]まあ！　またはいって[BR]
+My! There's something inside again.[BR]
+
+ますわ。ついてますわね！[PAGE]
+How fortunate![PAGE]
+
+
+[FF 23][FF 24]ああっ！またはいってる！なんて　ついているの！[PAGE]
+Oh! There's something inside again! What luck![PAGE]
+
+
+[FF 23][FF 24]アいテムがかがやく！[BR]
+The item shines![BR]
+
+これが　まぼろしの[FF 1C]ロツ2つめのひかりかがやく　プラス1アイテムを、[PAGE]
+Now you've acquired[BR]
+the elusive second radiant plus 1[BR]
+item![PAGE]
+
+
+[FF 22]てにいれた！[FF 1C]ロツ3つめ　をみつけた！[BR]
+The third one was found![BR]
+
+あとはんぶん、がんばれ！[FF 1C]ロツ4つめだ！[BR]
+Do your best on the remaining half![BR]
+It's the fourth one![BR]
+
+あと2つ、もうすぐだ！[FF 1C]ロツついに、5つめだ！[BR]
+Only two left. Almost there![BR]
+Finally, the fifth one![BR]
+
+あと1つでぜんぶだ！[FF 1C]ロツついに、プラス1アイテムをぜんぶみつけた！[PAGE]
+One more and that will be all![BR]
+At last, you've found all the plus 1 items![PAGE]
+
+
+[FF 09]マジックナイトになるひもちかづいたんだ！[PAGE]
+The day you become a magic knight is also closer![PAGE]
+
+
+[FF 23][FF 24][FF 25]があらわれた[PAGE]
+[FF 23][FF 24][FF 25] appeared![PAGE]
+
+
+[FF 23]だれが　たたかいますか？[PAGE]
+Who will fight?[PAGE]
+
+
+[FF 23][FF 24][FF 0D]Lツろち<C0>つWツ<DF>て<E4><C1><C9><B2>ツ<C1>ツ<D1>ツいっくよー！！[PAGE]
+Here I go![PAGE]
+
+
+[FF 23][FF 0D]<E3>ツいきますわよっ！[PAGE]
+Here I come![PAGE]
+
+
+[FF 23][FF 0D]<E3>ツかくごしなさい！
+Prepare yourself!
+
+Block 19  ROM 0x015C01-0x015CA1
+の　こうげき[PAGE]
+[UNRESOLVED ATTACKER]'s attack[PAGE]
+
+
+[FF 26][FF 0D]てト[FF 27][FF 25]の　まほう[PAGE]
+[FF 26][FF 27][FF 25]'s magic[PAGE]
+
+
+[FF 26][FF 0D]はト<3E>Y<CD><DE>、け・<3E><B2><CD><DE>、ろや<C8>も。<C1>つわトて<E4><C1><C9>[FF 27][FF 25]に[PAGE]
+[FF 26][FF 27][FF 25] takes[PAGE]
+
+
+[FF 26][FF 27][FF 1F]<09>のダメージをあたえた[PAGE]
+[FF 26][FF 27][FF 1F]<09> damage.[PAGE]
+
+
+[FF 26][FF 0D]<D4>ト[FF 27][FF 25]の　まほう[PAGE]
+[FF 26][FF 27][FF 25]'s magic[PAGE]
+
+
+[FF 26][FF 27]きりょくが　たりない！！[PAGE]
+[FF 26][FF 27]Not enough spirit![PAGE]
+
+
+[FF 26][FF 0D]<E3>ツ[FF 27][FF 25]の　こうげき[PAGE]
+[FF 26][FF 27][FF 25]'s attack[PAGE]
+
+
+[FF 26][FF 0D]Tト[FF 27][FF 25]の　まほう
+[FF 26][FF 27][FF 25]'s magic
+
+Block 20  ROM 0x015D10-0x015D8C
+のダメージをうけた[PAGE]
+Took damage.[PAGE]
+
+
+[FF 26][FF 0D]<F6>ト[FF 27][FF 25]は　みをかわした[PAGE]
+[FF 26][FF 27][FF 25] dodged the attack.[PAGE]
+
+
+[FF 26][FF 0D]<E3>ツ[FF 27][FF 25]の　こうげき[PAGE]
+[FF 26][FF 27][FF 25]'s attack[PAGE]
+
+
+[FF 26][FF 0D]？ナ[FF 27][FF 25]の　まほう[PAGE]
+[FF 26][FF 27][FF 25]'s magic[PAGE]
+
+
+[FF 26][FF 0D]Fナ[FF 27][FF 25]に[PAGE]
+[FF 26][FF 27][FF 25] takes[PAGE]
+
+
+[FF 26][FF 27][FF 1F]<09>のダメージをあたえた[PAGE]
+[FF 26][FF 27][FF 1F]<09> damage.[PAGE]
+
+
+[FF 26][FF 0D]Xナ[FF 23][FF 25]を　たおした
+[FF 26][FF 23][FF 25] was defeated.
+
+Block 21  ROM 0x015DD6-0x015E23
+の　こうげき[PAGE]
+[UNRESOLVED ATTACKER]'s attack[PAGE]
+
+
+[FF 26][FF 0D]ふニ[FF 27][FF 25]の　まほう[PAGE]
+[FF 26][FF 27][FF 25]'s magic[PAGE]
+
+
+[FF 26][FF 0D]もニ[FF 27][FF 25]は[PAGE]
+[FF 26][FF 27][FF 25] takes[PAGE]
+
+
+[FF 26][FF 27][FF 1F]、のダメージをうけた[PAGE]
+[FF 26][FF 27][FF 1F] damage.[PAGE]
+
+
+[FF 26][FF 0D]ォニ[FF 23][FF 25]は　まけた
+[FF 26][FF 23][FF 25] was defeated.
+
+Block 22  ROM 0x015E76-0x017F2E
+ニギャラクティカ・・・[PAGE]
+G-Galactica...[PAGE]
+
+
+[FF 23]なんだ　もうおしまいか。でなおしてきな！[FF 0D]<BE>ニめいどの　みやげに[BR]
+What, finished already? Come back when you're ready![FF 0D]<BE>ニAs a parting gift,[BR]
+
+おしえてやろう。[FF 0D]<BE>ニ<3E>[FF 32]も<C8>つ<EC>ニて<E4><C1><C9><D6>ニ<D6>ニ<D6>ニ<92>マ<F8>ヤ<E1>ニブーーーン[FF 0D]<BE>ニブーーーン[FF 0D]<F2>ニ[PAGE]
+I'll let you in on something.[FF 0D]<BE>ニ<3E>[FF 32]も<C8>つ<EC>ニて<E4><C1><C9><D6>ニ<D6>ニ<D6>ニ<92>マ<F8>ヤ<E1>ニBzzzzzz[FF 0D]<BE>ニBzzzzzz[FF 0D]<F2>ニ[PAGE]
+
+
+[FF 23][FF 24]<3E>。もも<C8>つ<EC>ニて<E4><C1><C9>をヌらネ<CA>ノ<FC>ハおでかけかい？[BR]
+[FF 23][FF 24]<3E>。もも<C8>つ<EC>ニて<E4><C1><C9>をヌらネ<CA>ノ<FC>ハHeading out?[BR]
+
+おじょうちゃんたち。[BR]
+You young ladies.[BR]
+
+[PAGE]
+
+
+[FF 22]たまには、そとにでるのも[FF 22]いいだろ？[PAGE]
+It's nice to get outside[FF 22]once in a while, isn't it?[PAGE]
+
+
+[FF 23][FF 0D]ゥヌつッヌ<C3>カヌセヌミヌ<79>ヌろち<C0><DF>て<E4><C1><C9>うん、きもちいいね。[PAGE]
+[FF 23][FF 0D]ゥヌつッヌ<C3>カヌセヌミヌ<79>ヌろち<C0><DF>て<E4><C1><C9>Yeah, it feels great![PAGE]
+
+
+[FF 23][FF 1C]0ヌそうですわね。[PAGE]
+[FF 23][FF 1C]0ヌIndeed it does.[PAGE]
+
+
+[FF 23][FF 1C]0ヌそうね。[PAGE]
+[FF 23][FF 1C]0ヌIt sure does.[PAGE]
+
+
+[FF 23][FF 1C]0ヌだがな、いろんなしれんがおじょうちゃんたちに[PAGE]
+[FF 23][FF 1C]0ヌBut many trials will surely[PAGE]
+
+
+[FF 22]ふりかかってくるだろう。[FF 22]めげずにがんばれよ！[PAGE]
+[FF 22]come your way.[FF 22]Don't lose heart. Keep at it![PAGE]
+
+
+[FF 23]あとな・・　みちはふつう2つにわかれている。[BR]
+[FF 23]One more thing... The road will[BR]
+
+[PAGE]
+
+
+[FF 22]がんばれよ！！[PAGE]
+[FF 22]usually split in two. Good luck!![PAGE]
+
+
+[FF 23][FF 0D]<FC>ヌつ<02>ネ<C3>カヌ<08>ネけネほネうん、がんばる！[FF 1C]<EC>ニありがとうございます。[FF 1C]<EC>ニいくわよ！[FF 1C]<EC>ニおやおや、またきたのかい[PAGE]
+[FF 23][FF 0D]<FC>ヌつ<02>ネ<C3>カヌ<08>ネけネほネYeah, we'll do our best![FF 1C]<EC>ニThank you very much.[FF 1C]<EC>ニLet's go![FF 1C]<EC>ニWell, you've come back again.[PAGE]
+
+
+[FF 22]どうだったかい、ぼうけん[FF 22]は？くろうしたかい？[PAGE]
+[FF 22]How was your adventure?[FF 22]Did you have a hard time?[PAGE]
+
+
+[FF 23][FF 0D]ヤネつレネ<C3>カヌ<78>ネCネ<BC>ネおもしろかったよ。[BR]
+[FF 23][FF 0D]ヤネつレネ<C3>カヌ<78>ネCネ<BC>ネIt was fun.[BR]
+
+でも、よくわかんない。[PAGE]
+But I don't really get it.[PAGE]
+
+
+[FF 23][FF 1C]<CA>ネなにがなんだか[BR]
+[FF 23][FF 1C]<CA>ネIt is difficult to tell[BR]
+
+ふしぎなところですね。[PAGE]
+what is what in such a strange place.[PAGE]
+
+
+[FF 23][FF 1C]<CA>ネちょっとね。[PAGE]
+[FF 23][FF 1C]<CA>ネA little.[PAGE]
+
+
+[FF 23][FF 1C]<CA>ネそうかい？では、ぼうけんがうまくゆくこつを[BR]
+[FF 23][FF 1C]<CA>ネIs that so? Then I'll share a tip[BR]
+
+[PAGE]
+
+
+[FF 22]おしえよう。[PAGE]
+[FF 22]to help your adventure go smoothly.[PAGE]
+
+
+[FF 23]おじょうちゃんたちの、　のうりょく、パラメータを[PAGE]
+[FF 23]Raise your abilities and stats[PAGE]
+
+
+[FF 22]あげてから、ぼうけんに　[FF 22]のぞむことだ。[BR]
+[FF 22]before setting out[FF 22]on an adventure.[BR]
+
+[PAGE]
+
+
+[FF 22]わかったかい？[PAGE]
+[FF 22]Understand?[PAGE]
+
+
+[FF 23][FF 0D]ョノつオノ<C3>カヌサノ<7C>ノWノうん、わたしたちの[BR]
+[FF 23][FF 0D]ョノつオノ<C3>カヌサノ<7C>ノWノYeah, you mean our[BR]
+
+のうりょくだな？[PAGE]
+abilities, right?[PAGE]
+
+
+[FF 23]ようし、きたえなくっちゃ[FF 1C]<EC>ニはい、わたしたちの[BR]
+[FF 23]All right, we'd better train![FF 1C]<EC>ニYes, our abilities[BR]
+
+のうりょくがすべてのカギ[PAGE]
+are the key to everything,[PAGE]
+
+
+[FF 22]というわけですね。[FF 1C]<EC>ニのうりょく？[Player]に[BR]
+[FF 22]then.[FF 1C]<EC>ニOur abilities? We can have[BR]
+
+きたえてもらえばいいのね[FF 1C]<EC>ニおや、がんばりやさんだね[PAGE]
+[Player] train us, then.[FF 1C]<EC>ニMy, you certainly work hard.[PAGE]
+
+
+どうかね？このむらの[BR]
+Well? Have you overcome[BR]
+
+[FF 22]しれんはのりこえたかい？[PAGE]
+[FF 22]this village's trials?[PAGE]
+
+
+[FF 23]ところでな・・・[PAGE]
+[FF 23]By the way...[PAGE]
+
+
+[FF 23]しれんのなかには、ある　アイテムがひつようなもの[PAGE]
+[FF 23]Some trials require[PAGE]
+
+
+[FF 22]もあるのだ。もらったとき[FF 22]は、なにそれっておもう　[PAGE]
+[FF 22]a certain item. Something that[FF 22]seems useless when you receive it[PAGE]
+
+
+[FF 22]ものが、のちのちやくに　[FF 22]たつこともあるので[BR]
+[FF 22]may prove useful[FF 22]later on,[BR]
+
+[PAGE]
+
+
+[FF 22]アイテムはチェックが[BR]
+[FF 22]so be sure to check[BR]
+
+[FF 22]だいじだぞ！[PAGE]
+[FF 22]your items![PAGE]
+
+
+[FF 23]きょうはこれくらいだな。[PAGE]
+[FF 23]That's enough for today.[PAGE]
+
+
+[FF 23][FF 0D]NハつTハ<C3>カヌZハ<CE>ハ<E6>ハうん、アイテムだね。[BR]
+[FF 23][FF 0D]NハつTハ<C3>カヌZハ<CE>ハ<E6>ハRight, our items.[BR]
+
+わかった、ありがとう。[FF 1C]<EC>ニアイテムですわね。[BR]
+Got it. Thanks![FF 1C]<EC>ニOur items, then.[BR]
+
+わかりました。[FF 1C]<EC>ニアイテムあつめるの？[BR]
+Understood.[FF 1C]<EC>ニWe need to collect items?[BR]
+
+わかったわ。[FF 1C]<EC>ニおやおやおや。[PAGE]
+All right.[FF 1C]<EC>ニWell, well, well.[PAGE]
+
+
+[FF 23]おじょうちゃんたち、[BR]
+[FF 23]Young ladies,[BR]
+
+がんばるなあ。だがな、　[PAGE]
+you've certainly worked hard.[PAGE]
+
+
+[FF 22]おしえられることは　もう[FF 22]ないんだ。ごめんな・・・[FF 1C]<EC>ニスヒ8ヘ？ホおやまあ、かわいい[BR]
+[FF 22]But I've nothing more to[FF 22]teach you. Sorry...[FF 1C]<EC>ニスヒ8ヘ？ホMy, what charming[BR]
+
+おじょうちゃんだこと。　[PAGE]
+young ladies![PAGE]
+
+
+[FF 22]かわいいから、いいこと　[FF 22]おしえちゃう。[PAGE]
+[FF 22]Since you're so charming,[FF 22]I'll tell you something useful.[PAGE]
+
+
+[FF 23][FF 0D]<91>ヒつBヒ<C3>カヌHヒ<D0>ヒ<B0>ヒうん、ありがとう。[PAGE]
+[FF 23][FF 0D]<91>ヒつBヒ<C3>カヌHヒ<D0>ヒ<B0>ヒYeah, thanks![PAGE]
+
+
+[FF 23][FF 1C]<E9>ヒいやねー、かわいいなんて・・おしえて、おしえて！[PAGE]
+[FF 23][FF 1C]<E9>ヒOh, stop! Calling us charming... Tell us, tell us![PAGE]
+
+
+[FF 23][FF 1C]<E9>ヒありがとうございます。[PAGE]
+[FF 23][FF 1C]<E9>ヒThank you very much.[PAGE]
+
+
+[FF 23][FF 1C]<E9>ヒみちをあるいていくとね、ふつう、わかれみちに[BR]
+[FF 23][FF 1C]<E9>ヒAs you travel, you'll often[BR]
+
+[PAGE]
+
+
+[FF 22]でるの。どっちかを[BR]
+[FF 22]come to a fork. Which path[BR]
+
+[FF 22]えらぶことで、そのごの　[PAGE]
+[FF 22]you choose will change[PAGE]
+
+
+[FF 22]できごとがかわってくる　[FF 22]から、きをつけなさいよ！[PAGE]
+[FF 22]what happens afterward,[FF 22]so choose carefully![PAGE]
+
+
+[FF 23]さて・・・[BR]
+[FF 23]Now then...[BR]
+
+このさきのみちをみぎに　[PAGE]
+Take the path to the right[PAGE]
+
+
+[FF 22]いくと、まほうつかいが　[FF 22]いるのよー。[BR]
+[FF 22]and you'll find[FF 22]a sorcerer.[BR]
+
+[PAGE]
+
+
+[FF 22]みぎにいくんなら、[BR]
+[FF 22]If you're going right,[BR]
+
+[FF 22]まほうのとくいなコが、　[PAGE]
+[FF 22]the girl who is best at magic[PAGE]
+
+
+[FF 22]せんとうになるといいわ。[PAGE]
+[FF 22]should take the lead.[PAGE]
+
+
+[FF 23][FF 0D]<BA>フつ<C0>フ<C3>カヌ<C6>フせヘ<F8>フありがとう！[BR]
+[FF 23][FF 0D]<BA>フつ<C0>フ<C3>カヌ<C6>フせヘ<F8>フThanks![BR]
+
+[PAGE]
+
+
+[FF 22]まほうの、のうりょくを　[FF 22]みれば、いいんだな！[PAGE]
+[FF 22]So we just need to check[FF 22]our magic stats![PAGE]
+
+
+[FF 23][FF 1C]コヘありがとう！だれの[BR]
+[FF 23][FF 1C]コヘThanks! I wonder who has[BR]
+
+まほうりょくがたかいかな[PAGE]
+the highest magic stat.[PAGE]
+
+
+[FF 23][FF 1C]コヘありがとうございます。[PAGE]
+[FF 23][FF 1C]コヘThank you very much.[PAGE]
+
+
+[FF 22]みぎにいくと、[FF 22]まほうのしれんですね！[PAGE]
+[FF 22]So the path to the right[FF 22]holds a trial of magic![PAGE]
+
+
+[FF 23][FF 1C]コヘやくにたったかしら？[PAGE]
+[FF 23][FF 1C]コヘWas that helpful?[PAGE]
+
+
+[FF 23]あとね、ひだりにいくとね・・・もういっかいきたら[PAGE]
+[FF 23]As for the path to the left...[PAGE]
+
+
+[FF 22]おしえてあげるわ。[FF 1C]<EC>ニあら？　かわいいコ！[PAGE]
+[FF 22]Come back and I'll tell you.[FF 1C]<EC>ニOh, you charming girls![PAGE]
+
+
+[FF 23]ほんとうに、もういっかいきたのね？[PAGE]
+[FF 23]You really did come back![PAGE]
+
+
+[FF 23]ひだりのみちね？[BR]
+[FF 23]You want to know about[BR]
+
+[PAGE]
+
+
+[FF 22]ひだりにはね、えがすきな[FF 22]げいじゅつかがいるみた[PAGE]
+[FF 22]the left path, right? I hear[FF 22]an artist who loves painting[PAGE]
+
+
+[FF 22]いなの。えとか、うたとか[FF 22]うまいと、とくするかもね[PAGE]
+[FF 22]lives there. Being good at art[FF 22]or singing may come in handy.[PAGE]
+
+
+[FF 23][FF 0D]<09>ホつっホ<C3>カヌかホニホァホありがとう！[PAGE]
+[FF 23][FF 0D]<09>ホつっホ<C3>カヌかホニホァホThanks![PAGE]
+
+
+[FF 23]げいじゅつてきに[BR]
+[FF 23]So we need to be[BR]
+
+なればいいんだな！[FF 1C]<EC>ニありがとう！　え？うた？あうのがたのしみね。[FF 1C]<EC>ニありがとうございます。[PAGE]
+more artistic![FF 1C]<EC>ニThanks! Huh? Singing? I can't wait to meet them.[FF 1C]<EC>ニThank you very much.[PAGE]
+
+
+[FF 23]わたし、そちらほうめん　ちょっとにがてですが。[FF 1C]<EC>ニあら、あなたたち、さあ　おゆきなさい。[BR]
+[FF 23]I am not particularly gifted in that area, however.[FF 1C]<EC>ニOh, it's you. Now, off you go.[BR]
+
+[PAGE]
+
+
+[FF 22]セフィーロのためにも。[PAGE]
+[FF 22]For Cephiro's sake.[PAGE]
+
+
+[FF 23][FF 0D]<C0>ホつ<C6>ホ<C3>カヌ<CC>ホ<F1>ホ<DC>ホうん、がんばる！[FF 1C]<EC>ニありがとう。[BR]
+[FF 23][FF 0D]<C0>ホつ<C6>ホ<C3>カヌ<CC>ホ<F1>ホ<DC>ホYeah, we'll do our best![FF 1C]<EC>ニThanks.[BR]
+
+まかせといて！[FF 1C]<EC>ニおうえんしてくれて[BR]
+Leave it to us![FF 1C]<EC>ニThank you for[BR]
+
+ありがとうございます。[FF 1C]<EC>ニおう！きみたちは、[BR]
+your encouragement.[FF 1C]<EC>ニHey! You must be[BR]
+
+ぼうけんしゃだな！[PAGE]
+adventurers![PAGE]
+
+
+[FF 22]ぼうけんしゃといえば、　[FF 22]たたかいはつきもの。[BR]
+[FF 22]And where there are adventurers,[FF 22]there are battles.[BR]
+
+[PAGE]
+
+
+[FF 22]かくごはできてんだろ？　[FF 22]じゃあ、いくぜ！[PAGE]
+[FF 22]You're prepared, aren't you?[FF 22]Then let's go![PAGE]
+
+
+[FF 23]いいわすれたが、おれの　ぶきは<02>けん<03>だ！[FF 1C]<EC>ニむむっ！やるな。さすがはぼうけんしゃ！[PAGE]
+[FF 23]I forgot to mention, my weapon is the <02>sword<03>![FF 1C]<EC>ニHmm! Not bad. You're true adventurers![PAGE]
+
+
+[FF 23]きみたちがだれだか、しらないが、たいしたもんだ。[PAGE]
+[FF 23]I don't know who you are, but I'm impressed.[PAGE]
+
+
+[FF 22]すなおにみとめよう。[BR]
+[FF 22]I'll admit it freely.[BR]
+
+[FF 22]さきにゆくがよい！[FF 0D]<F2>ニたいしたことないな。[PAGE]
+[FF 22]You may pass![FF 0D]<F2>ニThat was nothing special.[PAGE]
+
+
+[FF 23]まあ、うでをみがいて[BR]
+[FF 23]Go sharpen your skills[BR]
+
+もう1かいくるんだな。　[PAGE]
+and try again.[PAGE]
+
+
+[FF 22]にげるのならば、とめや　[FF 22]しないがね・・・[FF 0D]ァミ<3E>。もと<C3><C3><BE>ニほう・・・！[BR]
+[FF 22]Of course, I won't stop you[FF 22]if you run away...[FF 0D]ァミ<3E>。もと<C3><C3><BE>ニOh...![BR]
+
+[PAGE]
+
+
+[FF 22]しょうこりもなく[BR]
+[FF 22]Back again,[BR]
+
+[FF 22]またきたか！！[PAGE]
+[FF 22]despite your last defeat!![PAGE]
+
+
+[FF 23]ようし　あいてを[BR]
+[FF 23]Very well. I'll take you[BR]
+
+してやろう。[BR]
+on again.[BR]
+
+[PAGE]
+
+
+[FF 22]おれのぶきは<02>けん<03>だ！[FF 22]こい！！[FF 1C]<EC>ニわたし、セフィーロの　　げいじゅつか。[PAGE]
+[FF 22]My weapon is the <02>sword<03>![FF 22]Come on!![FF 1C]<EC>ニI'm an artist of Cephiro.[PAGE]
+
+
+[FF 23]とてもきれいな[BR]
+[FF 23]I'd like to see[BR]
+
+えがみたい。[BR]
+a truly beautiful painting.[BR]
+
+[PAGE]
+
+
+[FF 22]おっ？そこにもってるのは[FF 22]えだね？[BR]
+[FF 22]Oh? That's a painting[FF 22]you have there, isn't it?[BR]
+
+[PAGE]
+
+
+[FF 22]ちょっと、みせて。[FF 1C]<EC>ニおっ！これは・・・[BR]
+[FF 22]Let me take a look.[FF 1C]<EC>ニOh! This is...[BR]
+
+ビューチフル！！[PAGE]
+Beautiful!![PAGE]
+
+
+[FF 23]かんどうした。[BR]
+[FF 23]I'm deeply moved.[BR]
+
+このえ、ゆずってほしいよ[PAGE]
+I'd love to have this painting.[PAGE]
+
+
+[FF 23][FF 0D]まムつゆム<C3>カヌろム！ムソムそう？いいよ。[BR]
+[FF 23][FF 0D]まムつゆム<C3>カヌろム！ムソムReally? Sure.[BR]
+
+だいじにしてね。[PAGE]
+Take good care of it.[PAGE]
+
+
+[FF 23][FF 1C]Eムいいわよ。じしんさくなのみんなにみせてね。[PAGE]
+[FF 23][FF 1C]EムOf course. It's my masterpiece, so show it to everyone![PAGE]
+
+
+[FF 23][FF 1C]Eムいいですわ。えはこころがゆたかになりますものね。[PAGE]
+[FF 23][FF 1C]EムCertainly. Art enriches the heart, after all.[PAGE]
+
+
+[FF 23][FF 1C]Eムありがとう。[BR]
+[FF 23][FF 1C]EムThank you.[BR]
+
+たからものにするよ。　[PAGE]
+I'll treasure it.[PAGE]
+
+
+[FF 22]おれいに、これをあげるよ[FF 22]わたしのたからもの、[BR]
+[FF 22]In return, I'll give you this.[FF 22]It's my treasure,[BR]
+
+[PAGE]
+
+
+[FF 22]　[COLOR GREEN]けんじゃのじてん[COLOR DEFAULT]　だ。[FF 1C]<EC>ニおっ、これは！？[BR]
+[FF 22]the [COLOR GREEN]sage's encyclopedia[COLOR DEFAULT].[FF 1C]<EC>ニOh, what's this?![BR]
+
+へたくそすぎてだめだね。[PAGE]
+It's far too crude.[PAGE]
+
+
+[FF 22]もういっかい、[BR]
+[FF 22]Go paint another one[BR]
+
+[FF 22]かいてきて！[BR]
+[FF 22]and bring it back![BR]
+
+[PAGE]
+
+
+[FF 22]このえは、あずかるから。[FF 1C]<EC>ニ[FF 0D]クメつセメ<C3>カヌトメ3メメメえー、そんなにへた？[FF 1C]<EC>ニひどいわ！あそこまでいくの、たいへんなのよ！[FF 1C]<EC>ニしょうがないですね。[FF 1C]<EC>ニわたし、セフィーロの　　げいじゅつか。　　[PAGE]
+[FF 22]I'll hold on to this one.[FF 1C]<EC>ニ[FF 0D]クメつセメ<C3>カヌトメ3メメメWhat? It's that bad?[FF 1C]<EC>ニHow awful! Getting all the way there was hard![FF 1C]<EC>ニIt cannot be helped.[FF 1C]<EC>ニI'm an artist of Cephiro.[PAGE]
+
+
+[FF 23]ああ、このあいだのえ、　たいせつにしてるよ。[FF 1C]<EC>ニわたし、セフィーロの　　げいじゅつか。[PAGE]
+[FF 23]Ah, I'm taking good care of the painting you gave me.[FF 1C]<EC>ニI'm an artist of Cephiro.[PAGE]
+
+
+[FF 23]とてもきれいなえ[FF 05]が[BR]
+[FF 23]I'd like to see a truly beautiful[FF 05][BR]
+
+みたい。[BR]
+painting.[BR]
+
+[PAGE]
+
+
+[FF 22]とくに、やまのふうけいが[FF 22]なんかいいね。[PAGE]
+[FF 22]A mountain landscape[FF 22]would be especially nice.[PAGE]
+
+
+[FF 23]やまでぼうけんしたら、　とてもいいけしきを[BR]
+[FF 23]I saw some wonderful scenery[BR]
+
+[PAGE]
+
+
+[FF 22]みたんだ。[BR]
+[FF 22]while adventuring in the mountains.[BR]
+
+[FF 22]いってみるといいよ。[PAGE]
+[FF 22]You should go have a look.[PAGE]
+
+
+[FF 23][FF 0D]ニモつフモ<C3>カヌメモHモ<79>モやまのえかー、うーん。[FF 1C]<EC>ニふうけいがねー。そのへんかくだけじゃ　だめなの？[FF 1C]<EC>ニふうけいがですか？[BR]
+[FF 23][FF 0D]ニモつフモ<C3>カヌメモHモ<79>モA painting of the mountains? Hmm.[FF 1C]<EC>ニA landscape? Can't we just paint something around here?[FF 1C]<EC>ニA landscape, you say?[BR]
+
+えをかくってことは・・[FF 1C]<EC>ニわたしは、まそうし。　　すなわち、まほうつかいで[PAGE]
+To paint a picture means...[FF 1C]<EC>ニI am a sorceress. In other words, a wielder of magic.[PAGE]
+
+
+[FF 22]ある。きみたちは、だれ　[FF 22]かね？[PAGE]
+[FF 22]And who might[FF 22]you be?[PAGE]
+
+
+[FF 23][FF 0D]<F4>モつ<FA>モ<C3>カヌ　ヤへヤきヤわたしは、しどうひかる！[PAGE]
+[FF 23][FF 0D]<F4>モつ<FA>モ<C3>カヌ　ヤへヤきヤI'm Hikaru Shidou![PAGE]
+
+
+[FF 23][FF 1C]アヤわたしは、りゅうざきうみ[PAGE]
+[FF 23][FF 1C]アヤI'm Umi Ryuuzaki.[PAGE]
+
+
+[FF 23][FF 1C]アヤわたしは、[BR]
+[FF 23][FF 1C]アヤI am[BR]
+
+ほうおうじふうです。[PAGE]
+Fuu Hououji.[PAGE]
+
+
+[FF 23][FF 1C]アヤな、なに？[BR]
+[FF 23][FF 1C]アヤW-What?[BR]
+
+[PAGE]
+
+
+わたしにさからおうと[BR]
+You dare to[BR]
+
+[FF 22]いうのか？[BR]
+[FF 22]defy me?[BR]
+
+[PAGE]
+
+
+[FF 22]れいせいなわたしでも[BR]
+[FF 22]Even I, calm as I am,[BR]
+
+[FF 22]ぶちきれる<09>[PAGE]
+[FF 22]can lose my temper!<09>[PAGE]
+
+
+[FF 23][FF 0D]6ヤつ<91>ヤ<C3>カヌBヤ<BF>ヤVヤなんにも、いってないよ！[PAGE]
+[FF 23][FF 0D]6ヤつ<91>ヤ<C3>カヌBヤ<BF>ヤVヤWe didn't say anything![PAGE]
+
+
+[FF 23][FF 1C]<D9>ヤへんよ！このまほうつかい[PAGE]
+[FF 23][FF 1C]<D9>ヤThis sorceress is a total weirdo![PAGE]
+
+
+[FF 23][FF 1C]<D9>ヤわたくし、わるいこと[BR]
+[FF 23][FF 1C]<D9>ヤDid I say[BR]
+
+いいました？[PAGE]
+something wrong?[PAGE]
+
+
+[FF 23][FF 1C]<D9>ヤようし、わたしのまほう　とくとあじわうがよい！[FF 1C]<EC>ニくっ、わたしのまほうが　つうじないとは・・・[BR]
+[FF 23][FF 1C]<D9>ヤVery well. Now experience the full force of my magic![FF 1C]<EC>ニGah! To think my magic had no effect...[BR]
+
+[PAGE]
+
+
+[FF 22]うえにはうえがいるって　[FF 22]ことか・・[BR]
+[FF 22]I suppose there's always[FF 22]someone stronger...[BR]
+
+[PAGE]
+
+
+[FF 22]きをつけていくんだな。　[FF 22]おじょうちゃんたち。[FF 0D]<F2>ニマジックビーム！[BR]
+[FF 22]Take care on your journey,[FF 22]young ladies.[FF 0D]<F2>ニMagic Beam![BR]
+
+マジックフラッシュ！[BR]
+Magic Flash![BR]
+
+[PAGE]
+
+
+[FF 23]はあ、はあ・・・[BR]
+[FF 23]Huff... Huff...[BR]
+
+[PAGE]
+
+
+ようやく、おわったか。　[FF 22]くるしいたたかいだった。[FF 0D]Jユ<3E>。もな<C3><C3><BE>ニしょうこりもなく、また　くるとは。[PAGE]
+It's finally over.[FF 22]That was a grueling battle.[FF 0D]Jユ<3E>。もな<C3><C3><BE>ニYou dare return after your last defeat?[PAGE]
+
+
+[FF 23]ようし、わたしのまほう、とくとあじわうとよい！[FF 1C]<EC>ニランラランラン、[BR]
+[FF 23]Very well. Experience the full force of my magic![FF 1C]<EC>ニLa la la la,[BR]
+
+ぼくは、おんがくかさ。　[PAGE]
+I'm a musician.[PAGE]
+
+
+[FF 22]おじょうちゃんたち、[BR]
+[FF 22]Young ladies,[BR]
+
+[FF 22]うたはうたえるかい？[FF 1C]<EC>ニ[FF 0D]こヨつたヨ<C3>カヌにヨコヨんヨうん、うたえるよ。[BR]
+[FF 22]can you sing?[FF 1C]<EC>ニ[FF 0D]こヨつたヨ<C3>カヌにヨコヨんヨYeah, I can sing![BR]
+
+ランラランラン、[FF 1C]<EC>ニきいてよ！[BR]
+La la la la![FF 1C]<EC>ニListen to[BR]
+
+わたしのうたごえ。[FF 1C]<EC>ニうたいますわ。[FF 1C]<EC>ニうーん、こころにしみる　うたごえだ。[BR]
+my singing![FF 1C]<EC>ニI shall sing.[FF 1C]<EC>ニAh, your singing touches the heart.[BR]
+
+[PAGE]
+
+
+[FF 22]ぼく、ひさしぶりに[FF 22]かんどうしたよ。[PAGE]
+[FF 22]I haven't been this moved[FF 22]in a long time.[PAGE]
+
+
+[FF 23]おれいに、[BR]
+[FF 23]As thanks, I'll give you[BR]
+
+パレットをあげるよ。[FF 1C]<EC>ニどへーー！ひどいうただ！これは、もっとれんしゅう[PAGE]
+a palette.[FF 1C]<EC>ニYikes! That was terrible! You need a lot more practice,[PAGE]
+
+
+[FF 22]しないと、ぼくのみみまで[FF 22]へんになっちゃうよ！[BR]
+[FF 22]or you'll ruin[FF 22]my ears![BR]
+
+[PAGE]
+
+
+[FF 22]ダンダダンダン。[FF 1C]<EC>ニ[FF 0D]<0B>ラついラ<C3>カヌくラャラひラなにうたったらいいの？[PAGE]
+[FF 22]Dun da-da-dun.[FF 1C]<EC>ニ[FF 0D]<0B>ラついラ<C3>カヌくラャラひラWhat should I sing?[PAGE]
+
+
+[FF 23][FF 1C]チラなにをうたっていいのか　わからないわ！[PAGE]
+[FF 23][FF 1C]チラI don't know what to sing![PAGE]
+
+
+[FF 23][FF 1C]チラなにをうたいましょうか。[PAGE]
+[FF 23][FF 1C]チラWhat shall I sing?[PAGE]
+
+
+[FF 23][FF 1C]チラそうかい？ランラン。[BR]
+[FF 23][FF 1C]チラIs that so? La la.[BR]
+
+[PAGE]
+
+
+[FF 22]だったら、うたのほんでも[FF 22]さがしてね。[BR]
+[FF 22]Then try to find[FF 22]a songbook.[BR]
+
+[PAGE]
+
+
+[FF 22]ランラランラン。[FF 1C]<EC>ニランラランラン。[BR]
+[FF 22]La la la la.[FF 1C]<EC>ニLa la la la.[BR]
+
+うたはたのしいな。[FF 1C]<EC>ニううっ、くるしい。[BR]
+Singing is such fun.[FF 1C]<EC>ニUgh... It hurts...[BR]
+
+たすけて・・・[PAGE]
+Help me...[PAGE]
+
+
+[FF 23][FF 0D]<C6>ラつ<CC>ラ<C3>カヌ<D2>ラっリ<F1>ラどうした？[BR]
+[FF 23][FF 0D]<C6>ラつ<CC>ラ<C3>カヌ<D2>ラっリ<F1>ラWhat's wrong?[BR]
+
+だいじょうぶか？[PAGE]
+Are you okay?[PAGE]
+
+
+[FF 23][FF 1C]やリくるしそうね？[BR]
+[FF 23][FF 1C]やリYou look like you're in pain.[BR]
+
+だいじょうぶ？[PAGE]
+Are you all right?[PAGE]
+
+
+[FF 23][FF 1C]やリまあ、たいへん！[BR]
+[FF 23][FF 1C]やリOh, how terrible![BR]
+
+だいじょうぶですか？[PAGE]
+Are you all right?[PAGE]
+
+
+[FF 23][FF 1C]やリ・・やくそうをとって[BR]
+[FF 23][FF 1C]やリ...Would you bring me[BR]
+
+きてくれませんか・・[PAGE]
+a healing herb...?[PAGE]
+
+
+[FF 23][FF 0D]ケリつソリ<C3>カヌナリQリンリうん、やくそうだね。[BR]
+[FF 23][FF 0D]ケリつソリ<C3>カヌナリQリンリSure, a healing herb.[BR]
+
+まっててね。[FF 1C]<EC>ニやくそうね。かならず、　とってくるから、わたしが[PAGE]
+Wait here.[FF 1C]<EC>ニA healing herb. I'll definitely bring one back,[PAGE]
+
+
+[FF 22]くるまで、まっててね。[FF 1C]<EC>ニやくそうですわね。[BR]
+[FF 22]so wait until I return.[FF 1C]<EC>ニA healing herb, correct?[BR]
+
+わかりましたわ。[FF 1C]<EC>ニううっ、くるしい。[BR]
+Understood.[FF 1C]<EC>ニUgh... It hurts...[BR]
+
+たすけて・・・[FF 1A]・[PAGE]
+Help me...[FF 1A]・[PAGE]
+
+
+[FF 22]やくそうをのまなければ　[FF 01]わたし・・・[PAGE]
+[FF 22]If I don't take that[FF 01]healing herb, I'll...[PAGE]
+
+
+[FF 23]おっ、それはまさしく[BR]
+[FF 23]Oh, that's exactly[BR]
+
+やくそうだわ。[FF 1A]・[PAGE]
+the healing herb I need.[FF 1A]・[PAGE]
+
+
+[FF 22]のませてくれませんか？　[FF 22]<7F>はい　　いいえ[FF 18]<02><80>ョ　ッほルめル。レ[FF 23][FF 0D]りルZ<FD>つ<E0><C2><FD><77>い<FD>ゆ<07><FD>ゆ<0A><3E>。もね<C3>つクル<C3>カヌセル<83>ルホルはい、やくそう！[PAGE]
+[FF 22]Will you let me take it?[FF 22]<7F>Yes　　No[FF 18]<02><80>ョ　ッほルめル。レ[FF 23][FF 0D]りルZ<FD>つ<E0><C2><FD><77>い<FD>ゆ<07><FD>ゆ<0A><3E>。もね<C3>つクル<C3>カヌセル<83>ルホルHere, the healing herb![PAGE]
+
+
+[FF 23][FF 1C]Lルさあ、やくそうよ。[BR]
+[FF 23][FF 1C]LルHere, it's the healing herb.[BR]
+
+ゆっくりのみなさい。[PAGE]
+Take it slowly.[PAGE]
+
+
+[FF 23][FF 1C]Lルはい、どうぞ。やくそう　ですわ。[PAGE]
+[FF 23][FF 1C]LルHere you are. It is the healing herb.[PAGE]
+
+
+[FF 23][FF 1C]Lルふー、らくになりました。[PAGE]
+[FF 23][FF 1C]LルWhew, I feel much better.[PAGE]
+
+
+[FF 23]ありがとう。おれいに[BR]
+[FF 23]Thank you. In return,[BR]
+
+アイテムをあげましょう。[PAGE]
+I'll give you some items.[PAGE]
+
+
+[FF 22]マジックブラシと[FF 1A]、[FF 22]マジックブックだ。[PAGE]
+[FF 22]The magic brush[FF 1A]and[FF 22]the magic book.[PAGE]
+
+
+[FF 23]ありがとう。[FF 1C]<EC>ニ[FF 23]うっ、くるしい。[BR]
+[FF 23]Thank you.[FF 1C]<EC>ニ[FF 23]Ugh, it hurts...[BR]
+
+もうだめだわ・・・[FF 1C]<EC>ニさっきは、ありがとう。　たすかりました。[FF 1C]<EC>ニううっ、くるしい。[FF 1A]<03>[PAGE]
+I can't take much more...[FF 1C]<EC>ニThank you for earlier. You saved me.[FF 1C]<EC>ニUgh... It hurts...[FF 1A]<03>[PAGE]
+
+
+[FF 22]たすけて・・・[FF 1A]・[FF 22]やくそうを・・[PAGE]
+[FF 22]Help me...[FF 1A]・[FF 22]The healing herb...[PAGE]
+
+
+[FF 23]となりのかねもちに、[BR]
+[FF 23]You gave it to[BR]
+
+わたしてしまったのね。　[PAGE]
+the wealthy man next door...[PAGE]
+
+
+[FF 22]ううっ[FF 1C]<EC>ニううっ、くるしい。[PAGE]
+[FF 22]Ugh...[FF 1C]<EC>ニUgh... It hurts...[PAGE]
+
+
+[FF 23]たべすぎて　はらを[BR]
+[FF 23]I ate too much[BR]
+
+こわした。[PAGE]
+and upset my stomach.[PAGE]
+
+
+[FF 23]やくそうをもってきてくれみてのとおり、おかねもち[PAGE]
+[FF 23]Bring me a healing herb. As you can see, I'm wealthy,[PAGE]
+
+
+[FF 22]だから、おれいははずむぞ[FF 22]となりよりもな。[PAGE]
+[FF 22]so I'll reward you handsomely.[FF 22]More than the woman next door.[PAGE]
+
+
+[FF 23][FF 0D]<E7>レつ[ED]レ<C3>カヌ<F3>レてロゃロやくそうか？　うん、[BR]
+[FF 23][FF 0D]<E7>レつ[ED]レ<C3>カヌ<F3>レてロゃロA healing herb? Sure,[BR]
+
+ちょっとまってて。[FF 1C]<EC>ニやくそう？　ほんとうに　くるしいの？[FF 1C]<EC>ニやくそうですわね。[BR]
+wait here.[FF 1C]<EC>ニA healing herb? Are you really in that much pain?[FF 1C]<EC>ニA healing herb, correct?[BR]
+
+わかりましたわ。[FF 1C]<EC>ニううっ、くるしい。[PAGE]
+Understood.[FF 1C]<EC>ニUgh... It hurts...[PAGE]
+
+
+[FF 23]たべすぎて　はらを[BR]
+[FF 23]I ate too much[BR]
+
+こわした。[PAGE]
+and upset my stomach.[PAGE]
+
+
+[FF 23]おっ！それは　なんでも　なおるやくそうではないか[PAGE]
+[FF 23]Oh! Isn't that the healing herb that cures anything?[PAGE]
+
+
+[FF 22]わしにくれないか？[BR]
+[FF 22]Won't you give it to me?[BR]
+
+[FF 22]みてのとおり、おかねもち[PAGE]
+[FF 22]As you can see, I'm wealthy.[PAGE]
+
+
+[FF 22]だから、おれいははずむぞ[FF 22]<7F>はい　　いいえ[FF 18]<02><80>ョ　ッ<C2>ロ<C6>ロUワ[FF 23][FF 0D]<CC>ロZも<F1><C2><3E>。もの<C3>つ<DB>ロ<C3>カヌ<E1>ロ・ワ<F2>ロはい、あげる！[PAGE]
+[FF 22]I'll reward you handsomely.[FF 22]<7F>Yes　　No[FF 18]<02><80>ョ　ッ<C2>ロ<C6>ロUワ[FF 23][FF 0D]<CC>ロZも<F1><C2><3E>。もの<C3>つ<DB>ロ<C3>カヌ<E1>ロ・ワ<F2>ロSure, you can have it![PAGE]
+
+
+[FF 23][FF 1C]ねワはい、どうぞ。[PAGE]
+[FF 23][FF 1C]ねワHere you are.[PAGE]
+
+
+[FF 23][FF 1C]ねワいいですわ。そのための　やくそうですからね。[PAGE]
+[FF 23][FF 1C]ねワCertainly. That is what the healing herb is for.[PAGE]
+
+
+[FF 23][FF 1C]ねワふー、ようやく　はらいたがおさまった。[BR]
+[FF 23][FF 1C]ねワWhew, my stomachache is finally gone.[BR]
+
+[PAGE]
+
+
+[FF 22]ありがとよ。では、わしは[FF 22]これで・・[PAGE]
+[FF 22]Thanks. Well then,[FF 22]I'll be on my way...[PAGE]
+
+
+[FF 23]うん？　おれい？[BR]
+[FF 23]Hmm? Your reward?[BR]
+
+そんなやくそくをした[BR]
+I don't recall[BR]
+
+[PAGE]
+
+
+[FF 22]おぼえはないのう。[BR]
+[FF 22]making such a promise.[BR]
+
+[FF 22]わしみたいにケチでないと[PAGE]
+[FF 22]You don't get rich without being[PAGE]
+
+
+[FF 22]おかねはたまらんからの。[FF 1C]<EC>ニ[FF 23]おれいを、はずむといっておろうに。[BR]
+[FF 22]a miser like me.[FF 1C]<EC>ニ[FF 23]I told you I'd reward you handsomely.[BR]
+
+[PAGE]
+
+
+[FF 22]ううっ、はらがいたい・・[FF 1C]<EC>ニさっきは、ありがとよ。[PAGE]
+[FF 22]Ugh, my stomach hurts...[FF 1C]<EC>ニThanks for earlier.[PAGE]
+
+
+[FF 23]おなかがなおったから[BR]
+[FF 23]Now that my stomach's better,[BR]
+
+これでまたいっぱい[BR]
+I can eat my fill[BR]
+
+[PAGE]
+
+
+[FF 22]たべられるよ。[FF 1C]<EC>ニううっ、くるしい。[BR]
+[FF 22]all over again.[FF 1C]<EC>ニUgh... It hurts...[BR]
+
+[PAGE]
+
+
+[FF 22]たべすぎて　はらを[BR]
+[FF 22]I ate too much[BR]
+
+[FF 22]こわした。[PAGE]
+[FF 22]and upset my stomach.[PAGE]
+
+
+[FF 23]やくそうを・・・[BR]
+[FF 23]The healing herb...[BR]
+
+なにっ！[BR]
+What?![BR]
+
+[PAGE]
+
+
+[FF 22]となりのやつにあげて[BR]
+[FF 22]You gave it to[BR]
+
+[FF 22]しまったのか？[BR]
+[FF 22]the woman next door?[BR]
+
+[PAGE]
+
+
+[FF 22]わしのほうがかねもち[BR]
+[FF 22]But I'm the richer[BR]
+
+[FF 22]なのに・・[FF 1C]<EC>ニおじょうちゃん、いいものがあるんだが、もって[BR]
+[FF 22]one...[FF 1C]<EC>ニYoung ladies, I've got something nice. Would you like[BR]
+
+[PAGE]
+
+
+[FF 22]いかないかい？[PAGE]
+[FF 22]to take it with you?[PAGE]
+
+
+[FF 23][FF 0D]<BC>ンつ<C2>ン<C3>カヌ<C8>ン<EE>ン<D4>ンえっ？なになに？[FF 1C]<EC>ニあやしいものじゃ[BR]
+[FF 23][FF 0D]<BC>ンつ<C2>ン<C3>カヌ<C8>ン<EE>ン<D4>ンHuh? What is it?[FF 1C]<EC>ニThis isn't anything[BR]
+
+ないでしょうね。[FF 1C]<EC>ニいいんですか？そんなに　いいものを？[FF 1C]<EC>ニこれだ。このつぼだ。[PAGE]
+suspicious, is it?[FF 1C]<EC>ニAre you certain? Something that nice?[FF 1C]<EC>ニHere it is. This pot.[PAGE]
+
+
+[FF 23]けっして、あやしいもの　ではない。[BR]
+[FF 23]It's not suspicious in the least.[BR]
+
+[PAGE]
+
+
+[FF 22]みずもはいれば、オイルも[FF 22]はいる。ぜったい、やくに[PAGE]
+[FF 22]It holds water or oil.[FF 22]I guarantee it'll[PAGE]
+
+
+[FF 22]たつことうけあいだ！[PAGE]
+[FF 22]come in handy![PAGE]
+
+
+[FF 23]ところで、もう1けん[BR]
+[FF 23]By the way, there's another[BR]
+
+つぼやが、あるんだが[BR]
+pot shop nearby.[BR]
+
+[PAGE]
+
+
+[FF 22]いったかい？[FF 1C]<EC>ニどうだい？おれのつぼは？いいつぼだったろ？[BR]
+[FF 22]Have you been there?[FF 1C]<EC>ニWell? How was my pot? A fine pot, wasn't it?[BR]
+
+[PAGE]
+
+
+[FF 22]あのつぼには、セフィーロ[FF 22]のおもいがこめられて[BR]
+[FF 22]That pot is filled with[BR]
+
+[PAGE]
+
+
+[FF 22]いるからな。[FF 1C]<EC>ニおじょうちゃんたち、[BR]
+[FF 22]the very spirit of Cephiro.[FF 1C]<EC>ニYoung ladies,[BR]
+
+おつかれのようだね。[PAGE]
+you look tired.[PAGE]
+
+
+[FF 22]やすんでいかないかい？[PAGE]
+[FF 22]Would you like to stay and rest?[PAGE]
+
+
+[FF 23][FF 0D]し<77>つつ<77><C3>カヌね<77>ッ<77>も<77>えっ？いいの？[FF 1C]<EC>ニおことばにあまえよう[BR]
+[FF 23][FF 0D]し<77>つつ<77><C3>カヌね<77>ッ<77>も<77>Huh? Really?[FF 1C]<EC>ニPerhaps we should accept[BR]
+
+かしら？[FF 1C]<EC>ニいいんですか？[BR]
+the kind offer?[FF 1C]<EC>ニAre you certain?[BR]
+
+ありがとうございます。[FF 1C]<EC>ニおっと、わるいけど[BR]
+Thank you very much.[FF 1C]<EC>ニOh, but I'm afraid[BR]
+
+ただというわけには[BR]
+I can't let you stay[BR]
+
+[PAGE]
+
+
+[FF 22]いかないねえ。[PAGE]
+[FF 22]for free.[PAGE]
+
+
+[FF 23]おじょうちゃんたちの[BR]
+[FF 23]If you give me one of your[BR]
+
+[FF 0D]<DC>ら[PAGE]
+[FF 0D]<DC>ら[PAGE]
+
+
+[FF 22]1つくれたら、とめて[BR]
+[FF 22]I'll let you[BR]
+
+[FF 22]あげるわ。どう？[FF 1A]、[PAGE]
+[FF 22]stay. How about it?[FF 1A]、[PAGE]
+
+
+[FF 22]<7F>はい　　いいえ[FF 18]<02>　ュ<80>ュ<D9><77><DD><77><E8><77>[FF 10]ち<C8>。[FF 23][FF 1C]<F3><77>[FF 10]ち<C8>　[FF 23][FF 1C]っ<78>はい、まいど！[BR]
+[FF 22]<7F>Yes　　No[FF 18]<02>　ュ<80>ュ<D9><77><DD><77><E8><77>[FF 10]ち<C8>。[FF 23][FF 1C]<F3><77>[FF 10]ち<C8>　[FF 23][FF 1C]っ<78>Thanks for your business![BR]
+
+ではゆっくりおやすみ。[FF 1C]<EC>ニそれは　ざんねんだね。[FF 1C]<EC>ニとおもったけど・・・[PAGE]
+Now get some rest.[FF 1C]<EC>ニThat's too bad.[FF 1C]<EC>ニOr so I thought...[PAGE]
+
+
+[FF 23]マジックアイテムを[BR]
+[FF 23]Anyone without[BR]
+
+もっていないひとには[FF 1A]<02>[PAGE]
+magic items[FF 1A]<02>[PAGE]
+
+
+[FF 22]ようはないね。[FF 1C]<EC>ニサンユンともうします。[PAGE]
+[FF 22]is of no use to me.[FF 1C]<EC>ニMy name is Sanyun.[PAGE]
+
+
+[FF 23]ぼく、[BR]
+[FF 23]I want[BR]
+
+つよくなりたいんです。[PAGE]
+to become stronger.[PAGE]
+
+
+[FF 23][FF 0D]1<78>つ7<78><C3>カヌ<92><78><E4><78>Y<78>つよくなる？じゃあ、[BR]
+[FF 23][FF 0D]1<78>つ7<78><C3>カヌ<92><78><E4><78>Y<78>You want to get stronger? Then[BR]
+
+わたしとけいこしよ。[FF 1C]<EC>ニだらしないわねえ。おとこのこでしょ。それじゃあ　[PAGE]
+train with me.[FF 1C]<EC>ニHow pathetic. You're a boy, aren't you? Very well,[PAGE]
+
+
+[FF 22]わたしがきたえてあげるわ[FF 1C]<EC>ニしょうがないですわねえ。わたしがきたえてあげます[FF 1C]<EC>ニちょっと、つよくなった　きがします。[BR]
+[FF 22]I'll train you.[FF 1C]<EC>ニVery well. I shall train you.[FF 1C]<EC>ニI feel a little stronger.[BR]
+
+[PAGE]
+
+
+[FF 22]ありがとう、また！[FF 1C]<EC>ニあんまり　つよくなったきがしないです。[BR]
+[FF 22]Thank you. See you again![FF 1C]<EC>ニI don't feel much stronger.[BR]
+
+[PAGE]
+
+
+[FF 22]もう1かい、きて[BR]
+[FF 22]Please come back[BR]
+
+[FF 22]きたえてください。[FF 1C]<EC>ニまたきてくださったんですね。[PAGE]
+[FF 22]and train me again.[FF 1C]<EC>ニYou've come back again.[PAGE]
+
+
+[FF 23]ぼく、もっとつよく[BR]
+[FF 23]I want to become[BR]
+
+なりたいんです。[PAGE]
+even stronger.[PAGE]
+
+
+[FF 23][FF 0D]I<79>つO<79><C3>カヌU<79><DE><79><C6><79>げんきあるね。サンユン。けいこはじめよ！[FF 1C]<EC>ニガッツあるわね。[BR]
+[FF 23][FF 0D]I<79>つO<79><C3>カヌU<79><DE><79><C6><79>You've got plenty of energy, Sanyun. Let's start training![FF 1C]<EC>ニYou've got spirit.[BR]
+
+そのちょうしよ！[FF 1C]<EC>ニあら？げんきになりましたのねえ。いきますよ！[FF 1C]<EC>ニやったー！ちからがわいてきます。[BR]
+Keep it up![FF 1C]<EC>ニMy, you are feeling energetic. Let us begin![FF 1C]<EC>ニHooray! I can feel the strength surging through me![BR]
+
+[PAGE]
+
+
+[FF 22]ぼく、つよくなったんです[FF 22]ね？[PAGE]
+[FF 22]I've become stronger,[FF 22]haven't I?[PAGE]
+
+
+[FF 1C]<EC>ニもう、だれも[BR]
+[FF 1C]<EC>ニIt seems no one[BR]
+
+いないようだ・・[FF 1C]<EC>ニおう！これは、これは。[PAGE]
+is here anymore...[FF 1C]<EC>ニOh! Well, well.[PAGE]
+
+
+[FF 23]うわさの3にんぐみでは　ないか・・・　さて、[BR]
+[FF 23]Aren't you the famous trio?[BR]
+
+[PAGE]
+
+
+[FF 22]わしのしごとのてつだいを[FF 22]してくれんかのう？[PAGE]
+[FF 22]Would you help me[FF 22]with my work?[PAGE]
+
+
+[FF 23][FF 0D]A<7A>つG<7A><C3>カヌM<7A><E0><7A><C2><7A>うん、いいよ。[BR]
+[FF 23][FF 0D]A<7A>つG<7A><C3>カヌM<7A><E0><7A><C2><7A>Sure.[BR]
+
+ところで、しごとって？[PAGE]
+What kind of work is it?[PAGE]
+
+
+[FF 23][FF 1C]<FC><7A>いいわよ。[BR]
+[FF 23][FF 1C]<FC><7A>All right.[BR]
+
+しごとにもよるけどね。[PAGE]
+Depending on the work.[PAGE]
+
+
+[FF 23][FF 1C]<FC><7A>いいですわ。[BR]
+[FF 23][FF 1C]<FC><7A>Certainly.[BR]
+
+てつだいますわ。[PAGE]
+I shall assist you.[PAGE]
+
+
+[FF 23][FF 1C]<FC><7A>じつは、わしはきとうし。いのるのじゃ。[PAGE]
+[FF 23][FF 1C]<FC><7A>You see, I am a priest. Your task is to pray.[PAGE]
+
+
+[FF 23]ウーローンーーハイッ！[FF 1C]<EC>ニよくぞ、いのった。[PAGE]
+[FF 23]Oooom... Hallelujah![FF 1C]<EC>ニYou have prayed well.[PAGE]
+
+
+[FF 23]そのしんじるこころ、[BR]
+[FF 23]I have witnessed[BR]
+
+しかとみとどけた。[PAGE]
+the faith within your heart.[PAGE]
+
+
+[FF 23]そうじゃ、ほうびをとらせよう。うたのほんじゃ！[FF 1C]<EC>ニそれでは、これからも[BR]
+[FF 23]Yes, you deserve a reward. Here is a songbook![FF 1C]<EC>ニContinue to pray[BR]
+
+いのるがよい。[FF 1C]<EC>ニだめじゃ、だめじゃ。[BR]
+from now on.[FF 1C]<EC>ニNo, no. This will not do.[BR]
+
+いのるこころがたりない。[PAGE]
+You lack prayer in your heart.[PAGE]
+
+
+[FF 23]きひんをもっとみがいて　くるのじゃ。[FF 1C]<EC>ニおーい。[BR]
+[FF 23]Return once you have cultivated more grace.[FF 1C]<EC>ニHello there![BR]
+
+おいのりしとるか？[FF 1C]<EC>ニ[FF 0D]<E5><7B>つ<EB><7B><C3>カヌ<F1><7B>ほ<7C><0B><7C>あっ、なんかとんでる！？おそってくるよ。[FF 1C]<EC>ニなんなの？[BR]
+Have you been praying?[FF 1C]<EC>ニ[FF 0D]<E5><7B>つ<EB><7B><C3>カヌ<F1><7B>ほ<7C><0B><7C>Look, something's flying around! It's attacking us![FF 1C]<EC>ニWhat are[BR]
+
+このちいさいのは？[BR]
+these little things?[BR]
+
+[PAGE]
+
+
+[FF 22]おそってくるわ。[FF 1C]<EC>ニなにかいますわ。[PAGE]
+[FF 22]They're attacking![FF 1C]<EC>ニThere is something here.[PAGE]
+
+
+[FF 22]わたしたちにてきいを[BR]
+[FF 22]It bears hostility[BR]
+
+[FF 22]もっていますわ。[FF 1C]<EC>ニつよいんですね。[BR]
+[FF 22]toward us.[FF 1C]<EC>ニYou really are strong.[BR]
+
+[PAGE]
+
+
+[FF 22]みてるだけで、ぼくも[BR]
+[FF 22]Just watching you makes me[BR]
+
+[FF 22]つよくなったようです。　[PAGE]
+[FF 22]feel stronger too.[PAGE]
+
+
+[FF 22]おれいに、これを。[BR]
+[FF 22]Please take this as thanks.[BR]
+
+[FF 22]いずみで　ひろいました。[PAGE]
+[FF 22]I found it by the spring.[PAGE]
+
+
+[FF 22][FF 1C]J<7D>きをつけて！　ちいさい[BR]
+[FF 22][FF 1C]J<7D>Be careful! They're small,[BR]
+
+けど　やっかいなてきが　[PAGE]
+but they're troublesome enemies.[PAGE]
+
+
+[FF 22]います。ぼくにまかせて！[FF 1C]<EC>ニかちました！[PAGE]
+[FF 22]Leave them to me![FF 1C]<EC>ニI won![PAGE]
+
+
+[FF 23]きたえてくださった[BR]
+[FF 23]It's all because[BR]
+
+おかげです。[PAGE]
+you trained me.[PAGE]
+
+
+[FF 23][FF 0D]<0A><7D>つあ<7D><C3>カヌき<7D>ト<7D>や<7D>やったね、サンユン！[BR]
+[FF 23][FF 0D]<0A><7D>つあ<7D><C3>カヌき<7D>ト<7D>や<7D>You did it, Sanyun![BR]
+
+みごとだ。[PAGE]
+That was amazing.[PAGE]
+
+
+[FF 23][FF 1C]ロ<7D>やるわねえ。[BR]
+[FF 23][FF 1C]ロ<7D>Not bad at all.[BR]
+
+[PAGE]
+
+
+[FF 22]わたし、てきなんか[BR]
+[FF 22]I didn't even see[BR]
+
+[FF 22]みえなかったわ。[PAGE]
+[FF 22]any enemies.[PAGE]
+
+
+[FF 23][FF 1C]ロ<7D>あなたのじつりょく[BR]
+[FF 23][FF 1C]ロ<7D>That was your own[BR]
+
+ですわ。[PAGE]
+true ability.[PAGE]
+
+
+[FF 23]ありがとう。つよくして　もらったおれいに[BR]
+[FF 23]Thank you. In return for[BR]
+
+[PAGE]
+
+
+[FF 22]これをさしあげます。[PAGE]
+[FF 22]making me stronger, please take this.[PAGE]
+
+
+[FF 23][COLOR GREEN]まほうのうでわで[COLOR DEFAULT]す。[FF 1C]<EC>ニおお、ちょうどいいところにきたわね。[FF 1A]を[PAGE]
+[FF 23]It's a [COLOR GREEN]magic bracelet[COLOR DEFAULT].[FF 1C]<EC>ニOh, your timing is perfect.[FF 1A]を[PAGE]
+
+
+[FF 22]だんろのたきぎがしめって[FF 22]ひがつかないのよ。[PAGE]
+[FF 22]The firewood in my hearth is damp,[FF 22]so it won't light.[PAGE]
+
+
+[FF 23]さむくて、さむくて。[FF 1C]<EC>ニわかった、ひをつける！　ちょっとさがってて。[PAGE]
+[FF 23]It's so terribly cold.[FF 1C]<EC>ニGot it. I'll light it! Stand back a little.[PAGE]
+
+
+[FF 23]ほのおのやー！[FF 1C]<EC>ニすごいわねえ。ひのまほうが　つかえるのね。[FF 1A]<03>[PAGE]
+[FF 23]Flame Arrow![FF 1C]<EC>ニHow impressive! You can use fire magic.[FF 1A]<03>[PAGE]
+
+
+[FF 22]ありがとう、おれいに[FF 1A]<02>[FF 22]オイルをあげましょう。　[PAGE]
+[FF 22]Thank you. In return,[FF 1A]<02>[FF 22]I'll give you some oil.[PAGE]
+
+
+[FF 22]つぼは、もっているかい？[PAGE]
+[FF 22]Do you have a pot?[PAGE]
+
+
+[FF 23][FF 1C]<BA><7E>はあ、おかしいな。つかれてるのかな。[PAGE]
+[FF 23][FF 1C]<BA><7E>Huh, that's strange. Maybe I'm tired.[PAGE]
+
+
+[FF 23]ごめん、おばさん。[FF 1C]<EC>ニうん、あるよ。[BR]
+[FF 23]Sorry, ma'am.[FF 1C]<EC>ニYeah, we have one.[BR]
+
+つぼにオイルいれるの？[FF 1C]<EC>ニオイルは、くらやみを[BR]
+Are you putting the oil in it?[FF 1C]<EC>ニOil will come in handy[BR]
+
+てらすものがあれば[BR]
+if you have something[BR]
+
+[PAGE]
+
+
+[FF 22]やくにたつわ。[PAGE]
+[FF 22]to illuminate the darkness.[PAGE]
+
+
+[FF 23]おうえんしてるわよ。[FF 1C]<EC>ニこのまえは、ありがとね。オイルは　やくにたった　[PAGE]
+[FF 23]I'm rooting for you.[FF 1C]<EC>ニThanks for your help before. Did the oil[PAGE]
+
+
+[FF 22]かしら？
+[FF 22]prove useful?
+
+Block 23  ROM 0x01826E-0x0191BC
+[Chang Ang]: ジャジャーン！[BR]
+[Chang Ang]: Ta-da![BR]
+
+わしはファーレンの[BR]
+I'm Chang Ang[BR]
+
+[PAGE]
+
+
+[FF 01]チャンアンじゃ。[PAGE]
+[FF 01]of Fahren.[PAGE]
+
+
+[FF 01]きょうは、おじょうちゃん[FF 01]たちのちえをためそう。[PAGE]
+[FF 01]Today, I'll put your[FF 01]knowledge to the test.[PAGE]
+
+
+[FF 09]さあ、もんだいじゃ！[PAGE]
+[FF 09]Now, here is your question![PAGE]
+
+
+[FF 09]わしらファーレンのたみがのるりゅうのなは？[PAGE]
+[FF 09]What is the name of the dragon ridden by the people of Fahren?[PAGE]
+
+
+[FF 09][FF 0D]けちうーんと・・・[PAGE]
+[FF 09][FF 0D]けちLet's see...[PAGE]
+
+
+[BR]
+
+かうんたっく！[FF 02]そ[BR]
+Countach![FF 02]そ[BR]
+
+[FF 01]・・だっけ？[PAGE]
+...Wasn't it?[PAGE]
+
+
+[FF 09][FF 0D]カちちがうわ！[BR]
+[FF 09][FF 0D]カちThat's wrong![BR]
+
+どうむでしょ！[PAGE]
+It's Dome![PAGE]
+
+
+[FF 09][FF 0D]やちまあまあ、ふたりとも・・そうですわ！[BR]
+[FF 09][FF 0D]やちNow, now, you two... I know![BR]
+
+[PAGE]
+
+
+[FF 01][Player]さんにきめて[BR]
+[FF 01]We shall let [Player][BR]
+
+[FF 01]もらいましょう。[PAGE]
+[FF 01]decide.[PAGE]
+
+
+[FF 09][Chang Ang]: どうじゃ？わかったかのう[PAGE]
+[FF 09][Chang Ang]: Well? Do you know the answer?[PAGE]
+
+
+わしらファーレンのたみが[FF 01]のるりゅうのなは？[BR]
+What is the name of the dragon[FF 01]ridden by the people of Fahren?[BR]
+
+[PAGE]
+
+
+[FF 01]<7F>かうんたっく　　どうむ[FF 18]<02><80>ョ<80>ッZェ　ォ<B3>ェ[FF 09][FF 13]Xそのとおり、さ、これを　あげよう。[PAGE]
+[FF 01]<7F>Countach　　Dome[FF 18]<02><80>ョ<80>ッZェ　ォ<B3>ェ[FF 09][FF 13]XCorrect! Here, take this.[PAGE]
+
+
+[FF 09]マジックコンパスを[BR]
+[FF 09]You obtained[BR]
+
+てにいれた！！[FF 0D]ろソ[PAGE]
+the magic compass!![FF 0D]ろソ[PAGE]
+
+
+[FF 09]それではさらばじゃ！！[FF 00][FF 09]ちがうのー！[BR]
+[FF 09]And now, farewell!![FF 00][FF 09]Wrong![BR]
+
+[FF 02]<03>[FF 13]<C3>かわいそうじゃが、[BR]
+[FF 02]<03>[FF 13]<C3>I feel sorry for you,[BR]
+
+[PAGE]
+
+
+[FF 01]なにか　あげるわけには　[FF 01]いかんのう。[PAGE]
+[FF 01]but I cannot give you[FF 01]anything.[PAGE]
+
+
+[FF 09]それではさらばじゃ！！[FF 00][FF 0D]ソちキャー、かみなりー！！　どうしよう！？[PAGE]
+[FF 09]And now, farewell!![FF 00][FF 0D]ソちAah! Lightning!! What should we do?![PAGE]
+
+
+[FF 09][Hikaru]: うみさん[BR]
+[FF 09][Hikaru]: Umi,[BR]
+
+おちついてください。[BR]
+please calm down.[BR]
+
+[PAGE]
+
+
+[FF 01][Player]さん、[BR]
+[FF 01][Player],[BR]
+
+[FF 01]どうしましょう？[BR]
+[FF 01]what should we do?[BR]
+
+[PAGE]
+
+
+[FF 01]<7F>にげる　　たちむかう[FF 18]<02>　ュKュ<BB>ォ<BF>ォ<C9>ォ[FF 10]ョ<C1>。[FF 02]そ[FF 1B][FF 10]ョ<C1><02>[FF 02]そ[FF 1B][FF 09][FF 0D]<DD>たなんとにげまどう3にんにかみなりがおちました。[FF 13]<B6>[PAGE]
+[FF 01]<7F>Run　　Stand Firm[FF 18]<02>　ュKュ<BB>ォ<BF>ォ<C9>ォ[FF 10]ョ<C1>。[FF 02]そ[FF 1B][FF 10]ョ<C1><02>[FF 02]そ[FF 1B][FF 09][FF 0D]<DD>たLightning strikes them as they flee in panic.[FF 13]<B6>[PAGE]
+
+
+[FF 09][Cat-ear Hikaru]: ひかるは・・・[BR]
+[FF 09][Cat-ear Hikaru]: Hikaru's...[BR]
+
+[FF 0D]ゥミたいりょくが[FF 1E]DOWN[PAGE]
+[FF 0D]ゥミstamina is [FF 1E]DOWN[PAGE]
+
+
+[FF 09][FF 0D]ソちうみは・・・[BR]
+[FF 09][FF 0D]ソちUmi's...[BR]
+
+[FF 0D]ヨミたいりょくが[FF 1E]DOWN[PAGE]
+[FF 0D]ヨミstamina is [FF 1E]DOWN[PAGE]
+
+
+[FF 09][Hikaru]: ふうは・・・[BR]
+[FF 09][Hikaru]: Fuu's...[BR]
+
+[FF 0D]タミたいりょくが[FF 1E]DOWN[FF 00][FF 09][FF 0D]<DD>たうんのいいことに[BR]
+[FF 0D]タミstamina is [FF 1E]DOWN[FF 00][FF 09][FF 0D]<DD>たBy a stroke of luck,[BR]
+
+かみなりはけんにおち、[BR]
+the lightning strikes their swords,[BR]
+
+[PAGE]
+
+
+[FF 01]けんのいりょくがUP！！[FF 13]X[PAGE]
+[FF 01]increasing their power!![FF 13]X[PAGE]
+
+
+[FF 09][FF 0D]っちひかるは・・・[BR]
+[FF 09][FF 0D]っちHikaru's...[BR]
+
+[FF 0D]りミけんぎが[FF 1E]UP[PAGE]
+[FF 0D]りミswordsmanship is [FF 1E]UP[PAGE]
+
+
+[FF 09][Umi]: うみは・・・[BR]
+[FF 09][Umi]: Umi's...[BR]
+
+[FF 0D]ヒミけんぎが[FF 1E]UP[PAGE]
+[FF 0D]ヒミswordsmanship is [FF 1E]UP[PAGE]
+
+
+[FF 09][Fuu]: ふうは・・・[BR]
+[FF 09][Fuu]: Fuu's...[BR]
+
+[FF 0D]オミけんぎが[FF 1E]UP[FF 00][FF 0D]カちいきましょ、ひかる。[PAGE]
+[FF 0D]オミswordsmanship is [FF 1E]UP[FF 00][FF 0D]カちLet's go, Hikaru.[PAGE]
+
+
+[FF 09][FF 0D]けちう、うん。[PAGE]
+[FF 09][FF 0D]けちY-Yeah.[PAGE]
+
+
+[FF 10]ョ<C1>。[FF 1B][FF 0D]<07>ハぬれるとかぜひくぞ、フウなくのはこのそらだけで　[PAGE]
+[FF 10]ョ<C1>。[FF 1B][FF 0D]<07>ハYou'll catch cold if you get soaked, Fuu. The sky is doing enough crying[PAGE]
+
+
+[FF 01]じゅうぶんだからな。[BR]
+[FF 01]for both of you.[BR]
+
+[PAGE]
+
+
+[FF 01]おまえはわらっていれば　[FF 01]いい。[PAGE]
+[FF 01]You should keep smiling.[PAGE]
+
+
+[FF 09][Fuu]: は、はい。ありがとう、　フェリオ・・[BR]
+[FF 09][Fuu]: Y-Yes. Thank you, Ferio...[BR]
+
+[PAGE]
+
+
+[FF 09][FF 10]イ<D0>。[FF 13]<BD>[FF 0D]<DD>た[FF 0D]けハふうはフェリオへのあついおもいで[COLOR RED]ドキドキ[COLOR DEFAULT]になって[PAGE]
+[FF 09][FF 10]イ<D0>。[FF 13]<BD>[FF 0D]<DD>た[FF 0D]けハFuu's ardent feelings for Ferio sent her heart [COLOR RED]racing[COLOR DEFAULT],[PAGE]
+
+
+[FF 01]しまいました。[PAGE]
+[FF 01]leaving her flustered.[PAGE]
+
+
+[FF 02]そ[FF 0D]　ハ[FF 1B][Ferio]: フウ、げんきだったか？　さみしくはなかったか？[PAGE]
+[FF 02]そ[FF 0D]　ハ[FF 1B][Ferio]: How have you been, Fuu? Haven't you been lonely?[PAGE]
+
+
+[FF 01]どうし[Player]のもとで[FF 01]しゅぎょうしてるんだって[PAGE]
+[FF 01]I hear you've been training[FF 01]under Guru [Player].[PAGE]
+
+
+[FF 01]な・・　おお！[BR]
+[FF 01]Oh![BR]
+
+[FF 01]ふたりもいたか！[PAGE]
+[FF 01]You two are here as well![PAGE]
+
+
+[FF 09][FF 0D]カちふう、ちょっとわたしたちきゅうようができたわ、[BR]
+[FF 09][FF 0D]カちFuu, we just remembered some urgent business.[BR]
+
+[PAGE]
+
+
+[FF 01]ねえ！ひかる！？[PAGE]
+[FF 01]Right, Hikaru?![PAGE]
+
+
+[FF 09][Cat-ear Hikaru]: えっ？　うみちゃん[BR]
+[FF 09][Cat-ear Hikaru]: Huh? Umi,[BR]
+
+なんかようあったっけ？[PAGE]
+did we have something to do?[PAGE]
+
+
+[FF 09][FF 0D]カちもう！　にぶいわねえ！　ひかる、いくわよ！[PAGE]
+[FF 09][FF 0D]カちHonestly, you're so dense! Come on, Hikaru![PAGE]
+
+
+[FF 0D]ハシ[FF 09][Ferio]: フウ、きょうはおまえに　プレゼントがあるんだ。[PAGE]
+[FF 0D]ハシ[FF 09][Ferio]: Fuu, I have a present for you today.[PAGE]
+
+
+[FF 10]ョ<C1>。[FF 1B][Ferio]: たしかにわたしたぜ！[BR]
+[FF 10]ョ<C1>。[FF 1B][Ferio]: I've given you my heart,[BR]
+
+おれのきもちと、その[BR]
+and here's[BR]
+
+[PAGE]
+
+
+[FF 01]あかしをな！　じゃあな！[PAGE]
+[FF 01]the proof! See you![PAGE]
+
+
+[FF 09][FF 0D]<DD>たマジックスカーフを[BR]
+[FF 09][FF 0D]<DD>たYou obtained[BR]
+
+てにいれた！[PAGE]
+the magic scarf![PAGE]
+
+
+[FF 09][FF 10]イ<D0>。[FF 13]<BD>[FF 0D]ラシふうはフェリオへのあついおもいで[COLOR RED]ドキドキ[COLOR DEFAULT]になって[PAGE]
+[FF 09][FF 10]イ<D0>。[FF 13]<BD>[FF 0D]ラシFuu's ardent feelings for Ferio sent her heart [COLOR RED]racing[COLOR DEFAULT],[PAGE]
+
+
+[FF 01]しまいました。[FF 00][FF 0D]っちわあい、わあい！ゆきだ！ゆきだるまをつくろう！[PAGE]
+[FF 01]leaving her flustered.[FF 00][FF 0D]っちHooray, hooray! Snow! Let's build a snowman![PAGE]
+
+
+[FF 09][Fuu]: あら、すてきですわね。　つくりましょ、[PAGE]
+[FF 09][Fuu]: My, how delightful. Let us build one.[PAGE]
+
+
+[FF 09][Umi]: もう、ふたりとも　こどもなんだから・・・[BR]
+[FF 09][Umi]: Honestly, you're both such children...[BR]
+
+[PAGE]
+
+
+[FF 01]さあ、やるわよー！！[FF 10]ョ<C1>。[FF 00][FF 0D]カちはあ、はあ。[BR]
+[FF 01]All right, let's do this!![FF 10]ョ<C1>。[FF 00][FF 0D]カちHuff... Huff...[BR]
+
+しぬかとおもったわ。[FF 10]ョ<C1><02>[FF 00][FF 0D]<DD>たさんにんは、なんと　ゆきだるまをつくりあげた。[PAGE]
+I thought I was going to die.[FF 10]ョ<C1><02>[FF 00][FF 0D]<DD>たTogether, they somehow finish building the snowman.[PAGE]
+
+
+[FF 09][FF 0D]っちひかるは・・・[BR]
+[FF 09][FF 0D]っちHikaru's...[BR]
+
+[PAGE]
+
+
+[FF 0D]のニきりょくが[FF 1E]UP！[BR]
+[FF 0D]のニspirit is [FF 1E]UP![BR]
+
+[FF 01][FF 0D]やニげいじゅつが[FF 1E]UP！[PAGE]
+[FF 01][FF 0D]やニart is [FF 1E]UP![PAGE]
+
+
+[FF 09][Umi]: うみは・・・[BR]
+[FF 09][Umi]: Umi's...[BR]
+
+[PAGE]
+
+
+[FF 0D]シニきりょくが[FF 1E]UP！[BR]
+[FF 0D]シニspirit is [FF 1E]UP![BR]
+
+[FF 01][FF 0D]ヌニげいじゅつが[FF 1E]UP！[PAGE]
+[FF 01][FF 0D]ヌニart is [FF 1E]UP![PAGE]
+
+
+[FF 09][Fuu]: ふうは・・・[BR]
+[FF 09][Fuu]: Fuu's...[BR]
+
+[PAGE]
+
+
+[FF 0D]<3E>ニきりょくが[FF 1E]UP！[BR]
+[FF 0D]<3E>ニspirit is [FF 1E]UP![BR]
+
+[FF 01][FF 0D]アニげいじゅつが[FF 1E]UP！[FF 00][FF 0D]やちゆきがふるとはセフィーロもふぜいがありますわ。　[PAGE]
+[FF 01][FF 0D]アニart is [FF 1E]UP![FF 00][FF 0D]やちSnow lends Cephiro a certain charm.[PAGE]
+
+
+[FF 01]あら、なにかとおくに[BR]
+[FF 01]Oh, I can see something[BR]
+
+[FF 01]みえますわ！[BR]
+[FF 01]in the distance![BR]
+
+[PAGE]
+
+
+[FF 01]なんでしょうか？[FF 13]<BA>[FF 0D]<95>ヤ[PAGE]
+[FF 01]What could it be?[FF 13]<BA>[FF 0D]<95>ヤ[PAGE]
+
+
+[FF 09][Umi]: ほんと！ちょっとー！[BR]
+[FF 09][Umi]: You're right! Hey there![BR]
+
+なにかしら、[Player]？[PAGE]
+What is it, [Player]?[PAGE]
+
+
+[FF 09][FF 0D]<DD>たどうする？[PAGE]
+[FF 09][FF 0D]<DD>たWhat will you do?[PAGE]
+
+
+[FF 09]<7F>おおごえでよぶ[BR]
+[FF 09]<7F>Call Out[BR]
+
+　じっとまつ[FF 19]<02>　ュ<80>ョ！イ<7A>イ<93>ウ[FF 10]ョ<C1>。[FF 09][FF 0D]っちおーい！[PAGE]
+　Wait Quietly[FF 19]<02>　ュ<80>ョ！イ<7A>イ<93>ウ[FF 10]ョ<C1>。[FF 09][FF 0D]っちHey there![PAGE]
+
+
+[FF 09][FF 0D]<B7>モ[FF 10]ゥ<C1>。[FF 0D]カち・・・・なんか、へんな[BR]
+[FF 09][FF 0D]<B7>モ[FF 10]ゥ<C1>。[FF 0D]カち...Don't you hear[BR]
+
+おとしない？[FF 02]そ[FF 13]<B9>[FF 02]っ[FF 0D]るユ[FF 02]っ[FF 09][FF 07]きゃー！なだれよー！[BR]
+a strange noise?[FF 02]そ[FF 13]<B9>[FF 02]っ[FF 0D]るユ[FF 02]っ[FF 09][FF 07]Aah! An avalanche![BR]
+
+にげるのよー！[FF 08][FF 02]ん[FF 10]！<C1>　[FF 0D]<D6>モ[FF 02]っ[FF 0D]てヤ[FF 1B][FF 0D]Wモ[FF 0D]<C2>モ[FF 0D]<DD>た3にんはなだれにのみこまれ、[COLOR STYLE_09]おおけが[COLOR DEFAULT][FF 13]<B6>[FF 0D]<DD>モをしました[PAGE]
+Run![FF 08][FF 02]ん[FF 10]！<C1>　[FF 0D]<D6>モ[FF 02]っ[FF 0D]てヤ[FF 1B][FF 0D]Wモ[FF 0D]<C2>モ[FF 0D]<DD>たThey are swept up in the avalanche and [COLOR STYLE_09]seriously injured[COLOR DEFAULT].[FF 13]<B6>[FF 0D]<DD>モ[PAGE]
+
+
+[FF 09][Cat-ear Hikaru]: [FF 0D]<83>モひかるは・・・[BR]
+[FF 09][Cat-ear Hikaru]: [FF 0D]<83>モHikaru's...[BR]
+
+たいりょくが[FF 1E]DOWN[PAGE]
+stamina is [FF 1E]DOWN[PAGE]
+
+
+[FF 09][FF 0D]ソち[FF 0D]Dモうみは・・・[BR]
+[FF 09][FF 0D]ソち[FF 0D]DモUmi's...[BR]
+
+たいりょくが[FF 1E]DOWN[PAGE]
+stamina is [FF 1E]DOWN[PAGE]
+
+
+[FF 09][Hikaru]: [FF 0D]9モふうは・・・[BR]
+[FF 09][Hikaru]: [FF 0D]9モFuu's...[BR]
+
+たいりょくが[FF 1E]DOWN[FF 00][FF 10]ョ<C1><02>[FF 09][FF 0D]けちじっとまとう！[Player]！[BR]
+stamina is [FF 1E]DOWN[FF 00][FF 10]ョ<C1><02>[FF 09][FF 0D]けちLet's wait quietly, [Player]![BR]
+
+[FF 10]<8F><CF>。[FF 13]<BA>[FF 02]そ・[FF 02]そ・[FF 02]そ・[FF 02]そ・[FF 10]ゥ<C1>。[FF 02]そ・[FF 1B][Primera]: わたしはプリメーラ！[BR]
+[FF 10]<8F><CF>。[FF 13]<BA>[FF 02]そ・[FF 02]そ・[FF 02]そ・[FF 02]そ・[FF 10]ゥ<C1>。[FF 02]そ・[FF 1B][Primera]: I'm Primera![BR]
+
+ところであなたたち？[BR]
+By the way, have you girls[BR]
+
+[PAGE]
+
+
+[FF 01]わたしのランティスを[BR]
+[FF 01]seen my Lantis[BR]
+
+[FF 01]しらない？[BR]
+[FF 01]anywhere?[BR]
+
+[PAGE]
+
+
+[FF 01]またはぐれちゃったの。[PAGE]
+[FF 01]We got separated again.[PAGE]
+
+
+[FF 09][FF 0D]けちこのへんではみなかったよ[PAGE]
+[FF 09][FF 0D]けちWe haven't seen him around here.[PAGE]
+
+
+[FF 09][Primera]: そう、ありがと。じゃあね[PAGE]
+[FF 09][Primera]: I see. Thanks. Bye![PAGE]
+
+
+[FF 09]わたしのランティス！[BR]
+[FF 09]My Lantis![BR]
+
+いまいくから、まっててね[PAGE]
+I'm coming, so wait for me![PAGE]
+
+
+[FF 09]あ、おれいにこれあげる！[BR]
+[FF 09]Oh, take this as thanks![BR]
+
+[PAGE]
+
+
+[FF 09][FF 10]9<CF>。[FF 0D]<DD>た[FF 0D]Oモマジックリップを[BR]
+[FF 09][FF 10]9<CF>。[FF 0D]<DD>た[FF 0D]OモYou obtained[BR]
+
+[FF 13]Xてにいれた！[FF 00][FF 0D]っちわー、かわいい、[BR]
+[FF 13]Xthe magic lipstick![FF 00][FF 0D]っちWow, how cute![BR]
+
+あそぼ！　あそぼ！[PAGE]
+Let's play! Let's play![PAGE]
+
+
+[FF 09][FF 09][FF 0D]<DD>たひかるは、どうぶつと[BR]
+[FF 09][FF 09][FF 0D]<DD>たHikaru wants to play[BR]
+
+あそびたがっています。　[PAGE]
+with the animal.[PAGE]
+
+
+[FF 09]どうする？[BR]
+[FF 09]What will you do?[BR]
+
+[PAGE]
+
+
+<7F>あそばせる[BR]
+<7F>Let Her Play[BR]
+
+[FF 01]　あそばせない[FF 19]<02><80>ョ　ュおオけオ<F0>オ[FF 10]ョ<C1>。[FF 1B][FF 09][FF 0D]っちああ、たのしかった！[BR]
+[FF 01]　Don't Let Her Play[FF 19]<02><80>ョ　ュおオけオ<F0>オ[FF 10]ョ<C1>。[FF 1B][FF 09][FF 0D]っちAh, that was fun![BR]
+
+[PAGE]
+
+
+ところでうみちゃん、ふう[FF 01]ちゃんなにしてたの？[PAGE]
+By the way, Umi, Fuu,[FF 01]what were you doing?[PAGE]
+
+
+[FF 09][Fuu]: あんまりにもひかるさんがたのしそうなので、つい　[PAGE]
+[FF 09][Fuu]: You looked as though you were having such fun that I could not resist[PAGE]
+
+
+[FF 01]えをかいてしまいましたわ[PAGE]
+[FF 01]painting a picture.[PAGE]
+
+
+[FF 09][FF 0D]カちちょっと、ふう！[BR]
+[FF 09][FF 0D]カちWait, Fuu![BR]
+
+このえ、おかしいよ！[BR]
+Something's strange about this painting![BR]
+
+[PAGE]
+
+
+[FF 01]かがやいているわ！[PAGE]
+[FF 01]It's glowing![PAGE]
+
+
+[FF 09][FF 0D]<DD>たえはマジックブックに[BR]
+[FF 09][FF 0D]<DD>たThe painting transforms[BR]
+
+かわりました。[BR]
+into a magic book.[BR]
+
+[PAGE]
+
+
+[FF 09][FF 0D]トリマジックブックを[FF 13]X[BR]
+[FF 09][FF 0D]トリYou obtained[FF 13]X[BR]
+
+てにいれた！[FF 00][FF 09][Cat-ear Hikaru]: やだ！　あそぶ！[PAGE]
+the magic book![FF 00][FF 09][Cat-ear Hikaru]: No! I wanna play![PAGE]
+
+
+[FF 1C]<C1>エ[Chang Ang]: ジャジャーン！[BR]
+[FF 1C]<C1>エ[Chang Ang]: Ta-da![BR]
+
+[PAGE]
+
+
+わしはファーレンの[BR]
+I'm Chang Ang[BR]
+
+[FF 01]チャンアンじゃ。[PAGE]
+[FF 01]of Fahren.[PAGE]
+
+
+[FF 01]きょうは、おじょうちゃん[FF 01]たちのちえをためそう。[PAGE]
+[FF 01]Today, I'll put your[FF 01]knowledge to the test.[PAGE]
+
+
+[FF 09]さあ、もんだいじゃ！[BR]
+[FF 09]Now, here is your question![BR]
+
+[PAGE]
+
+
+わしらファーレンの[BR]
+What is the name of[BR]
+
+[FF 01]ひめさまのなは？[PAGE]
+[FF 01]the princess of Fahren?[PAGE]
+
+
+[FF 09][FF 0D]けちうーんと・・・[BR]
+[FF 09][FF 0D]けちLet's see...[BR]
+
+アスカ！[BR]
+Aska![BR]
+
+[FF 02]そ[FF 01]・・だっけ？[PAGE]
+[FF 02]そ[FF 01]...Wasn't it?[PAGE]
+
+
+[FF 09][FF 0D]カちちがうわ！[BR]
+[FF 09][FF 0D]カちThat's wrong![BR]
+
+ミューでしょ！[PAGE]
+It's Myuu![PAGE]
+
+
+[FF 09][FF 0D]やちまあまあ、ふたりとも・・そうですわ！[BR]
+[FF 09][FF 0D]やちNow, now, you two... I know![BR]
+
+[PAGE]
+
+
+[FF 01][Player]さんにきめて[BR]
+[FF 01]We shall let [Player][BR]
+
+[FF 01]もらいましょう。[PAGE]
+[FF 01]decide.[PAGE]
+
+
+[FF 09][Chang Ang]: どうじゃ？わかったかのうわしらファーレンの[BR]
+[FF 09][Chang Ang]: Well? Do you know the answer? What is the name of Fahren's[BR]
+
+[FF 01][PAGE]
+[FF 01][PAGE]
+
+
+おひめさまのなは？[BR]
+princess?[BR]
+
+[FF 01]<7F>アスカ　　ミュー[BR]
+[FF 01]<7F>Aska　　Myuu[BR]
+
+[FF 18]<02><80>ョちッれキ<3D>キ5キ[FF 09][FF 13]Xそのとおり、さ、これを　あげよう。[PAGE]
+[FF 18]<02><80>ョちッれキ<3D>キ5キ[FF 09][FF 13]XCorrect! Here, take this.[PAGE]
+
+
+[FF 09]マジックサーベルを[BR]
+[FF 09]You obtained[BR]
+
+てにいれた！！[FF 0D]ゥソ[PAGE]
+the magic saber!![FF 0D]ゥソ[PAGE]
+
+
+[FF 09]それではさらばじゃ！！[FF 00][FF 09]ちがうのー！[BR]
+[FF 09]And now, farewell!![FF 00][FF 09]Wrong![BR]
+
+[FF 02]<03>[FF 13]<C3>かわいそうじゃが、[BR]
+[FF 02]<03>[FF 13]<C3>I feel sorry for you,[BR]
+
+[PAGE]
+
+
+[FF 01]なにか　あげるわけには　[FF 01]いかんのう。[PAGE]
+[FF 01]but I cannot give you[FF 01]anything.[PAGE]
+
+
+[FF 09]それでは、さらばじゃ！！[FF 00][Chang Ang]: ジャジャーン！[BR]
+[FF 09]And now, farewell!![FF 00][Chang Ang]: Ta-da![BR]
+
+[PAGE]
+
+
+わしはファーレンの[BR]
+I'm Chang Ang[BR]
+
+[FF 01]チャンアンじゃ。[PAGE]
+[FF 01]of Fahren.[PAGE]
+
+
+[FF 09]きょうは、おじょうちゃんたちのちえをためそう。[PAGE]
+[FF 09]Today, I'll put your knowledge to the test.[PAGE]
+
+
+[FF 09]さあ、もんだいじゃ！[BR]
+[FF 09]Now, here is your question![BR]
+
+[PAGE]
+
+
+モコナは、ふつう　なんと　[FF 01]なくでしょう？[PAGE]
+What sound does Mokona[FF 01]usually make?[PAGE]
+
+
+[FF 09][FF 0D]けちうーんと・・・[BR]
+[FF 09][FF 0D]けちLet's see...[BR]
+
+[FF 02]っぷうぷう[BR]
+[FF 02]っPuu puu![BR]
+
+[FF 01]・・ってなくよ！[PAGE]
+[FF 01]That's the sound it makes![PAGE]
+
+
+[FF 09][FF 0D]カちちがうわ！[BR]
+[FF 09][FF 0D]カちThat's wrong![BR]
+
+ぷっぷっぷ　よ。[PAGE]
+It's pupupu![PAGE]
+
+
+[FF 09][FF 0D]やちまあまあ、ふたりとも・・そうですわ！[BR]
+[FF 09][FF 0D]やちNow, now, you two... I know![BR]
+
+[PAGE]
+
+
+[FF 01][Player]さんにきめて[BR]
+[FF 01]We shall let [Player][BR]
+
+[FF 01]もらいましょう。[PAGE]
+[FF 01]decide.[PAGE]
+
+
+[FF 09][Chang Ang]: どうじゃ？わかったかのう[PAGE]
+[FF 09][Chang Ang]: Well? Do you know the answer?[PAGE]
+
+
+[FF 09]モコナはなんとなく？[BR]
+[FF 09]What sound does Mokona make?[BR]
+
+<7F>ぷうぷう　　ぷっぷっぷ[FF 18]<02><80>ョァッくケしケムケ[FF 09][FF 13]Xそのとおり、さ、これを　あげよう。[PAGE]
+<7F>Puu Puu　　Pupupu[FF 18]<02><80>ョァッくケしケムケ[FF 09][FF 13]XCorrect! Here, take this.[PAGE]
+
+
+[FF 09]マジックブラシを[BR]
+[FF 09]You obtained[BR]
+
+てにいれた！！[FF 0D]イソ[BR]
+the magic brush!![FF 0D]イソ[BR]
+
+[PAGE]
+
+
+[FF 09]それではさらばじゃ！！[FF 00][FF 09]ちがうのー！[BR]
+[FF 09]And now, farewell!![FF 00][FF 09]Wrong![BR]
+
+[FF 02]<03>[FF 13]<C3>かわいそうじゃが、[BR]
+[FF 02]<03>[FF 13]<C3>I feel sorry for you,[BR]
+
+[PAGE]
+
+
+[FF 01]なにか　あげるわけには　[FF 01]いかんのう。[BR]
+[FF 01]but I cannot give you[FF 01]anything.[BR]
+
+[PAGE]
+
+
+[FF 09]それでは、さらばじゃ！！
+[FF 09]And now, farewell!!
+
+Block 24  ROM 0x01C290-0x01C2A8
+<07>どれを　かぶりますか？[BR]
+<07>What will you wear on your head?[BR]
+
+　リボン
+　Ribbon
+
+Block 25  ROM 0x01C33E-0x01C372
+　リボン[FF 0D]のェ　ぼうし[FF 0D]のェ　ティアラ[FF 0D]のェ[FF 08][FF 09]どれを　きますか？[BR]
+　Ribbon[FF 0D]のェ　Hat[FF 0D]のェ　Tiara[FF 0D]のェ[FF 08][FF 09]What will you wear?[BR]
+
+　ドレス
+　Dress
+
+Block 26  ROM 0x01C3FD-0x01D150
+　ドレス[FF 0D]<EA>ェ　チャイナドレス[FF 0D]<EA>ェ　ふりそで[FF 0D]<EA>ェ[FF 08][FF 02]<0A>[FF 1B]んォ<F7>ォKォ[FF 0D]めォろエ<C1>つねォ<DF>て<E4><C1><C9>[Fuu]: たのしみですわねえ。[FF 02]<B0>[FF 09][Umi]: でてきたわよ。[FF 02]<B0>[FF 09][Fuu]: ひかるさん、とっても[BR]
+　Dress[FF 0D]<EA>ェ　Chinese Dress[FF 0D]<EA>ェ　Furisode[FF 0D]<EA>ェ[FF 08][FF 02]<0A>[FF 1B]んォ<F7>ォKォ[FF 0D]めォろエ<C1>つねォ<DF>て<E4><C1><C9>[Fuu]: I can hardly wait.[FF 02]<B0>[FF 09][Umi]: Here she comes.[FF 02]<B0>[FF 09][Fuu]: Hikaru, you look[BR]
+
+かわいいですわ。[FF 02]<80>[FF 09][Umi]: さあ、いくわよ！ひかる！[BR]
+absolutely charming.[FF 02]<80>[FF 09][Umi]: All right, let's go, Hikaru![BR]
+
+みんなおまちかねよ。[FF 00][FF 0D]っちうみちゃん、いいなあ。[FF 02]<B0>[FF 09][Fuu]: うみさん、でてきましたわ[FF 02]<B0>[FF 09]
+Everyone's waiting.[FF 00][FF 0D]っちLucky Umi.[FF 02]<B0>[FF 09][Fuu]: Umi has come out.[FF 02]<B0>[FF 09]
+[FF 0D]っちうみちゃん！やったね！[FF 02]<80>[FF 09]
+[Hikaru]: Umi! You look great!
+[Fuu]: さあ、みんな、おまちかねですわ。[FF 00]
+[Fuu]: Come now. Everyone is waiting.
+[Umi]: わたしも　でたかったな。[FF 02]<B0>[FF 09][FF 0D]っちうみちゃん・・・[BR]
+[Umi]: I wanted to be chosen too.[FF 02]<B0>[FF 09][FF 0D]っちUmi...[BR]
+
+ほら、ふうちゃんだよ！[FF 02]<B0>[FF 09]
+Look, it's Fuu![FF 02]<B0>[FF 09]
+[Umi]: まあ、きれいじゃない！　[FF 02]3[FF 09]
+[Umi]: My, don't you look beautiful!
+[FF 0D]っちさあ、かいじょうに[BR]
+[FF 0D]っちCome on, let's head[BR]
+
+いこう！　ふうちゃん！[FF 00]
+to the venue, Fuu![FF 00]
+<78>ャBイウッ[FF 0D]ユャろエ<C1>つヒャ<DF>て<E4><C1><C9>[FF 0D]っちわー、みんなおどってる！あっ？だれかくるよ。[PAGE]
+[Hikaru]: Whoa, everyone is dancing! Huh? Someone's coming.[PAGE]
+
+
+
+[FF 09][FF 0D]Iャろク<C1>つTャ<DF>て<E4><C1><C9><B3>ャイュ<BB>ュ・ョIョ[Clef]: おお、ひかる！　たまにはいっしょにおどらないか？[PAGE]
+[Clef]: Oh, Hikaru! Shall we dance together for a change?[PAGE]
+
+
+
+[FF 09][FF 0D]けちわたし、うまくおどれる　かなあ？[PAGE]
+[Hikaru]: I wonder if I can dance well enough...[PAGE]
+
+
+
+[FF 09][Clef]: だいじょうぶ！セフィーロでは、しんじるこころ・・[PAGE]
+[Clef]: Don't worry! In Cephiro, it's all about believing...[PAGE]
+
+
+
+[FF 01]おどりたいとおもえば、　[FF 01]おどれるのだ。[PAGE]
+If you believe you can dance,[FF 01]then you will.[PAGE]
+
+
+
+[FF 09][FF 0D]っちうん、そうだね！[FF 00]
+[Hikaru]: Yeah, you're right!
+[Chang Ang]: おお！これがセフィーロのだんすぱーてーか？[BR]
+[Chang Ang]: Oh! Is this one of Cephiro's dance parties?[BR]
+
+[PAGE]
+
+
+[FF 01]そこのおじょうちゃん、　[FF 01]わしとおどってくれんかの[PAGE]
+[FF 01]Young lady, would you[FF 01]dance with me?[PAGE]
+
+
+[FF 09][FF 0D]っちうん、おどろ！[PAGE]
+[FF 09][FF 0D]っちSure, let's dance![PAGE]
+
+
+[FF 09][Chang Ang]: おお、だんすとは[BR]
+[FF 09][Chang Ang]: Oh, dancing is[BR]
+
+たのしいのう。[FF 00][FF 0D]っちあ！サンユン！　おどろ！おどろ！[PAGE]
+such fun.[FF 00][FF 0D]っちOh! Sanyun! Let's dance! Come on![PAGE]
+
+
+[FF 09][FF 0D]セつえ・・で・・・でも<0B>[PAGE]
+[FF 09][FF 0D]セつB-But...<0B>[PAGE]
+
+
+[FF 09][FF 0D]っちおどろー！　わーい！[BR]
+[FF 09][FF 0D]っちLet's dance! Hooray![BR]
+
+わーい！[FF 00][Eagle]: でんせつのマジックナイト[PAGE]
+Hooray![FF 00][Eagle]: Legendary Magic Knight,[PAGE]
+
+
+[FF 01]ぼくといっしょに[BR]
+[FF 01]would you care[BR]
+
+[FF 01]おどりましょうか。[PAGE]
+[FF 01]to dance with me?[PAGE]
+
+
+[FF 09][FF 0D]けちあっ？イーグル！[BR]
+[FF 09][FF 0D]けちHuh? Eagle![BR]
+
+いつセフィーロにきたの？[PAGE]
+When did you come to Cephiro?[PAGE]
+
+
+[FF 09][Eagle]: あとで　いっしょに[BR]
+[FF 09][Eagle]: Later, let us enjoy[BR]
+
+おかしもたべましょうね。[PAGE]
+some sweets together as well.[PAGE]
+
+
+[FF 09][FF 0D]っちわーい！　イーグルと[BR]
+[FF 09][FF 0D]っちHooray! I'm so happy[BR]
+
+おどるの　うれしいな！[FF 00][FF 0D]4つ・・・・・・・・・・！[PAGE]
+to dance with Eagle![FF 00][FF 0D]4つ...![PAGE]
+
+
+[FF 09][FF 0D]っちランティス！　おどろ！！[PAGE]
+[FF 09][FF 0D]っちLantis! Let's dance![PAGE]
+
+
+[FF 09][FF 0D]<E8>つ[Primera]: ちょっと、ちょっとー！　わたしのランティスに[BR]
+[FF 09][FF 0D]<E8>つ[Primera]: Hey! Wait a minute! Keep your hands[BR]
+
+[PAGE]
+
+
+[FF 01]さわらないでよー[PAGE]
+[FF 01]off my Lantis![PAGE]
+
+
+[FF 09][FF 0D]<F2>つ[FF 0D]4つ・・・・。[PAGE]
+[FF 09][FF 0D]<F2>つ[FF 0D]4つ...[PAGE]
+
+
+[FF 09][FF 0D]<E8>つ[Primera]: あー！　ランティスが[BR]
+[FF 09][FF 0D]<E8>つ[Primera]: Aah! Lantis is[BR]
+
+よそのコとおどってるー！[PAGE]
+dancing with another girl![PAGE]
+
+
+[FF 09][FF 0D]っち・・・ランティス。[BR]
+[FF 09][FF 0D]っち...Lantis.[BR]
+
+ありがとう。[FF 00][Umi]: さあ、わたしとおどる[BR]
+Thank you.[FF 00][Umi]: Now, who will be[BR]
+
+しあわせものはだれかしら[PAGE]
+the lucky one to dance with me?[PAGE]
+
+
+[FF 09][FF 0D]ロッろク<C1>つ<7E>ッ<DF>て<E4><C1><C9>1ッ[ED]ッ<7E>ア<EB>ア[Clef]: おお、うみ！　たまには　いっしょにおどらないか？[PAGE]
+[FF 09][FF 0D]ロッろク<C1>つ<7E>ッ<DF>て<E4><C1><C9>1ッ[ED]ッ<7E>ア<EB>ア[Clef]: Oh, Umi! Shall we dance together for a change?[PAGE]
+
+
+[FF 09][FF 0D]カちクレフもきてたの？[PAGE]
+[FF 09][FF 0D]カちYou came too, Clef?[PAGE]
+
+
+[FF 09][Clef]: とうぜんだ。しんぱい[BR]
+[FF 09][Clef]: Of course. There's no point[BR]
+
+ばかりしていても[BR]
+in worrying[BR]
+
+[PAGE]
+
+
+[FF 01]しかたがないからな。[FF 00][Chang Ang]: おお！これがセフィーロのだんすぱーてーか？[BR]
+[FF 01]all the time.[FF 00][Chang Ang]: Oh! Is this one of Cephiro's dance parties?[BR]
+
+[PAGE]
+
+
+[FF 01]そこのおじょうちゃん、　[FF 01]わしとおどってくれんかの[PAGE]
+[FF 01]Young lady, would you[FF 01]dance with me?[PAGE]
+
+
+[FF 09][Umi]: わたしのおどりは[BR]
+[FF 09][Umi]: Caldina herself[BR]
+
+カルディナじきでんの[BR]
+taught me[BR]
+
+[PAGE]
+
+
+[FF 01]おどりよ！[PAGE]
+[FF 01]how to dance![PAGE]
+
+
+[FF 09][Chang Ang]: おお、だんすとは[BR]
+[FF 09][Chang Ang]: Oh, dancing is[BR]
+
+たのしいのう。[FF 00][FF 0D]セつ・・・もじもじ。[PAGE]
+such fun.[FF 00][FF 0D]セつ...Fidget...[PAGE]
+
+
+[FF 09][Umi]: あら、ちゃぼうずみたいでかわいいわね。[PAGE]
+[FF 09][Umi]: My, you look like a little monk. How cute![PAGE]
+
+
+[FF 09][FF 0D]セつ・・・どきどき。[PAGE]
+[FF 09][FF 0D]セつ...Thump, thump.[PAGE]
+
+
+[FF 09][Umi]: いっしょにおどりましょ！[PAGE]
+[FF 09][Umi]: Let's dance together![PAGE]
+
+
+[FF 09][FF 0D]セつ・・・あわあわ。[FF 00][Ascot]: あの・・・[PAGE]
+[FF 09][FF 0D]セつ...Uh... Um...[FF 00][Ascot]: Um...[PAGE]
+
+
+[FF 09][Umi]: あら、アスコット。[BR]
+[FF 09][Umi]: Oh, Ascot.[BR]
+
+あなたもきてたの？[PAGE]
+You came too?[PAGE]
+
+
+[FF 09][FF 0D]<FC>つ[Caldina]: そうなんや。ウミと[BR]
+[FF 09][FF 0D]<FC>つ[Caldina]: That's right. He was all fired up[BR]
+
+おどるって、はりきってた[PAGE]
+to dance with you, Umi.[PAGE]
+
+
+[FF 01]んや、ウッ、ウグッ・・・[FF 01]くるしい・・・[PAGE]
+[FF 01]Ngh! Gack...[FF 01]You're choking me...[PAGE]
+
+
+[FF 09][FF 0D]をて[Ascot]: カルディナ！[PAGE]
+[FF 09][FF 0D]をて[Ascot]: Caldina![PAGE]
+
+
+[FF 09][Umi]: さあ、きょうはたのしい　ダンスパーティーよ！[BR]
+[FF 09][Umi]: Come on, it's a wonderful dance party![BR]
+
+[PAGE]
+
+
+[FF 01]おどりましょ！[FF 00][Fuu]: なんだか、きんちょう[BR]
+[FF 01]Let's dance![FF 00][Fuu]: I find myself rather[BR]
+
+しますわね。[PAGE]
+nervous.[PAGE]
+
+
+[FF 09][FF 0D]<B7>イろク<C1>つ<C2>イ<DF>て<E4><C1><C9><CA>イ<3D>ウ<BD>ウ<FB>ウ[Clef]: おお、ふう、　たまには　いっしょにおどらないか？[PAGE]
+[FF 09][FF 0D]<B7>イろク<C1>つ<C2>イ<DF>て<E4><C1><C9><CA>イ<3D>ウ<BD>ウ<FB>ウ[Clef]: Oh, Fuu! Shall we dance together for a change?[PAGE]
+
+
+[FF 09][Fuu]: まあ、クレフ。[BR]
+[FF 09][Fuu]: Why, Clef.[BR]
+
+おどれますの？[PAGE]
+Can you dance?[PAGE]
+
+
+[FF 09][Clef]: こうみえても、わたしは　745さい。[BR]
+[FF 09][Clef]: I may not look it, but I am 745 years old.[BR]
+
+[PAGE]
+
+
+[FF 01]もちろん　ダンスも[BR]
+[FF 01]Of course I know[BR]
+
+[FF 01]おどれるぞ。[FF 00][Chang Ang]: おお！これがセフィーロのだんすぱーてーか？[BR]
+[FF 01]how to dance.[FF 00][Chang Ang]: Oh! Is this one of Cephiro's dance parties?[BR]
+
+[PAGE]
+
+
+[FF 01]そこのおじょうちゃん、　[FF 01]わしとおどってくれんかの[PAGE]
+[FF 01]Young lady, would you[FF 01]dance with me?[PAGE]
+
+
+[FF 09][Fuu]: ええ、わたしでよければ　よろこんで。[PAGE]
+[FF 09][Fuu]: Yes. If you would have me, I would be delighted.[PAGE]
+
+
+[FF 09][Chang Ang]: おお、だんすとは[BR]
+[FF 09][Chang Ang]: Oh, dancing is[BR]
+
+たのしいのう。[FF 00][FF 0D]セつ・・・どきどき[PAGE]
+such fun.[FF 00][FF 0D]セつ...Thump, thump.[PAGE]
+
+
+[FF 09][Fuu]: まあ、かわいらしい。[BR]
+[FF 09][Fuu]: My, how adorable.[BR]
+
+おどりましょう。[PAGE]
+Let us dance.[PAGE]
+
+
+[FF 09][FF 0D]セつ・・・にっこり[FF 00][Ferio]: フウ！きれいになったな！[PAGE]
+[FF 09][FF 0D]セつ...Smile.[FF 00][Ferio]: Fuu! You look beautiful![PAGE]
+
+
+[FF 09][Fuu]: そんなこと・・・[PAGE]
+[FF 09][Fuu]: Oh, surely not...[PAGE]
+
+
+[FF 09][Ferio]: まあ、こいするおとめは　きれいになるというからな[PAGE]
+[FF 09][Ferio]: Well, they say a maiden in love grows more beautiful.[PAGE]
+
+
+[FF 09][Fuu]: もう！フェリオったら・・おどりましょ！[FF 00][FF 0D]あて[Ferio]: みんな！たのしんでくれたかい？　セフィーロはいま[PAGE]
+[FF 09][Fuu]: Oh, Ferio... Let us dance![FF 00][FF 0D]あて[Ferio]: Everyone! Have you enjoyed yourselves? Cephiro is facing hard times,[PAGE]
+
+
+[FF 01]たいへんだけど、こうして[FF 01]みんなでたのしむことも[PAGE]
+[FF 01]but I believe gathering together[FF 01]and enjoying ourselves like this[PAGE]
+
+
+[FF 01]だいじだと、おれはおもう[PAGE]
+[FF 01]is important too.[PAGE]
+
+
+[FF 09]さて、ここできょうの[BR]
+[FF 09]And now, for the lady who[BR]
+
+いちばんかがやいていた　[PAGE]
+shone brightest today,[PAGE]
+
+
+[FF 01]レディーにすてきな[BR]
+[FF 01]I have a wonderful[BR]
+
+[FF 01]プレゼントがあるのだ！！[PAGE]
+[FF 01]gift![PAGE]
+
+
+[FF 09]それではしょうかいしよう[PAGE]
+[FF 09]Allow me to introduce her.[PAGE]
+
+
+[FF 09]そのなは・[FF 02]そ・[FF 02]そ・[FF 02]っ[BR]
+[FF 09]Her name is...[FF 02]そ[FF 02]そ[FF 02]っ[BR]
+
+[FF 0D]ひオろキ<C1><D6><78>る<0B>ろエ<C1>つェオ<DF>て<E4><C1><C9>つ<C9>カて<E4><C1><C9>アオ<D7>オ<7E>オひかる！！[PAGE]
+[FF 0D]ひオろキ<C1><D6><78>る<0B>ろエ<C1>つェオ<DF>て<E4><C1><C9>つ<C9>カて<E4><C1><C9>アオ<D7>オ<7E>オHikaru![PAGE]
+
+
+[FF 09][FF 0D]っちえー、ほんとー！[PAGE]
+[FF 09][FF 0D]っちWhat? Really?![PAGE]
+
+
+[FF 09]ひかるは、みんなに[BR]
+[FF 09]Everyone congratulates[BR]
+
+しゅくふくされ・・[PAGE]
+Hikaru...[PAGE]
+
+
+[FF 09][FF 1C]のカうみ！！[PAGE]
+[FF 09][FF 1C]のカUmi![PAGE]
+
+
+[FF 09][Umi]: えー、わたしがいちばん　かがやいているって？[BR]
+[FF 09][Umi]: What? I shone brighter than anyone?[BR]
+
+[PAGE]
+
+
+[FF 01]みんな、ありがとう！[PAGE]
+[FF 01]Thank you, everyone![PAGE]
+
+
+[FF 09]うみは、みんなに[BR]
+[FF 09]Everyone congratulates[BR]
+
+しゅくふくされ・・[PAGE]
+Umi...[PAGE]
+
+
+[FF 09][FF 1C]のカふう！！[PAGE]
+[FF 09][FF 1C]のカFuu![PAGE]
+
+
+[FF 09][Fuu]: わたくしなんか、ふつうのちゅうがくせいなのに・・[PAGE]
+[FF 09][Fuu]: But I am merely an ordinary middle school student...[PAGE]
+
+
+[FF 01]みんな、ありがとう！[PAGE]
+[FF 01]Thank you, everyone![PAGE]
+
+
+[FF 09]ふうは、みんなに[BR]
+[FF 09]Everyone congratulates[BR]
+
+しゅくふくされ・・[PAGE]
+Fuu...[PAGE]
+
+
+[FF 09][FF 10]コ<C1>。[FF 10]ケ<C1><02>[FF 0D]やテけんぎが　[FF 1E]UP！[BR]
+[FF 09][FF 10]コ<C1>。[FF 10]ケ<C1><02>[FF 0D]やテswordsmanship is [FF 1E]UP![BR]
+
+
+[FF 0D]やテまほうが　[FF 1E]UP！[BR]
+[FF 0D]やテmagic is [FF 1E]UP![BR]
+
+
+[FF 01][FF 0D]やテきひんが　[FF 1E]UP！[BR]
+[FF 01][FF 0D]やテgrace is [FF 1E]UP![BR]
+
+
+[FF 01][FF 0D]やテちのうが　[FF 1E]UP！[BR]
+[FF 01][FF 0D]やテintelligence is [FF 1E]UP![BR]
+
+
+[FF 01][FF 0D]やテげいじゅつが　[FF 1E]UP！[FF 01][FF 0D]やテみりょくが　[FF 1E]UP！[PAGE]
+[FF 01][FF 0D]やテart is [FF 1E]UP![FF 01][FF 0D]やテcharm is [FF 1E]UP![PAGE]
+
+
+
+[FF 09][FF 0D]ッテマジックスカーフを[BR]
+[FF 09][FF 0D]ッテYou obtained the[BR]
+
+
+てにいれた！！[FF 00]タトラ！！[PAGE]
+magic scarf![FF 00]Tatra![PAGE]
+
+
+
+[FF 09][FF 10]コ<C1><02>[FF 0D]さて[Tatra]: あらあら。わたしが？[BR]
+[Tatra]: Oh my. Me?
+
+
+[PAGE]
+
+
+どうも　ありがとう[BR]
+[Tatra]: Thank you[BR]
+
+[FF 01]ございます。[PAGE]
+[FF 01]very much.[PAGE]
+
+
+
+[FF 09]それにしても　きょうは　いいてんきですわね。[BR]
+It truly is lovely weather today.[BR]
+
+
+[PAGE]
+
+
+[FF 09]くすくすくす。[FF 00]
+Tee-hee-hee.[FF 00]
+きょうはダンスパーティーが、おしろでひらかれる　ひです。　　　　　　　　3にんは、よろこんで　　おしろにでかけました。　しかし、パーティーには、ひとりしかでれないのですひかる、うみ、ふうは　　だれがでるか、おおさわぎになりました。　　　　　そこで、3にんは・・・　<02>あのほうほう<03>できめることにしました・・・[FF E0]こうしてダンスパーティーは、まくをとじました。　ダンスのれんしゅうのおかげか、ゆうしょうすることができました。　　　　　いちにんまえのレディーになるひもまぢかです。　　しかし、マジックナイトになるためには、すべてに　おいてまだまだです。　　ぐっと、きをひきしめる　3にんでした・・・　　　[FF E0]こうしてダンスパーティーは、まくをとじました。　ざんねんながら、タトラにゆうしょうをさらわれて　しまいました。　　　　　しかし、とてもたのしかったので、3にんはまんぞくでした。でも、まだまだ　マジックナイトになるひはとおそうです。　　　　　ぐっと、きをひきしめる　3にんでした・・・
+Today, a dance party is being held at the castle. Delighted, Hikaru, Umi, and Fuu set out for the castle. However, only one of them may attend the party. A great commotion erupts as they argue over who should go. At last, they decide to settle it using <02>that method<03>...[FF E0]And so the dance party draws to a close. Perhaps thanks to all her dance practice, their representative wins first place. The day she becomes a proper lady is close at hand. Yet all three still have far to go before becoming magic knights. With renewed resolve, they brace themselves for what lies ahead...[FF E0]And so the dance party draws to a close. Unfortunately, Tatra claims first place. Even so, everyone has such a wonderful time that they leave satisfied. The day they become magic knights still seems far away. With renewed resolve, they brace themselves for what lies ahead...
+
+Block 27  ROM 0x01E157-0x01EC07
+[Ferio]: みんな！きょうはまちに　まったぶとうかいだ！[BR]
+[Ferio]: Everyone! Today is the long-awaited martial-arts tournament![BR]
+
+[PAGE]
+
+
+[FF 01]ちからのかぎりぞんぶんに[FF 01]たたかってくれ！[BR]
+[FF 01]Fight to your heart's content[FF 01]and give it everything you've got![BR]
+
+[PAGE]
+
+
+[FF 01]かっても、まけても[BR]
+[FF 01]Win or lose,[BR]
+
+[FF 01]うらみっこなしだ！[PAGE]
+[FF 01]there will be no hard feelings![PAGE]
+
+
+[FF 09]さて、さいしょのバトルは[PAGE]
+[FF 09]Now, our first battle is...[PAGE]
+
+
+[FF 09][FF 0D]<CE>ノ<3E>。も5<CF>ろエ<C1>つ<DE>ノ<DF>て<E4><C1><C9><E4>ノ<3E>ハっハひかる　VS　[FF 02]そタータ[PAGE]
+[FF 09][FF 0D]<CE>ノ<3E>。も5<CF>ろエ<C1>つ<DE>ノ<DF>て<E4><C1><C9><E4>ノ<3E>ハっハHikaru　VS　[FF 02]そTarta[PAGE]
+
+
+[FF 09][FF 0D]なて[FF 10]さ<D0>。[FF 0D]けちいくよー！[PAGE]
+[FF 09][FF 0D]なて[FF 10]さ<D0>。[FF 0D]けちHere I go![PAGE]
+
+
+[FF 09][FF 1C]ムハうみ　VS　[FF 02]そタータ[PAGE]
+[FF 09][FF 1C]ムハUmi　VS　[FF 02]そTarta[PAGE]
+
+
+[FF 09][FF 0D]なて[FF 10]さ<D0>。[FF 0D]カちかくごしなさい！[PAGE]
+[FF 09][FF 0D]なて[FF 10]さ<D0>。[FF 0D]カちPrepare yourself![PAGE]
+
+
+[FF 09][FF 1C]ムハふう　VS　[FF 02]そタータ[PAGE]
+[FF 09][FF 1C]ムハFuu　VS　[FF 02]そTarta[PAGE]
+
+
+[FF 09][FF 0D]なて[FF 10]さ<D0>。[FF 0D]やちおねがいします。[PAGE]
+[FF 09][FF 0D]なて[FF 10]さ<D0>。[FF 0D]やちI look forward to our match.[PAGE]
+
+
+[FF 09][Tarta]: このこむすめが・・・[BR]
+[FF 09][Tarta]: You little brat...[BR]
+
+[PAGE]
+
+
+わたしにかてると[BR]
+You think you can[BR]
+
+[FF 01]おもうのか！[FF 0D]Fハ[PAGE]
+[FF 01]defeat me?![FF 0D]Fハ[PAGE]
+
+
+[FF 09][FF 1C]<CB>フろさ<D0>Rの・つ<8F>ハけ<03>つ<93>ハて<E4><C1><C9>[FF 10]8<CF>。[FF 10]す<D0>。[FF 0D]あて[Ferio]: さて、つぎなるバトルは　[PAGE]
+[FF 09][FF 1C]<CB>フろさ<D0>Rの・つ<8F>ハけ<03>つ<93>ハて<E4><C1><C9>[FF 10]8<CF>。[FF 10]す<D0>。[FF 0D]あて[Ferio]: Now, our next battle is...[PAGE]
+
+
+[FF 09][FF 0D]<D7>ハ<3E>。も5<CF>ろエ<C1>つ<E7>ハ<DF>て<E4><C1><C9>[ED]ハオヒしヒひかる　VS　[FF 02]むイーグル[PAGE]
+[FF 09][FF 0D]<D7>ハ<3E>。も5<CF>ろエ<C1>つ<E7>ハ<DF>て<E4><C1><C9>[ED]ハオヒしヒHikaru　VS　[FF 02]むEagle[PAGE]
+
+
+[FF 09][FF 0D]<DE>つ[FF 10]さ<D0>。[FF 0D]けちいくよー！[PAGE]
+[FF 09][FF 0D]<DE>つ[FF 10]さ<D0>。[FF 0D]けちHere I go![PAGE]
+
+
+[FF 09][FF 1C]<7B>ヒうみ　VS　[FF 02]むイーグル[PAGE]
+[FF 09][FF 1C]<7B>ヒUmi　VS　[FF 02]むEagle[PAGE]
+
+
+[FF 09][FF 0D]<DE>つ[FF 10]さ<D0>。[FF 0D]カちかくごしなさい！[PAGE]
+[FF 09][FF 0D]<DE>つ[FF 10]さ<D0>。[FF 0D]カちPrepare yourself![PAGE]
+
+
+[FF 09][FF 1C]<7B>ヒふう　VS　[FF 02]むイーグル[PAGE]
+[FF 09][FF 1C]<7B>ヒFuu　VS　[FF 02]むEagle[PAGE]
+
+
+[FF 09][FF 0D]<DE>つ[FF 10]さ<D0>。[FF 0D]やちおねがいします。[PAGE]
+[FF 09][FF 0D]<DE>つ[FF 10]さ<D0>。[FF 0D]やちI look forward to our match.[PAGE]
+
+
+[FF 09][Eagle]: にこにこ。[BR]
+[FF 09][Eagle]: Hello.[BR]
+
+[PAGE]
+
+
+よろしく。　[FF 02]っ[BR]
+It is a pleasure,[FF 02]っ[BR]
+
+[FF 01]マジックナイトの[BR]
+[FF 01]young[BR]
+
+[FF 01]おじょうさん。[FF 0D]<B8>ヒ[PAGE]
+[FF 01]Magic Knight.[FF 0D]<B8>ヒ[PAGE]
+
+
+[FF 09][FF 1C]<CB>フろさ<D0>Rの・つWヒけ<03>つ<B0>ヒて<E4><C1><C9>[FF 10]8<CF>。[FF 10]す<D0>。[FF 0D]あて[Ferio]: ほんじつさいごのバトルは　[PAGE]
+[FF 09][FF 1C]<CB>フろさ<D0>Rの・つWヒけ<03>つ<B0>ヒて<E4><C1><C9>[FF 10]8<CF>。[FF 10]す<D0>。[FF 0D]あて[Ferio]: Today's final battle is...[PAGE]
+
+
+[FF 09][FF 0D]<F7>ヒ<3E>。も5<CF>ろエ<C1>つ<07>フ<DF>て<E4><C1><C9>ゅフモフろフひかる　VS　[FF 02]むランティス[PAGE]
+[FF 09][FF 0D]<F7>ヒ<3E>。も5<CF>ろエ<C1>つ<07>フ<DF>て<E4><C1><C9>ゅフモフろフHikaru　VS　[FF 02]むLantis[PAGE]
+
+
+[FF 09][FF 0D]<F2>つ[FF 10]さ<D0>。[FF 0D]けちいくよー！[PAGE]
+[FF 09][FF 0D]<F2>つ[FF 10]さ<D0>。[FF 0D]けちHere I go![PAGE]
+
+
+[FF 09][FF 1C]Cフうみ　VS　[FF 02]むランティス[PAGE]
+[FF 09][FF 1C]CフUmi　VS　[FF 02]むLantis[PAGE]
+
+
+[FF 09][FF 0D]<F2>つ[FF 10]さ<D0>。[FF 0D]カちかくごしなさい！[PAGE]
+[FF 09][FF 0D]<F2>つ[FF 10]さ<D0>。[FF 0D]カちPrepare yourself![PAGE]
+
+
+[FF 09][FF 1C]Cフふう　VS　[FF 02]むランティス[PAGE]
+[FF 09][FF 1C]CフFuu　VS　[FF 02]むLantis[PAGE]
+
+
+[FF 09][FF 0D]<F2>つ[FF 10]さ<D0>。[FF 0D]やちおねがいします。[PAGE]
+[FF 09][FF 0D]<F2>つ[FF 10]さ<D0>。[FF 0D]やちI look forward to our match.[PAGE]
+
+
+[FF 09][FF 0D]4つ・・・・。[FF 0D]Xフ[PAGE]
+[FF 09][FF 0D]4つ...[FF 0D]Xフ[PAGE]
+
+
+[FF 09][FF 1C]<CB>フろさ<D0>Rの・つLフけ<03>つPフて<E4><C1><C9>Zもチ<CF>んも6<CF>もし<D0><C9>[FF 0D]<DD>たREADY　[FF 02]そFIGHT！[FF 0D]<BF>フ[FF 13]<C0>[FF 02]<0A>[FF 09][FF 02]<78>しょうぶあり！！[BR]
+[FF 09][FF 1C]<CB>フろさ<D0>Rの・つLフけ<03>つPフて<E4><C1><C9>Zもチ<CF>んも6<CF>もし<D0><C9>[FF 0D]<DD>たREADY　[FF 02]そFIGHT![FF 0D]<BF>フ[FF 13]<C0>[FF 02]<0A>[FF 09][FF 02]<78>Match over![BR]
+
+[FF 0D]<FD>フろサ<C1>つてヘ<F7>ョろス<C1><90>ろサ<C1>るゃんもサ<C1>ろエ<C1>つにヘけ<03>つふヘ<DF>て<E4><C1><C9>レE<C2>めヘトヘョヘ<80>ヘAヘZヘひかるのかちとする！[FF 0D]ルヘ[PAGE]
+[FF 0D]<FD>フろサ<C1>つてヘ<F7>ョろス<C1><90>ろサ<C1>るゃんもサ<C1>ろエ<C1>つにヘけ<03>つふヘ<DF>て<E4><C1><C9>レE<C2>めヘトヘョヘ<80>ヘAヘZヘHikaru wins![FF 0D]ルヘ[PAGE]
+
+
+[FF 09][FF 1C]<C7>ヘうみのかちとする！[FF 0D]ルヘ[PAGE]
+[FF 09][FF 1C]<C7>ヘUmi wins![FF 0D]ルヘ[PAGE]
+
+
+[FF 09][FF 1C][ED]ヘふうのかちとする！[FF 0D]ルヘ[PAGE]
+[FF 09][FF 1C][ED]ヘFuu wins![FF 0D]ルヘ[PAGE]
+
+
+[FF 09][FF 1C]のホZもチ<CF>もマ<CF>んもツ<CF>も7<CF><C9>タータのかちとする！[FF 0D]ルホ[PAGE]
+[FF 09][FF 1C]のホZもチ<CF>もマ<CF>んもツ<CF>も7<CF><C9>Tarta wins![FF 0D]ルホ[PAGE]
+
+
+[FF 09][FF 0D]<80>ホイーグルのかちとする！[FF 0D]ルホ[PAGE]
+[FF 09][FF 0D]<80>ホEagle wins![FF 0D]ルホ[PAGE]
+
+
+[FF 09][FF 0D]<80>ホランティスのかちとする！[FF 0D]ルホ[PAGE]
+[FF 09][FF 0D]<80>ホLantis wins![FF 0D]ルホ[PAGE]
+
+
+[FF 09][FF 0D]<80>ホ[FF 0D]っちやったー！かったよ。[BR]
+[FF 09][FF 0D]<80>ホ[FF 0D]っちHooray! I won![BR]
+
+[Player]のおかげだよ！[PAGE]
+It's all thanks to you, [Player]![PAGE]
+
+
+[FF 09][FF 0D]シホ[Umi]: あいてがわるかったわね。どうだった？　わたしの　[PAGE]
+[FF 09][FF 0D]シホ[Umi]: You picked the wrong opponent. Well? How did you like[PAGE]
+
+
+[FF 01]けんとまほうのあじは？[PAGE]
+[FF 01]the taste of my sword and magic?[PAGE]
+
+
+[FF 09][FF 0D]シホ[Fuu]: わたしのかちですわね。　だいじょうぶですか？[PAGE]
+[FF 09][FF 0D]シホ[Fuu]: It appears I have won. Are you all right?[PAGE]
+
+
+[FF 09][FF 0D]シホろサ<C1>ョつムホ<DF>て<E4><C1><78><FE><03><C0><3E>。もシ<C1><C9><B8>ノXハ<CA>ヒ<07>マZもチ<CF>もツ<CF>んもマ<CF>も7<CF><C9>ろエ<C1>つ6ホ<DF>て<E4><C1><C9><91>ホ<E4>ホ<B3>ホ[Cat-ear Hikaru]: くっ、くやしいよ！[BR]
+[FF 09][FF 0D]シホろサ<C1>ョつムホ<DF>て<E4><C1><78><FE><03><C0><3E>。もシ<C1><C9><B8>ノXハ<CA>ヒ<07>マZもチ<CF>もツ<CF>んもマ<CF>も7<CF><C9>ろエ<C1>つ6ホ<DF>て<E4><C1><C9><91>ホ<E4>ホ<B3>ホ[Cat-ear Hikaru]: Gah, how frustrating![BR]
+
+こんどはまけない！[PAGE]
+I won't lose next time![PAGE]
+
+
+[FF 09][FF 1C]<07>マ[FF 0D]ソちひどいわ！ひどいわ！[BR]
+[FF 09][FF 1C]<07>マ[FF 0D]ソちHow awful! Just awful![BR]
+
+かよわきおとめになに[BR]
+How could you do that[BR]
+
+[PAGE]
+
+
+[FF 01]すんのよ！[PAGE]
+[FF 01]to a delicate maiden?![PAGE]
+
+
+[FF 09][FF 1C]<07>マ[Hikaru]: わたしのまけです。[BR]
+[FF 09][FF 1C]<07>マ[Hikaru]: I have lost.[BR]
+
+あなたとてもつよいですわ[PAGE]
+You are very strong.[PAGE]
+
+
+[FF 09][FF 0D]あて[Ferio]: みんな、ちからいっぱい　たたかってくれた！[BR]
+[FF 09][FF 0D]あて[Ferio]: Everyone fought with all their might![BR]
+
+[PAGE]
+
+
+[FF 01]このちょうしでセフィーロ[FF 01]のためにがんばろう！[PAGE]
+[FF 01]Keep it up, and let us all do our best[FF 01]for Cephiro![PAGE]
+
+
+[FF 09]さてきょうのチャンピオンには、ごうかしょうひんを[PAGE]
+[FF 09]Now, today's champion will receive[PAGE]
+
+
+[FF 01]プレゼント！！[PAGE]
+[FF 01]a fabulous prize![PAGE]
+
+
+[FF 09]それではしょうかいしようそのなは・[FF 02]お・[FF 02]お・[FF 02]お[FF 09][FF 0D]Lマろシ<C1>Rち<07>つせムて<E4><C1><C9>ろエ<C1>つ<B9>マ<DF>て<E4><C1><C9><BF>マJミせミひかるだ！[BR]
+[FF 09]Allow me to introduce the winner. Her name is...[FF 02]お[FF 02]お[FF 02]お[FF 09][FF 0D]Lマろシ<C1>Rち<07>つせムて<E4><C1><C9>ろエ<C1>つ<B9>マ<DF>て<E4><C1><C9><BF>マJミせミHikaru![BR]
+
+よくがんばったな！[PAGE]
+You fought well![PAGE]
+
+
+[FF 09][FF 0D]っちみんな！ありがとう！[BR]
+[FF 09][FF 0D]っちThank you, everyone![BR]
+
+これからも、がんばるよ！[PAGE]
+I'll keep doing my best![PAGE]
+
+
+[FF 01]ひかるは、みんなに[BR]
+[FF 01]Everyone congratulates[BR]
+
+[FF 01]しゅくふくされ・・[PAGE]
+[FF 01]Hikaru...[PAGE]
+
+
+[FF 09][FF 1C]クムうみだ！　みごとな[BR]
+[FF 09][FF 1C]クムUmi! That was[BR]
+
+たたかいぶりだった。[PAGE]
+a splendid performance.[PAGE]
+
+
+[FF 09][Umi]: わたしがいちばんつよい？いやね、レディーに[BR]
+[FF 09][Umi]: I'm the strongest? Honestly, what a thing[BR]
+
+[PAGE]
+
+
+[FF 01]むかって・・・[BR]
+[FF 01]to say to a lady...[BR]
+
+[FF 01]でもありがとう、みんな！[PAGE]
+[FF 01]But thank you, everyone![PAGE]
+
+
+[FF 01]うみは、みんなに[BR]
+[FF 01]Everyone congratulates[BR]
+
+[FF 01]しゅくふくされ・・[PAGE]
+[FF 01]Umi...[PAGE]
+
+
+[FF 09][FF 1C]クムふうだ！すこしひやひやしたが、よくやった！[PAGE]
+[FF 09][FF 1C]クムFuu! It was close for a moment, but you fought well![PAGE]
+
+
+[FF 09][Fuu]: たまたまですわ。しんじるこころをたいせつにした　[PAGE]
+[FF 09][Fuu]: It was merely chance. I held fast to my belief,[PAGE]
+
+
+[FF 01]から、けっしてまけないっ[FF 01]てしんじてたから・・・　[PAGE]
+[FF 01]and trusted that I would[FF 01]never lose...[PAGE]
+
+
+[FF 01]ふうは、みんなに[BR]
+[FF 01]Everyone congratulates[BR]
+
+[FF 01]しゅくふくされ・・[PAGE]
+[FF 01]Fuu...[PAGE]
+
+
+[FF 09][FF 1C]クムランティスだ！すきのないたたかいだった。[PAGE]
+[FF 09][FF 1C]クムLantis! His performance was flawless.[PAGE]
+
+
+[FF 09][FF 10]コ<C1><02>[FF 0D]<F2>つ[FF 0D]4つ・・・・・・・。[FF 00][FF 10]コ<C1>。[FF 10]ケ<C1><02>[FF 0D]やテけんぎが　[FF 1E]UP！[BR]
+[FF 09][FF 10]コ<C1><02>[FF 0D]<F2>つ[FF 0D]4つ...[FF 00][FF 10]コ<C1>。[FF 10]ケ<C1><02>[FF 0D]やテswordsmanship is [FF 1E]UP![BR]
+
+[FF 0D]やテまほうが　[FF 1E]UP！[BR]
+[FF 0D]やテmagic is [FF 1E]UP![BR]
+
+[FF 01][FF 0D]やテきひんが　[FF 1E]UP！[BR]
+[FF 01][FF 0D]やテgrace is [FF 1E]UP![BR]
+
+[FF 01][FF 0D]やテちのうが　[FF 1E]UP！[BR]
+[FF 01][FF 0D]やテintelligence is [FF 1E]UP![BR]
+
+[FF 01][FF 0D]やテげいじゅつが[FF 1E]UP！　[FF 01][FF 0D]やテみりょくが[FF 1E]UP！　[PAGE]
+[FF 01][FF 0D]やテart is [FF 1E]UP!　[FF 01][FF 0D]やテcharm is [FF 1E]UP!　[PAGE]
+
+
+[FF 09][FF 0D]イノマジックサーベルを[BR]
+[FF 09][FF 0D]イノYou obtained the[BR]
+
+てにいれた！！[FF 00]きょうはぶとうたいかい　が、おしろでひらかれる　ひです。　　　　　　　　3にんは、よろこびいさんでおしろにでかけました。しかし、ぶとうたいかいはひとりしかでれないのですひかる、うみ、ふうは　　だれがでるか、おおさわぎになりました。　　　　　そこで、3にんは・・・　<02>あのほうほう<03>できめることにしました・・・[FF E0]こうしてぶとうたいかいはまくをとじました。　　　けんとまほうのたんれんのおかげで、ゆうしょうすることができました。　　　いちにんまえのせんしに　なるひもまぢかです。　　しかし、マジックナイトになるためには、すべてに　おいてまだまだです。　　ぐっと、きをひきしめる　3にんでした・・・[FF E0]こうしてぶとうたいかいはまくをとじました。　　　ざんねんながらランティスにゆうしょうをさらわれてしまいました。　　　　　しかし、せいいっぱい、　たたかったので、まんぞくでした。でも、まだまだ　マジックナイトになるひはとおそうです。　　　　　ぐっと、きをひきしめる　3にんでした・・・
+magic saber![FF 00]Today, a martial-arts tournament is being held at the castle. Full of excitement, Hikaru, Umi, and Fuu set out for the castle. However, only one of them may enter the tournament. A great commotion erupts as they argue over who should compete. At last, they decide to settle it using <02>that method<03>...[FF E0]And so the martial-arts tournament draws to a close. Thanks to her training with sword and magic, their representative claims the championship. The day she becomes a full-fledged warrior is close at hand. Yet all three still have far to go before becoming magic knights. With renewed resolve, they brace themselves for what lies ahead...[FF E0]And so the martial-arts tournament draws to a close. Unfortunately, Lantis claims the championship. Even so, they are satisfied, having fought with everything they had. The day they become magic knights still seems far away. With renewed resolve, they brace themselves for what lies ahead...
+
+Block 28  ROM 0x01ED43-0x01EEE3
+　きょうは　セフィーロの　フェスティバル<7D>まつり<7E>がひらかれるひです。　　3にんはおまつりきぶんでおしろにでかけました。[FF E0][FF 0D]っちわーい、おまつりだ。[BR]
+Today is the day of the Cephiro Festival<7D>celebration<7E>. In high spirits, Hikaru, Umi, and Fuu set out for the castle.[FF E0][FF 0D]っちHooray! It's a festival![BR]
+
+たのしいな！[PAGE]
+This is so much fun![PAGE]
+
+
+[FF 09][Fuu]: あっ、あそこで　ダンス　パーティーやってますわ。[PAGE]
+[FF 09][Fuu]: Oh, they are holding a dance party over there.[PAGE]
+
+
+[FF 09][Umi]: あっ、ほんとよ。[BR]
+[FF 09][Umi]: Oh, you're right.[BR]
+
+わたし　でたいなあ。[PAGE]
+I'd love to enter.[PAGE]
+
+
+[FF 09][FF 0D]っちえっ？　ほんと？[BR]
+[FF 09][FF 0D]っちHuh? Really?[BR]
+
+[PAGE]
+
+
+いこう！うみちゃん、[BR]
+Let's go, Umi,[BR]
+
+[FF 01]ふうちゃん。[FF 00][FF 0D]っちダンスパーティー、[BR]
+[FF 01]Fuu![FF 00][FF 0D]っちThat dance party[BR]
+
+おもしろかったね。[PAGE]
+was fun, wasn't it?[PAGE]
+
+
+[FF 09][Umi]: そうね・・、あっ、あそこでひとだかりが？[PAGE]
+[FF 09][Umi]: It was... Oh, is that a crowd over there?[PAGE]
+
+
+[FF 09][Fuu]: ひとがあつまっている[BR]
+[FF 09][Fuu]: It appears people[BR]
+
+ようですよ。[PAGE]
+are gathering.[PAGE]
+
+
+[FF 09][FF 0D]っちぶとうたいかいだ！[BR]
+[FF 09][FF 0D]っちIt's a martial-arts tournament![BR]
+
+[PAGE]
+
+
+いこう！うみちゃん、[BR]
+Let's go, Umi,[BR]
+
+[FF 01]ふうちゃん。[FF 00]セフィーロフェスティバルはこうして、まくをとじました。3にんはじぶんたちのちからに　てごたえを　かんじていました。
+[FF 01]Fuu![FF 00]And so the Cephiro Festival draws to a close. Hikaru, Umi, and Fuu come away with newfound confidence in their abilities.
+
+Block 29  ROM 0x01F4C9-0x01F832
+　　ALL　STAFF[FF 02]A[FF 10]こ<C1>。[FF 28]THE　ORIGINAL　　　CLAMP[FF 02]A[FF 10]こ<C1>。[FF 28]PRODUCER[BR]
+
+　M<83>HOKOYAMA[FF 02]<78>[FF 10]こ<C1>。[FF 28]DIRECTOR[BR]
+
+　K<83>HASEGAWA[FF 02]<78>[FF 10]こ<C1>。[FF 28]TEC　DIRECTOR　T<83>SHOJI[FF 02]<78>[FF 10]こ<C1>。[FF 28]PLANNER[BR]
+
+　Y<83>HIGUCHI[FF 02]<78>[FF 10]こ<C1>。[FF 28]PLANNER[BR]
+
+　T<83>TANAKA[FF 02]<78>[FF 10]こ<C1>。[FF 28][FF 0D]Eワプログラマー[BR]
+　T<83>TANAKA[FF 02]<78>[FF 10]こ<C1>。[FF 28][FF 0D]EワPROGRAMMER[BR]
+
+　M<83>NAKAMURA[FF 02]<78>[FF 10]こ<C1>。[FF 0D]Yワ[FF 28][FF 1C]<E1>ンめいん　ぷろぐらまあ[BR]
+　M<83>NAKAMURA[FF 02]<78>[FF 10]こ<C1>。[FF 0D]Yワ[FF 28][FF 1C]<E1>ンMAIN PROGRAMMER[BR]
+
+　なかむら　まさる　22[FF 02][FF FF]すZンプログラマー[BR]
+　MASARU NAKAMURA　22[FF 02][FF FF]すZンPROGRAMMER[BR]
+
+　N<83>HIRAO[FF 02]<78>[FF 10]こ<C1>。[FF 28]DESIGNER[BR]
+
+　T<83>NAKAMURA[FF 02]<78>[FF 10]こ<C1>。[FF 28]DESIGNER[BR]
+
+　E<83>MAESAWA[FF 02]<78>[FF 10]こ<C1>。[FF 28]SOUND[BR]
+
+　Y<83>WACHI[FF 02]<78>[FF 10]こ<C1>。[FF 28]　SPECIAL[BR]
+
+　THANKS　TO[FF 02]<78>[FF 10]こ<C1>。[FF 28]　KOHDANSHA[BR]
+
+　TMS[FF 02]<78>[FF 10]こ<C1>。[FF 28]　M<83>MORIMOTO　　S<83>INOKOSHI[FF 02]<78>[FF 10]こ<C1>。[FF 28][FF 0D]<B5>ワPRESENTED　BY　　　　SEGA[FF 02]<78>[FF 10]こ<C1>。[FF 28][FF 1C]<EF>！PRESENTED　BY　SEGA　<7D>CS5<7E>[FF 1C]<C6>！　[BR]
+
+　　　　END[FF 02]<78>[FF 0D]せ<77>[FF 28][FF 0D]<0B><77>[FF 02]ゃ[FF 1B]<3E>ょも[FF FF]つ<C3>Wいシ<7C>。け<02><CD><F8><07><C9>ろこ<C0>Rの<03><CB><7F><C0>ひし<C1><7C><B5><CA>れ<77>ふてし<C1>つ<FC>！て<E4><C1><C9>つァ<77>て<E4><C1><C9>[FF 28]GGレイアース2を[BR]
+
+あそんでくれたみんな！　[PAGE]
+To everyone who played[BR]
+GG Rayearth 2![PAGE]
+
+
+[FF 28]どうもありがとう！[PAGE]
+[FF 28]Thank you very much![PAGE]
+
+
+[FF 28]ここでラッキーなおしらせがあるんだ。[PAGE]
+[FF 28]Now, here is a special treat![PAGE]
+
+
+[FF 28]GGレイアース1をもっているかな？[PAGE]
+[FF 28]Do you own GG Rayearth 1?[PAGE]
+
+
+[FF 28]なんと、レイアース1の　タイトルがめんで、[PAGE]
+[FF 28]At the Rayearth 1 title screen,[PAGE]
+
+
+[FF 28]2ボタンを5かい[BR]
+[FF 28]press Button 2 five times,[BR]
+
+1ボタンを2かい[PAGE]
+then Button 1 twice.[PAGE]
+
+
+[FF 28]2ボタンを5かい[BR]
+[FF 28]Press Button 2 five times,[BR]
+
+1ボタンを1かい[PAGE]
+then Button 1 once.[PAGE]
+
+
+[FF 28]1、2ボタンどうじおしだ[PAGE]
+[FF 28]Finally, press Buttons 1 and 2 together.[PAGE]
+
+
+[FF 28]すると、ミニゲームが[BR]
+[FF 28]Do that, and you can play[BR]
+
+できるんだ！[PAGE]
+a minigame![PAGE]
+
+
+[FF 28]さあ、やってみよう！
+[FF 28]Go on, give it a try!
+
+Block 30  ROM 0x069536-0x06A8EE
+あっ！たからばこ！[BR]
+Oh! A treasure chest![BR]
+
+あけて　みるね！[PAGE]
+I'll open it![PAGE]
+
+
+[FF 23][FF 24]あらっ　ついてますわ！　あけて　みますわね！[PAGE]
+Oh, how fortunate! I'll open it.[PAGE]
+
+
+[FF 23][FF 24]いいもの　みつけた！[BR]
+I found something good![BR]
+
+あけちゃおっと！[PAGE]
+I'll open it![PAGE]
+
+
+[FF 23][FF 24]あれっ！まえに　とった　はずなのに！　ラッキー！[PAGE]
+Huh? I thought we took this before! Lucky![PAGE]
+
+
+[FF 23][FF 24]まあ！　またはいって[BR]
+My! There's something inside again.[BR]
+
+ますわ。ついてますわね！[PAGE]
+How fortunate![PAGE]
+
+
+[FF 23][FF 24]ああっ！またはいってる！なんて　ついているの！[PAGE]
+Oh! There's something inside again! What luck![PAGE]
+
+
+[FF 23][FF 24]アいテムがかがやく！[BR]
+The item shines![BR]
+
+これが　まぼろしの[FF 1C]<C5>セ2つめのひかりかがやく　プラス1アイテムを、[PAGE]
+Now you've acquired[BR]
+the elusive second radiant plus 1[BR]
+item![PAGE]
+
+
+[FF 22]てにいれた！[FF 1C]<C5>セ3つめ　をみつけた！[BR]
+The third one was found![BR]
+
+あとはんぶん、がんばれ！[FF 1C]<C5>セ4つめだ！[BR]
+Do your best on the remaining half![BR]
+It's the fourth one![BR]
+
+あと2つ、もうすぐだ！[FF 1C]<C5>セついに、5つめだ！[BR]
+Only two left. Almost there![BR]
+Finally, the fifth one![BR]
+
+あと1つでぜんぶだ！[FF 1C]<C5>セついに、プラス1アイテムをぜんぶみつけた！[PAGE]
+One more and that will be all![BR]
+At last, you've found all the plus 1 items![PAGE]
+
+
+[FF 09]マジックナイトになるひもちかづいたんだ！[PAGE]
+The day you become a magic knight is also closer![PAGE]
+
+
+[FF 23][FF 24]<D1>セ[ED]タ<80>チ[FF 0D]<D5>セつ<E3>セ<C3><DB>セろち<C0><DF>て<E4><C1><C9><E9>セエソせソあっ！　ラファーガ、[BR]
+[FF 23][FF 24]<D1>セ[ED]タ<80>チ[FF 0D]<D5>セつ<E3>セ<C3><DB>セろち<C0><DF>て<E4><C1><C9><E9>セエソせソOh! Lafarga,[BR]
+
+[PAGE]
+
+
+[FF 22]こんなやまおくで[BR]
+[FF 22]what are you doing[BR]
+
+[FF 22]なにやっているんだ？[PAGE]
+[FF 22]this deep in the mountains?[PAGE]
+
+
+[FF 23][FF 1C]<7B>ソあら、ラファーガ？[BR]
+[FF 23][FF 1C]<7B>ソWhy, Lafarga?[BR]
+
+[PAGE]
+
+
+[FF 22]こんなやまおくで[BR]
+[FF 22]What are you doing[BR]
+
+[FF 22]なにやってるの？[PAGE]
+[FF 22]this deep in the mountains?[PAGE]
+
+
+[FF 23][FF 1C]<7B>ソラファーガさん？[BR]
+[FF 23][FF 1C]<7B>ソLafarga?[BR]
+
+[PAGE]
+
+
+[FF 22]こんなやまおくで[BR]
+[FF 22]Are you training[BR]
+
+[FF 22]しゅぎょうですか？[PAGE]
+[FF 22]this deep in the mountains?[PAGE]
+
+
+[FF 23]むろん、しゅぎょうだ。[BR]
+[FF 23]Of course. I am training.[BR]
+
+きびしいかんきょうの[BR]
+Harsh surroundings[BR]
+
+[PAGE]
+
+
+[FF 22]なかで、こころとからだが[FF 22]きたえられる。[PAGE]
+[FF 22]temper both[FF 22]mind and body.[PAGE]
+
+
+[FF 23]ところで、ここには、[BR]
+[FF 23]And what brings you[BR]
+
+なにをしに？[PAGE]
+here?[PAGE]
+
+
+[FF 23][FF 0D]<D9>ソつ<DF>ソ<C3><DB>セ<E5>ソテタねタラファーガとおなじだ！[BR]
+[FF 23][FF 0D]<D9>ソつ<DF>ソ<C3><DB>セ<E5>ソテタねタThe same thing as you![BR]
+
+しゅぎょうするんだ！[PAGE]
+We're here to train![PAGE]
+
+
+[FF 23]ところで、やまは[BR]
+[FF 23]By the way, what are[BR]
+
+どんなところ？[PAGE]
+the mountains like?[PAGE]
+
+
+[FF 23][FF 1C]9タぼうけんにでたんだけど、[PAGE]
+[FF 23][FF 1C]9タWe're out on an adventure.[PAGE]
+
+
+[FF 22]このさきは[BR]
+[FF 22]What lies[BR]
+
+[FF 22]どうなっているの？[PAGE]
+[FF 22]up ahead?[PAGE]
+
+
+[FF 23][FF 1C]9タぼうけんですわ。[BR]
+[FF 23][FF 1C]9タWe are adventuring.[BR]
+
+[PAGE]
+
+
+[FF 22]やまって、そんなに[BR]
+[FF 22]Are the mountains truly[BR]
+
+[FF 22]きびしいところなんですか[PAGE]
+[FF 22]so unforgiving?[PAGE]
+
+
+[FF 23]うむ、このさきは、[BR]
+[FF 23]Indeed. Ahead of you[BR]
+
+どうくつになっている。　[PAGE]
+lies a cave.[PAGE]
+
+
+[FF 22]オイルをもっていないと、[FF 22]どうくつのランプがきえた[PAGE]
+[FF 22]Without oil, if the cave lamps[FF 22]go out,[PAGE]
+
+
+[FF 22]とき　こころぼそい。[PAGE]
+[FF 22]you will find yourself helpless.[PAGE]
+
+
+[FF 23]きをつけてゆけ。[PAGE]
+[FF 23]Proceed with caution.[PAGE]
+
+
+[FF 23][FF 24]おお、マジックナイトよ！げんきでやってるか？[PAGE]
+[FF 23][FF 24]Ah, Magic Knights! Have you been well?[PAGE]
+
+
+[FF 23]ところで、このあいだ[BR]
+[FF 23]By the way, I met someone[BR]
+
+このやまで、たこくのもの[PAGE]
+from another country in these mountains recently.[PAGE]
+
+
+[FF 22]とあったが、なんという　[FF 22]な　だったか・・[PAGE]
+[FF 22]What was[FF 22]his name...?[PAGE]
+
+
+[FF 23]そうだ！ジェオだ。[PAGE]
+[FF 23]Of course! Geo.[PAGE]
+
+
+[FF 23]なにか、きみょうなくすりをもっていたようだが・・[FF 1C]<E7>タおお！　しゅぎょうは[BR]
+[FF 23]He seemed to be carrying some strange medicine...[FF 1C]<E7>タAh! Is your training[BR]
+
+すすんでいるか？[FF 1C]<E7>タ[FF 0D]KチつQチ<C3><DB>セ<BC>チおツ<E4>チ[FF 0D]<B0>チつ<B6>チ<C3><DB>セ<D6>チァツ、ツいずみがあるよ！[BR]
+progressing well?[FF 1C]<E7>タ[FF 0D]KチつQチ<C3><DB>セ<BC>チおツ<E4>チ[FF 0D]<B0>チつ<B6>チ<C3><DB>セ<D6>チァツ、ツThere's a spring![BR]
+
+みずのもう！[FF 1C]<E7>タああ、おいしかった。[FF 1C]<E7>タいずみがあるわ。[BR]
+Let's have some water![FF 1C]<E7>タAh, that was refreshing.[FF 1C]<E7>タThere's a spring.[BR]
+
+みずがおいしそうよ。[FF 1C]<E7>タつめたくて、おいしいね。[FF 1C]<E7>タいずみですわ。[BR]
+The water looks delicious.[FF 1C]<E7>タIt's cold and refreshing.[FF 1C]<E7>タThere is a spring.[BR]
+
+[PAGE]
+
+
+[FF 22]そういえば[BR]
+[FF 22]Come to think of it,[BR]
+
+[FF 22]のどかわきましたわ。[FF 1C]<E7>タいきかえりますわね。[FF 1C]<E7>タ[FF 0D]コツつタツ<C3><DB>セニツ<B2>ツ<81>ツそうだ！　せっかくだからつぼに　みずいれてこ！[FF 1C]<E7>タそうだわ！　からのつぼがあったわね。[BR]
+[FF 22]I am rather thirsty.[FF 1C]<E7>タHow revitalizing.[FF 1C]<E7>タ[FF 0D]コツつタツ<C3><DB>セニツ<B2>ツ<81>ツThat's it! Since we're here, let's fill the pot with water![FF 1C]<E7>タOf course! We have an empty pot.[BR]
+
+[PAGE]
+
+
+[FF 22]みずくんでいきましょ。[FF 1C]<E7>タそうですわ。からのつぼにみずをくんでいきましょ。[FF 1C]<E7>タ[FF 0D]<DA>ツつ<E0>ツ<C3><DB>セ<E6>ツさテ[FF 5A]わー、まっくら。[BR]
+[FF 22]Let's fill it with water.[FF 1C]<E7>タIndeed. Let us fill the empty pot with water.[FF 1C]<E7>タ[FF 0D]<DA>ツつ<E0>ツ<C3><DB>セ<E6>ツさテ[FF 5A]Whoa, it's pitch-black.[BR]
+
+きみわるいね。[PAGE]
+This place is creepy.[PAGE]
+
+
+[FF 23][FF 0D]わテきゃー、くらいのよー。　こわいのよー。[PAGE]
+[FF 23][FF 0D]わテAah, it's dark! I'm scared![PAGE]
+
+
+[FF 23][FF 0D]わテまっくらですわ。[BR]
+[FF 23][FF 0D]わテIt is pitch-black.[BR]
+
+なにもみえないですね。[PAGE]
+We cannot see a thing.[PAGE]
+
+
+[FF 23][FF 0D]わテろ<EF><C2><FE><02>のょろ<F0><C2><FE><02>の<07>つトテて<E4><C1><C9>つセテ<C3><DB>セニテ<F8>テYテ[FF 24]そうだ！あのきえかかっているランプに、オイルを　[PAGE]
+[FF 23][FF 0D]わテろ<EF><C2><FE><02>のょろ<F0><C2><FE><02>の<07>つトテて<E4><C1><C9>つセテ<C3><DB>セニテ<F8>テYテ[FF 24]That's it! If we add oil to that dying lamp,[PAGE]
+
+
+[FF 22]たせば　あかるくなるかも[FF 22]やってみよ！[FF 1C]<E7>タやったー！[BR]
+[FF 22]it might brighten up.[FF 22]Let's try it![FF 1C]<E7>タHooray![BR]
+
+おもったとおりだ。[FF 1C]<E7>タあのランプが　もっと[BR]
+Just as I thought.[FF 1C]<E7>タIf only that lamp[BR]
+
+かがやけば・・[PAGE]
+were brighter...[PAGE]
+
+
+[FF 23]そうだわ！　オイルを[BR]
+[FF 23]Of course! Let's add[BR]
+
+たしましょう。[FF 1C]<E7>タこれであんしんだわ。[FF 1C]<E7>タこまったですね・・[BR]
+some oil.[FF 1C]<E7>タNow we can relax.[FF 1C]<E7>タThis is troublesome...[BR]
+
+そうですわ！　オイルを　[PAGE]
+Of course! If we add oil[PAGE]
+
+
+[FF 22]あのランプにたせば・・[FF 1C]<E7>タあかるくなりました。[BR]
+[FF 22]to that lamp...[FF 1C]<E7>タIt has grown brighter.[BR]
+
+これであんしんですわね。[FF 1C]<E7>タ[FF 0D]カトつシト<C3><DB>セCテひト<E6>テきみたちが、あの[BR]
+Now we can rest easy.[FF 1C]<E7>タ[FF 0D]カトつシト<C3><DB>セCテひト<E6>テAre you the famous[BR]
+
+マジックナイト？[PAGE]
+Magic Knights?[PAGE]
+
+
+[FF 23]おれは、ザズっていうんだオートザムからきたんだ。[PAGE]
+[FF 23]My name is Zazu. I come from Autozam.[PAGE]
+
+
+[FF 23][FF 0D]IトつOト<C3><DB>セUト<D7>ト<C3>トわー、わたし、ひかる[BR]
+[FF 23][FF 0D]IトつOト<C3><DB>セUト<D7>ト<C3>トWow! I'm Hikaru.[BR]
+
+よろしく！[PAGE]
+Nice to meet you![PAGE]
+
+
+[FF 23][FF 1C]<F5>トセフィーロになんのよう？[PAGE]
+[FF 23][FF 1C]<F5>トWhat brings you to Cephiro?[PAGE]
+
+
+[FF 23][FF 1C]<F5>トオートザム？ひょっとしてたこくのひとですか？[PAGE]
+[FF 23][FF 1C]<F5>トAutozam? Are you from another country?[PAGE]
+
+
+[FF 23]まあまあ、ところで、[BR]
+[FF 23]Never mind that. I need[BR]
+
+こまっているんだけど・・[PAGE]
+your help...[PAGE]
+
+
+[FF 23]このさきで、なかまの[BR]
+[FF 23]My companion Geo is suffering[BR]
+
+ジェオがくるしんでるんだ[PAGE]
+just up ahead.[PAGE]
+
+
+[FF 22]でも、なにいってるか[BR]
+[FF 22]But I cannot understand[BR]
+
+[FF 22]わからなくて・・・[PAGE]
+[FF 22]what he is saying...[PAGE]
+
+
+[FF 23]どうしよう・・[FF 1C]<E7>タジェオが、なにいってるかわからないんだ！[PAGE]
+[FF 23]What should I do...?[FF 1C]<E7>タI cannot understand what Geo is saying![PAGE]
+
+
+[FF 23]どうすれば、なおるんだろ[FF 1C]<E7>タこのあいだは、ジェオを　たすけてくれてありがとう[FF 1C]<E7>タ[FF 0D]<C1>ナつ<C7>ナ<C3><DB>セ<CD>ナエニ<09>ニわっ、なにかとんでる！[PAGE]
+[FF 23]I wonder how we can cure him.[FF 1C]<E7>タThanks for helping Geo before.[FF 1C]<E7>タ[FF 0D]<C1>ナつ<C7>ナ<C3><DB>セ<CD>ナエニ<09>ニWhoa, something's flying![PAGE]
+
+
+[FF 23]なんだ、こうもりみたいないきものだ。[BR]
+[FF 23]Oh, it is merely a bat-like creature.[BR]
+
+[PAGE]
+
+
+[FF 22]おそってこないみたい。[FF 1C]<E7>タきゃっ、なにかいるの？　こうもり？[PAGE]
+[FF 22]It does not appear hostile.[FF 1C]<E7>タAah! Something's there! A bat?[PAGE]
+
+
+[FF 23]ちょっとちがうけど・・[BR]
+[FF 23]Not exactly...[BR]
+
+もう・・[BR]
+Honestly...[BR]
+
+[PAGE]
+
+
+[FF 22]びっくりさせないでよ。[FF 1C]<E7>タきゃっ、モンスター？[PAGE]
+[FF 22]Do not frighten me like that.[FF 1C]<E7>タAah! A monster?[PAGE]
+
+
+[FF 23]おそってくるけはいは[BR]
+[FF 23]It does not appear[BR]
+
+ないみたいですね。[BR]
+likely to attack us.[BR]
+
+[PAGE]
+
+
+[FF 22]さ、いきましょ。[FF 1C]<E7>タ[FF 0D]2ニつ8ニ<C3><DB>セNニむヌ<EB>ニ[FF 0D]BニつHニ<C3><DB>セ<C7>ニシヌゅヌわああ<07><07>！[BR]
+[FF 22]Come, let us continue.[FF 1C]<E7>タ[FF 0D]2ニつ8ニ<C3><DB>セNニむヌ<EB>ニ[FF 0D]BニつHニ<C3><DB>セ<C7>ニシヌゅヌAah![BR]
+
+モンスターだ！[BR]
+A monster![BR]
+
+[PAGE]
+
+
+[FF 22]わああああ<07><07><07>！[FF 1C]<E7>タいったー、あたま[BR]
+[FF 22]Aah![FF 1C]<E7>タOuch! I hit my[BR]
+
+ぶつけちゃった。[BR]
+head.[BR]
+
+[PAGE]
+
+
+[FF 22]いたいよー。[FF 1C]<E7>タきゃー！[BR]
+[FF 22]That hurts.[FF 1C]<E7>タAah![BR]
+
+モンスターよ！[BR]
+A monster![BR]
+
+[PAGE]
+
+
+[FF 22]キャーーーーーーーー！[FF 1C]<E7>タいたいわよー、[BR]
+[FF 22]Aah![FF 1C]<E7>タOuch![BR]
+
+あたま、ぶつけたわ。[BR]
+I hit my head.[BR]
+
+[PAGE]
+
+
+[FF 22]クラッ。[FF 1C]<E7>タきゃあ！[BR]
+[FF 22]Thud.[FF 1C]<E7>タAah![BR]
+
+モンスターですわ！[BR]
+A monster![BR]
+
+[PAGE]
+
+
+[FF 22]きゃあああ<07><07><07>！[FF 1C]<E7>タあたまが・・[BR]
+[FF 22]Aah![FF 1C]<E7>タMy head...[BR]
+
+ぶつけてしまいました。　[PAGE]
+I struck it.[PAGE]
+
+
+[FF 22]いたいですわ。[FF 1C]<E7>タからっぽ！[FF 24][FF 0D]5ヌつ<90>ヌ<C3><DB>セAヌ<DC>ヌ<BA>ヌうわ<07>！[BR]
+[FF 22]How painful.[FF 1C]<E7>タEmpty![FF 24][FF 0D]5ヌつ<90>ヌ<C3><DB>セAヌ<DC>ヌ<BA>ヌWhoa![BR]
+
+なにかにつまづいたよ。　[PAGE]
+I tripped over something.[PAGE]
+
+
+[FF 22]なんだろう？[FF 1C]<E7>タきゃっ！[BR]
+[FF 22]What could it be?[FF 1C]<E7>タAah![BR]
+
+なにかにつまづいたわ！　[PAGE]
+I tripped over something![PAGE]
+
+
+[FF 22]なにかしら？[FF 1C]<E7>タきゃっ！[BR]
+[FF 22]What could it be?[FF 1C]<E7>タAah![BR]
+
+なにか、ありますわ。[BR]
+There is something here.[BR]
+
+[PAGE]
+
+
+[FF 22]けっこう、いいものかも　[FF 22]しれませんわね。[FF 1C]<E7>タ[DAKUTEN]あ[DAKUTEN]あ[DAKUTEN]あ[DAKUTEN]あ[DAKUTEN]あ[DAKUTEN]あ[BR]
+[FF 22]It may be something[FF 22]rather valuable.[FF 1C]<E7>タ[DAKUTEN]A-A-A-A-A-A...[BR]
+
+[DAKUTEN]あー[DAKUTEN]あ[DAKUTEN]あ[DAKUTEN]あー[FF 1C]<E7>タ[FF 0D]らネつんネ<C3><DB>セゥネ<F0>ネNネどうしたの？[BR]
+[DAKUTEN]A-A-A-A...[FF 1C]<E7>タ[FF 0D]らネつんネ<C3><DB>セゥネ<F0>ネNネWhat's wrong?[BR]
+
+こえがでないのか。[PAGE]
+You cannot speak?[PAGE]
+
+
+[FF 23]そうだ！　いずみでくんだおいしいみずをのめば[BR]
+[FF 23]That's it! If you drink the fresh water we drew from the spring,[BR]
+
+[PAGE]
+
+
+[FF 22]よくなるかもしれない。[PAGE]
+[FF 22]you may get better.[PAGE]
+
+
+[FF 23]はい、どうぞ。[FF 1C]<E7>タどうしたの？[BR]
+[FF 23]Here you go.[FF 1C]<E7>タWhat's wrong?[BR]
+
+しゃべれないの？[PAGE]
+You cannot speak?[PAGE]
+
+
+[FF 23]そう・[FF 02]そ・[FF 02]そ・[FF 02]そだ！[PAGE]
+[FF 23]Of[FF 02]course![FF 02][FF 02][PAGE]
+
+
+[FF 23]みずがあったわよね！[BR]
+[FF 23]We have that water![BR]
+
+はい、どうぞ。[FF 1C]<E7>タどうしたんですか？[BR]
+Here you go.[FF 1C]<E7>タWhat is wrong?[BR]
+
+しゃべれないんですか？[PAGE]
+Are you unable to speak?[PAGE]
+
+
+[FF 23]そうですわ！[BR]
+[FF 23]Of course![BR]
+
+このみずをどうぞ！[FF 1C]<E7>タゴクゴクゴク・・・[BR]
+Please drink this water![FF 1C]<E7>タGulp, gulp, gulp...[BR]
+
+[DAKUTEN]あ、あ、あ[BR]
+[DAKUTEN]A-A-A...[BR]
+
+[PAGE]
+
+
+[FF 22]おう！　しゃべれる！[BR]
+[FF 22]Oh! I can speak![BR]
+
+[FF 22]しゃべれるぞ！！[PAGE]
+[FF 22]I can speak![PAGE]
+
+
+[FF 23]おう！おじょうちゃんたちありがとな。[BR]
+[FF 23]Ah! Thank you, young ladies.[BR]
+
+[PAGE]
+
+
+[FF 22]へんなくすりをみつけて　[FF 22]すこしのんでみたんだけど[PAGE]
+[FF 22]I found a strange medicine[FF 22]and tried a little of it,[PAGE]
+
+
+[FF 22]にがくてなー。[PAGE]
+[FF 22]but it was terribly bitter.[PAGE]
+
+
+[FF 23]おれのみかくには、[BR]
+[FF 23]It seems it does not agree[BR]
+
+あわないらしい。[PAGE]
+with my palate.[PAGE]
+
+
+[FF 23]たすけてくれたおれいに　このくすりをあげるよ！[FF 1C]<E7>タ[FF 0D]<F2>ノつ<F8>ノ<C3><DB>セ<FE>ノねハえハなにいってるか、[BR]
+[FF 23]Take this medicine as thanks for helping me![FF 1C]<E7>タ[FF 0D]<F2>ノつ<F8>ノ<C3><DB>セ<FE>ノねハえハI cannot understand[BR]
+
+わかんないよ。[FF 1C]<E7>タなにいってるか[BR]
+what you are saying.[FF 1C]<E7>タI cannot understand[BR]
+
+わからないわ。[FF 1C]<E7>タすみません、なにを[BR]
+what you are saying.[FF 1C]<E7>タI am sorry, but I cannot understand[BR]
+
+いっているかわかりません[FF 1C]<E7>タよう！[BR]
+what you are saying.[FF 1C]<E7>タHello![BR]
+
+こないだは、ありがとよ！[FF 1C]<E7>タ[FF 0D]ヌハつヘハ<C3><DB>セモハ<D8>ハLハおっと、このさきは[BR]
+Thanks for your help before![FF 1C]<E7>タ[FF 0D]ヌハつヘハ<C3><DB>セモハ<D8>ハLハOh! Up ahead is[BR]
+
+だんがいぜっぺき・・[PAGE]
+sheer cliff...[PAGE]
+
+
+[FF 23]とおれないや。[BR]
+[FF 23]We can't get through.[BR]
+
+どうしよう？[FF 1C]<E7>タきゃあ<07>ー！このさきは　だんがいぜっぺき・・[PAGE]
+What should we do?[FF 1C]<E7>タEek! Up ahead is a sheer cliff...[PAGE]
+
+
+[FF 23]とおれないわ。[BR]
+[FF 23]We can't get through.[BR]
+
+どうしよう？[FF 1C]<E7>タまあ！　このさきは[BR]
+What should we do?[FF 1C]<E7>タOh my! Up ahead is[BR]
+
+だんがいぜっぺき・・[PAGE]
+a sheer cliff...[PAGE]
+
+
+[FF 23]とおれないですね。[BR]
+[FF 23]We cannot get through.[BR]
+
+こまったですわ。[FF 1C]<E7>タ[FF 0D]けヒつそヒ<C3><DB>セなヒ3ヒセヒそうだ！　とぶくすりを　つかって・・[PAGE]
+What shall we do?[FF 1C]<E7>タ[FF 0D]けヒつそヒ<C3><DB>セなヒ3ヒセヒThat's it! I'll use the flight medicine...[PAGE]
+
+
+[FF 23]なに！？からだがフワフワうくよ。[FF 1C]<E7>タそうだわ！　とぶくすりをつかって・・[PAGE]
+[FF 23]What?! I'm floating![FF 1C]<E7>タThat's it! I'll use the flight medicine...[PAGE]
+
+
+[FF 23]なに！？からだがフワフワうくわ。[FF 1C]<E7>タそうですわ！とぶくすりをつかって・・[PAGE]
+[FF 23]What?! I'm floating![FF 1C]<E7>タThat's it! I shall use the flight medicine...[PAGE]
+
+
+[FF 23]なに！？からだがフワフワうきますわ。[FF 1C]<E7>タ[FF 0D]<C0>ヒつ<C6>ヒ<C3><DB>セ<CC>ヒ　フ<E2>ヒあーあ、[BR]
+[FF 23]What?! I am floating![FF 1C]<E7>タ[FF 0D]<C0>ヒつ<C6>ヒ<C3><DB>セ<CC>ヒ　フ<E2>ヒAw, man.[BR]
+
+そらをとべたらなあ。[FF 1C]<E7>タあーあ、そらをとべたら、むこうにわたれるのにね。[FF 1C]<E7>タまあ、こまったですわ。　[PAGE]
+If only I could fly.[FF 1C]<E7>タIf only I could fly, I could cross over there.[FF 1C]<E7>タOh dear, what shall I do?[PAGE]
+
+
+[FF 22]とりさんのように[BR]
+[FF 22]If only I could fly[BR]
+
+[FF 22]そらをとべたら・・[FF 1C]<E7>タわーー！[BR]
+[FF 22]like a bird...[FF 1C]<E7>タWaaah![BR]
+
+ここはとおさないです！[PAGE]
+You can't pass![PAGE]
+
+
+[FF 23]このやまいちの[BR]
+[FF 23]Everyone calls me[BR]
+
+びしょうじょと、[BR]
+the most beautiful girl[BR]
+
+[PAGE]
+[PAGE]
+
+
+[FF 22]よばれているわたし。[BR]
+[FF 22]on this mountain.[BR]
+
+[PAGE]
+[PAGE]
+
+
+[FF 22]わたしよりも、かわいいコ[FF 22]はゆるさないですよー！[PAGE]
+[FF 22]I won't forgive any girl[FF 22]cuter than me![PAGE]
+
+
+[FF 23]まじまじ。[PAGE]
+[FF 23]Staaare.[PAGE]
+
+
+[FF 23][FF 0D]LフつRフ<C3><DB>セXフ　ヘ<CF>フな、なに？[BR]
+[FF 23][FF 0D]LフつRフ<C3><DB>セXフ　ヘ<CF>フW-What?[BR]
+
+[PAGE]
+[PAGE]
+
+
+[FF 22]わたしのかおになんか[BR]
+[FF 22]Is there something[BR]
+
+[FF 22]ついてる？[FF 1C]<E7>タなんなのよー！[FF 22]このコは！？[BR]
+[FF 22]on my face?[FF 1C]<E7>タWhat's with this girl?![BR]
+
+[PAGE]
+[PAGE]
+
+
+[FF 22]ひとのかお、ジロジロ[BR]
+[FF 22]Staring at my face[BR]
+
+[FF 22]みて、もう！[FF 1C]<E7>タかわいいですね。[BR]
+[FF 22]like that! Honestly![FF 1C]<E7>タYou are quite adorable,[BR]
+
+おじょうちゃん。[FF 1C]<E7>タわーーーーー！[BR]
+young lady.[FF 1C]<E7>タWaaah![BR]
+
+わたしよりかわいいです[PAGE]
+You're cuter than me![PAGE]
+
+
+[FF 22]ゆるせないですー！[PAGE]
+[FF 22]I won't forgive you![PAGE]
+
+
+[FF 23]でも、いいです。[BR]
+[FF 23]But that's okay.[BR]
+
+おねえちゃんたち、[BR]
+You ladies look like[BR]
+
+[PAGE]
+[PAGE]
+
+
+[FF 22]このさきにいきたそうな　[FF 22]かおしてるから、[BR]
+[FF 22]you want to go on ahead,[FF 22]so...[BR]
+
+[PAGE]
+[PAGE]
+
+
+[FF 22]とおってください。[BR]
+[FF 22]You may pass.[BR]
+
+[FF 22]どうぞ！[FF 1C]<E7>タわーーーーー！[BR]
+[FF 22]Go ahead![FF 1C]<E7>タWaaah![BR]
+
+なんだ、わたしが[BR]
+Looks like you weren't[BR]
+
+[PAGE]
+[PAGE]
+
+
+[FF 22]はりあうほどのコ[BR]
+[FF 22]cute enough to be[BR]
+
+[FF 22]じゃなかったみたいです。[PAGE]
+[FF 22]any competition after all.[PAGE]
+
+
+[FF 23]でも、とおさないです。　かえるがいいです。[PAGE]
+[FF 23]But you still can't pass. You should go home.[PAGE]
+
+
+[FF 23]やっぱり、かわいいコの　ほうがすきです。[FF 1C]<E7>タこんなところに、かわが　あって　わたれないわ！[PAGE]
+[FF 23]I like cute girls better after all.[FF 1C]<E7>タThere's a river here, and I can't get across![PAGE]
+
+
+[FF 23]・・・・・・そうだ！[FF 1A]<02>[PAGE]
+[FF 23]...That's it![FF 1A]<02>[PAGE]
+
+
+[FF 22]わたしにまかせといて！　[FF 22]まほうでみずをこおらせる[PAGE]
+[FF 22]Leave it to me![FF 22]I'll freeze the water with magic![PAGE]
+
+
+[FF 22]わ！　いくわよー！[FF 1A]<03>[FF 22]こおりのや！！[FF 1C]<E7>タさっいきましょ！[FF 1C]<E7>タだめだわ。[PAGE]
+[FF 22]Here goes![FF 1A]<03>[FF 22]Ice Arrow![FF 1C]<E7>タCome on, let's go![FF 1C]<E7>タIt's no use.[PAGE]
+
+
+[FF 23]まほうのちからが[BR]
+[FF 23]It seems I don't have[BR]
+
+たりないみたい・・・[PAGE]
+enough magical power...[PAGE]
+
+
+[FF 23]かえるしかないわね。[FF 1C]<E7>タ　[COLOR GREEN]せいなるオーブ[COLOR DEFAULT][FF 0D]<E0>ホつ<E6>ホ<C3><DB>セ<EC>ホうマ<03>マわー、いいけしきー。[BR]
+[FF 23]I guess I'll have to turn back.[FF 1C]<E7>タ [COLOR GREEN]holy orb[COLOR DEFAULT][FF 0D]<E0>ホつ<E6>ホ<C3><DB>セ<EC>ホうマ<03>マWow, what a view![BR]
+
+きもちいいね。[FF 1C]<E7>タわー、いいけしきねー。[FF 1C]<E7>タまあ！いいけしきですわね[FF 1C]<E7>タただ、かんどうするだけの3にんだった・・・[FF 1C]<E7>タ[FF 0D]アマつキマ<C3><DB>セヘマ<08>ミ<B9>マ[FF 0D]チマつヌマ<C3><DB>セ<90>マゆミ<E0>マそうだ！たしか、パレットもってたんだ。[FF 1A]・[PAGE]
+It feels great up here.[FF 1C]<E7>タWow, what a beautiful view![FF 1C]<E7>タMy, what a splendid view![FF 1C]<E7>タThe three simply stand there, admiring the view...[FF 1C]<E7>タ[FF 0D]アマつキマ<C3><DB>セヘマ<08>ミ<B9>マ[FF 0D]チマつヌマ<C3><DB>セ<90>マゆミ<E0>マThat's right! I brought a palette.[FF 1A]・[PAGE]
+
+
+[FF 22]おえかきしよ！[FF 1C]<E7>タできた、できた。[PAGE]
+[FF 22]Let's paint![FF 1C]<E7>タAll done![PAGE]
+
+
+[FF 23]でも、うまくかけなかったかもしれない。[FF 1C]<E7>タそうよ！たしか、パレットもってたわ。[FF 1A]を[PAGE]
+[FF 23]But maybe it didn't turn out very well.[FF 1C]<E7>タThat's right! I brought a palette.[FF 1A]を[PAGE]
+
+
+[FF 22]おえかきしよう！[FF 1C]<E7>タできたわ。[FF 1A]<07>[PAGE]
+[FF 22]Let's paint![FF 1C]<E7>タFinished![FF 1A]<07>[PAGE]
+
+
+[FF 22]うーむ、ちょっと[FF 1A]、[FF 22]しっぱいかな？[FF 1C]<E7>タそうですわ！　パレット　もっていました。[FF 1A]、[PAGE]
+[FF 22]Hmm, I may have[FF 1A]、[FF 22]messed up a little.[FF 1C]<E7>タThat's right! I brought a palette.[FF 1A]、[PAGE]
+
+
+[FF 22]おえかきしましょ！[FF 1C]<E7>タできましたわ。[PAGE]
+[FF 22]Let us paint![FF 1C]<E7>タIt is finished.[PAGE]
+
+
+[FF 23]でも・・　もうちょっと　おえかきのれんしゅう[FF 1A]<02>[PAGE]
+[FF 23]But...[FF 1A]<02>[PAGE]
+
+
+[FF 22]やってればよかったです。[FF 1C]<E7>タ[FF 0D]<78>ミつ<7E>ミ<C3><DB>セ<84>ミ<C2>ミJミできた、できた。[BR]
+[FF 22]I wish I had practiced painting a little more.[FF 1C]<E7>タ[FF 0D]<78>ミつ<7E>ミ<C3><DB>セ<84>ミ<C2>ミJミAll done![BR]
+
+きれいにかけたよ。[FF 1C]<E7>タできたわ。[PAGE]
+It came out beautifully.[FF 1C]<E7>タFinished![PAGE]
+
+
+[FF 23]けっさくよ！　わたしっててんさいかしら？[FF 1C]<E7>タできました。[PAGE]
+[FF 23]It's a masterpiece! Am I a genius or what?[FF 1C]<E7>タIt is finished.[PAGE]
+
+
+[FF 23]きれいにかけましたわ。　だれかにみせたいですわね[FF 1C]<E7>タ
+[FF 23]It came out beautifully. I would like to show it to someone.[FF 1C]<E7>タ
