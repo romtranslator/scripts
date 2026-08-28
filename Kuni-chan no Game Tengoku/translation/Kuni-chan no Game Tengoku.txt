@@ -1,0 +1,979 @@
+おこずかいを　５０Ｇもらう。[ED]
+You get a 50G allowance.[ED]
+
+おとしだまを　１００Ｇもらう。[ED]
+You get 100G as a New Year's gift.[ED]
+
+あ！！　かめカードが　おちている！[BR]
+Oh!! A Turtle Card is lying here![BR]
+かめカードをてにいれた。[ED]
+You get the Turtle Card.[ED]
+
+ゲームギアをかう。５０Ｇはらう。[ED]
+You buy a Game Gear. Pay 50G.[ED]
+
+セガだいがく　にゅうがく。[BR]
+Enroll at Sega University.[BR]
+にゅうがくきん　５０Ｇはらう。[ED]
+Pay 50G tuition.[ED]
+
+にゅうがくいわい　２０００Ｇもらう[ED]
+You get a 2,000G enrollment gift.[ED]
+
+クラブににゅうぶ　１００Ｇはらう。[ED]
+Join a club. Pay 100G.[ED]
+
+たいがくになった！スタートにもどる。[ED]
+You've flunked out! Return to Start.[ED]
+
+チャンス！カードが、ひけます。[BR]
+Chance! You can draw a card.[BR]
+２ボタンをおすと　とまります。[ED]
+Press Button 2 to stop it.[ED]
+
+ＳＴＯＰ！そつぎょうテスト。[BR]
+STOP! Graduation exam.[BR]
+ルーレットで　１、２、３、４がでれば[BR]
+If the roulette lands on 1, 2, 3, or 4,[BR]
+すすめます。[ED]
+you can advance.[ED]
+
+ミニゲーム！[BR]
+Mini-game![BR]
+ルーレット　ゲームをしますか。[BR]
+Play the roulette game?[BR]
+「はい」２ボタン、「いいえ」１ボタン[ED]
+"Yes": Button 2. "No": Button 1.[ED]
+
+あたりです。[BR]
+It's a winner.[BR]
+プラス　　　　　０００Ｇ[ED]
+Plus             000G[ED]
+
+そつぎょういわいを　１５００Ｇ[BR]
+You get a 1,500G graduation[BR]
+もらう。[ED]
+gift.[ED]
+
+ほけんカードを　１まい５０Ｇ[BR]
+Insurance Cards cost 50G each.[BR]
+でかえる。かいますか？[BR]
+Buy one?[BR]
+「かう」２ぼたん、「やめる」１ボタン[ED]
+"Buy": Button 2. "Quit": Button 1.[ED]
+
+あ！！　じしんカードが　おちている！[BR]
+Oh!! An Earthquake Card is lying here![BR]
+じしんカードをてにいれた。[ED]
+You get the Earthquake Card.[ED]
+
+ＳＴＯＰ！けっこん。みんなから[BR]
+STOP! Marriage. Everyone gives you[BR]
+おいわい　３００Ｇずつもらう。[BR]
+300G as a wedding gift.[BR]
+けっこんカードをもらう。[ED]
+You get a Marriage Card.[ED]
+
+たからくじカードを　１まい５０Ｇ[BR]
+Lottery Cards cost 50G each.[BR]
+でかえる。かいますか？[BR]
+Buy one?[BR]
+「はい」２ボタン、「いいえ」１ボタン[ED]
+"Yes": Button 2. "No": Button 1.[ED]
+
+こえだめにおちた。１かい　やすみ。[ED]
+You fall into a cesspit. Miss one turn.[ED]
+
+じこ！ほけんカードが　なければ[BR]
+Accident! If you don't have an[BR]
+２０００Ｇはらう。[ED]
+Insurance Card, pay 2,000G.[ED]
+
+けいかんになる。[BR]
+You become a police officer.[BR]
+きゅうりょうを　とおれば[BR]
+Every time you pass Payday,[BR]
+３０００Ｇもらえる。[ED]
+you get 3,000G.[ED]
+
+アネックズカードにはいる。[BR]
+Join Anex Card.[BR]
+かいひ　５０Ｇはらう。[ED]
+Pay the 50G membership fee.[ED]
+
+しゅうしょくいわい。[BR]
+Employment gift.[BR]
+１０００Ｇもらう。[ED]
+You get 1,000G.[ED]
+
+ちゅうしゃいはんを　つかまえる。[BR]
+Catch an illegal parker.[BR]
+５００Ｇもらう。[ED]
+You get 500G.[ED]
+
+きゅうりょう　５００Ｇ[BR]
+Salary: 500G[BR]
+ゲームデザイナーに　なりますか？[BR]
+Become a game designer?[BR]
+「はい」２ボタン、「いいえ」１ボタン[ED]
+"Yes": Button 2. "No": Button 1.[ED]
+
+いぬにかまれる。ちりょうひ[BR]
+A dog bites you. Pay 500G[BR]
+５００Ｇはらう。[ED]
+in medical expenses.[ED]
+
+きゅうりょう　ルーレットの１０００[BR]
+Salary: roulette number times 1,000.[BR]
+ばい。どろぼうになりますか？[BR]
+Become a thief?[BR]
+「はい」２ボタン、「いいえ」１ボタン[ED]
+"Yes": Button 2. "No": Button 1.[ED]
+
+きゅうりょう　１０００Ｇ[BR]
+Salary: 1,000G[BR]
+アイドルスターに　なりますか？[BR]
+Become a pop star?[BR]
+「はい」２ボタン、「いいえ」１ボタン[ED]
+"Yes": Button 2. "No": Button 1.[ED]
+
+きゅうりょう　ルーレットの１０００[BR]
+Salary: roulette number times 1,000.[BR]
+ばい。いしゃになりますか？[BR]
+Become a doctor?[BR]
+「はい」２ボタン、「いいえ」１ボタン[ED]
+"Yes": Button 2. "No": Button 1.[ED]
+
+しょくについてないひとは、フリー[BR]
+Anyone without a job becomes a[BR]
+アルバイターになる。きゅうりょうは[BR]
+job-hopper. Their salary is the[BR]
+ルーレットの１００ばいです。[ED]
+roulette number times 100.[ED]
+
+アネックズカードにはいる。[BR]
+Join Anex Card.[BR]
+かいひ　５０Ｇはらう。[BR]
+Pay the 50G membership fee.[BR]
+どろぼう、フリーターは、はいれない。[ED]
+Thieves and job-hoppers can't join.[ED]
+
+きゅうりょうび。５００Ｇもらう。[ED]
+Payday. You get 500G.[ED]
+
+ＳＴＯＰ！ねるとん。ルーレットで[BR]
+STOP! A mixer. If the roulette[BR]
+１か３か６なら　こいびとができて[BR]
+lands on 1, 3, or 6, you find a lover[BR]
+すすむことができます。[ED]
+and can move forward.[ED]
+
+こうばん！　どろぼうは　１０００Ｇ[BR]
+Police box! Thieves must[BR]
+はらう。[ED]
+pay 1,000G.[ED]
+
+エンゲージリングをかう。[BR]
+Buy an engagement ring.[BR]
+きゅうりょうの３ばい　はらう。[ED]
+Pay three times your salary.[ED]
+
+やぐちのわたし。５００Ｇはらえば[BR]
+The Yaguchi Ferry. Pay 500G to[BR]
+かわを　わたしてもらえます。[BR]
+be taken across the river.[BR]
+「はい」２ボタン、「いいえ」１ボタン[ED]
+"Yes": Button 2. "No": Button 1.[ED]
+
+ポケットに　あなが！！！[BR]
+A hole in your pocket!!![BR]
+１００００Ｇおとす。[ED]
+You drop 10,000G.[ED]
+
+($F7)($F8)($F9)($FA)($FB)は、これいじょうカードが[BR]
+($F7)($F8)($F9)($FA)($FB) can't carry any more cards.[BR]
+もてません。なにかすてますか？[BR]
+Discard one?[BR]
+「はい」２ボタン、「いいえ」１ボタン[ED]
+"Yes": Button 2. "No": Button 1.[ED]
+
+ミニゲーム！[BR]
+Mini-game![BR]
+スロット　ゲームをしますか。[BR]
+Play the slot game?[BR]
+「はい」２ボタン、「いいえ」１ボタン[ED]
+"Yes": Button 2. "No": Button 1.[ED]
+
+こうばん！どろぼうは　１０００Ｇ[BR]
+Police box! Thieves must[BR]
+はらう。けいかんは　１０００Ｇ[BR]
+pay 1,000G. Police officers[BR]
+もらえる。[ED]
+get 1,000G.[ED]
+
+モーツァルトのおきものを　こわす。[BR]
+You break a Mozart figurine.[BR]
+アネックズカードが　なければ[BR]
+If you don't have an Anex Card,[BR]
+９０００Ｇはらう。[ED]
+pay 9,000G.[ED]
+
+しつぎょう！５０００Ｇのこして[BR]
+Unemployed! Keep 5,000G and become[BR]
+どろぼうになる。ほけんカードも[BR]
+a thief. You also lose your[BR]
+うしなう。[ED]
+Insurance Card.[ED]
+
+こどもができた！みんなから　おいわい[BR]
+You have a child! Everyone gives you[BR]
+１５０Ｇずつもらう。[BR]
+150G as a gift.[BR]
+こどもカードが、１まいもらえる。[ED]
+You get one Child Card.[ED]
+
+スキーで、ほねをおる！　ほけんが[BR]
+You break a bone skiing! If you don't[BR]
+なければ　１００００Ｇはらう。[ED]
+have insurance, pay 10,000G.[ED]
+
+きゅうかん！いしゃは、１かいやすみ。[ED]
+Emergency call! Doctors miss one turn.[ED]
+
+じけんはっせい！けいかんは、１かい[BR]
+Incident! Police officers miss[BR]
+やすみ。[ED]
+one turn.[ED]
+
+ごなかの　スーツをかう。[BR]
+Buy an Armooni suit.[BR]
+１００００Ｇはらう。[ED]
+Pay 10,000G.[ED]
+
+あ！　せいきゅうカードが　おちている[BR]
+Oh! A Billing Card is lying here.[BR]
+せいきゅうカードを　てにいれた。[ED]
+You get the Billing Card.[ED]
+
+３０ぷんいないに　ピザがとどかな[BR]
+The pizza didn't arrive within[BR]
+かったので、２００Ｇもうかった。[ED]
+30 minutes, so you pocket 200G.[ED]
+
+けいばで　おおぞん！！[BR]
+Huge loss at the races!![BR]
+マイナス　１００００Ｇ[ED]
+Minus 10,000G[ED]
+
+たからくじが、にせもので　あることが[BR]
+Your lottery tickets turn out[BR]
+はんめい。たからくじカードを　すべて[BR]
+to be fake. You lose every[BR]
+うしなう。[ED]
+Lottery Card.[ED]
+
+けいばで　おおぞん！[BR]
+Big loss at the races![BR]
+マイナス　５０００Ｇ。[ED]
+Minus 5,000G.[ED]
+
+($F7)($F8)($F9)($FA)($FB)は、これいじょうカードを[BR]
+($F7)($F8)($F9)($FA)($FB) can't carry any more cards.[BR]
+もてないので　なにか　すててください[ED]
+Please discard one.[ED]
+
+ＮＳＸを　かう。[BR]
+Buy an NSX.[BR]
+２００００Ｇはらう。[ED]
+Pay 20,000G.[ED]
+
+じしん！！！！！！[BR]
+Earthquake!!!!!![BR]
+もちきんの　はんぶんをうしなう。[ED]
+You lose half your money.[ED]
+
+うごきたく　なくなる。[BR]
+You don't feel like moving.[BR]
+１かい　やすみ。[ED]
+Miss one turn.[ED]
+
+しゅうきょうに　おふせを[BR]
+Give a religion an offering[BR]
+１０００Ｇみつぐ。[ED]
+of 1,000G.[ED]
+
+ＮＳＸをかったひとは[BR]
+Anyone who bought an NSX[BR]
+５００００Ｇでうれる。[ED]
+can sell it for 50,000G.[ED]
+
+たいふう！　１０コマもどる。[ED]
+Typhoon! Go back 10 spaces.[ED]
+
+じこ！！　ほけんがないときは[BR]
+Accident!! If you don't have[BR]
+５０００Ｇはらう。[ED]
+insurance, pay 5,000G.[ED]
+
+かじ！！[BR]
+Fire!![BR]
+ほけんに　はいってなければ、もちきん[BR]
+If you don't have insurance,[BR]
+のはんぶんを　うしなう。[ED]
+you lose half your money.[ED]
+
+かいがいりょこうで　さいふをすられる[BR]
+A pickpocket gets your wallet[BR]
+アネックズがないひとは　９０００Ｇ[BR]
+abroad. Without Anex, you[BR]
+うしなう。[ED]
+lose 9,000G.[ED]
+
+ゲーム　デザイナーは、いっぱつあてて[BR]
+The game designer scores a hit[BR]
+１００００Ｇもらう。[ED]
+and gets 10,000G.[ED]
+
+パチンコで、ばかづき！　おおもうけ！[BR]
+A mad streak of pachinko luck![BR]
+２００００Ｇもらう。[ED]
+You make 20,000G.[ED]
+
+ＳＴＯＰ！せいさんポイント。[BR]
+STOP! Settlement point.[BR]
+カードは、それぞれ１まいにつき[BR]
+Each card is worth the following:[BR]
+けっこんカード　１００００Ｇ[BR]
+Marriage Card   10,000G[BR]
+こどもカード　　１００００Ｇ[BR]
+Child Card      10,000G[BR]
+ほけんカード　　　５０００Ｇです。[BR]
+Insurance Card   5,000G[BR]
+たからくじが　あればルーレットを[BR]
+For every Lottery Card, spin the[BR]
+まわし　１まいにつきでたかずの[BR]
+roulette and get the number shown[BR]
+１０００ばいもらえます。[ED]
+times 1,000.[ED]
+
+($F7)($F8)($F9)($FA)($FB)は、げんざい($F6)いです。[ED]
+($F7)($F8)($F9)($FA)($FB) is currently in ($F6)th place.[ED]
+
+たいしょくきん！[BR]
+Retirement bonus![BR]
+デザイナー　　１００００Ｇ[ED]
+Designer        10,000G[ED]
+
+いしゃは、たいしょくきんを[BR]
+Doctors don't receive[BR]
+もらえません。[ED]
+a retirement bonus.[ED]
+
+たいしょくきん！[BR]
+Retirement bonus![BR]
+けいかん　　　１００００Ｇ[ED]
+Police officer  10,000G[ED]
+
+たいしょくきん！[BR]
+Retirement bonus![BR]
+アイドルスター　１０００Ｇ[ED]
+Pop star        1,000G[ED]
+
+どろぼうは、みんなに　１０００Ｇ[BR]
+The thief pays everyone[BR]
+ずつはらう。[ED]
+1,000G each.[ED]
+
+フリーターは、たいしょくきんを[BR]
+Job-hoppers don't receive[BR]
+もらえません。[ED]
+a retirement bonus.[ED]
+
+めぐまれない、($F7)($F8)($F9)($FA)($FB)に[BR]
+Donate 20,000G to the unfortunate[BR]
+２００００Ｇきふする。[ED]
+($F7)($F8)($F9)($FA)($FB).[ED]
+
+ハワイにべっそうをかう。[BR]
+Buy a villa in Hawaii.[BR]
+４００００Ｇはらう。[ED]
+Pay 40,000G.[ED]
+
+はつめいして　とっきょをとる。[BR]
+Make an invention and patent it.[BR]
+２００００Ｇもらう。[ED]
+You get 20,000G.[ED]
+
+１いでゴール！しょうきんを[BR]
+Finish in first place![BR]
+３００００Ｇもらえます。[ED]
+You get 30,000G in prize money.[ED]
+
+２いでゴール！しょうきんを[BR]
+Finish in second place![BR]
+１００００Ｇもらえます。[ED]
+You get 10,000G in prize money.[ED]
+
+３いでゴール！しょうきんを[BR]
+Finish in third place![BR]
+５０００Ｇもらえます。[ED]
+You get 5,000G in prize money.[ED]
+
+４いでゴール！しょうきんはありません[ED]
+Finish in fourth place! There's no prize money.[ED]
+
+($F7)($F8)($F9)($FA)($FB)は、これいじょうカード[BR]
+($F7)($F8)($F9)($FA)($FB) can't carry any more cards.[BR]
+がもてません。なにかすてますか？[BR]
+Discard one?[BR]
+「はい」２ボタン、「いいえ」１ボタン[ED]
+"Yes": Button 2. "No": Button 1.[ED]
+
+カードを　あきらめた。[ED]
+You give up the card.[ED]
+
+これいじょう　カードをもちきれないの[BR]
+You can't carry any more cards,[BR]
+でカードを　あきらめた。[ED]
+so you give up the card.[ED]
+
+せいきゅうカードをてにいれた。[ED]
+You get the Billing Card.[ED]
+
+ふくしゅうカードをてにいれた。[ED]
+You get the Revenge Card.[ED]
+
+じしんカードをてにいれた。[ED]
+You get the Earthquake Card.[ED]
+
+ワープカードをてにいれた。[ED]
+You get the Warp Card.[ED]
+
+ばくだんカードをてにいれた。[ED]
+You get the Bomb Card.[ED]
+
+かめカードをてにいれた。[ED]
+You get the Turtle Card.[ED]
+
+ふこうのカードをてにいれた。[BR]
+You get the Misfortune Card.[BR]
+ふこうになった、、、、。[ED]
+Misfortune befalls you...[ED]
+
+そつぎょうです。すすめます。[ED]
+You've graduated. Advance.[ED]
+
+１くち　５００Ｇです[BR]
+Each wager costs 500G.[BR]
+なんくちかけますか？[BR]
+How many will you wager?[BR]
+　　　　１　くち[ED]
+          1 wager[ED]
+
+きゅうりょうび。３０００Ｇもらう。[ED]
+Payday. You get 3,000G.[ED]
+
+きゅうりょうび。１０００Ｇもらう。[ED]
+Payday. You get 1,000G.[ED]
+
+きゅうりょうび。ルーレットのかずの[BR]
+Payday. You get the roulette number[BR]
+１０００ばいを　もらえます。[ED]
+times 1,000.[ED]
+
+きゅうりょうび。ルーレットのかずの[BR]
+Payday. You get the roulette number[BR]
+１００ばいを　もらえます。[ED]
+times 100.[ED]
+
+カードがあったのでたすかった。[ED]
+Your card saves you.[ED]
+
+だれからもらいますか？[ED]
+Who will you take one from?[ED]
+
+１まいも　カードは[BR]
+There isn't even one card[BR]
+ありません？[ED]
+here?[ED]
+
+カードは１まいも　もっていません[ED]
+You don't have a single card.[ED]
+
+このカードは　つかえません[ED]
+You can't use this card.[ED]
+
+だれを　１０コマもどしますか？[ED]
+Who will you send back 10 spaces?[ED]
+
+だれに　せいきゅうしますか？[ED]
+Who will you bill?[ED]
+
+せいきゅうカードをつかった。[BR]
+You use the Billing Card.[BR]
+($F7)($F8)($F9)($FA)($FB)から１００００Ｇもらった。[ED]
+You get 10,000G from ($F7)($F8)($F9)($FA)($FB).[ED]
+
+($F7)($F8)($F9)($FA)($FB)は１かいやすみのダメージを[BR]
+($F7)($F8)($F9)($FA)($FB) takes the damage of[BR]
+うけた。[ED]
+missing one turn.[ED]
+
+($F7)($F8)($F9)($FA)($FB)は５０００Ｇのダメージを[BR]
+($F7)($F8)($F9)($FA)($FB) takes 5,000G[BR]
+うけた。[ED]
+in damage.[ED]
+
+($F7)($F8)($F9)($FA)($FB)は１００００Ｇのダメージを[BR]
+($F7)($F8)($F9)($FA)($FB) takes 10,000G[BR]
+うけた。[ED]
+in damage.[ED]
+
+これから　おきることを　ワープカード[BR]
+Use a Warp Card to evade[BR]
+で　かいひしますか？[BR]
+what's about to happen?[BR]
+「はい」２ボタン、「いいえ」１ボタン[ED]
+"Yes": Button 2. "No": Button 1.[ED]
+
+このばしょにばくだんをしかけた。[ED]
+You plant a bomb on this space.[ED]
+
+($F7)($F8)($F9)($FA)($FB)はかめになった。[ED]
+($F7)($F8)($F9)($FA)($FB) turns into a turtle.[ED]
+
+($F7)($F8)($F9)($FA)($FB)は４００００Ｇのダメージを[BR]
+($F7)($F8)($F9)($FA)($FB) takes 40,000G[BR]
+うけた。[ED]
+in damage.[ED]
+
+だれを　かめにしますか？[ED]
+Who will you turn into a turtle?[ED]
+
+かめカードをつかった。[BR]
+You use the Turtle Card.[BR]
+($F7)($F8)($F9)($FA)($FB)は　かめになった。[ED]
+($F7)($F8)($F9)($FA)($FB) turns into a turtle.[ED]
+
+プラス　($F6)０００Ｇ[ED]
+Plus    ($F6)000G[ED]
+
+にんずうを　きめてください。[ED]
+Choose the number of players.[ED]
+
+２ボタンをおして　じゅんばんを[BR]
+Press Button 2 to decide[BR]
+きめてください。[ED]
+the playing order.[ED]
+
+($FD)このじゅんばんで　スタートします[ED]
+($FD)Start in this order.[ED]
+
+りゅうねん！　じゅぎょうりょう[BR]
+Held back a year! Pay 100G[BR]
+１００Ｇはらう。[ED]
+in tuition.[ED]
+
+カードを　１まいかいました。[BR]
+You buy one card.[BR]
+さらに　かいますか？[BR]
+Buy another?[BR]
+「かう」２ぼたん、「やめる」１ぼたん[ED]
+"Buy": Button 2. "Quit": Button 1.[ED]
+
+ゲームデザイナーになった。[ED]
+You become a game designer.[ED]
+
+どろぼうになった。[ED]
+You become a thief.[ED]
+
+アイドルスターになった。[ED]
+You become a pop star.[ED]
+
+いしゃになった。[ED]
+You become a doctor.[ED]
+
+フリーターになった。[ED]
+You become a job-hopper.[ED]
+
+カードと　ひきかえに　たすかった。[ED]
+You sacrifice a card and escape harm.[ED]
+
+だいじなショーを、あしたにひかえて[BR]
+With an important show tomorrow,[BR]
+クニちゃんは、おおいそがし。[ED]
+Kuni-chan is terribly busy.[ED]
+
+しかし、そのとき[ED]
+But then...[ED]
+
+クニちゃんの、にんきをねたんだ[BR]
+A witch, jealous of Kuni-chan's[BR]
+まじょが、だいじなドレスを[BR]
+popularity, goes and steals her[BR]
+ぬすんでしまいました。[ED]
+precious dress.[ED]
+
+クニちゃんは、あわててまじょを[BR]
+Kuni-chan panics and chases[BR]
+おいかけました。[ED]
+after the witch.[ED]
+
+そしてたどりついたのは、、、、[ED]
+And the place she reaches is...[ED]
+
+まじょにあうには、３つの[BR]
+To meet the witch, you must obtain[BR]
+ほうせきを　てにいれなければ[BR]
+three jewels.[BR]
+ならないのじゃ。[BR]
+But those jewels are guarded[BR]
+しかしほうせきは、まものどもに[BR]
+by monsters. If you can't beat them,[BR]
+まもられてての。かてないときは[BR]
+save your money. You can buy all[BR]
+おかねをためれば、いろいろ[BR]
+sorts of handy things![BR]
+べんりなものが、かえるぞ！[BR]
+Now, be careful[BR]
+では、きをつけるんじゃぞ。[ED]
+out there.[ED]
+
+「スゴロク」で、１いになったら[BR]
+Come first in Sugoroku,[BR]
+ほうせきをやろう。[ED]
+and I'll give you a jewel.[ED]
+
+しょうぶするかい？[BR]
+Will you play me?[BR]
+　　　　はい　　　いいえ[ED]
+          Yes       No[ED]
+
+でなおしてきな！！！[ED]
+Come back when you're ready!!![ED]
+
+くそう！おれたちのまけだ！[BR]
+Damn! We lost![BR]
+これがほうせきだ！うけとりな。[ED]
+Here's the jewel! Take it.[ED]
+
+おれたちと　「だいふごう」で[BR]
+Play us at "Daifugo" and[BR]
+しょうぶして　１いになったら[BR]
+come first, and we'll give[BR]
+ほうせきをやろう。[ED]
+you a jewel.[ED]
+
+おれたちと「テニス」でしょうぶ[BR]
+Beat us at "Tennis,"[BR]
+してかてたら、ほうせきをやろう[ED]
+and we'll give you a jewel.[ED]
+
+かちぬくたびに、５０００Ｇずつ[BR]
+Every time you prevail, we'll give[BR]
+やろう。[BR]
+you 5,000G.[BR]
+まずさいしょは、ピエロからだ！[ED]
+First up is the Clown![ED]
+
+よくかちぬいたな。つぎは[BR]
+You've done well. Next,[BR]
+ふうせんマンがしょうぶだ！！[ED]
+Balloon Man will face you!![ED]
+
+よくかちぬいたな。さいごは、[BR]
+You've done well. Finally,[BR]
+このおれさまが、しょうぶだ！！[ED]
+you'll face none other than me!![ED]
+
+よくほうせきを、３つあつめたね。[BR]
+Well done collecting three jewels.[BR]
+あたしのもっている　ほうせきを[BR]
+I'll add the two jewels I have[BR]
+２つたして、「こらムズ」を[BR]
+to them, then you'll play[BR]
+やってもらうよ[BR]
+"Columnz." Clear all four stages,[BR]
+みごと４つのめんを、クリアー[BR]
+and you win![BR]
+できれば、おまえのかちだよ！[BR]
+If your TRIES reach zero,[BR]
+ＴＲＩＥＳがゼロになったら[BR]
+it's all[BR]
+おわりだよ。[ED]
+over.[ED]
+
+こりずにまたきたね！[BR]
+Back again, undeterred![BR]
+なんかいきても、おなじことだよ！[ED]
+Come as often as you like. It'll always end the same way![ED]
+
+ドレスは、おかえしします！！[BR]
+I'll return the dress!![BR]
+ごめんなさい！！！[ED]
+I'm sorry!!![ED]
+
+いらっしゃい。[BR]
+Welcome.[BR]
+どれを、かうかね。[ED]
+Which will you buy?[ED]
+
+このシューズが　あればテニスの[BR]
+These shoes make you move faster[BR]
+とき、うごきがはやくなるんじゃ。[ED]
+when you play Tennis.[ED]
+
+このメガネが　あればてきの[BR]
+These glasses let you see[BR]
+カードが、すけてみえるんじゃよ。[ED]
+your opponent's cards.[ED]
+
+これはスゴロクで、やくにたつ[BR]
+This Warp Card comes in handy[BR]
+ワープカードじゃよ。[ED]
+in Sugoroku.[ED]
+
+メガネを、かった。[ED]
+You buy the glasses.[ED]
+
+シューズを、かった。[ED]
+You buy the shoes.[ED]
+
+カードを、かった。[ED]
+You buy the card.[ED]
+
+おかねが　たりないようじゃな。[ED]
+It seems you don't have enough money.[ED]
+
+まだ、なにかごようかな？[ED]
+Do you need anything else?[ED]
+
+もう、もてないようじゃが。[ED]
+It seems you can't carry any more.[ED]
+
+こまったときは、またくるんじゃぞ[ED]
+Come back if you're ever in trouble.[ED]
+
+($F7)($F8)($F9)($FA)($FB)から　１０００Ｇぬすんだ。[ED]
+You steal 1,000G from ($F7)($F8)($F9)($FA)($FB).[ED]
+
+なんと、このばしょには　けいかんが[BR]
+What a shock! A police officer[BR]
+いた！[BR]
+is on this space![BR]
+ほしゃくきん　１０００Ｇはらう。[ED]
+Pay 1,000G bail.[ED]
+
+みぎは、しょくぎょうせんたくコース[BR]
+Right: Career Selection Course.[BR]
+したは、けいかんコースです。[ED]
+Down: Police Officer Course.[ED]
+
+うえはてんしょくコース　したは、[BR]
+Up: Career Change Course.[BR]
+つうじょうコースです。[ED]
+Down: Normal Course.[ED]
+
+クニちゃんの　「ふしぎのおしろの[BR]
+You can play Kuni-chan's[BR]
+ぼうけん」があそべるよ！[ED]
+"Adventure in the Mysterious Castle"![ED]
+
+いろいろなゲームが　えらべるよ！[ED]
+You can choose from all sorts of games![ED]
+
+　　　どのゲームであそぶ！[BR]
+        Which game will you play?[BR]
+　　　　　テニスゲーム[ED]
+              Tennis[ED]
+
+　　　どのゲームであそぶ！[BR]
+        Which game will you play?[BR]
+　　　　スゴロクゲーム[ED]
+             Sugoroku[ED]
+
+　　　どのゲームであそぶ！[BR]
+        Which game will you play?[BR]
+　　　　　だいふごう[ED]
+              Daifugo[ED]
+
+　　　どのゲームであそぶ！[BR]
+        Which game will you play?[BR]
+　　　　　　こらムズ[ED]
+              Columnz[ED]
+
+($FD)[ED]
+($FD)[ED]
+
+たからくじカードをてにいれた。[ED]
+You get the Lottery Card.[ED]
+
+アネックズカードを　すてた。[ED]
+You discard the Anex Card.[ED]
+
+ほけんカードを　すてた。[ED]
+You discard the Insurance Card.[ED]
+
+ふくしゅうカードを　すてた。[ED]
+You discard the Revenge Card.[ED]
+
+せいきゅうカードを　すてた。[ED]
+You discard the Billing Card.[ED]
+
+じしんカードを　すてた。[ED]
+You discard the Earthquake Card.[ED]
+
+ワープカードを　すてた。[ED]
+You discard the Warp Card.[ED]
+
+ばくだんカードを　すてた。[ED]
+You discard the Bomb Card.[ED]
+
+かめカードを　すてた。[ED]
+You discard the Turtle Card.[ED]
+
+たからくじカードを　すてた。[ED]
+You discard the Lottery Card.[ED]
+
+ふくしゅうカードをつかった。[BR]
+You use the Revenge Card.[BR]
+($F7)($F8)($F9)($FA)($FB)を１０コマもどした。[ED]
+You send ($F7)($F8)($F9)($FA)($FB) back 10 spaces.[ED]
+
+なにも　おきなかった。[ED]
+Nothing happens.[ED]
+
+　　　　やったー！！！[BR]
+            Hurray!!![BR]
+　　　　だいしょうり！[ED]
+          A great victory![ED]
+
+ＳＴＯＰ！けっこん。みんなから[BR]
+STOP! Marriage. Everyone gives you[BR]
+おいわい　３００Ｇずつもらう。[ED]
+300G as a wedding gift.[ED]
+
+[ED]
+[ED]
+
+　クニちゃんの　だいしょうり！[BR]
+  A great victory for Kuni-chan![BR]
+　まちのみんなも　おおよろこび[ED]
+  Everyone in town is overjoyed.[ED]
+
+　まじょの　だいしょうり！！！[BR]
+  A great victory for the witch!!![BR]
+　まちのみんなも　おおよろこび[ED]
+  Everyone in town is overjoyed.[ED]
+
+　やった！　つぎは　レベル２に[BR]
+  You did it! Now challenge[BR]
+　　　　チャレンジよ！[ED]
+          Level 2![ED]
+
+　やった！　つぎは　レベル３に[BR]
+  You did it! Now challenge[BR]
+　　　　チャレンジよ！[ED]
+          Level 3![ED]
+
+　やった！　つぎは　レベル４に[BR]
+  You did it! Now challenge[BR]
+　　　　チャレンジよ！[ED]
+          Level 4![ED]
+
+　　ついに　すべてクリアー！[BR]
+      At last, you cleared it all![BR]
+　　　　　おめでとう！！！[ED]
+            Congratulations!!![ED]
+
+　　　レベル１　クリア！！[BR]
+        Level 1 Clear!![BR]
+　　　レベル２を　めざせ！　　　[ED]
+        Aim for Level 2!       [ED]
+
+　　　レベル２　クリア！！[BR]
+        Level 2 Clear!![BR]
+　　　　　まだまだ！　　　　　　[ED]
+            A ways to go!             [ED]
+
+　　　レベル３　クリア！！[BR]
+        Level 3 Clear!![BR]
+　　　　　やるじゃん！　　　　　[ED]
+             Not bad!             [ED]
+
+　　　レベル４　クリア！！[BR]
+        Level 4 Clear!![BR]
+　レベル５には　なにか　あるぞ！[ED]
+  Something awaits you at Level 5![ED]
+
+　　　レベル５　クリア！！[ED]
+        Level 5 Clear!![ED]
+
+　　　　たーまやー！！！[ED]
+           Well done!!![ED]
+
+　　　　　しゅつえん[BR]
+              Starring[BR]
+　　　　　クニちゃん[ED]
+              Kuni-chan[ED]
+
+　　　　　　スタッフ[ED]
+                Staff[ED]
+
+　　　　かんがえた　ひと[BR]
+             Conceived by[BR]
+　　　　　よしおさん[ED]
+              Yoshio-san[ED]
+
+　　　　　ＡＳＯさん[ED]
+              ASO-san[ED]
+
+　　いろいろと　てつだったひと[BR]
+       Lots of Help From[BR]
+　　　　　らいちゃん[ED]
+              Rai-chan[ED]
+
+　　　　　ごうさん[BR]
+              Gou-san[BR]
+　　　　　みのるさん[ED]
+              Minoru-san[ED]
+
+　　　　　　ポロくん[ED]
+               Poro-kun[ED]
+
+　　　　えを　かいたひと[BR]
+              Art by[BR]
+　　　　　　ゲンさん[ED]
+               Gen-san[ED]
+
+　　　　　ちょうこさん[BR]
+              Chouko-san[BR]
+　　　　　　ながたさん[ED]
+              Nagata-san[ED]
+
+　　　　プログラムしたひと[BR]
+           Programming by[BR]
+　　　　　こうへいくん[ED]
+              Kouhei-kun[ED]
+
+　　　りょうくんの　パパ[ED]
+          Ryou-kun's Papa[ED]
+
+　　おんがくを　つくったひと[BR]
+              Music by[BR]
+　　　　　たーにゃさん[ED]
+              Tanya-san[ED]
+
+　　　　　きょうりょく[BR]
+            Cooperation[BR]
+　　　おおたプロダクション[ED]
+         Ohta Production[ED]
+
+　　　ぷれぜんてっど　ばい[BR]
+            Presented by[BR]
+　　　　　　　せ　が[ED]
+                 Sega[ED]
+
+　　　　お　し　ま　い[ED]
+              The End[ED]
+
