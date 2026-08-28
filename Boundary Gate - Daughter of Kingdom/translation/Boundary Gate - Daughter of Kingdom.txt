@@ -427,447 +427,444 @@ Labyrinth Underground 4th Floor
 Labyrinth Underground 5th Floor
 
 ;瞳の迷宮 地下１階  
-
+Eye's Labyrinth Underground 1st Floor  
 
 ;瞳の迷宮 地下２階  
-
+Eye's Labyrinth Underground 2nd Floor  
 
 ;瞳の迷宮 地下３階  
-
+Eye's Labyrinth Underground 3rd Floor  
 
 ;瞳の迷宮 地下４階  
-
+Eye's Labyrinth Underground 4th Floor  
 
 ;瞳の迷宮 地下５階  
-
+Eye's Labyrinth Underground 5th Floor  
 
 ;紋章の迷宮最下層　　
-
+Emblem Labyrinth Lowest Level
 
 ;ワイズブルーム　　　
-
+Wise Broom
 
 ;知識聖堂　　　　　　
-
+Church of Knowledge
 
 ;地下水道 
-
+Underground Sewer 
 
 ;大聖堂　　　　　　　
-
+Cathedral
 
 ;最後の迷宮　地下１階
-
+Final Labyrinth Underground 1st Floor
 
 ;最後の迷宮　地下２階
-
+Final Labyrinth Underground 2nd Floor
 
 ;最後の迷宮　地下３階
-
+Final Labyrinth Underground 3rd Floor
 
 ;最後の迷宮　地下４階
-
+Final Labyrinth Underground 4th Floor
 
 ;最後の迷宮　地下５階
-
+Final Labyrinth Underground 5th Floor
 
 ;プロローグ　　　　　
-
+Prologue
 
 ;武具屋 
-
+Arms Shop 
 
 ;治療院 
-
+Clinic 
 
 ;鍛冶屋 
-
+Blacksmith 
 
 ;道具屋 
-
+Item Shop 
 
 ;東地区　丘の上の邸宅
-
+East District Mansion on the Hill
 
 ;東地区　地下室　　廃
-
+East District Basement
 
 ;マイヨールの船　　　
-
+Mayol's Ship
 
 ;怪我人のバラックＣ　
-
+Patient Barracks C
 
 ;鍛冶屋 廃
-
+Blacksmith - Abandoned
 
 ;ズ周辺地図  
-
+Zu Area Map
 
 ;老婆のバラック　　　
-
+Old Woman's Shack
 
 ;怪我人のバラックＡ　
-
+Patient Barracks A
 
 ;怪我人のバラックＢ　
-
+Patient Barracks B
 
 ;リオの家　　　　　　
-
+Rio's House
 
 ;ロードダールの宿屋　
-
+Lordhaal Inn
 
 ;鉱山事務所　　　　　
-
+Mine Office
 
 ;ロードダール 酒場  
-
+Lordhaal Bar
 
 ;グリソムの家　　　　
-
+Grissom's House
 
 ;坑夫達の家Ａ　　　　
-
+Miners' Houses A
 
 ;武具屋 
-
+Arms Shop 
 
 ;道具屋 
-
+Item Shop
 
 ;治療所 
-
+Clinic 
 
 ;奥の部屋
-
+Back Room
 
 ;連絡所 
-
+Liaison Office 
 
 ;武具屋 廃
-
+Arms Shop - Abandoned
 
 ;道具屋 廃
-
+Item Shop - Abandoned
 
 ;治療所 廃
-
+Clinic - Abandoned
 
 ;港町トーナム 酒場  
-
+Port City Tohnum - Bar
 
 ;港町トーナム 宿屋  
-
+Port City Tohnum - Inn
 
 ;港町トーナム　道具屋
-
+Port City Tohnum - Item Shop
 
 ;港町トーナム　武器屋
-
+Port City Tohnum - Weaponsmith
 
 ;倉庫の中Ａ　　　　　
-
+Storeroom Interior A
 
 ;１番奥の倉庫　　　　
-
+The Furthest Storeroom
 
 ;西地区軍の連絡所　廃
-
+Western Military District's Liaison Office - Abandoned
 
 ;道具屋　
-
+Item Shop
 
 ;宿屋　　
-
+Inn
 
 ;港街トーナム治療院廃
-
+Port City Tohnum Clinic - Abandoned
 
 ;坑夫廃家 
-
+Deserted Miner House
 
 ;北地区夜宿屋の部屋廃
-
+North District Overnight Lodge Room - Abandoned
 
 ;坑夫達の家Ｂ　　　　
-
+Miners' House B
 
 ;坑夫達の家Ｃ　　　　
-
+Miners' House C
 
 ;坑夫達の家Ｄ　　　　
-
+Miners' House D
 
 ;紋章の迷宮の地図　　
-
+Emblem Labyrinth Map
 
 ;ダミールーム　　　　
-
+Dummy Room
 
 ;武器屋　　　　　　　
-
+Weaponsmith
 
 ;アイテムショップ　　
-
+Item Shop
 
 ;治療聖堂　　　　　　
-
+Healing Chapel
 
 ;治療院　　　　　　　
-
+Clinic
 
 ;図書室Ａ　　　　　　
-
+Library Room A
 
 ;図書室Ｂ　　　　　　
-
+Library Room B
 
 ;賢者達の部屋　　　　
-
+The Sages' Room
 
 ;オープニング　　　　
-
+opening
 
 ;があらわれた！
-
+ appeared!
 
 ;逃げられない
-
+can't get away
 
 ;を倒した
-
+ was defeated
 
 ;パーティーは全滅した
-
+the party was wiped out
 
 ;は逃げ出した
-
+ ran away
 
 ;は去っていった
-
+ left
 
 ;が足りません
-
+ is not enough
 
 ;よろしいですか？
-
+Is this okay?
 
 ;どうしますか？
-
+What will you do?
 
 ;回復した
-
+ was recovered
 
 ;は死神にとりつかれた
-
+ fell victim to the Grim Reaper
 
 ;は沈黙させられた
-
+was silenced
 
 ;は眠らされた
-
+was put to sleep
 
 ;は目が覚めた
-
+woke up
 
 ;のダメージ
-
+'s damage
 
 ;は防御した
-
+defended
 
 ;はかわした
-
+dodged
 
 ;には効果はなかった
-
+had no effect
 
 ;には何もおきなかった
-
+nothing happened to it
 
 ;は眠っている
-
+is asleep
 
 ;は沈黙している
+is asleep
 
-
-;壊れて^N�
-
-
-;なってしまった
-
+;壊れてなってしまった
+ broke down
 
 ;は気絶した
-
+ passed out
 
 ;は毒をうけた
-
+ was poisoned
 
 ;は目が覚めた
-
+ woke up
 
 ;攻撃した
-
+attacked
 
 ;のダメージ
-
+'s damage
 
 ;は防御した
-
+defended
 
 ;はかわした
-
+dodged
 
 ;には効果はなかった
-
+had no effect on
 
 ;には何もおきなかった
-
+nothing happened to
 
 ;を唱えた
-
+acquired
 
 ;を使った
-
+used
 
 ;　　　　　　　　　になった
-
+         became
 
 ;はレベル
-
-
-;になった
-
+ level
 
 ;になった
-
+became
 
 ;になった
+became
 
+;になった
+became
 
 ;を覚えた
-
+learned
 
 ;の経験値を得た
-
+'s experience went up
 
 ;Ｇを得た
-
+G acquired
 
 ;を手に入れた
-
+acquired
 
 ;パーティーは復活した
-
+the party was revived
 
 ;は眠らされている
-
+ are put to sleep
 
 ;を唱えようとしたが封じられている
-
+ tried to cast but they are sealed
 
 ;を使おうとしたが無かった
-
+ tried to use it but there are none
 
 ;の効果で
-
+'s effect 
 
 ;上がった
-
+went up
 
 ;は毒のため
-
+due to poison
 
 ;下がった
-
+went down
 
 ;バックアップ用メモリの
 ;アクセスに失敗しました
-
+Backup memory access failed.
 
 ;バックアップ用メモリが
 ;初期化されていません
-
+Backup memory has not been formatted.
 
 ;バックアップ領域が確保
 ;できませんでした
-
+Unable to allocate backup space.
 
 ;バックアップ領域が0つ分
 ;しか確保できませんでした
-
+Only 0 backup space able to be allocated.
 
 ;注意！！
-
+Warning!
 
 ;このままでは冒険の記録が
 ;正常にできません
-
+At this rate you cannot record your adventure.
 
 ;どちらにバックアップしますか？
-
+Where would you like to back up to?
 
 ;本体メモリ
-
+System memory
 
 ;外部メモリ
-
+External memory
 
 ;ムスタｰト
-
+(?) start
 
 ;最初か
-
+Beginning
 
 ;続きか
-
+Continue
 
 ;を押してください
-
+ please press
 
 ;冒険の始まり　　　　
-
+The start of the adventure
 
 ;Ｕｎｋｎｏｗｎ　　　
-
+Unknown
 
 ;冒険の記録X
-
+Adventure record X
 
 ;未定義
-
+Undefined
 
 ;ショートソード　　
-
+Short Sword
 
 ;ロングソード　　　
-
+Long Sword
 
 ;ハンドアクス　　　
-
+Hand Axe
 
 ;バトルアクス　　　
-
+Battle Axe
 
 ;グレートアクス　　
-
+Great Axe
 
 ;レイピア　　　　　
-
+Rapier
 
 ;ショートソードⅠ　
-
+Short Sword I
 
 ;ショートソードⅡ　
-
+Short Sword I
 
 ;ショートソードⅢ　
-
+Short Sword I
 
 ;ショートソードⅤ　
-
+Short Sword V
 
 ;ロングソードⅠ　　
 
