@@ -1802,138 +1802,183 @@ Magic Stone Flame LII Effect
 
 [C00407]
 ;魔石　電撃∟Ⅱ効果
+Magic Stone Electric Shock LII Effect
 
 [C00408]
 ;巻物　　　睡眠効果
+Scroll Sleep Effect
 
 [C00409]
 ;巻物　　　沈黙効果
+Scroll Silence Effect
 
 [C00410]
 ;巻物　火炎∟Ⅱ効果
+Scroll Flame LII Effect
 
 [C00411]
 ;巻物　電撃∟Ⅱ効果
+Scroll Electric Shock LII Effect
 
 [C00412]
 ;巻物　　　迷宮脱出
+Scroll Dungeon Escape
 
 [C00413]
 ;リオにもらった偽物
+The fake I got from Rio 
 
 [C00414]
 ;アモーク要塞のカギ
+Amoch Fortress' Key
 
 [C00415]
 ;戦斧　　　 110-1
+Battle Axe 110-1
 
 [C00416]
 ;魔杖　　　  50-4
+Magic Wand 50-4
 
 [C00417]
 ;長槍　　　  60-3
+Long Spear 60-3
 
 [C00418]
 ;長剣　　　  80-2
+Long Sword 80-2
 
 [C00419]
 ;戦斧　　　  64-1
+Battle Axe 64-1
 
 [C00420]
 ;硬棒　　　  32-2
+Rod 32-2
 
 [C00421]
 ;巻物　復活∟Ⅱ効果
+Scroll Revive LII Effect
 
 [C00422]
 ;硬棒　　　  60-2
+Rod 60-2
 
 [C00423]
 ;巻物　　　状態回復
+Scroll Restores Health
 
 [C00424]
 ;巻物　復活∟Ⅰ効果
+Scroll Revive LI Effect
 
 [C00425]
 ;ボーンファイア　　
+Bonfire
 
 [C00426]
 ;ファイアストーム　
+Fire Storm
 
 [C00427]
 ;ヘルファイア　　　
+Hellfire
 
 [C00428]
 ;ライトニング　　　
+Lightning
 
 [C00429]
 ;スパークボール　　
+Spark Ball
 
 [C00430]
 ;バジェラ　　　　　
+Bajera
 
 [C00431]
 ;エクスプロージョン
+Explosion
 
 [C00432]
 ;メガボンバー　　　
+Mega-bomber
 
 [C00433]
 ;ゲライノ　　　　　
+Geraino
 
 [C00434]
 ;ヒールシャワー　　
+Heal Shower
 
 [C00435]
 ;ヒールスコール　　
+Heal Squall
 
 [C00436]
 ;ヒールオール　　　
+Heal All
 
 [C00437]
 ;ヘブンズヒール　　
+Heaven's Heal
 
 [C00438]
 ;リバイブ　　　　　
+Revive
 
 [C00439]
 ;アンチドーテ　　　
+Antidote
 
 [C00440]
 ;リカバリー　　　　
+Recovery
 
 [C00441]
 ;チャージライズ　　
+Charge Rise
 
 [C00442] [CHECK SOURCE]
 ;デフライ\xee84'
+Defly \xee84'
 
 [C00443]
 ;アスリープ　　　　
+Asleep
 
 [C00444]
 ;サイレント　　　　
+Silent
 
 [C00445]
 ;テレポート　　　　
+Teleport
 
 [C00446]
 ;ディスチャージ　　
+Discharge
 
 [C00447]
 ;火炎∟Ⅰ　 15- 3
+Flame LI 15- 3
 
 [C00448]
 ;火炎∟Ⅱ　 35- 5
+Flame LII 35- 5
 
 [C00449]
 ;火炎∟Ⅲ　 70- 8
+Flame LIII 70- 8
 
 [C00450]
 ;電撃∟Ⅰ　 20- 4
+Electric Shock LI 20- 4
 
 [C00451]
 ;電撃∟Ⅱ　 45- 7
+Electric Shock LII 45- 7
 
 [C00452]
 ;電撃∟Ⅲ　 80-12
@@ -3110,12 +3155,17 @@ They'll treat any kind of injury."
 
 [C01438]
 ;通行人Ｂ^M
+Passerby B^M
 
 [C01439]
+[C01439]
 ;「王国の娘 キラル様は^M　美しい黒髪の娘です^P^H
+"The Daughter of the Kingdom, Lady Chiral,^M is a beautiful, black-haired girl.^P^H
 
 [C01440]
+[C01440]
 ;　私の子供が助かったのも^M　キラル様のおかげです」^P
+And it's thanks to her^M that my child was saved."^P
 
 [C01441]
 ;通行人Ｃ^M
